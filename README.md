@@ -14,3 +14,4 @@
 | [Lv1. 같은 숫자는 싫어](https://programmers.co.kr/learn/courses/30/lessons/12906) | [py](programmers/Lv1/Lv1_같은_숫자는_싫어.py)| 
 | [Lv1. 크레인 인형뽑기 게임](https://programmers.co.kr/learn/courses/30/lessons/64061?language=python3) | [py](programmers/Lv1/Lv1_크레인_인형뽑기_게임.py)| 
 | [Lv2. 기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586) | [py](programmers/Lv2/Lv2_기능개발.py)| 
+| [Lv2. 스킬트리](https://programmers.co.kr/learn/courses/30/lessons/49993) | [py](programmers/Lv2/Lv2_스킬트리.py)| 
