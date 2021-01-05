@@ -3,7 +3,7 @@ def solution(priorities, location):
     q = [[idx, i] for i, idx in enumerate(priorities)]
     # print(q)
     while True:
-        if q[0][0] == max(q, key=lambda x: x[0])[0]:
+        if q[0][0] == max(q)[0]:
             answer += 1
 
             if q[0][1] == location:
