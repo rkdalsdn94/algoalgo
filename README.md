@@ -8,6 +8,7 @@
 | [Z - 1074](https://www.acmicpc.net/problem/1074) | [py](baekjoon/baekjoon_1074.py)| 
 | [0 만들기 - 7490](https://www.acmicpc.net/problem/7490) | [py](baekjoon/baekjoon_7490.py)| 
 | [수 정렬하기 2 - 2751](https://www.acmicpc.net/problem/2751) | [py](baekjoon/수_정렬하기_2_2751.py)| 
+| [K번째 수 - 11004](https://www.acmicpc.net/problem/11004) | [py](baekjoon/K번째_수_11004.py)| 
 ## 프로그래머스
 | 문제 | 코드 |
 | :-------------: |:-------------:|
