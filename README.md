@@ -7,6 +7,7 @@
 | [피보나치 수 - 2747](https://www.acmicpc.net/problem/2747) | [py](baekjoon/baekjoon_2747.py)| 
 | [Z - 1074](https://www.acmicpc.net/problem/1074) | [py](baekjoon/baekjoon_1074.py)| 
 | [0 만들기 - 7490](https://www.acmicpc.net/problem/7490) | [py](baekjoon/baekjoon_7490.py)| 
+| [수 정렬하기 2 - 2751](https://www.acmicpc.net/problem/2751) | [py](baekjoon/수_정렬하기_2_2751.py)| 
 ## 프로그래머스
 | 문제 | 코드 |
 | :-------------: |:-------------:|
