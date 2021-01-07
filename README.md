@@ -11,6 +11,7 @@
 | [K번째 수 - 11004](https://www.acmicpc.net/problem/11004) | [py](baekjoon/K번째_수_11004.py)| 
 | [문서검색 - 1543](https://www.acmicpc.net/problem/1543) | [py](baekjoon/문서_검색_1543.py)| 
 | [새 - 1568](https://www.acmicpc.net/problem/1543) | [py](baekjoon/새_1568.py)| 
+| [베스트셀러 - 1302](https://www.acmicpc.net/problem/1302) | [py](baekjoon/베스트셀러_1302.py)| 
 ## 프로그래머스
 | 문제 | 코드 |
 | :-------------: |:-------------:|
