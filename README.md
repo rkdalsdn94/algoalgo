@@ -12,6 +12,7 @@
 | [문서검색 - 1543](https://www.acmicpc.net/problem/1543) | [py](baekjoon/문서_검색_1543.py)| 
 | [새 - 1568](https://www.acmicpc.net/problem/1543) | [py](baekjoon/새_1568.py)| 
 | [베스트셀러 - 1302](https://www.acmicpc.net/problem/1302) | [py](baekjoon/베스트셀러_1302.py)| 
+| [트로피 진열 - 1668](https://www.acmicpc.net/problem/1668) | [py](baekjoon/트로피_진열_1668.py)| 
 ## 프로그래머스
 | 문제 | 코드 |
 | :-------------: |:-------------:|
