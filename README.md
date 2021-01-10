@@ -14,6 +14,7 @@
 | [베스트셀러 - 1302](https://www.acmicpc.net/problem/1302) | [py](baekjoon/베스트셀러_1302.py)| 
 | [트로피 진열 - 1668](https://www.acmicpc.net/problem/1668) | [py](baekjoon/트로피_진열_1668.py)| 
 | [성 지키기 - 1236](https://www.acmicpc.net/problem/1236) | [py](baekjoon/성_지키기_1236.py)| 
+| [공유기 설치 - 2110](https://www.acmicpc.net/problem/2110) | [py](baekjoon/공유기_설치_2110.py)| 
 ## 프로그래머스
 | 문제 | 코드 |
 | :-------------: |:-------------:|
