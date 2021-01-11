@@ -15,6 +15,7 @@
 | [트로피 진열 - 1668](https://www.acmicpc.net/problem/1668) | [py](baekjoon/트로피_진열_1668.py)| 
 | [성 지키기 - 1236](https://www.acmicpc.net/problem/1236) | [py](baekjoon/성_지키기_1236.py)| 
 | [공유기 설치 - 2110](https://www.acmicpc.net/problem/2110) | [py](baekjoon/공유기_설치_2110.py)| 
+| [중량제한 - 1939](https://www.acmicpc.net/problem/1939) | [py](baekjoon/중량제한_1939.py)| 
 ## 프로그래머스
 | 문제 | 코드 |
 | :-------------: |:-------------:|
