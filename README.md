@@ -33,3 +33,4 @@
 | [Lv2. 다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583) | [py](programmers/Lv2/Lv2_다리를_지나는_트럭.py)| 
 | [Lv2. 124 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899) | [py](programmers/Lv2/Lv2_124_나라의_숫자.py)| 
 | [Lv2. 문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057) | [py](programmers/Lv2/Lv2_문자열_압축.py)| 
+| [Lv2. 큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883) | [py](programmers/Lv2/Lv2_큰_수_만들기.py)| 
