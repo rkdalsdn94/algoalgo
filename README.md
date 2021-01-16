@@ -38,3 +38,4 @@
 | [Lv2. H-index](https://programmers.co.kr/learn/courses/30/lessons/42747) | [py](programmers/Lv2/Lv2_H-index.py)|
 | [Lv2. 전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577) | [py](programmers/Lv2/Lv2_전화번호_목록.py)|
 | [Lv2. 구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885) | [py](programmers/Lv2/Lv2_구명보트.py)|
+| [Lv2. 괄호 변환](https://programmers.co.kr/learn/courses/30/lessons/60058) | [py](programmers/Lv2/Lv2_괄호_변환.py)|
