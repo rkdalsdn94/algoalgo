@@ -37,3 +37,4 @@
 | [Lv2. 큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883) | [py](programmers/Lv2/Lv2_큰_수_만들기.py)| 
 | [Lv2. H-index](https://programmers.co.kr/learn/courses/30/lessons/42747) | [py](programmers/Lv2/Lv2_H-index.py)|
 | [Lv2. 전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577) | [py](programmers/Lv2/Lv2_전화번호_목록.py)|
+| [Lv2. 구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885) | [py](programmers/Lv2/Lv2_구명보트.py)|
