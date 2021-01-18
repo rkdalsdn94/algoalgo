@@ -40,3 +40,4 @@
 | [Lv2. 구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885) | [py](programmers/Lv2/Lv2_구명보트.py)|
 | [Lv2. 괄호 변환](https://programmers.co.kr/learn/courses/30/lessons/60058) | [py](programmers/Lv2/Lv2_괄호_변환.py)|
 | [Lv2. 가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746) | [py](programmers/Lv2/Lv2_가장_큰_수.py)|
+| [Lv2. 영어 끝말잇기](https://programmers.co.kr/learn/courses/30/lessons/12981) | [py](programmers/Lv2/Lv2_영어_끝말잇기.py)|
