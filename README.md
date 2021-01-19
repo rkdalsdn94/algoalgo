@@ -41,3 +41,4 @@
 | [Lv2. 괄호 변환](https://programmers.co.kr/learn/courses/30/lessons/60058) | [py](programmers/Lv2/Lv2_괄호_변환.py)|
 | [Lv2. 가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746) | [py](programmers/Lv2/Lv2_가장_큰_수.py)|
 | [Lv2. 영어 끝말잇기](https://programmers.co.kr/learn/courses/30/lessons/12981) | [py](programmers/Lv2/Lv2_영어_끝말잇기.py)|
+| [Lv2. JadenCase 문자열 만들기](https://programmers.co.kr/learn/courses/30/lessons/12951) | [py](programmers/Lv2/JadenCase_문자열_만들기.py)|
