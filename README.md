@@ -43,3 +43,4 @@
 | [Lv2. 영어 끝말잇기](https://programmers.co.kr/learn/courses/30/lessons/12981) | [py](programmers/Lv2/Lv2_영어_끝말잇기.py)|
 | [Lv2. JadenCase 문자열 만들기](https://programmers.co.kr/learn/courses/30/lessons/12951) | [py](programmers/Lv2/JadenCase_문자열_만들기.py)|
 | [Lv2. 더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626) | [py](programmers/Lv2/Lv2_더_맵게.py)|
+| [Lv2. 소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839) | [py](programmers/Lv2/Lv2_소수_찾기.py)|
