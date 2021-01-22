@@ -27,6 +27,7 @@
 | [Lv1. 문자열 내 p와 y의 개수](https://programmers.co.kr/learn/courses/30/lessons/12916) | [py](programmers/Lv1/Lv1_문자열_내_p와_y의_개수.py)| 
 | [Lv1. 문자열 다루기 기본](https://programmers.co.kr/learn/courses/30/lessons/12918) | [py](programmers/Lv1/Lv1_문자열_다루기_기본.py)| 
 | [Lv1. 서울에서 김서방 찾기](https://programmers.co.kr/learn/courses/30/lessons/12919) | [py](programmers/Lv1/Lv1_서울에서_김서방_찾기.py)| 
+| [Lv1. 문자열 내 마음대로 정렬하기](https://programmers.co.kr/learn/courses/30/lessons/12915) | [py](programmers/Lv1/Lv1_문자열_내_마음대로_정렬하기.py)| 
 | [Lv1. 두 정수 사이의 합](https://programmers.co.kr/learn/courses/30/lessons/12912) | [py](programmers/Lv1/Lv1_두_정수_사이의_합.py)| 
 | [Lv2. 기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586) | [py](programmers/Lv2/Lv2_기능개발.py)| 
 | [Lv2. 스킬트리](https://programmers.co.kr/learn/courses/30/lessons/49993) | [py](programmers/Lv2/Lv2_스킬트리.py)| 
