@@ -1,0 +1,18 @@
+from math import gcd
+
+
+def solution(arr):
+    answer = 0
+
+    def lcm(x, y):
+        return x * y // gcd(x, y)
+
+    while 1:
+        arr.append(lcm(arr.pop(), arr.pop()))
+
+        if len(arr) == 1:
+            return arr[0]
+
+
+print(solution([2, 6, 8, 14]))  # 168
+print(solution([1, 2, 3]))  # 6
