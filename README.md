@@ -47,3 +47,4 @@
 | [Lv2. 소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839) | [py](programmers/Lv2/Lv2_소수_찾기.py)|
 | [Lv3. 베스트앨범](https://programmers.co.kr/learn/courses/30/lessons/42579) | [py](programmers/Lv3/Lv3_베스트앨범.py)|
 | [Lv2. N개의 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12953) | [py](programmers/Lv2/Lv2_N개의_최소공배수.py)|
+| [Lv1. 행렬의 덧셈](https://programmers.co.kr/learn/courses/30/lessons/12950) | [py](programmers/Lv1/Lv1_행렬의_덧셈.py)|
