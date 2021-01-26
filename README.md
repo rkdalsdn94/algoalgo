@@ -49,3 +49,4 @@
 | [Lv2. N개의 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12953) | [py](programmers/Lv2/Lv2_N개의_최소공배수.py)|
 | [Lv1. 행렬의 덧셈](https://programmers.co.kr/learn/courses/30/lessons/12950) | [py](programmers/Lv1/Lv1_행렬의_덧셈.py)|
 | [Lv2. 폰켓몬](https://programmers.co.kr/learn/courses/30/lessons/1845) | [py](programmers/Lv2/Lv2_폰켓몬.py)|
+| [Lv2. 짝지어 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12973) | [py](programmers/Lv2/Lv2_짝지어_제거하기.py)|
