@@ -40,6 +40,7 @@ Lv1
 | [Lv1. 소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/12921) | [py](programmers/Lv1/Lv1_소수_찾기.py)| 
 | [Lv1. 평균 구하기](https://programmers.co.kr/learn/courses/30/lessons/12944) | [py](programmers/Lv1/Lv1_평균_구하기.py)| 
 | [Lv1. 정수 내림차순으로 배치하기](https://programmers.co.kr/learn/courses/30/lessons/12933) | [py](programmers/Lv1/Lv1_정수_내림차순으로_배치하기.py)| 
+| [Lv1. 짝수와 홀수](https://programmers.co.kr/learn/courses/30/lessons/12937) | [py](programmers/Lv1/Lv1_짝수와_홀수.py)| 
 
 #
  Lv2 
