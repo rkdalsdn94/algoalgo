@@ -37,6 +37,7 @@ Lv1
 | [Lv1. 수박수박수박수박수박수?](https://programmers.co.kr/learn/courses/30/lessons/12922) | [py](programmers/Lv1/Lv1_수박수박수박수박수박수?.py)| 
 | [Lv1. 문자열을 정수로 바꾸기](https://programmers.co.kr/learn/courses/30/lessons/12925) | [py](programmers/Lv1/Lv1_문자열을_정수로_바꾸기.py)| 
 | [Lv1. 내적](https://programmers.co.kr/learn/courses/30/lessons/70128) | [py](programmers/Lv1/Lv1_내적.py)| 
+| [Lv1. 소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/12921) | [py](programmers/Lv1/Lv1_소수_찾기.py)| 
 
 #
  Lv2 
