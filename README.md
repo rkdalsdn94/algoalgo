@@ -34,6 +34,7 @@ Lv1
 | [Lv1. 두 정수 사이의 합](https://programmers.co.kr/learn/courses/30/lessons/12912) | [py](programmers/Lv1/Lv1_두_정수_사이의_합.py)| 
 | [Lv1. 3진법 뒤집기](https://programmers.co.kr/learn/courses/30/lessons/68935) | [py](programmers/Lv1/Lv1_3진법_뒤집기.py)| 
 | [Lv1. 정수 제곱근 판별](https://programmers.co.kr/learn/courses/30/lessons/12934) | [py](programmers/Lv1/Lv1_정수_제곱근_판별.py)| 
+| [Lv1. 수박수박수박수박수박수?](https://programmers.co.kr/learn/courses/30/lessons/12922) | [py](programmers/Lv1/Lv1_수박수박수박수박수박수?.py)| 
 
 #
  Lv2 
