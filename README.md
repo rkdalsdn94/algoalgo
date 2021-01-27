@@ -18,6 +18,9 @@
 | [중량제한 - 1939](https://www.acmicpc.net/problem/1939) | [py](baekjoon/중량제한_1939.py)| 
 | [쇠 막대기 - 10799](https://www.acmicpc.net/problem/10799) | [py](baekjoon/쇠_막대기_10799.py)| 
 ## 프로그래머스
+#
+Lv1
+
 | 문제 | 코드 |
 | :-------------: |:-------------:|
 | [Lv1. 가운데 글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903?language=python3) | [py](programmers/Lv1/Lv1_가운데_글자_가져오기.py)| 
@@ -29,6 +32,12 @@
 | [Lv1. 서울에서 김서방 찾기](https://programmers.co.kr/learn/courses/30/lessons/12919) | [py](programmers/Lv1/Lv1_서울에서_김서방_찾기.py)| 
 | [Lv1. 문자열 내 마음대로 정렬하기](https://programmers.co.kr/learn/courses/30/lessons/12915) | [py](programmers/Lv1/Lv1_문자열_내_마음대로_정렬하기.py)| 
 | [Lv1. 두 정수 사이의 합](https://programmers.co.kr/learn/courses/30/lessons/12912) | [py](programmers/Lv1/Lv1_두_정수_사이의_합.py)| 
+| [Lv1. 3진법 뒤집기](https://programmers.co.kr/learn/courses/30/lessons/68935) | [py](programmers/Lv1/Lv1_3진법_뒤집기.py)| 
+
+#
+ Lv2 
+| 문제 | 코드 |
+| :-------------: |:-------------:|
 | [Lv2. 기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586) | [py](programmers/Lv2/Lv2_기능개발.py)| 
 | [Lv2. 스킬트리](https://programmers.co.kr/learn/courses/30/lessons/49993) | [py](programmers/Lv2/Lv2_스킬트리.py)| 
 | [Lv2. 프린터](https://programmers.co.kr/learn/courses/30/lessons/42587) | [py](programmers/Lv2/Lv2_프린터.py)| 
@@ -45,8 +54,12 @@
 | [Lv2. JadenCase 문자열 만들기](https://programmers.co.kr/learn/courses/30/lessons/12951) | [py](programmers/Lv2/JadenCase_문자열_만들기.py)|
 | [Lv2. 더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626) | [py](programmers/Lv2/Lv2_더_맵게.py)|
 | [Lv2. 소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839) | [py](programmers/Lv2/Lv2_소수_찾기.py)|
-| [Lv3. 베스트앨범](https://programmers.co.kr/learn/courses/30/lessons/42579) | [py](programmers/Lv3/Lv3_베스트앨범.py)|
 | [Lv2. N개의 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12953) | [py](programmers/Lv2/Lv2_N개의_최소공배수.py)|
 | [Lv1. 행렬의 덧셈](https://programmers.co.kr/learn/courses/30/lessons/12950) | [py](programmers/Lv1/Lv1_행렬의_덧셈.py)|
 | [Lv2. 폰켓몬](https://programmers.co.kr/learn/courses/30/lessons/1845) | [py](programmers/Lv2/Lv2_폰켓몬.py)|
 | [Lv2. 짝지어 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12973) | [py](programmers/Lv2/Lv2_짝지어_제거하기.py)|
+#
+Lv3 
+| 문제 | 코드 |
+| :-------------: |:-------------:|
+| [Lv3. 베스트앨범](https://programmers.co.kr/learn/courses/30/lessons/42579) | [py](programmers/Lv3/Lv3_베스트앨범.py)|
