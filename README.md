@@ -33,6 +33,7 @@ Lv1
 | [Lv1. 문자열 내 마음대로 정렬하기](https://programmers.co.kr/learn/courses/30/lessons/12915) | [py](programmers/Lv1/Lv1_문자열_내_마음대로_정렬하기.py)| 
 | [Lv1. 두 정수 사이의 합](https://programmers.co.kr/learn/courses/30/lessons/12912) | [py](programmers/Lv1/Lv1_두_정수_사이의_합.py)| 
 | [Lv1. 3진법 뒤집기](https://programmers.co.kr/learn/courses/30/lessons/68935) | [py](programmers/Lv1/Lv1_3진법_뒤집기.py)| 
+| [Lv1. 정수 제곱근 판별](https://programmers.co.kr/learn/courses/30/lessons/12934) | [py](programmers/Lv1/Lv1_정수_제곱근_판별.py)| 
 
 #
  Lv2 
