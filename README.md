@@ -31,6 +31,7 @@ Lv1
 | [Lv1. 문자열 다루기 기본](https://programmers.co.kr/learn/courses/30/lessons/12918) | [py](programmers/Lv1/Lv1_문자열_다루기_기본.py)| 
 | [Lv1. 서울에서 김서방 찾기](https://programmers.co.kr/learn/courses/30/lessons/12919) | [py](programmers/Lv1/Lv1_서울에서_김서방_찾기.py)| 
 | [Lv1. 문자열 내 마음대로 정렬하기](https://programmers.co.kr/learn/courses/30/lessons/12915) | [py](programmers/Lv1/Lv1_문자열_내_마음대로_정렬하기.py)| 
+| [Lv1. 행렬의 덧셈](https://programmers.co.kr/learn/courses/30/lessons/12950) | [py](programmers/Lv1/Lv1_행렬의_덧셈.py)|
 | [Lv1. 두 정수 사이의 합](https://programmers.co.kr/learn/courses/30/lessons/12912) | [py](programmers/Lv1/Lv1_두_정수_사이의_합.py)| 
 | [Lv1. 3진법 뒤집기](https://programmers.co.kr/learn/courses/30/lessons/68935) | [py](programmers/Lv1/Lv1_3진법_뒤집기.py)| 
 | [Lv1. 정수 제곱근 판별](https://programmers.co.kr/learn/courses/30/lessons/12934) | [py](programmers/Lv1/Lv1_정수_제곱근_판별.py)| 
@@ -64,9 +65,9 @@ Lv1
 | [Lv2. 더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626) | [py](programmers/Lv2/Lv2_더_맵게.py)|
 | [Lv2. 소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839) | [py](programmers/Lv2/Lv2_소수_찾기.py)|
 | [Lv2. N개의 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12953) | [py](programmers/Lv2/Lv2_N개의_최소공배수.py)|
-| [Lv1. 행렬의 덧셈](https://programmers.co.kr/learn/courses/30/lessons/12950) | [py](programmers/Lv1/Lv1_행렬의_덧셈.py)|
 | [Lv2. 폰켓몬](https://programmers.co.kr/learn/courses/30/lessons/1845) | [py](programmers/Lv2/Lv2_폰켓몬.py)|
 | [Lv2. 짝지어 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12973) | [py](programmers/Lv2/Lv2_짝지어_제거하기.py)|
+| [Lv2. 카펫](https://programmers.co.kr/learn/courses/30/lessons/42842) | [py](programmers/Lv2/Lv2_카펫.py)|
 #
 Lv3 
 | 문제 | 코드 |
