@@ -68,6 +68,7 @@ Lv1
 | [Lv2. 폰켓몬](https://programmers.co.kr/learn/courses/30/lessons/1845) | [py](programmers/Lv2/Lv2_폰켓몬.py)|
 | [Lv2. 짝지어 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12973) | [py](programmers/Lv2/Lv2_짝지어_제거하기.py)|
 | [Lv2. 카펫](https://programmers.co.kr/learn/courses/30/lessons/42842) | [py](programmers/Lv2/Lv2_카펫.py)|
+| [Lv2. 다음 큰 숫자](https://programmers.co.kr/learn/courses/30/lessons/12911) | [py](programmers/Lv2/Lv2_다음_큰_숫자.py)|
 #
 Lv3 
 | 문제 | 코드 |
