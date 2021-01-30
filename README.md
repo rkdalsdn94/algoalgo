@@ -71,6 +71,7 @@ Lv1
 | [Lv2. 카펫](https://programmers.co.kr/learn/courses/30/lessons/42842) | [py](programmers/Lv2/Lv2_카펫.py)|
 | [Lv2. 다음 큰 숫자](https://programmers.co.kr/learn/courses/30/lessons/12911) | [py](programmers/Lv2/Lv2_다음_큰_숫자.py)|
 | [Lv2. 숫자의 표현](https://programmers.co.kr/learn/courses/30/lessons/12924?language=python3) | [py](programmers/Lv2/Lv2_숫자의_표현.py)|
+| [Lv2. 이진 변환 반복하기](https://programmers.co.kr/learn/courses/30/lessons/70129) | [py](programmers/Lv2/Lv2_이진_변환_반복하기.py)|
 #
 Lv3 
 | 문제 | 코드 |
