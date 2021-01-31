@@ -72,6 +72,7 @@ Lv1
 | [Lv2. 다음 큰 숫자](https://programmers.co.kr/learn/courses/30/lessons/12911) | [py](programmers/Lv2/Lv2_다음_큰_숫자.py)|
 | [Lv2. 숫자의 표현](https://programmers.co.kr/learn/courses/30/lessons/12924?language=python3) | [py](programmers/Lv2/Lv2_숫자의_표현.py)|
 | [Lv2. 이진 변환 반복하기](https://programmers.co.kr/learn/courses/30/lessons/70129) | [py](programmers/Lv2/Lv2_이진_변환_반복하기.py)|
+| [Lv2. 시저 암호](https://programmers.co.kr/learn/courses/30/lessons/12926) | [py](programmers/Lv2/Lv2_시저_암호.py)|
 #
 Lv3 
 | 문제 | 코드 |
