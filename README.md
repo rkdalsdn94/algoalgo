@@ -45,6 +45,7 @@ Lv1
 | [Lv1. x만큼 간격이 있는 n개의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12954) | [py](programmers/Lv1/Lv1_x만큼_간격이_있는_n개의_숫자.py)|
 | [Lv1. 신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410) | [py](programmers/Lv1/Lv1_신규_아이디_추천.py)|
 | [Lv1. 시저 암호](https://programmers.co.kr/learn/courses/30/lessons/12926) | [py](programmers/Lv1/Lv1_시저_암호.py)|
+| [Lv1. 약수의 합](https://programmers.co.kr/learn/courses/30/lessons/12928) | [py](programmers/Lv1/Lv1_약수의_합.py)|
 #
  Lv2 
 | 문제 | 코드 |
