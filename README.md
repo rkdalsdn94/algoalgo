@@ -75,6 +75,7 @@ Lv1
 | [Lv2. 숫자의 표현](https://programmers.co.kr/learn/courses/30/lessons/12924?language=python3) | [py](programmers/Lv2/Lv2_숫자의_표현.py)|
 | [Lv2. 이진 변환 반복하기](https://programmers.co.kr/learn/courses/30/lessons/70129) | [py](programmers/Lv2/Lv2_이진_변환_반복하기.py)|
 | [Lv2. 올바른 괄호](https://programmers.co.kr/learn/courses/30/lessons/12909) | [py](programmers/Lv2/Lv2_올바른_괄호.py)|
+| [Lv2. 피보나치 수](https://programmers.co.kr/learn/courses/30/lessons/12945) | [py](programmers/Lv2/Lv2_피보나치_수.py)|
 
 #
 Lv3 
