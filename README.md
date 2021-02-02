@@ -47,6 +47,7 @@ Lv1
 | [Lv1. 신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410) | [py](programmers/Lv1/Lv1_신규_아이디_추천.py)|
 | [Lv1. 시저 암호](https://programmers.co.kr/learn/courses/30/lessons/12926) | [py](programmers/Lv1/Lv1_시저_암호.py)|
 | [Lv1. 약수의 합](https://programmers.co.kr/learn/courses/30/lessons/12928) | [py](programmers/Lv1/Lv1_약수의_합.py)|
+| [Lv1. 이상한 문자 만들기](https://programmers.co.kr/learn/courses/30/lessons/12930) | [py](programmers/Lv1/Lv1_이상한_문자_만들기.py)|
 #
  Lv2 
 | 문제 | 코드 |
