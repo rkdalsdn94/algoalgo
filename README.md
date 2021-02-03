@@ -20,6 +20,7 @@
 | [DFS와 BFS - 1260](https://www.acmicpc.net/problem/1260) | [py](baekjoon/DFS와_BFS_1260.py)| 
 | [트리 순회 - 1991](https://www.acmicpc.net/problem/1991) | [py](baekjoon/트리_순회_1991.py)| 
 | [그림 - 1926](https://www.acmicpc.net/problem/1926) | [py](baekjoon/그림_1926.py)| 
+| [미로탐색 - 2178](https://www.acmicpc.net/problem/2178) | [py](baekjoon/미로탐색_2178.py)| 
 ## 프로그래머스
 #
 Lv1
