@@ -22,6 +22,7 @@
 | [그림 - 1926](https://www.acmicpc.net/problem/1926) | [py](baekjoon/그림_1926.py)| 
 | [미로탐색 - 2178](https://www.acmicpc.net/problem/2178) | [py](baekjoon/미로탐색_2178.py)| 
 | [토마토 - 7576](https://www.acmicpc.net/problem/7576) | [py](baekjoon/토마토_7576.py)| 
+| [숨바꼭질 - 1697](https://www.acmicpc.net/problem/1697) | [py](baekjoon/숨바꼭질_1697.py)| 
 ## 프로그래머스
 #
 Lv1
