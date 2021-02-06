@@ -84,6 +84,7 @@ Lv1
 | [Lv2. 올바른 괄호](https://programmers.co.kr/learn/courses/30/lessons/12909) | [py](programmers/Lv2/Lv2_올바른_괄호.py)|
 | [Lv2. 피보나치 수](https://programmers.co.kr/learn/courses/30/lessons/12945) | [py](programmers/Lv2/Lv2_피보나치_수.py)|
 | [Lv2. 타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165) | [py](programmers/Lv2/Lv2_타겟_넘버.py)|
+| [Lv2. 최솟값 만들기](https://programmers.co.kr/learn/courses/30/lessons/12941) | [py](programmers/Lv2/Lv2_최솟값_만들기.py)|
 
 #
 Lv3 
