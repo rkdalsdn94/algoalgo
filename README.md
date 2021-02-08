@@ -88,9 +88,10 @@ Lv1
 | [Lv2. 최솟값 만들기](https://programmers.co.kr/learn/courses/30/lessons/12941) | [py](programmers/Lv2/Lv2_최솟값_만들기.py)|
 | [Lv2. 점프와 순간 이동](https://programmers.co.kr/learn/courses/30/lessons/12980) | [py](programmers/Lv2/Lv2_점프와_순간_이동.py)|
 | [Lv2. 땅따먹기](https://programmers.co.kr/learn/courses/30/lessons/12913) | [py](programmers/Lv2/Lv2_땅따먹기.py)|
+| [Lv2. [1차] 캐시](https://programmers.co.kr/learn/courses/30/lessons/12913) | [py](programmers/Lv2/Lv2_[1차]_캐시.py)|
 
 #
 Lv3 
 | 문제 | 코드 |
 | :-------------: |:-------------:|
-| [Lv3. 베스트앨범](https://programmers.co.kr/learn/courses/30/lessons/42579) | [py](programmers/Lv3/Lv3_베스트앨범.py)|
+| [Lv3. 베스트앨범](https://programmers.co.kr/learn/courses/30/lessons/17680) | [py](programmers/Lv3/Lv3_베스트앨범.py)|
