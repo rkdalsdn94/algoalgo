@@ -24,6 +24,7 @@
 | [토마토 - 7576](https://www.acmicpc.net/problem/7576) | [py](baekjoon/토마토_7576.py)| 
 | [숨바꼭질 - 1697](https://www.acmicpc.net/problem/1697) | [py](baekjoon/숨바꼭질_1697.py)| 
 | [곱셈 - 1629](https://www.acmicpc.net/problem/1629) | [py](baekjoon/곱셈_1629.py)| 
+| [01타일 - 1904](https://www.acmicpc.net/problem/1904) | [py](baekjoon/01타일_1904.py)| 
 ## 프로그래머스
 #
 Lv1
