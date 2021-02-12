@@ -93,6 +93,7 @@ Lv1
 | [Lv2. [1차] 캐시](https://programmers.co.kr/learn/courses/30/lessons/12913) | [py](programmers/Lv2/Lv2_[1차]_캐시.py)|
 | [Lv2. 소수 만들기](https://programmers.co.kr/learn/courses/30/lessons/12977) | [py](programmers/Lv2/Lv2_소수_만들기.py)|
 | [Lv2. 삼각 달팽이](https://programmers.co.kr/learn/courses/30/lessons/68645) | [py](programmers/Lv2/Lv2_삼각_달팽이.py)|
+| [Lv2. 행렬의 곱셈](https://programmers.co.kr/learn/courses/30/lessons/12949?language=python3) | [py](programmers/Lv2/Lv2_행렬의_곱셈.py)|
 
 #
 Lv3 
