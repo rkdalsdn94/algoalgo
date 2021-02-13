@@ -25,6 +25,7 @@
 | [숨바꼭질 - 1697](https://www.acmicpc.net/problem/1697) | [py](baekjoon/숨바꼭질_1697.py)| 
 | [곱셈 - 1629](https://www.acmicpc.net/problem/1629) | [py](baekjoon/곱셈_1629.py)| 
 | [01타일 - 1904](https://www.acmicpc.net/problem/1904) | [py](baekjoon/01타일_1904.py)| 
+| [N과 M (1) - 15649](https://www.acmicpc.net/problem/15649) | [py](baekjoon/N과_M_(1)_15649.py)| 
 ## 프로그래머스
 #
 Lv1
