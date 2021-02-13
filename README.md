@@ -57,6 +57,7 @@ Lv1
 | [Lv1. 이상한 문자 만들기](https://programmers.co.kr/learn/courses/30/lessons/12930) | [py](programmers/Lv1/Lv1_이상한_문자_만들기.py)|
 | [Lv1. 모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840) | [py](programmers/Lv1/Lv1_모의고사.py)|
 | [Lv1. 자릿수 더하기](https://programmers.co.kr/learn/courses/30/lessons/12931) | [py](programmers/Lv1/Lv1_자릿수_더하기.py)|
+| [Lv1. 자연수 뒤집어 배열로 만들기](https://programmers.co.kr/learn/courses/30/lessons/12932) | [py](programmers/Lv1/Lv1_자연수_뒤집어_배열로_만들기.py)|
 #
  Lv2 
 | 문제 | 코드 |
