@@ -62,6 +62,7 @@ Lv1
 | [Lv1. [카카오 인턴] 키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256) | [py](programmers/Lv1/Lv1_[카카오_인턴]_키패드_누르기.py)|
 | [Lv1. 최대공약수와 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12940) | [py](programmers/Lv1/Lv1_최대공약수와_최소공배수.py)|
 | [Lv1. 콜라츠 추측](https://programmers.co.kr/learn/courses/30/lessons/12943) | [py](programmers/Lv1/Lv1_콜라츠_추측.py)|
+| [Lv1. 하샤드 수](https://programmers.co.kr/learn/courses/30/lessons/12947) | [py](programmers/Lv1/Lv1_하샤드_수.py)|
 #
  Lv2 
 | 문제 | 코드 |
