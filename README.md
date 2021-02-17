@@ -101,6 +101,7 @@ Lv1
 | [Lv2. 삼각 달팽이](https://programmers.co.kr/learn/courses/30/lessons/68645) | [py](programmers/Lv2/Lv2_삼각_달팽이.py)|
 | [Lv2. 행렬의 곱셈](https://programmers.co.kr/learn/courses/30/lessons/12949?language=python3) | [py](programmers/Lv2/Lv2_행렬의_곱셈.py)|
 | [Lv2. 가장 큰 정사각형 찾기](https://programmers.co.kr/learn/courses/30/lessons/12905) | [py](programmers/Lv2/Lv2_가장_큰_정사각형_찾기.py)|
+| [Lv2. [카카오 인턴] 수식 최대화](https://programmers.co.kr/learn/courses/30/lessons/67257) | [py](programmers/Lv2/Lv2_[카카오_인턴]_수식_최대화.py)|
 
 #
 Lv3 
