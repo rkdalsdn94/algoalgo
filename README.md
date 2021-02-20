@@ -66,6 +66,7 @@ Lv1
 | [Lv1. 실패율](https://programmers.co.kr/learn/courses/30/lessons/42889) | [py](programmers/Lv1/Lv1_실패율.py)|
 | [Lv1. 핸드폰 번호 가리기](https://programmers.co.kr/learn/courses/30/lessons/12948) | [py](programmers/Lv1/Lv1_핸드폰_번호_가리기.py)|
 | [Lv1. 직사각형 별찍기](https://programmers.co.kr/learn/courses/30/lessons/12969) | [py](programmers/Lv1/Lv1_직사각형_별찍기.py)|
+| [Lv1. [1차] 비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681) | [py](programmers/Lv1/Lv1_[1차]_비밀지도.py)|
 #
  Lv2 
 | 문제 | 코드 |
