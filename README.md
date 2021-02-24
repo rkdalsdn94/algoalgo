@@ -27,6 +27,7 @@
 | [01타일 - 1904](https://www.acmicpc.net/problem/1904) | [py](baekjoon/01타일_1904.py)| 
 | [N과 M (1) - 15649](https://www.acmicpc.net/problem/15649) | [py](baekjoon/N과_M_(1)_15649.py)| 
 | [N-Queen - 9663](https://www.acmicpc.net/problem/9663) | [py](baekjoon/N-Queen_9663.py)| 
+| [부분수열의 합 - 1182](https://www.acmicpc.net/problem/1182) | [py](baekjoon/부분수열의_합_1182.py)| 
 ## 프로그래머스
 #
 Lv1
