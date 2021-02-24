@@ -28,6 +28,7 @@
 | [N과 M (1) - 15649](https://www.acmicpc.net/problem/15649) | [py](baekjoon/N과_M_(1)_15649.py)| 
 | [N-Queen - 9663](https://www.acmicpc.net/problem/9663) | [py](baekjoon/N-Queen_9663.py)| 
 | [부분수열의 합 - 1182](https://www.acmicpc.net/problem/1182) | [py](baekjoon/부분수열의_합_1182.py)| 
+| [설탕 배달 - 2839](https://www.acmicpc.net/problem/2839) | [py](baekjoon/설탕_배달_2839.py)| 
 ## 프로그래머스
 #
 Lv1
