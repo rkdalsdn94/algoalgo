@@ -31,6 +31,7 @@
 | [설탕 배달 - 2839](https://www.acmicpc.net/problem/2839) | [py](baekjoon/설탕_배달_2839.py)| 
 | [ATM - 11399](https://www.acmicpc.net/problem/11399) | [py](baekjoon/ATM_11399.py)| 
 | [동전 0 - 11047](https://www.acmicpc.net/problem/11047) | [py](baekjoon/동전_0_11047.py)| 
+| [회의실 배정 - 1931](https://www.acmicpc.net/problem/1931) | [py](baekjoon/회의실_배정_1931.py)| 
 ## 프로그래머스
 #
 Lv1
