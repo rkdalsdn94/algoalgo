@@ -33,6 +33,7 @@
 | [동전 0 - 11047](https://www.acmicpc.net/problem/11047) | [py](baekjoon/동전_0_11047.py)| 
 | [회의실 배정 - 1931](https://www.acmicpc.net/problem/1931) | [py](baekjoon/회의실_배정_1931.py)| 
 | [거스름돈 - 5585](https://www.acmicpc.net/problem/5585) | [py](baekjoon/거스름돈_5585.py)| 
+| [잃어버린 괄호 - 1541](https://www.acmicpc.net/problem/1541) | [py](baekjoon/잃어버린_괄호_1541.py)| 
 ## 프로그래머스
 #
 Lv1
