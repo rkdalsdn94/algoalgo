@@ -39,6 +39,7 @@
 | [주유소 - 13305](https://www.acmicpc.net/problem/13305) | [py](baekjoon/주유소_13305.py)| 
 | [저울 - 2437](https://www.acmicpc.net/problem/2437) | [py](baekjoon/저울_2437.py)| 
 | [뒤집기 - 1439](https://www.acmicpc.net/problem/1439) | [py](baekjoon/뒤집기_1439.py)| 
+| [크게 만들기 - 2812](https://www.acmicpc.net/problem/2812) | [py](baekjoon/크게_만들기_2812.py)| 
 ## 프로그래머스
 #
 Lv1
