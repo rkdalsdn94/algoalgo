@@ -43,6 +43,7 @@
 | [유기농 배추 - 1012](https://www.acmicpc.net/problem/1012) | [py](baekjoon/유기농_배추_1012.py)| 
 | [게임을 만든 동준이 - 2847](https://www.acmicpc.net/problem/2847) | [py](baekjoon/게임을_만든_동준이_2847.py)| 
 | [빵집 - 3109](https://www.acmicpc.net/problem/3109) | [py](baekjoon/빵집_3109.py)| 
+| [세탁소 사장 동혁 - 2720](https://www.acmicpc.net/problem/2720) | [py](baekjoon/세탁소_사장_동혁_2720.py)| 
 ## 프로그래머스
 #
 Lv1
