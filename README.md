@@ -49,6 +49,7 @@
 | [안전 영역 - 2468](https://www.acmicpc.net/problem/2468) | [py](baekjoon/안전_영역_2468.py)| 
 | [수 정렬하기 - 2750](https://www.acmicpc.net/problem/2750) | [py](baekjoon/수_정렬하기_2750.py)| 
 | [적록색약 - 10026](https://www.acmicpc.net/problem/10026) | [py](baekjoon/적록색약_10026.py)| 
+| [단어 정렬 - 1181](https://www.acmicpc.net/problem/1181) | [py](baekjoon/단어_정렬_1181.py)| 
 ## 프로그래머스
 #
 Lv1
