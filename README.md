@@ -50,6 +50,7 @@
 | [수 정렬하기 - 2750](https://www.acmicpc.net/problem/2750) | [py](baekjoon/수_정렬하기_2750.py)| 
 | [적록색약 - 10026](https://www.acmicpc.net/problem/10026) | [py](baekjoon/적록색약_10026.py)| 
 | [단어 정렬 - 1181](https://www.acmicpc.net/problem/1181) | [py](baekjoon/단어_정렬_1181.py)| 
+| [단지번호붙이기 - 2667](https://www.acmicpc.net/problem/2667) | [py](baekjoon/단지번호붙이기_2667.py)| 
 ## 프로그래머스
 #
 Lv1
