@@ -4,9 +4,9 @@
 ## 백준
 | 문제 | 코드 |
 | :-------------: |:-------------:|
-| [피보나치 수 - 2747](https://www.acmicpc.net/problem/2747) | [py](baekjoon/baekjoon_2747.py)| 
-| [Z - 1074](https://www.acmicpc.net/problem/1074) | [py](baekjoon/baekjoon_1074.py)| 
-| [0 만들기 - 7490](https://www.acmicpc.net/problem/7490) | [py](baekjoon/baekjoon_7490.py)| 
+| [피보나치 수 - 2747](https://www.acmicpc.net/problem/2747) | [py](baekjoon/피보나치_수_2747.py)| 
+| [Z - 1074](https://www.acmicpc.net/problem/1074) | [py](baekjoon/Z_1074.py)| 
+| [0 만들기 - 7490](https://www.acmicpc.net/problem/7490) | [py](baekjoon/0_만들기_7490.py)| 
 | [수 정렬하기 2 - 2751](https://www.acmicpc.net/problem/2751) | [py](baekjoon/수_정렬하기_2_2751.py)| 
 | [K번째 수 - 11004](https://www.acmicpc.net/problem/11004) | [py](baekjoon/K번째_수_11004.py)| 
 | [문서검색 - 1543](https://www.acmicpc.net/problem/1543) | [py](baekjoon/문서_검색_1543.py)| 
