@@ -52,6 +52,7 @@
 | [단어 정렬 - 1181](https://www.acmicpc.net/problem/1181) | [py](baekjoon/단어_정렬_1181.py)| 
 | [단지번호붙이기 - 2667](https://www.acmicpc.net/problem/2667) | [py](baekjoon/단지번호붙이기_2667.py)| 
 | [수 찾기 - 1920](https://www.acmicpc.net/problem/1920) | [py](baekjoon/수_찾기_1920.py)| 
+| [랜선 자르기 - 1654](https://www.acmicpc.net/problem/1654) | [py](baekjoon/랜선_자르기_1654.py)| 
 ## 프로그래머스
 #
 Lv1
