@@ -14,7 +14,7 @@ for i in rectangle:
     for j in range(y1, y2):
         for z in range(x1, x2):
             ck[j][z] = 1
-print(ck)
+# print(ck)
 
 def bfs(q):
     cnt = 1
