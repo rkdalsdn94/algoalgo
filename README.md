@@ -55,6 +55,7 @@
 | [랜선 자르기 - 1654](https://www.acmicpc.net/problem/1654) | [py](baekjoon/랜선_자르기_1654.py)| 
 | [영역 구하기 - 2583](https://www.acmicpc.net/problem/2583) | [py](baekjoon/영역_구하기_2583.py)| 
 | [나무 자르기 - 2805](https://www.acmicpc.net/problem/2805) | [py](baekjoon/나무_자르기_2805.py)| 
+| [숫자 카드 2 - 10816](https://www.acmicpc.net/problem/10816) | [py](baekjoon/숫자_카드_2_10816.py)| 
 ## 프로그래머스
 #
 Lv1
