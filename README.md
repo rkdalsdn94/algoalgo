@@ -58,6 +58,7 @@
 | [숫자 카드 2 - 10816](https://www.acmicpc.net/problem/10816) | [py](baekjoon/숫자_카드_2_10816.py)| 
 | [통계학 - 2108](https://www.acmicpc.net/problem/2108) | [py](baekjoon/통계학_2108.py)| 
 | [더하기 사이클 - 1110](https://www.acmicpc.net/problem/1110) | [py](baekjoon/더하기_사이클_1110.py)| 
+| [상근이의 여행 - 9372](https://www.acmicpc.net/problem/9372) | [py](baekjoon/상근이의_여행_9372.py)| 
 ## 프로그래머스
 #
 Lv1
