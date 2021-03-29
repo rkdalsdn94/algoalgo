@@ -61,6 +61,7 @@
 | [상근이의 여행 - 9372](https://www.acmicpc.net/problem/9372) | [py](baekjoon/상근이의_여행_9372.py)| 
 | [K번째 수 - 1300](https://www.acmicpc.net/problem/1300) | [py](baekjoon/K번째_수_1300.py)| 
 | [RGB거리 - 1149](https://www.acmicpc.net/problem/1149) | [py](baekjoon/RGB거리_1149.py)| 
+| [파도반 수열 - 9461](https://www.acmicpc.net/problem/9461) | [py](baekjoon/파도반_수열_9461.py)| 
 ## 프로그래머스
 #
 Lv1
