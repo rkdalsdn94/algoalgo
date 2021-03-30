@@ -62,6 +62,7 @@
 | [K번째 수 - 1300](https://www.acmicpc.net/problem/1300) | [py](baekjoon/K번째_수_1300.py)| 
 | [RGB거리 - 1149](https://www.acmicpc.net/problem/1149) | [py](baekjoon/RGB거리_1149.py)| 
 | [파도반 수열 - 9461](https://www.acmicpc.net/problem/9461) | [py](baekjoon/파도반_수열_9461.py)| 
+| [카드2 - 2164](https://www.acmicpc.net/problem/2164) | [py](baekjoon/카드2_2164.py)| 
 ## 프로그래머스
 #
 Lv1
