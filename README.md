@@ -63,6 +63,7 @@
 | [RGB거리 - 1149](https://www.acmicpc.net/problem/1149) | [py](baekjoon/RGB거리_1149.py)| 
 | [파도반 수열 - 9461](https://www.acmicpc.net/problem/9461) | [py](baekjoon/파도반_수열_9461.py)| 
 | [카드2 - 2164](https://www.acmicpc.net/problem/2164) | [py](baekjoon/카드2_2164.py)| 
+| [수리공 항승 - 1449](https://www.acmicpc.net/problem/1449) | [py](baekjoon/수리공_항승_1449.py)| 
 ## 프로그래머스
 #
 Lv1
