@@ -66,6 +66,7 @@
 | [수리공 항승 - 1449](https://www.acmicpc.net/problem/1449) | [py](baekjoon/수리공_항승_1449.py)| 
 | [풍선 맞추기 - 11509](https://www.acmicpc.net/problem/11509) | [py](baekjoon/풍선_맞추기_11509.py)| 
 | [숫자 카드 - 10815](https://www.acmicpc.net/problem/10815) | [py](baekjoon/숫자_카드_10815.py)| 
+| [1, 2, 3 더하기 - 9095](https://www.acmicpc.net/problem/9095) | [py](baekjoon/1_2_3_더하기_9095.py)| 
 ## 프로그래머스
 #
 Lv1
