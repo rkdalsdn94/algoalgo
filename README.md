@@ -109,6 +109,7 @@ Lv1
 | [Lv1. 직사각형 별찍기](https://programmers.co.kr/learn/courses/30/lessons/12969) | [py](programmers/Lv1/Lv1_직사각형_별찍기.py)|
 | [Lv1. [1차] 비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681) | [py](programmers/Lv1/Lv1_[1차]_비밀지도.py)|
 | [Lv1. [1차] 다트 게임](https://programmers.co.kr/learn/courses/30/lessons/17682) | [py](programmers/Lv1/Lv1_[1차]_다트_게임.py)|
+| [Lv1. 같은 숫자는 싫어](https://programmers.co.kr/learn/courses/30/lessons/12906?language=javascript) | [py](programmers/Lv1/Lv1_같은_숫자는_싫어.js)|
 #
  Lv2 
 | 문제 | 코드 |
