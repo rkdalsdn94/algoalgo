@@ -3,7 +3,7 @@
 
 ## 백준
 | 문제 | 코드 |
-| :-------------: |:-------------:|
+| :-------------: |:-------------:| |:-------------:|
 | [피보나치 수 - 2747](https://www.acmicpc.net/problem/2747) | [py](baekjoon/피보나치_수_2747.py)| 
 | [Z - 1074](https://www.acmicpc.net/problem/1074) | [py](baekjoon/Z_1074.py)| 
 | [0 만들기 - 7490](https://www.acmicpc.net/problem/7490) | [py](baekjoon/0_만들기_7490.py)| 
@@ -72,9 +72,9 @@
 Lv1
 
 | 문제 | 코드 |
-| :-------------: |:-------------:|
+| :-------------: |:-------------:| |:-------------:|
 | [Lv1. 가운데 글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903?language=python3) | [py](programmers/Lv1/Lv1_가운데_글자_가져오기.py)| 
-| [Lv1. 같은 숫자는 싫어](https://programmers.co.kr/learn/courses/30/lessons/12906) | [py](programmers/Lv1/Lv1_같은_숫자는_싫어.py)| 
+| [Lv1. 같은 숫자는 싫어](https://programmers.co.kr/learn/courses/30/lessons/12906) | [py](programmers/Lv1/Lv1_같은_숫자는_싫어.py)| [js](programmers/Lv1/Lv1_같은_숫자는_싫어.js)|
 | [Lv1. 크레인 인형뽑기 게임](https://programmers.co.kr/learn/courses/30/lessons/64061?language=python3) | [py](programmers/Lv1/Lv1_크레인_인형뽑기_게임.py)| 
 | [Lv1. 나누어 떨어지는 숫자 배열](https://programmers.co.kr/learn/courses/30/lessons/12910) | [py](programmers/Lv1/Lv1_나누어_떨어지는_숫자_배열.py)| 
 | [Lv1. 문자열 내 p와 y의 개수](https://programmers.co.kr/learn/courses/30/lessons/12916) | [py](programmers/Lv1/Lv1_문자열_내_p와_y의_개수.py)| 
@@ -109,7 +109,7 @@ Lv1
 | [Lv1. 직사각형 별찍기](https://programmers.co.kr/learn/courses/30/lessons/12969) | [py](programmers/Lv1/Lv1_직사각형_별찍기.py)|
 | [Lv1. [1차] 비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681) | [py](programmers/Lv1/Lv1_[1차]_비밀지도.py)|
 | [Lv1. [1차] 다트 게임](https://programmers.co.kr/learn/courses/30/lessons/17682) | [py](programmers/Lv1/Lv1_[1차]_다트_게임.py)|
-| [Lv1. 같은 숫자는 싫어](https://programmers.co.kr/learn/courses/30/lessons/12906?language=javascript) | [py](programmers/Lv1/Lv1_같은_숫자는_싫어.js)|
+| [Lv1. 폰켓몬](https://programmers.co.kr/learn/courses/30/lessons/1845) | [py](programmers/Lv1/Lv1_폰켓몬.py)| [js](programmers/Lv1/폰켓몬.js)|
 #
  Lv2 
 | 문제 | 코드 |
@@ -131,7 +131,6 @@ Lv1
 | [Lv2. 더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626) | [py](programmers/Lv2/Lv2_더_맵게.py)|
 | [Lv2. 소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839) | [py](programmers/Lv2/Lv2_소수_찾기.py)|
 | [Lv2. N개의 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12953) | [py](programmers/Lv2/Lv2_N개의_최소공배수.py)|
-| [Lv2. 폰켓몬](https://programmers.co.kr/learn/courses/30/lessons/1845) | [py](programmers/Lv2/Lv2_폰켓몬.py)|
 | [Lv2. 짝지어 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12973) | [py](programmers/Lv2/Lv2_짝지어_제거하기.py)|
 | [Lv2. 카펫](https://programmers.co.kr/learn/courses/30/lessons/42842) | [py](programmers/Lv2/Lv2_카펫.py)|
 | [Lv2. 다음 큰 숫자](https://programmers.co.kr/learn/courses/30/lessons/12911) | [py](programmers/Lv2/Lv2_다음_큰_숫자.py)|
@@ -157,6 +156,6 @@ Lv1
 #
 Lv3 
 | 문제 | 코드 |
-| :-------------: |:-------------:|
+| :-------------: |:-------------:| |:-------------:|
 | [Lv3. 베스트앨범](https://programmers.co.kr/learn/courses/30/lessons/17680) | [py](programmers/Lv3/Lv3_베스트앨범.py)|
 | [Lv3. 네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162) | [py](programmers/Lv3/Lv3_네트워크.py)|
