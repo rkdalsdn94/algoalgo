@@ -1,8 +1,8 @@
 # algoalgo
 * 알고리즘 연습
 
-## 백준
-| 문제 | 코드 |
+## 백준 
+| 문제 | 코드 (python) | 코드 (javascript)|
 | :-------------: |:-------------: | :-------------:|
 | [피보나치 수 - 2747](https://www.acmicpc.net/problem/2747) | [py](baekjoon/피보나치_수_2747.py)| 
 | [Z - 1074](https://www.acmicpc.net/problem/1074) | [py](baekjoon/Z_1074.py)| 
@@ -15,9 +15,8 @@
 | [트로피 진열 - 1668](https://www.acmicpc.net/problem/1668) | [py](baekjoon/트로피_진열_1668.py)| 
 | [성 지키기 - 1236](https://www.acmicpc.net/problem/1236) | [py](baekjoon/성_지키기_1236.py)| 
 | [공유기 설치 - 2110](https://www.acmicpc.net/problem/2110) | [py](baekjoon/공유기_설치_2110.py)| 
-| [중량제한 - 1939](https://www.acmicpc.net/problem/1939) | [py](baekjoon/중량제한_1939.py)| 
-| [쇠 막대기 - 10799](https://www.acmicpc.net/problem/10799) | [py](baekjoon/쇠_막대기_10799.py)| 
-| [DFS와 BFS - 1260](https://www.acmicpc.net/problem/1260) | [py](baekjoon/DFS와_BFS_1260.py)| 
+| [중량제한 - 1939](https://www.acmicpc.net/problem/1939) | [py](baekjoon/중량제한_1939.py)| |
+| [쇠 막대기 - 10799](https://www.acmicpc.net/problem/10799) | [py](baekjoon/쇠_막대기_10799.py)| [DFS와 BFS - 1260](https://www.acmicpc.net/problem/1260) | [py](baekjoon/DFS와_BFS_1260.py)| 
 | [트리 순회 - 1991](https://www.acmicpc.net/problem/1991) | [py](baekjoon/트리_순회_1991.py)| 
 | [그림 - 1926](https://www.acmicpc.net/problem/1926) | [py](baekjoon/그림_1926.py)| 
 | [미로탐색 - 2178](https://www.acmicpc.net/problem/2178) | [py](baekjoon/미로탐색_2178.py)| 
@@ -71,7 +70,7 @@
 #
 Lv1
 
-| 문제 | 코드 |
+| 문제 | 코드 (python) | 코드 (javascript)|
 | :-------------: |:-------------: | :-------------:|
 | [Lv1. 가운데 글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903?language=python3) | [py](programmers/Lv1/Lv1_가운데_글자_가져오기.py)| 
 | [Lv1. 같은 숫자는 싫어](https://programmers.co.kr/learn/courses/30/lessons/12906) | [py](programmers/Lv1/Lv1_같은_숫자는_싫어.py)| [js](programmers/Lv1/Lv1_같은_숫자는_싫어.js)|
@@ -109,10 +108,10 @@ Lv1
 | [Lv1. 직사각형 별찍기](https://programmers.co.kr/learn/courses/30/lessons/12969) | [py](programmers/Lv1/Lv1_직사각형_별찍기.py)|
 | [Lv1. [1차] 비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681) | [py](programmers/Lv1/Lv1_[1차]_비밀지도.py)|
 | [Lv1. [1차] 다트 게임](https://programmers.co.kr/learn/courses/30/lessons/17682) | [py](programmers/Lv1/Lv1_[1차]_다트_게임.py)|
-| [Lv1. 폰켓몬](https://programmers.co.kr/learn/courses/30/lessons/1845) | [py](programmers/Lv1/Lv1_폰켓몬.py)| [js](programmers/Lv1/폰켓몬.js)|
+| [Lv1. 폰켓몬](https://programmers.co.kr/learn/courses/30/lessons/1845) | [py](programmers/Lv1/Lv1_폰켓몬.py)| [js](programmers/Lv1/폰켓몬.js)| |
 #
  Lv2 
-| 문제 | 코드 |
+| 문제 | 코드 (python) | 코드 (javascript)|
 | :-------------: |:-------------: | :-------------:|
 | [Lv2. 기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586) | [py](programmers/Lv2/Lv2_기능개발.py)| 
 | [Lv2. 스킬트리](https://programmers.co.kr/learn/courses/30/lessons/49993) | [py](programmers/Lv2/Lv2_스킬트리.py)| 
@@ -155,7 +154,7 @@ Lv1
 
 #
 Lv3 
-| 문제 | 코드 |
+| 문제 | 코드 (python) | 코드 (javascript)|
 | :-------------: |:-------------: | :-------------:|
 | [Lv3. 베스트앨범](https://programmers.co.kr/learn/courses/30/lessons/17680) | [py](programmers/Lv3/Lv3_베스트앨범.py)|
 | [Lv3. 네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162) | [py](programmers/Lv3/Lv3_네트워크.py)|
