@@ -3,7 +3,7 @@
 
 ## 백준
 | 문제 | 코드 |
-| :-------------: |:-------------:| |:-------------:|
+| :-------------: |:-------------: | :-------------:|
 | [피보나치 수 - 2747](https://www.acmicpc.net/problem/2747) | [py](baekjoon/피보나치_수_2747.py)| 
 | [Z - 1074](https://www.acmicpc.net/problem/1074) | [py](baekjoon/Z_1074.py)| 
 | [0 만들기 - 7490](https://www.acmicpc.net/problem/7490) | [py](baekjoon/0_만들기_7490.py)| 
@@ -72,7 +72,7 @@
 Lv1
 
 | 문제 | 코드 |
-| :-------------: |:-------------:| |:-------------:|
+| :-------------: |:-------------: | :-------------:|
 | [Lv1. 가운데 글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903?language=python3) | [py](programmers/Lv1/Lv1_가운데_글자_가져오기.py)| 
 | [Lv1. 같은 숫자는 싫어](https://programmers.co.kr/learn/courses/30/lessons/12906) | [py](programmers/Lv1/Lv1_같은_숫자는_싫어.py)| [js](programmers/Lv1/Lv1_같은_숫자는_싫어.js)|
 | [Lv1. 크레인 인형뽑기 게임](https://programmers.co.kr/learn/courses/30/lessons/64061?language=python3) | [py](programmers/Lv1/Lv1_크레인_인형뽑기_게임.py)| 
@@ -113,7 +113,7 @@ Lv1
 #
  Lv2 
 | 문제 | 코드 |
-| :-------------: |:-------------:|
+| :-------------: |:-------------: | :-------------:|
 | [Lv2. 기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586) | [py](programmers/Lv2/Lv2_기능개발.py)| 
 | [Lv2. 스킬트리](https://programmers.co.kr/learn/courses/30/lessons/49993) | [py](programmers/Lv2/Lv2_스킬트리.py)| 
 | [Lv2. 프린터](https://programmers.co.kr/learn/courses/30/lessons/42587) | [py](programmers/Lv2/Lv2_프린터.py)| 
@@ -156,6 +156,6 @@ Lv1
 #
 Lv3 
 | 문제 | 코드 |
-| :-------------: |:-------------:| |:-------------:|
+| :-------------: |:-------------: | :-------------:|
 | [Lv3. 베스트앨범](https://programmers.co.kr/learn/courses/30/lessons/17680) | [py](programmers/Lv3/Lv3_베스트앨범.py)|
 | [Lv3. 네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162) | [py](programmers/Lv3/Lv3_네트워크.py)|
