@@ -16,7 +16,8 @@
 | [성 지키기 - 1236](https://www.acmicpc.net/problem/1236) | [py](baekjoon/성_지키기_1236.py)| 
 | [공유기 설치 - 2110](https://www.acmicpc.net/problem/2110) | [py](baekjoon/공유기_설치_2110.py)| 
 | [중량제한 - 1939](https://www.acmicpc.net/problem/1939) | [py](baekjoon/중량제한_1939.py)| |
-| [쇠 막대기 - 10799](https://www.acmicpc.net/problem/10799) | [py](baekjoon/쇠_막대기_10799.py)| [DFS와 BFS - 1260](https://www.acmicpc.net/problem/1260) | [py](baekjoon/DFS와_BFS_1260.py)| 
+| [쇠 막대기 - 10799](https://www.acmicpc.net/problem/10799) | [py](baekjoon/쇠_막대기_10799.py)|
+[ [DFS와 BFS - 1260](https://www.acmicpc.net/problem/1260) | [py](baekjoon/DFS와_BFS_1260.py)| 
 | [트리 순회 - 1991](https://www.acmicpc.net/problem/1991) | [py](baekjoon/트리_순회_1991.py)| 
 | [그림 - 1926](https://www.acmicpc.net/problem/1926) | [py](baekjoon/그림_1926.py)| 
 | [미로탐색 - 2178](https://www.acmicpc.net/problem/2178) | [py](baekjoon/미로탐색_2178.py)| 
@@ -66,6 +67,7 @@
 | [풍선 맞추기 - 11509](https://www.acmicpc.net/problem/11509) | [py](baekjoon/풍선_맞추기_11509.py)| 
 | [숫자 카드 - 10815](https://www.acmicpc.net/problem/10815) | [py](baekjoon/숫자_카드_10815.py)| 
 | [1, 2, 3 더하기 - 9095](https://www.acmicpc.net/problem/9095) | [py](baekjoon/1_2_3_더하기_9095.py)| 
+| [수 정렬하기 3 - 10989](https://www.acmicpc.net/problem/10989) | [py](baekjoon/수_정렬하기_3_10989.py)| 
 ## 프로그래머스
 #
 Lv1
