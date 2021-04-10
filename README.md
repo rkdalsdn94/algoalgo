@@ -69,6 +69,7 @@
 | [1, 2, 3 더하기 - 9095](https://www.acmicpc.net/problem/9095) | [py](baekjoon/1_2_3_더하기_9095.py)| 
 | [수 정렬하기 3 - 10989](https://www.acmicpc.net/problem/10989) | [py](baekjoon/수_정렬하기_3_10989.py)| 
 | [전자레인지 - 10162](https://www.acmicpc.net/problem/10162) | [py](baekjoon/전자레인지_10162.py)| 
+| [괄호 - 9012](https://www.acmicpc.net/problem/9012) | [py](baekjoon/괄호_9012.py)| 
 ## 프로그래머스
 #
 Lv1
