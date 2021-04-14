@@ -5,4 +5,5 @@
 ## Bronze 5
 | 문제 | 코드 (python) | 코드 (javascript)|
 | :-------------: |:-------------: | :-------------:|
-| [피보나치 수 - 2747](https://www.acmicpc.net/problem/2747) | [py](baekjoon/피보나치_수_2747.py)| 
+| [엄청난 부자2 - 1271](https://www.acmicpc.net/problem/1271) | [py](bronze_5/엄청난_부자2_1271.py) |
+| [16진수 - 1550](https://www.acmicpc.net/problem/1550) | [py](bronze_5/16진수_1550.py) |
