@@ -8,3 +8,4 @@
 | [엄청난 부자2 - 1271](https://www.acmicpc.net/problem/1271) | [py](bronze_5/엄청난_부자2_1271.py) |
 | [16진수 - 1550](https://www.acmicpc.net/problem/1550) | [py](bronze_5/16진수_1550.py) |
 | [긴자리 계산 - 2338](https://www.acmicpc.net/problem/2338) | [py](bronze_5/긴자리_계산_2338.py) |
+| [검증수 - 2475](https://www.acmicpc.net/problem/2475) | [py](bronze_5/검증수_2475.py) |
