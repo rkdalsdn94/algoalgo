@@ -9,3 +9,8 @@
 | [16진수 - 1550](https://www.acmicpc.net/problem/1550) | [py](bronze_5/16진수_1550.py) |
 | [긴자리 계산 - 2338](https://www.acmicpc.net/problem/2338) | [py](bronze_5/긴자리_계산_2338.py) |
 | [검증수 - 2475](https://www.acmicpc.net/problem/2475) | [py](bronze_5/검증수_2475.py) |
+
+## Bronze 4
+| 문제 | 코드 (python) | 코드 (javascript)|
+| :-------------: |:-------------: | :-------------:|
+| [손익분기점 - 1712](https://www.acmicpc.net/problem/1712) | [py](bronze_5/손익분기점_1712.py) |
