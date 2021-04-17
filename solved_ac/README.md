@@ -14,3 +14,4 @@
 | 문제 | 코드 (python) | 코드 (javascript)|
 | :-------------: |:-------------: | :-------------:|
 | [손익분기점 - 1712](https://www.acmicpc.net/problem/1712) | [py](bronze_5/손익분기점_1712.py) |
+| [사파리월드 - 2420](https://www.acmicpc.net/problem/2420) | [py](bronze_5/사파리월드_2420.py) |
