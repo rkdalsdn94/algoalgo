@@ -13,6 +13,12 @@
 ## Bronze 4
 | 문제 | 코드 (python) | 코드 (javascript)|
 | :-------------: |:-------------: | :-------------:|
-| [손익분기점 - 1712](https://www.acmicpc.net/problem/1712) | [py](bronze_5/손익분기점_1712.py) |
-| [사파리월드 - 2420](https://www.acmicpc.net/problem/2420) | [py](bronze_5/사파리월드_2420.py) |
-| [두 수 비교하기 - 1330](https://www.acmicpc.net/problem/1330) | [py](bronze_5/두_수_비교하기_1330.py) |
+| [손익분기점 - 1712](https://www.acmicpc.net/problem/1712) | [py](bronze_4/손익분기점_1712.py) |
+| [사파리월드 - 2420](https://www.acmicpc.net/problem/2420) | [py](bronze_4/사파리월드_2420.py) |
+| [두 수 비교하기 - 1330](https://www.acmicpc.net/problem/1330) | [py](bronze_4/두_수_비교하기_1330.py) |
+
+
+## Silver 5
+| 문제 | 코드 (python) | 코드 (javascript)|
+| :-------------: |:-------------: | :-------------:|
+| [다리 놓기 - 1010](https://www.acmicpc.net/problem/1010) | [py](Silver_5/다리_놓기_1010.py) |
