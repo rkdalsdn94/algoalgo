@@ -17,6 +17,10 @@
 | [사파리월드 - 2420](https://www.acmicpc.net/problem/2420) | [py](bronze_4/사파리월드_2420.py) |
 | [두 수 비교하기 - 1330](https://www.acmicpc.net/problem/1330) | [py](bronze_4/두_수_비교하기_1330.py) |
 
+## Bronze 2
+| 문제 | 코드 (python) | 코드 (javascript)|
+| :-------------: |:-------------: | :-------------:|
+| [단어의 개수 - 1152](https://www.acmicpc.net/problem/1152) | [py](bronze_2/단어의_개수_1152.py) |
 
 ## Silver 5
 | 문제 | 코드 (python) | 코드 (javascript)|
