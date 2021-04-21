@@ -16,6 +16,7 @@
 | [손익분기점 - 1712](https://www.acmicpc.net/problem/1712) | [py](bronze_4/손익분기점_1712.py) |
 | [사파리월드 - 2420](https://www.acmicpc.net/problem/2420) | [py](bronze_4/사파리월드_2420.py) |
 | [두 수 비교하기 - 1330](https://www.acmicpc.net/problem/1330) | [py](bronze_4/두_수_비교하기_1330.py) |
+| [8진수 2진수 - 1212](https://www.acmicpc.net/problem/1212) | [py](bronze_4/8진수_2진수_1212.py) |
 
 ## Bronze 2
 | 문제 | 코드 (python) | 코드 (javascript)|
