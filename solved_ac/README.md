@@ -22,6 +22,7 @@
 | 문제 | 코드 (python) | 코드 (javascript)|
 | :-------------: |:-------------: | :-------------:|
 | [단어의 개수 - 1152](https://www.acmicpc.net/problem/1152) | [py](bronze_2/단어의_개수_1152.py) |
+| [OX퀴즈 - 8958](https://www.acmicpc.net/problem/8958) | [py](bronze_2/OX퀴즈_8958.py) |
 
 ## Silver 5
 | 문제 | 코드 (python) | 코드 (javascript)|
