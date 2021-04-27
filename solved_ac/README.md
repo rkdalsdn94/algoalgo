@@ -43,6 +43,7 @@
 | 문제 | 코드 (python) | 코드 (javascript)|
 | :-------------: |:-------------: | :-------------:|
 | [조합 - 2407](https://www.acmicpc.net/problem/2407) | [py](Silver_2/조합_2407.py) |
+| [최대 힙 - 11279](https://www.acmicpc.net/problem/11279) | [py](Silver_2/최대_힙_11279.py) |
 
 ## Silver 1
 | 문제 | 코드 (python) | 코드 (javascript)|
