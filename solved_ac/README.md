@@ -28,6 +28,7 @@
 | 문제 | 코드 (python) | 코드 (javascript)|
 | :-------------: |:-------------: | :-------------:|
 | [다리 놓기 - 1010](https://www.acmicpc.net/problem/1010) | [py](Silver_5/다리_놓기_1010.py) |
+| [집합 - 11723](https://www.acmicpc.net/problem/11723) | [py](Silver_5/집합_11723.py) |
 
 ## Silver 4
 | 문제 | 코드 (python) | 코드 (javascript)|
