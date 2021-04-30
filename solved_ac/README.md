@@ -51,3 +51,8 @@
 | 문제 | 코드 (python) | 코드 (javascript)|
 | :-------------: |:-------------: | :-------------:|
 | [최소 힙 - 1927](https://www.acmicpc.net/problem/1927) | [py](Silver_1/최소_힙_1927.py) |
+
+## Gold 2
+| 문제 | 코드 (python) | 코드 (javascript)|
+| :-------------: |:-------------: | :-------------:|
+| [보석 도둑 - 1202](https://www.acmicpc.net/problem/1202) | [py](Gold_2/보석_도둑_1202.py) |
