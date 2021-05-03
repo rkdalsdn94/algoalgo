@@ -53,6 +53,12 @@
 | [최소 힙 - 1927](https://www.acmicpc.net/problem/1927) | [py](Silver_1/최소_힙_1927.py) |
 | [전쟁 - 전투 - 1303](https://www.acmicpc.net/problem/1303) | [py](Silver_1/전쟁_-_전투_1303.py) |
 
+
+## Gold 5
+| 문제 | 코드 (python) | 코드 (javascript)|
+| :-------------: |:-------------: | :-------------:|
+| [Contact - 1013](https://www.acmicpc.net/problem/1013) | [py](Gold_5/Contact_1013.py) |
+
 ## Gold 4
 | 문제 | 코드 (python) | 코드 (javascript)|
 | :-------------: |:-------------: | :-------------:|
