@@ -18,7 +18,7 @@
 | [공유기 설치 - 2110](https://www.acmicpc.net/problem/2110) | [py](baekjoon/공유기_설치_2110.py)| 
 | [중량제한 - 1939](https://www.acmicpc.net/problem/1939) | [py](baekjoon/중량제한_1939.py)| |
 | [쇠 막대기 - 10799](https://www.acmicpc.net/problem/10799) | [py](baekjoon/쇠_막대기_10799.py)|
-[ [DFS와 BFS - 1260](https://www.acmicpc.net/problem/1260) | [py](baekjoon/DFS와_BFS_1260.py)| 
+[ DFS와 BFS - 1260](https://www.acmicpc.net/problem/1260) | [py](baekjoon/DFS와_BFS_1260.py)| 
 | [트리 순회 - 1991](https://www.acmicpc.net/problem/1991) | [py](baekjoon/트리_순회_1991.py)| 
 | [그림 - 1926](https://www.acmicpc.net/problem/1926) | [py](baekjoon/그림_1926.py)| 
 | [미로탐색 - 2178](https://www.acmicpc.net/problem/2178) | [py](baekjoon/미로탐색_2178.py)| 
@@ -165,3 +165,4 @@ Lv3
 | :-------------: |:-------------: | :-------------:|
 | [Lv3. 베스트앨범](https://programmers.co.kr/learn/courses/30/lessons/17680) | [py](programmers/Lv3/Lv3_베스트앨범.py)|
 | [Lv3. 네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162) | [py](programmers/Lv3/Lv3_네트워크.py)|
+| [Lv3. 이중우선순위큐](https://programmers.co.kr/learn/courses/30/lessons/42628) | [py](programmers/Lv3/Lv3_이중우선순위큐.py)|
