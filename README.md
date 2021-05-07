@@ -116,6 +116,7 @@ Lv1
 | [Lv1. [1차] 비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681) | [py](programmers/Lv1/Lv1_[1차]_비밀지도.py)|
 | [Lv1. [1차] 다트 게임](https://programmers.co.kr/learn/courses/30/lessons/17682) | [py](programmers/Lv1/Lv1_[1차]_다트_게임.py)|
 | [Lv1. 폰켓몬](https://programmers.co.kr/learn/courses/30/lessons/1845) | [py](programmers/Lv1/Lv1_폰켓몬.py)| [js](programmers/Lv1/폰켓몬.js)| |
+| [Lv1. 음양 더하기](https://programmers.co.kr/learn/courses/30/lessons/76501) | [py](programmers/Lv1/Lv1_음양_더하기.py) |  |
 #
  Lv2 
 | 문제 | 코드 (python) | 코드 (javascript)|
