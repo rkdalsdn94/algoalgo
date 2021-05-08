@@ -159,6 +159,7 @@ Lv1
 | [Lv2. 최댓값과 최솟값](https://programmers.co.kr/learn/courses/30/lessons/12939) | [py](programmers/Lv2/Lv2_최댓값과_최솟값.py)|
 | [Lv2. 방문 길이](https://programmers.co.kr/learn/courses/30/lessons/49994) | [py](programmers/Lv2/Lv2_방문_길이.py)|
 | [Lv2. 게임 맵 최단거리](https://programmers.co.kr/learn/courses/30/lessons/1844) | [py](programmers/Lv2/Lv2_게임_맵_최단거리.py)|
+| [Lv2. 괄호 회전하기](https://programmers.co.kr/learn/courses/30/lessons/76502) | [py](programmers/Lv2/Lv2_괄호_회전하기.py)|
 
 #
 Lv3 
