@@ -165,6 +165,7 @@ Lv1
 | [Lv2. 게임 맵 최단거리](https://programmers.co.kr/learn/courses/30/lessons/1844) | [py](programmers/Lv2/Lv2_게임_맵_최단거리.py)|
 | [Lv2. 괄호 회전하기](https://programmers.co.kr/learn/courses/30/lessons/76502) | [py](programmers/Lv2/Lv2_괄호_회전하기.py)|
 | [Lv2. 멀쩡한 사각형](https://programmers.co.kr/learn/courses/30/lessons/62048) | [py](programmers/Lv2/Lv2_멀쩡한_사각형.py)|
+| [Lv2. 행렬 테두리 회전하기](https://programmers.co.kr/learn/courses/30/lessons/77485) | [py](programmers/Lv2/Lv2_행렬_테두리_회전하기.py)|
 
 #
 Lv3 
