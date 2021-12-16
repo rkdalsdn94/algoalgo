@@ -73,6 +73,7 @@
 | [괄호 - 9012](https://www.acmicpc.net/problem/9012) | [py](baekjoon/괄호_9012.py)| 
 | [수영장 만들기 - 1113](https://www.acmicpc.net/problem/1113) | [py](baekjoon/수영장_만들기_1113.py)| 
 | [게임 - 1072](https://www.acmicpc.net/problem/1072) | [py](baekjoon/게임_1072.py)| 
+| [정수 N개의 합 - 15596](https://www.acmicpc.net/problem/15596) | [py](baekjoon/정수_N개의_합_15596.py)| 
 ## 프로그래머스
 #
 Lv1
@@ -174,3 +175,4 @@ Lv3
 | [Lv3. 베스트앨범](https://programmers.co.kr/learn/courses/30/lessons/17680) | [py](programmers/Lv3/Lv3_베스트앨범.py)|
 | [Lv3. 네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162) | [py](programmers/Lv3/Lv3_네트워크.py)|
 | [Lv3. 이중우선순위큐](https://programmers.co.kr/learn/courses/30/lessons/42628) | [py](programmers/Lv3/Lv3_이중우선순위큐.py)|
+| [Lv3. 입국심사](https://programmers.co.kr/learn/courses/30/lessons/43238) | [py](programmers/Lv3/Lv3_입국심사.py)|
