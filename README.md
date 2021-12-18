@@ -167,6 +167,7 @@ Lv1
 | [Lv2. 괄호 회전하기](https://programmers.co.kr/learn/courses/30/lessons/76502) | [py](programmers/Lv2/Lv2_괄호_회전하기.py)|
 | [Lv2. 멀쩡한 사각형](https://programmers.co.kr/learn/courses/30/lessons/62048) | [py](programmers/Lv2/Lv2_멀쩡한_사각형.py)|
 | [Lv2. 행렬 테두리 회전하기](https://programmers.co.kr/learn/courses/30/lessons/77485) | [py](programmers/Lv2/Lv2_행렬_테두리_회전하기.py)|
+| [Lv2 [카카오 인턴] 거리두기 확인하기](https://programmers.co.kr/learn/courses/30/lessons/81302) | [py](programmers/Lv2/Lv2_[카카오_인턴]_거리두기_확인하기.py)|
 
 #
 Lv3 
