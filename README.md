@@ -104,7 +104,7 @@ Lv1
 | [Lv1. 시저 암호](https://programmers.co.kr/learn/courses/30/lessons/12926) | [py](programmers/Lv1/Lv1_시저_암호.py)|
 | [Lv1. 약수의 합](https://programmers.co.kr/learn/courses/30/lessons/12928) | [py](programmers/Lv1/Lv1_약수의_합.py)|
 | [Lv1. 이상한 문자 만들기](https://programmers.co.kr/learn/courses/30/lessons/12930) | [py](programmers/Lv1/Lv1_이상한_문자_만들기.py)|
-| [Lv1. 모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840) | [py](programmers/Lv1/Lv1_모의고사.py)|
+| [Lv1. 모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840) | [py](programmers/Lv1/Lv1_모의고사.py)|
 | [Lv1. 자릿수 더하기](https://programmers.co.kr/learn/courses/30/lessons/12931) | [py](programmers/Lv1/Lv1_자릿수_더하기.py)|
 | [Lv1. 자연수 뒤집어 배열로 만들기](https://programmers.co.kr/learn/courses/30/lessons/12932) | [py](programmers/Lv1/Lv1_자연수_뒤집어_배열로_만들기.py)|
 | [Lv1. [카카오 인턴] 키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256) | [py](programmers/Lv1/Lv1_[카카오_인턴]_키패드_누르기.py)|
@@ -123,6 +123,7 @@ Lv1
 | [Lv1. 없는 숫자 더하기](https://programmers.co.kr/learn/courses/30/lessons/86051) | [py](programmers/Lv1/Lv1_없는_숫자_더하기.py) |  |
 | [Lv1. 약수의 개수와 덧셈](https://programmers.co.kr/learn/courses/30/lessons/77884) | [py](programmers/Lv1/Lv1_약수의_개수와_덧셈.py) |  |
 | [Lv1. 최소직사각형](https://programmers.co.kr/learn/courses/30/lessons/86491) | [py](programmers/Lv1/Lv1_최소직사각형.py) |  |
+| [Lv1. 나머지가 1이 되는 수 찾기](https://programmers.co.kr/learn/courses/30/lessons/87389) | [py](programmers/Lv1/Lv1_나머지가_1이_되는_수_찾기.py) |  |
 #
  Lv2 
 | 문제 | 코드 (python) | 코드 (javascript)|
