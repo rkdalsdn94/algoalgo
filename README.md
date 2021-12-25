@@ -172,7 +172,8 @@ Lv1
 | [Lv2. 행렬 테두리 회전하기](https://programmers.co.kr/learn/courses/30/lessons/77485) | [py](programmers/Lv2/Lv2_행렬_테두리_회전하기.py)|
 | [Lv2 [카카오 인턴] 거리두기 확인하기](https://programmers.co.kr/learn/courses/30/lessons/81302) | [py](programmers/Lv2/Lv2_[카카오_인턴]_거리두기_확인하기.py)|
 | [Lv2 메뉴 리뉴얼](https://programmers.co.kr/learn/courses/30/lessons/72411) | [py](programmers/Lv2/Lv2_메뉴_리뉴얼.py)|
-| [Lv2 [1차] 뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677) | [py](programmers/Lv2/Lv2_[1차]_뉴스_클러스터링.py) |
+| [Lv2 [1차] 뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677) | [py](programmers/Lv2/Lv2_[1차]_뉴스_클러스터링.py)|
+| [Lv2 튜플](https://programmers.co.kr/learn/courses/30/lessons/64065) | [py](programmers/Lv2/Lv2_튜플.py)|
 
 #
 Lv3 
