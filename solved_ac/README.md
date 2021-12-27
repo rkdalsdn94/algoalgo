@@ -49,6 +49,7 @@
 | [최대 힙 - 11279](https://www.acmicpc.net/problem/11279) | [py](Silver_2/최대_힙_11279.py) |
 | [연결 요소의 개수 - 11724](https://www.acmicpc.net/problem/11724) | [py](Silver_2/연결_요소의_개수_11724.py) |
 | [접두사 - 1141](https://www.acmicpc.net/problem/1141) | [py](Silver_2/접두사_1141.py) |
+| [행렬 - 1080](https://www.acmicpc.net/problem/1080) | [py](Silver_2/행렬_1080.py) |
 
 ## Silver 1
 | 문제 | 코드 (python) | 코드 (javascript)|
