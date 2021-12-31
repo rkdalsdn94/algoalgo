@@ -86,3 +86,4 @@
 | 문제 | 코드 (python) | 코드 (javascript)|
 | :-------------: |:-------------: | :-------------:|
 | [제곱 ㄴㄴ 수 - 1016](https://www.acmicpc.net/problem/1016) | [py](Gold_1/제곱_ㄴㄴ_수_1016.py) |
+| [책 페이지 - 1019](https://www.acmicpc.net/problem/1019) | [py](Gold_1/책_페이지_1019.py) |
