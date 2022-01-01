@@ -25,6 +25,11 @@
 | [OX퀴즈 - 8958](https://www.acmicpc.net/problem/8958) | [py](bronze_2/OX퀴즈_8958.py) |
 | [포인트 카드 - 14471](https://www.acmicpc.net/problem/14471) | [py](bronze_2/포인트_카드_14471.py) |
 
+## Bronze 1
+| 문제 | 코드 (python) | 코드 (javascript)|
+| :-------------: |:-------------: | :-------------:|
+| [누울 자리를 찾아라 - 1652](https://www.acmicpc.net/problem/1652) | [py](bronze_1/누울_자리를_찾아라_1652.py) |
+
 ## Silver 5
 | 문제 | 코드 (python) | 코드 (javascript)|
 | :-------------: |:-------------: | :-------------:|
