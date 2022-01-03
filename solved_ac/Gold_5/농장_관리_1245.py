@@ -10,15 +10,16 @@ def dfs(a, b):
             if mountain_peaks[nx][ny] > mountain_peaks[a][b]:
                 flag = False
             
-            if not ck[nx][ny] and mountain_peaks[a][b] == mountain_peaks[nx][ny]:
+            if ck[nx][ny] == 0 and mountain_peaks[a][b] == mountain_peaks[nx][ny]:
                 dfs(nx, ny)
 
 def solution():
+    global flag
     res = 0
 
     for i in range(n):
         for j in range(m):
-            if mountain_peaks[i][j] > 0 and not ck[i][j]:
+            if mountain_peaks[i][j] > 0 and ck[i][j] == 0:
                 flag = True
                 dfs(i, j)
 
@@ -30,12 +31,12 @@ def solution():
 # n, m = map(int, input().split())
 # mountain_peaks = [list(map(int, input().split())) for _ in range(n)]
 # ck = [[0] * m for _ in range(n)]
-# print(solution())
+# flag = True
 
 # 테스트
 n, m = 8, 7
 mountain_peaks = [[4, 3, 2, 2, 1, 0, 1], [3, 3, 3, 2, 1, 0, 1], [2, 2, 2, 2, 1, 0, 0], [2, 1, 1, 1, 1, 0, 0], [1, 1, 0, 0, 0, 1, 0], [0, 0, 0, 1, 1, 1, 0], [0, 1, 2, 2, 1, 1, 0], [0, 1, 1, 1, 2, 1, 0]]
 ck = [[0] * m for _ in range(n)]
+flag = True
+
 print(solution())
-
-
