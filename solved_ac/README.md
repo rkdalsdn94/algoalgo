@@ -70,6 +70,7 @@
 | 문제 | 코드 (python) | 코드 (javascript)|
 | :-------------: |:-------------: | :-------------:|
 | [Contact - 1013](https://www.acmicpc.net/problem/1013) | [py](Gold_5/Contact_1013.py) |
+| [농장 관리 - 1245](https://www.acmicpc.net/problem/1245) | [py](Gold_5/농장_관리_1245.py) |
 
 ## Gold 4
 | 문제 | 코드 (python) | 코드 (javascript)|
