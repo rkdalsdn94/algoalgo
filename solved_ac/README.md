@@ -64,6 +64,7 @@
 | [최소 힙 - 1927](https://www.acmicpc.net/problem/1927) | [py](Silver_1/최소_힙_1927.py) |
 | [전쟁 - 전투 - 1303](https://www.acmicpc.net/problem/1303) | [py](Silver_1/전쟁_-_전투_1303.py) |
 | [트리 - 1068](https://www.acmicpc.net/problem/1068) | [py](Silver_1/트리_1068.py) |
+| [효율적인 해킹 - 1325](https://www.acmicpc.net/problem/1325) | [py](Silver_1/효율적인_해킹_1325.py) |
 
 
 ## Gold 5
