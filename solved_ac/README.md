@@ -42,6 +42,7 @@
 | 문제 | 코드 (python) | 코드 (javascript)|
 | :-------------: |:-------------: | :-------------:|
 | [듣보잡 - 1764](https://www.acmicpc.net/problem/1764) | [py](Silver_4/듣보잡_1764.py) |
+| [회전하는 큐 - 1021](https://www.acmicpc.net/problem/1021) | [py](Silver_4/회전하는_큐_1021.py) |
 
 ## Silver 3
 | 문제 | 코드 (python) | 코드 (javascript)|
