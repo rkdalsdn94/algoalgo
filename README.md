@@ -174,6 +174,7 @@ Lv1
 | [Lv2 메뉴 리뉴얼](https://programmers.co.kr/learn/courses/30/lessons/72411) | [py](programmers/Lv2/Lv2_메뉴_리뉴얼.py)|
 | [Lv2 [1차] 뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677) | [py](programmers/Lv2/Lv2_[1차]_뉴스_클러스터링.py)|
 | [Lv2 튜플](https://programmers.co.kr/learn/courses/30/lessons/64065) | [py](programmers/Lv2/Lv2_튜플.py)|
+| [Lv2 배달](https://programmers.co.kr/learn/courses/30/lessons/12978) | [py](programmers/Lv2/Lv2_배달.py)|
 
 #
 Lv3 
