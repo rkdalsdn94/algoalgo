@@ -24,6 +24,7 @@
 | [단어의 개수 - 1152](https://www.acmicpc.net/problem/1152) | [py](bronze_2/단어의_개수_1152.py) |
 | [OX퀴즈 - 8958](https://www.acmicpc.net/problem/8958) | [py](bronze_2/OX퀴즈_8958.py) |
 | [포인트 카드 - 14471](https://www.acmicpc.net/problem/14471) | [py](bronze_2/포인트_카드_14471.py) |
+| [한조서열정리하고옴ㅋㅋ - 14659](https://www.acmicpc.net/problem/14659) | [py](bronze_2/한조서열정리하고옴ㅋㅋ_14659.py) |
 
 ## Bronze 1
 | 문제 | 코드 (python) | 코드 (javascript)|
