@@ -176,7 +176,7 @@ Lv1
 | [Lv2 튜플](https://programmers.co.kr/learn/courses/30/lessons/64065) | [py](programmers/Lv2/Lv2_튜플.py)|
 | [Lv2 배달](https://programmers.co.kr/learn/courses/30/lessons/12978) | [py](programmers/Lv2/Lv2_배달.py)|
 | [Lv2 2개 이하로 다른 비트](https://programmers.co.kr/learn/courses/30/lessons/77885) | [py](programmers/Lv2/Lv2_2개_이하로_다른_비트.py)|
-| [Lv2 빛의 경로 사이클](https://programmers.co.kr/learn/courses/30/lessons/86052) | [py](programmers/Lv2/Lv2_빛의_경로_사이클.py)|
+| [Lv2 빛의 경로 사이클](https://programmers.co.kr/learn/courses/30/lessons/86052) | [py](programmers/Lv2/Lv2_빛의_경로_사이클.py) |
 
 #
 Lv3 
