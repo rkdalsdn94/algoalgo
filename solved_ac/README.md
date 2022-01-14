@@ -32,6 +32,7 @@
 | :-------------: |:-------------: | :-------------:|
 | [누울 자리를 찾아라 - 1652](https://www.acmicpc.net/problem/1652) | [py](bronze_1/누울_자리를_찾아라_1652.py) |
 | [슈퍼 마리오 - 2851](https://www.acmicpc.net/problem/2851) | [py](bronze_1/슈퍼_마리오_2851.py) |
+| [명령 프롬프트 - 1032](https://www.acmicpc.net/problem/1032) | [py](bronze_1/명령_프롬프트_1032.py) |
 
 ## Silver 5
 | 문제 | 코드 (python) | 코드 (javascript)|
