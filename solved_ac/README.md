@@ -34,6 +34,7 @@
 | [슈퍼 마리오 - 2851](https://www.acmicpc.net/problem/2851) | [py](bronze_1/슈퍼_마리오_2851.py) |
 | [명령 프롬프트 - 1032](https://www.acmicpc.net/problem/1032) | [py](bronze_1/명령_프롬프트_1032.py) |
 | [단어 공부 - 1157](https://www.acmicpc.net/problem/1157) | [py](bronze_1/단어_공부_1157.py) |
+| [분수 찾기 - 1193](https://www.acmicpc.net/problem/1193) | [py](bronze_1/분수_찾기_1193.py) |
 
 ## Silver 5
 | 문제 | 코드 (python) | 코드 (javascript)|
