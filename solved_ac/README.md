@@ -36,6 +36,7 @@
 | [단어 공부 - 1157](https://www.acmicpc.net/problem/1157) | [py](bronze_1/단어_공부_1157.py) |
 | [분수 찾기 - 1193](https://www.acmicpc.net/problem/1193) | [py](bronze_1/분수_찾기_1193.py) |
 | [연도 진행바 - 1340](https://www.acmicpc.net/problem/1340) | [py](bronze_1/연도_진행바_1340.py) |
+| [유진수 - 1356](https://www.acmicpc.net/problem/1356) | [py](bronze_1/유진수_1356.py) |
 
 ## Silver 5
 | 문제 | 코드 (python) | 코드 (javascript)|
