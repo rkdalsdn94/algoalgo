@@ -56,6 +56,7 @@
 | :-------------: |:-------------: | :-------------:|
 | [피보나치 함수 - 1003](https://www.acmicpc.net/problem/1003) | [py](Silver_3/피보나치_함수_1003.py) |
 | [시리얼 번호 - 1431](https://www.acmicpc.net/problem/1431) | [py](Silver_3/시리얼_번호_1431.py) |
+| [1로 만들기 - 1463](https://www.acmicpc.net/problem/1463) | [py](Silver_3/1로_만들기_1463.py) |
 
 ## Silver 2
 | 문제 | 코드 (python) | 코드 (javascript)|
