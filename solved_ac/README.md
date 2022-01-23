@@ -68,6 +68,7 @@
 | [접두사 - 1141](https://www.acmicpc.net/problem/1141) | [py](Silver_2/접두사_1141.py) |
 | [행렬 - 1080](https://www.acmicpc.net/problem/1080) | [py](Silver_2/행렬_1080.py) |
 | [한 줄로 서기 - 1138](https://www.acmicpc.net/problem/1138) | [py](Silver_2/한_줄로_서기_1138.py) |
+| [폴짝폴짝 - 1326](https://www.acmicpc.net/problem/1326) | [py](Silver_2/폴짝폴짝_1326.py) |
 
 ## Silver 1
 | 문제 | 코드 (python) | 코드 (javascript)|
