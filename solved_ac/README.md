@@ -58,6 +58,7 @@
 | [피보나치 함수 - 1003](https://www.acmicpc.net/problem/1003) | [py](Silver_3/피보나치_함수_1003.py) |
 | [시리얼 번호 - 1431](https://www.acmicpc.net/problem/1431) | [py](Silver_3/시리얼_번호_1431.py) |
 | [1로 만들기 - 1463](https://www.acmicpc.net/problem/1463) | [py](Silver_3/1로_만들기_1463.py) |
+| [바이러스 - 2606](https://www.acmicpc.net/problem/2606) | [py](Silver_3/바이러스_2606.py) |
 
 ## Silver 2
 | 문제 | 코드 (python) | 코드 (javascript)|
@@ -109,3 +110,4 @@
 | :-------------: |:-------------: | :-------------:|
 | [제곱 ㄴㄴ 수 - 1016](https://www.acmicpc.net/problem/1016) | [py](Gold_1/제곱_ㄴㄴ_수_1016.py) |
 | [책 페이지 - 1019](https://www.acmicpc.net/problem/1019) | [py](Gold_1/책_페이지_1019.py) |
+<!-- | [달이 차오른다 가자 - 1194](https://www.acmicpc.net/problem/1194) | [py](Gold_1/달이_차오른다_가자_1194.py) | 시간이 안돼 다시 풀기 -->
