@@ -53,6 +53,7 @@
 | [회전하는 큐 - 1021](https://www.acmicpc.net/problem/1021) | [py](Silver_4/회전하는_큐_1021.py) |
 | [보물 - 1026](https://www.acmicpc.net/problem/1026) | [py](Silver_4/보물_1026.py) |
 | [문자열 - 1120](https://www.acmicpc.net/problem/1120) | [py](Silver_4/문자열_1120.py) |
+| [등수 구하기 - 1205](https://www.acmicpc.net/problem/1205) | [py](Silver_4/등수_구하기_1205.py) |
 
 ## Silver 3
 | 문제 | 코드 (python) | 코드 (javascript)|
