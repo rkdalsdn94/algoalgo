@@ -54,6 +54,7 @@
 | [보물 - 1026](https://www.acmicpc.net/problem/1026) | [py](Silver_4/보물_1026.py) |
 | [문자열 - 1120](https://www.acmicpc.net/problem/1120) | [py](Silver_4/문자열_1120.py) |
 | [등수 구하기 - 1205](https://www.acmicpc.net/problem/1205) | [py](Silver_4/등수_구하기_1205.py) |
+| [학생 번호 - 1235](https://www.acmicpc.net/problem/1235) | [py](Silver_4/학생_번호_1235.py) |
 
 ## Silver 3
 | 문제 | 코드 (python) | 코드 (javascript)|
