@@ -76,6 +76,7 @@
 | [한 줄로 서기 - 1138](https://www.acmicpc.net/problem/1138) | [py](Silver_2/한_줄로_서기_1138.py) |
 | [폴짝폴짝 - 1326](https://www.acmicpc.net/problem/1326) | [py](Silver_2/폴짝폴짝_1326.py) |
 | [양 - 3184](https://www.acmicpc.net/problem/3184) | [py](Silver_2/양_3184.py) |
+| [유턴 싫어 - 2823](https://www.acmicpc.net/problem/2823) | [py](Silver_2/유턴_싫어_2823.py) |
 
 ## Silver 1
 | 문제 | 코드 (python) | 코드 (javascript)|
