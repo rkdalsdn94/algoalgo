@@ -87,6 +87,7 @@
 | [트리 - 1068](https://www.acmicpc.net/problem/1068) | [py](Silver_1/트리_1068.py) |
 | [효율적인 해킹 - 1325](https://www.acmicpc.net/problem/1325) | [py](Silver_1/효율적인_해킹_1325.py) |
 | [토마토 - 7569](https://www.acmicpc.net/problem/7569) | [py](Silver_1/토마토_7569.py) |
+| [소트 게임 - 1327](https://www.acmicpc.net/problem/1327) | [py](Silver_1/소트_게임_1327.py) |
 
 
 ## Gold 5
