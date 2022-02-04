@@ -88,6 +88,7 @@
 | [효율적인 해킹 - 1325](https://www.acmicpc.net/problem/1325) | [py](Silver_1/효율적인_해킹_1325.py) |
 | [토마토 - 7569](https://www.acmicpc.net/problem/7569) | [py](Silver_1/토마토_7569.py) |
 | [소트 게임 - 1327](https://www.acmicpc.net/problem/1327) | [py](Silver_1/소트_게임_1327.py) |
+| [지름길 - 1446](https://www.acmicpc.net/problem/1446) | [py](Silver_1/지름길_1446.py) |
 
 
 ## Gold 5
