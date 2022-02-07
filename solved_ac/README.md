@@ -45,6 +45,7 @@
 | [집합 - 11723](https://www.acmicpc.net/problem/11723) | [py](Silver_5/집합_11723.py) |
 | [약수 - 1037](https://www.acmicpc.net/problem/1037) | [py](Silver_5/약수_1037.py) |
 | [덩치 - 7568](https://www.acmicpc.net/problem/7568) | [py](Silver_5/덩치_7568.py) |
+| [베열 합치기 - 11728](https://www.acmicpc.net/problem/11728) | [py](Silver_5/배열_합치기_11728.py) |
 
 ## Silver 4
 | 문제 | 코드 (python) | 코드 (javascript)|
