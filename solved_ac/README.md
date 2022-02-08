@@ -57,6 +57,7 @@
 | [등수 구하기 - 1205](https://www.acmicpc.net/problem/1205) | [py](Silver_4/등수_구하기_1205.py) |
 | [학생 번호 - 1235](https://www.acmicpc.net/problem/1235) | [py](Silver_4/학생_번호_1235.py) |
 | [한수 - 1065](https://www.acmicpc.net/problem/1065) | [py](Silver_4/한수_1065.py) |
+| [무한이진트리 - ](https://www.acmicpc.net/problem/2078) | [py](Silver_4/무한이진트리_2078.py) |
 
 ## Silver 3
 | 문제 | 코드 (python) | 코드 (javascript)|
