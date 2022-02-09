@@ -81,6 +81,7 @@
 | [폴짝폴짝 - 1326](https://www.acmicpc.net/problem/1326) | [py](Silver_2/폴짝폴짝_1326.py) |
 | [양 - 3184](https://www.acmicpc.net/problem/3184) | [py](Silver_2/양_3184.py) |
 | [유턴 싫어 - 2823](https://www.acmicpc.net/problem/2823) | [py](Silver_2/유턴_싫어_2823.py) |
+| [가장 긴 증가하는 부분 수열 - 11053](https://www.acmicpc.net/problem/11053) | [py](Silver_2/가장_긴_증가하는_부분_수열_11053.py) |
 
 ## Silver 1
 | 문제 | 코드 (python) | 코드 (javascript)|
