@@ -114,6 +114,7 @@
 | :-------------: |:-------------: | :-------------:|
 | [소트 - 1083](https://www.acmicpc.net/problem/1083) | [py](Gold_3/소트_1083.py) |
 | [파티 - 1238](https://www.acmicpc.net/problem/1238) | [py](Gold_3/파티_1238.py) |
+| [궁금한 민호 - 1507](https://www.acmicpc.net/problem/1507) | [py](Gold_3/궁금한_민호_1507.py) |
 
 ## Gold 2
 | 문제 | 코드 (python) | 코드 (javascript)|
