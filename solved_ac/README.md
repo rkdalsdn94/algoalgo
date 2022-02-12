@@ -83,6 +83,7 @@
 | [유턴 싫어 - 2823](https://www.acmicpc.net/problem/2823) | [py](Silver_2/유턴_싫어_2823.py) |
 | [가장 긴 증가하는 부분 수열 - 11053](https://www.acmicpc.net/problem/11053) | [py](Silver_2/가장_긴_증가하는_부분_수열_11053.py) |
 | [소수 구하기 - 1929](https://www.acmicpc.net/problem/1929) | [py](Silver_2/소수_구하기_1929.py) |
+| [연속합 - 1912](https://www.acmicpc.net/problem/1912) | [py](Silver_2/연속합_1912.py) |
 
 ## Silver 1
 | 문제 | 코드 (python) | 코드 (javascript)|
