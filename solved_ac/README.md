@@ -85,6 +85,7 @@
 | [소수 구하기 - 1929](https://www.acmicpc.net/problem/1929) | [py](Silver_2/소수_구하기_1929.py) |
 | [연속합 - 1912](https://www.acmicpc.net/problem/1912) | [py](Silver_2/연속합_1912.py) |
 | [섬의개수 - 4963](https://www.acmicpc.net/problem/4963) | [py](Silver_2/섬의개수_4963.py) |
+| [베르트랑 공준 - 4948](https://www.acmicpc.net/problem/4948) | [py](Silver_2/베르트랑_공준_4948.py) |
 
 ## Silver 1
 | 문제 | 코드 (python) | 코드 (javascript)|
