@@ -112,6 +112,7 @@
 | [거짓말 - 1043](https://www.acmicpc.net/problem/1043) | [py](Gold_4/거짓말_1043.py) |
 | [방 번호 - 1082](https://www.acmicpc.net/problem/1082) | [py](Gold_4/방_번호_1082.py) |
 | [내리막 길 - 1520](https://www.acmicpc.net/problem/1520) | [py](Gold_4/내리막_길_1520.py) |
+| [알파벳 - 1987](https://www.acmicpc.net/problem/1987) | [py](Gold_4/알파벳_1987.py) |
 
 ## Gold 3
 | 문제 | 코드 (python) | 코드 (javascript)|
