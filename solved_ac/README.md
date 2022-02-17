@@ -125,6 +125,7 @@
 | 문제 | 코드 (python) | 코드 (javascript)|
 | :-------------: |:-------------: | :-------------:|
 | [보석 도둑 - 1202](https://www.acmicpc.net/problem/1202) | [py](Gold_2/보석_도둑_1202.py) |
+| [문제집 - 1766](https://www.acmicpc.net/problem/1766) | [py](Gold_2/문제집_1766.py) |
 
 ## Gold 1
 | 문제 | 코드 (python) | 코드 (javascript)|
