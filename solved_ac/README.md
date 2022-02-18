@@ -97,6 +97,7 @@
 | [토마토 - 7569](https://www.acmicpc.net/problem/7569) | [py](Silver_1/토마토_7569.py) |
 | [소트 게임 - 1327](https://www.acmicpc.net/problem/1327) | [py](Silver_1/소트_게임_1327.py) |
 | [지름길 - 1446](https://www.acmicpc.net/problem/1446) | [py](Silver_1/지름길_1446.py) |
+| [호텔 - 1106](https://www.acmicpc.net/problem/1106) | [py](Silver_1/호텔_1106.py) |
 
 
 ## Gold 5
