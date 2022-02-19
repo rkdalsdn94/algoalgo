@@ -98,6 +98,7 @@
 | [소트 게임 - 1327](https://www.acmicpc.net/problem/1327) | [py](Silver_1/소트_게임_1327.py) |
 | [지름길 - 1446](https://www.acmicpc.net/problem/1446) | [py](Silver_1/지름길_1446.py) |
 | [호텔 - 1106](https://www.acmicpc.net/problem/1106) | [py](Silver_1/호텔_1106.py) |
+| [포도주 시식 - 2156](https://www.acmicpc.net/problem/2156) | [py](Silver_1/포도주_시식_2156.py) |
 
 
 ## Gold 5
