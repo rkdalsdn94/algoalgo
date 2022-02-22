@@ -46,6 +46,7 @@
 | [약수 - 1037](https://www.acmicpc.net/problem/1037) | [py](Silver_5/약수_1037.py) |
 | [덩치 - 7568](https://www.acmicpc.net/problem/7568) | [py](Silver_5/덩치_7568.py) |
 | [베열 합치기 - 11728](https://www.acmicpc.net/problem/11728) | [py](Silver_5/배열_합치기_11728.py) |
+| [셀프 넘버 - 4673](https://www.acmicpc.net/problem/4673) | [py](Silver_5/셀프_넘버_4673.py) |
 
 ## Silver 4
 | 문제 | 코드 (python) | 코드 (javascript)|
