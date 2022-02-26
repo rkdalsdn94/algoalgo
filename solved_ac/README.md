@@ -71,6 +71,7 @@
 | [늑대와 양 - 16956](https://www.acmicpc.net/problem/16956) | [py](Silver_3/늑대와_양_16956.py) |
 | [전쟁 - 땅따먹기 - 1270](https://www.acmicpc.net/problem/1270) | [py](Silver_3/전쟁_땅따먹기_1270.py) |
 | [계단 오르기 - 2579](https://www.acmicpc.net/problem/2579) | [py](Silver_3/계단_오르기_2579.py) |
+| [퇴사 - 14501](https://www.acmicpc.net/problem/14501) | [py](Silver_3/퇴사_14501.py) |
 
 ## Silver 2
 | 문제 | 코드 (python) | 코드 (javascript)|
