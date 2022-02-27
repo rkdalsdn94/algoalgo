@@ -48,6 +48,7 @@
 | [베열 합치기 - 11728](https://www.acmicpc.net/problem/11728) | [py](Silver_5/배열_합치기_11728.py) |
 | [셀프 넘버 - 4673](https://www.acmicpc.net/problem/4673) | [py](Silver_5/셀프_넘버_4673.py) |
 | [그룹 단어 체커 - 1316](https://www.acmicpc.net/problem/1316) | [py](Silver_5/그룹_단어_체커_1316.py) |
+| [크로아티아 알파벳 - 2941](https://www.acmicpc.net/problem/2941) | [py](Silver_5/크로아티아_알파벳_2941.py) |
 
 ## Silver 4
 | 문제 | 코드 (python) | 코드 (javascript)|
