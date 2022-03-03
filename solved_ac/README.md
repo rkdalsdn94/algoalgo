@@ -93,6 +93,7 @@
 | [섬의개수 - 4963](https://www.acmicpc.net/problem/4963) | [py](Silver_2/섬의개수_4963.py) |
 | [베르트랑 공준 - 4948](https://www.acmicpc.net/problem/4948) | [py](Silver_2/베르트랑_공준_4948.py) |
 | [괄호의 값 - 2504](https://www.acmicpc.net/problem/2504) | [py](Silver_2/괄호의_값_2504.py) |
+| [단축키 지정 - 1283](https://www.acmicpc.net/problem/1283) | [py](Silver_2/단축키_지정_1283.py) |
 
 ## Silver 1
 | 문제 | 코드 (python) | 코드 (javascript)|
