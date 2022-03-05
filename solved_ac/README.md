@@ -75,6 +75,7 @@
 | [전쟁 - 땅따먹기 - 1270](https://www.acmicpc.net/problem/1270) | [py](Silver_3/전쟁_땅따먹기_1270.py) |
 | [계단 오르기 - 2579](https://www.acmicpc.net/problem/2579) | [py](Silver_3/계단_오르기_2579.py) |
 | [퇴사 - 14501](https://www.acmicpc.net/problem/14501) | [py](Silver_3/퇴사_14501.py) |
+| [GCD 합 - 9613](https://www.acmicpc.net/problem/9613) | [py](Silver_3/GCD_합_9613.py) |
 
 ## Silver 2
 | 문제 | 코드 (python) | 코드 (javascript)|
