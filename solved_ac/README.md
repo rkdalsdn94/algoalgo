@@ -52,6 +52,7 @@
 | [최대공약수와 최소공배수 - 2609](https://www.acmicpc.net/problem/2609) | [py](Silver_5/최대공약수와_최소공배수_2609.py) |
 | [체스판 다시 칠하기 - 1018](https://www.acmicpc.net/problem/1018) | [py](Silver_5/체스판_다시_칠하기_1018.py) |
 | [소수 - 2581](https://www.acmicpc.net/problem/2581) | [py](Silver_5/소수_2581.py) |
+| [방번호 - 1475](https://www.acmicpc.net/problem/1475) | [py](Silver_5/방번호_1475.py) |
 
 ## Silver 4
 | 문제 | 코드 (python) | 코드 (javascript)|
