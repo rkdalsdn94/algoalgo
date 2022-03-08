@@ -125,6 +125,7 @@ Lv1
 | [Lv1. 최소직사각형](https://programmers.co.kr/learn/courses/30/lessons/86491) | [py](programmers/Lv1/Lv1_최소직사각형.py) |  |
 | [Lv1. 나머지가 1이 되는 수 찾기](https://programmers.co.kr/learn/courses/30/lessons/87389) | [py](programmers/Lv1/Lv1_나머지가_1이_되는_수_찾기.py) |  |
 | [Lv1. 부족한 금액 계산하기](https://programmers.co.kr/learn/courses/30/lessons/82612) | [py](programmers/Lv1/Lv1_부족한_금액_계산하기.py) |  |
+| [Lv1. 신고 결과 받기](https://programmers.co.kr/learn/courses/30/lessons/92334) | [py](programmers/Lv1/Lv1_신고_결과_받기.py) |  |
 #
  Lv2 
 | 문제 | 코드 (python) | 코드 (javascript)|
