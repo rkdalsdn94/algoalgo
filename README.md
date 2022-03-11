@@ -187,3 +187,13 @@ Lv3
 | [Lv3. 네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162) | [py](programmers/Lv3/Lv3_네트워크.py)|
 | [Lv3. 이중우선순위큐](https://programmers.co.kr/learn/courses/30/lessons/42628) | [py](programmers/Lv3/Lv3_이중우선순위큐.py)|
 | [Lv3. 입국심사](https://programmers.co.kr/learn/courses/30/lessons/43238) | [py](programmers/Lv3/Lv3_입국심사.py)|
+
+
+
+
+## 프로그래머스 스킬 체크
+# 레벨 2
+| 문제 | 코드 (python) | 코드 (javascript)|
+| :-------------: |:-------------: | :-------------:|
+| [문제 1](https://programmers.co.kr/skill_checks) | [py](programmers/스킬_체크_테스트_Level_2/문제_1.py)|
+| [문제 2](https://programmers.co.kr/skill_checks) | [py](programmers/스킬_체크_테스트_Level_2/문제_2.py)|
