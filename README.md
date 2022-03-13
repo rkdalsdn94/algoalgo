@@ -196,5 +196,5 @@ Lv3
 # 레벨 2
 | 문제 | 코드 (python) | 코드 (javascript)|
 | :-------------: |:-------------: | :-------------:|
-| [문제 1](https://programmers.co.kr/skill_checks) | [py](programmers/스킬_체크_테스트_Level_2/문제_1.py)|
-| [문제 2](https://programmers.co.kr/skill_checks) | [py](programmers/스킬_체크_테스트_Level_2/문제_2.py)|
+| [문제 1](https://programmers.co.kr/skill_checks) | [py](programmers/스킬_체크/스킬_체크_테스트_Lv2/문제_1.py)|
+| [문제 2](https://programmers.co.kr/skill_checks) | [py](programmers/스킬_체크/스킬_체크_테스트_Lv2/문제_2.py)|
