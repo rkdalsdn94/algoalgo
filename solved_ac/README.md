@@ -115,6 +115,7 @@
 | [포도주 시식 - 2156](https://www.acmicpc.net/problem/2156) | [py](Silver_1/포도주_시식_2156.py) |
 | [하노이 탑 이동 순서 - 11729](https://www.acmicpc.net/problem/11729) | [py](Silver_1/하노이_탑_이동_순서_11729.py) |
 | [정수 삼각형 - 1932](https://www.acmicpc.net/problem/1932) | [py](Silver_1/정수_삼각형_1932.py) |
+| [신입 사원 - 1932](https://www.acmicpc.net/problem/1946) | [py](Silver_1/신입_사원_1946.py) |
 
 
 ## Gold 5
