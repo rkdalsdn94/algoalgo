@@ -54,6 +54,7 @@
 | [소수 - 2581](https://www.acmicpc.net/problem/2581) | [py](Silver_5/소수_2581.py) |
 | [방번호 - 1475](https://www.acmicpc.net/problem/1475) | [py](Silver_5/방번호_1475.py) |
 | [30 - 10610](https://www.acmicpc.net/problem/10610) | [py](Silver_5/30_10610.py) |
+| [수들의 합 - 1789](https://www.acmicpc.net/problem/1789) | [py](Silver_5/수들의_합_1789.py) |
 
 ## Silver 4
 | 문제 | 코드 (python) | 코드 (javascript)|
