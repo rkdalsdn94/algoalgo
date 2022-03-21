@@ -70,6 +70,7 @@
 | [무한이진트리 - 2078](https://www.acmicpc.net/problem/2078) | [py](Silver_4/무한이진트리_2078.py) |
 | [제로 - 10773](https://www.acmicpc.net/problem/10773) | [py](Silver_4/제로_10773.py) |
 | [기타줄 - 1049](https://www.acmicpc.net/problem/1049) | [py](Silver_4/기타줄_1049.py) |
+| [점화식 - 13699](https://www.acmicpc.net/problem/13699) | [py](Silver_4/점화식_13699.py) |
 
 ## Silver 3
 | 문제 | 코드 (python) | 코드 (javascript)|
