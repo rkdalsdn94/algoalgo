@@ -87,6 +87,7 @@
 | [퇴사 - 14501](https://www.acmicpc.net/problem/14501) | [py](Silver_3/퇴사_14501.py) |
 | [GCD 합 - 9613](https://www.acmicpc.net/problem/9613) | [py](Silver_3/GCD_합_9613.py) |
 | [숫자 정사각형 - 1051](https://www.acmicpc.net/problem/1051) | [py](Silver_3/숫자_정사각형_1051.py) |
+| [스위치 켜고 끄기 - 1244](https://www.acmicpc.net/problem/1244) | [py](Silver_3/스위치_켜고_끄기_1244.py) |
 
 ## Silver 2
 | 문제 | 코드 (python) | 코드 (javascript)|
