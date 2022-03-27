@@ -57,6 +57,7 @@
 | [30 - 10610](https://www.acmicpc.net/problem/10610) | [py](Silver_5/30_10610.py) |
 | [수들의 합 - 1789](https://www.acmicpc.net/problem/1789) | [py](Silver_5/수들의_합_1789.py) |
 | [폴리오미노 - 1343](https://www.acmicpc.net/problem/1343) | [py](Silver_5/폴리오미노_1343.py) |
+| [쉽게 푸는 문제 - 1292](https://www.acmicpc.net/problem/1292) | [py](Silver_5/쉽게_푸는_문제_1292.py) |
 
 ## Silver 4
 | 문제 | 코드 (python) | 코드 (javascript)|
