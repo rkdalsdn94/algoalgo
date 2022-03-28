@@ -26,6 +26,7 @@
 | [포인트 카드 - 14471](https://www.acmicpc.net/problem/14471) | [py](bronze_2/포인트_카드_14471.py) |
 | [한조서열정리하고옴ㅋㅋ - 14659](https://www.acmicpc.net/problem/14659) | [py](bronze_2/한조서열정리하고옴ㅋㅋ_14659.py) |
 | [욱제는 효도쟁이야!! - 14487](https://www.acmicpc.net/problem/14487) | [py](bronze_2/욱제는_효도쟁이야_14487.py) |
+| [5와 6의 차이 - 2864](https://www.acmicpc.net/problem/2864) | [py](bronze_2/5와_6의_차이.py) |
 
 ## Bronze 1
 | 문제 | 코드 (python) | 코드 (javascript)|
