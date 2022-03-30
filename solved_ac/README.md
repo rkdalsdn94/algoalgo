@@ -91,6 +91,7 @@
 | [숫자 정사각형 - 1051](https://www.acmicpc.net/problem/1051) | [py](Silver_3/숫자_정사각형_1051.py) |
 | [스위치 켜고 끄기 - 1244](https://www.acmicpc.net/problem/1244) | [py](Silver_3/스위치_켜고_끄기_1244.py) |
 | [수 이어 쓰기 1 - 1748](https://www.acmicpc.net/problem/1748) | [py](Silver_3/수_이어_쓰기_1_1748.py) |
+| [안테나 - 18310](https://www.acmicpc.net/problem/18310) | [py](Silver_3/안테나_18310.py) |
 
 ## Silver 2
 | 문제 | 코드 (python) | 코드 (javascript)|
