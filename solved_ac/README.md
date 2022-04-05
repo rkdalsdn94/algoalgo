@@ -134,6 +134,7 @@
 | [정수 삼각형 - 1932](https://www.acmicpc.net/problem/1932) | [py](Silver_1/정수_삼각형_1932.py) |
 | [신입 사원 - 1932](https://www.acmicpc.net/problem/1946) | [py](Silver_1/신입_사원_1946.py) |
 | [카드 구매하기 - 11052](https://www.acmicpc.net/problem/11052) | [py](Silver_1/카드_구매하기_11052.py) |
+| [A -> B - 16953](https://www.acmicpc.net/problem/16953) | [py](Silver_1/A->B_16953.py) |
 
 
 ## Gold 5
