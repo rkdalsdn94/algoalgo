@@ -62,6 +62,7 @@
 | [쉽게 푸는 문제 - 1292](https://www.acmicpc.net/problem/1292) | [py](Silver_5/쉽게_푸는_문제_1292.py) |
 | [빙고 - 2578](https://www.acmicpc.net/problem/2578) | [py](Silver_5/빙고_2578.py) |
 | [재귀함수가 뭔가요? - 17478](https://www.acmicpc.net/problem/17478) | [py](Silver_5/재귀함수가_뭔가요_17478.py) |
+| [3의 배수 - 1769](https://www.acmicpc.net/problem/1769) | [py](Silver_5/3의_배수_1769.py) |
 
 ## Silver 4
 | 문제 | 코드 (python) | 코드 (javascript)|
