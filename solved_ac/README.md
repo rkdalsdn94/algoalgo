@@ -63,6 +63,7 @@
 | [빙고 - 2578](https://www.acmicpc.net/problem/2578) | [py](Silver_5/빙고_2578.py) |
 | [재귀함수가 뭔가요? - 17478](https://www.acmicpc.net/problem/17478) | [py](Silver_5/재귀함수가_뭔가요_17478.py) |
 | [3의 배수 - 1769](https://www.acmicpc.net/problem/1769) | [py](Silver_5/3의_배수_1769.py) |
+| [0의 개수 - 11170](https://www.acmicpc.net/problem/11170) | [py](Silver_5/0의_개수_11170.py) |
 
 ## Silver 4
 | 문제 | 코드 (python) | 코드 (javascript)|
