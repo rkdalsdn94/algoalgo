@@ -180,6 +180,7 @@ Lv1
 | [Lv2 2개 이하로 다른 비트](https://programmers.co.kr/learn/courses/30/lessons/77885) | [py](programmers/Lv2/Lv2_2개_이하로_다른_비트.py)|
 | [Lv2 빛의 경로 사이클](https://programmers.co.kr/learn/courses/30/lessons/86052) | [py](programmers/Lv2/Lv2_빛의_경로_사이클.py) |
 | [Lv2 k진수에서 소수 개수 구하기](https://programmers.co.kr/learn/courses/30/lessons/92335) | [py](programmers/Lv2/Lv2_k진수에서_소수_개수_구하기.py) |
+| [Lv2 주차 요금 계산](https://programmers.co.kr/learn/courses/30/lessons/92341) | [py](programmers/Lv2/Lv2_주차_요금_계산.py) |
 
 #
 Lv3 
