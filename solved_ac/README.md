@@ -29,6 +29,7 @@
 | [5와 6의 차이 - 2864](https://www.acmicpc.net/problem/2864) | [py](bronze_2/5와_6의_차이.py) |
 | [농구 경기 - 1159](https://www.acmicpc.net/problem/1159) | [py](bronze_2/농구_경기_1159.py) |
 | [저항 - 1076](https://www.acmicpc.net/problem/1076) | [py](bronze_2/저항_1076.py) |
+| [최댓값 - 2562](https://www.acmicpc.net/problem/2562) | [py](bronze_2/최댓값_2562.py) |
 
 ## Bronze 1
 | 문제 | 코드 (python) | 코드 (javascript)|
