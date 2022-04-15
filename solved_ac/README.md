@@ -124,6 +124,7 @@
 | [괄호의 값 - 2504](https://www.acmicpc.net/problem/2504) | [py](Silver_2/괄호의_값_2504.py) |
 | [단축키 지정 - 1283](https://www.acmicpc.net/problem/1283) | [py](Silver_2/단축키_지정_1283.py) |
 | [후보 추천하기 - 1713](https://www.acmicpc.net/problem/1713) | [py](Silver_2/후보_추천하기_1713.py) |
+| [종이의 개수 - 1780](https://www.acmicpc.net/problem/1780) | [py](Silver_2/종이의_개수_1780.py) |
 
 ## Silver 1
 | 문제 | 코드 (python) | 코드 (javascript)|
