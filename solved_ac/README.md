@@ -43,6 +43,7 @@
 | [유진수 - 1356](https://www.acmicpc.net/problem/1356) | [py](bronze_1/유진수_1356.py) |
 | [더하기 사이클 - 1110](https://www.acmicpc.net/problem/1110) | [py](bronze_1/더하기_사이클_1110.py) |
 | [세로읽기 - 10798](https://www.acmicpc.net/problem/10798) | [py](bronze_1/세로읽기_10798.py) |
+| [평균 - 1546](https://www.acmicpc.net/problem/1546) | [py](bronze_1/평균_1546.py) |
 
 ## Silver 5
 | 문제 | 코드 (python) | 코드 (javascript)|
