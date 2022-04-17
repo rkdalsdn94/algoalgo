@@ -30,6 +30,7 @@
 | [농구 경기 - 1159](https://www.acmicpc.net/problem/1159) | [py](bronze_2/농구_경기_1159.py) |
 | [저항 - 1076](https://www.acmicpc.net/problem/1076) | [py](bronze_2/저항_1076.py) |
 | [최댓값 - 2562](https://www.acmicpc.net/problem/2562) | [py](bronze_2/최댓값_2562.py) |
+| [숫자의 합 - 11720](https://www.acmicpc.net/problem/11720) | [py](bronze_2/숫자의_합_11720.py) |
 
 ## Bronze 1
 | 문제 | 코드 (python) | 코드 (javascript)|
