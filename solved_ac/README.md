@@ -107,6 +107,7 @@
 | [단어 뒤집기 2 - 17413](https://www.acmicpc.net/problem/17413) | [py](Silver_3/단어_뒤집기_2_17413.py) |
 | [예산 - 2512](https://www.acmicpc.net/problem/2512) | [py](Silver_3/예산_2512.py) |
 | [사탕 게임 - 3085](https://www.acmicpc.net/problem/3085) | [py](Silver_3/사탕_게임_3085.py) |
+| [색종이 만들기 - 2630](https://www.acmicpc.net/problem/2630) | [py](Silver_3/색종이_만들기_2630.py) |
 
 ## Silver 2
 | 문제 | 코드 (python) | 코드 (javascript)|
