@@ -108,6 +108,7 @@
 | [예산 - 2512](https://www.acmicpc.net/problem/2512) | [py](Silver_3/예산_2512.py) |
 | [사탕 게임 - 3085](https://www.acmicpc.net/problem/3085) | [py](Silver_3/사탕_게임_3085.py) |
 | [색종이 만들기 - 2630](https://www.acmicpc.net/problem/2630) | [py](Silver_3/색종이_만들기_2630.py) |
+| [2×n 타일링 - 11726](https://www.acmicpc.net/problem/11726) | [py](Silver_3/2×n_타일링_11726.py) |
 
 ## Silver 2
 | 문제 | 코드 (python) | 코드 (javascript)|
