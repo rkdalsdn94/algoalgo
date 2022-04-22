@@ -87,6 +87,7 @@
 | [점화식 - 13699](https://www.acmicpc.net/problem/13699) | [py](Silver_4/점화식_13699.py) |
 | [킹 - 1063](https://www.acmicpc.net/problem/1063) | [py](Silver_4/킹_1063.py) |
 | [나는야 포켓몬 마스터 이다솜 - 1620](https://www.acmicpc.net/problem/1620) | [py](Silver_4/나는야_포켓몬_마스터_이다솜_1620.py) |
+| [소수 찾기 - 1978](https://www.acmicpc.net/problem/1978) | [py](Silver_4/소수_찾기_1978.py) |
 
 ## Silver 3
 | 문제 | 코드 (python) | 코드 (javascript)|
