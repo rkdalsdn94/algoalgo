@@ -71,6 +71,7 @@
 | [3의 배수 - 1769](https://www.acmicpc.net/problem/1769) | [py](Silver_5/3의_배수_1769.py) |
 | [0의 개수 - 11170](https://www.acmicpc.net/problem/11170) | [py](Silver_5/0의_개수_11170.py) |
 | [영화감독 숌 - 1436](https://www.acmicpc.net/problem/1436) | [py](Silver_5/영화감독_숌_1436.py) |
+| [아시아 정보올림피아드 - 2535](https://www.acmicpc.net/problem/2535) | [py](Silver_5/아시아_정보올림피아드_2535.py) |
 
 ## Silver 4
 | 문제 | 코드 (python) | 코드 (javascript)|
