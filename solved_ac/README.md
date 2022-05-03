@@ -34,6 +34,7 @@
 | [숫자의 합 - 11720](https://www.acmicpc.net/problem/11720) | [py](bronze_2/숫자의_합_11720.py) |
 | [숫자의 개수 - 2577](https://www.acmicpc.net/problem/2577) | [py](bronze_2/숫자의_개수_2577.py) |
 | [운동 - 1173](https://www.acmicpc.net/problem/1173) | [py](bronze_2/운동_1173.py) |
+| [나머지 - 3052](https://www.acmicpc.net/problem/3052) | [py](bronze_2/나머지_3052.py) |
 
 ## Bronze 1
 | 문제 | 코드 (python) | 코드 (javascript)|
