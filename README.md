@@ -119,7 +119,7 @@ Lv1
 | [Lv1. 폰켓몬](https://programmers.co.kr/learn/courses/30/lessons/1845) | [py](programmers/Lv1/Lv1_폰켓몬.py)| [js](programmers/Lv1/폰켓몬.js)| |
 | [Lv1. 음양 더하기](https://programmers.co.kr/learn/courses/30/lessons/76501) | [py](programmers/Lv1/Lv1_음양_더하기.py) |  |
 | [Lv1. 로또의 최고 순위와 최저 순위](https://programmers.co.kr/learn/courses/30/lessons/77484) | [py](programmers/Lv1/Lv1_로또의_최고_순위와_최저_순위.py) |  |
-| [Lv1. 숫자 문자열과 영단어](https://programmers.co.kr/learn/courses/30/lessons/81301) | [py](programmers/Lv1/Lv1_숫자_문자열과_영단어.py) |  |
+| [Lv1. 숫자 문자열과 영단어](https://programmers.co.kr/learn/courses/30/lessons/81301) | [py](programmers/Lv1/Lv1_숫자_문자열과_영단어.py) | [js](programmers/Lv1/Lv1_숫자_문자열과_영단어.js) |
 | [Lv1. 없는 숫자 더하기](https://programmers.co.kr/learn/courses/30/lessons/86051) | [py](programmers/Lv1/Lv1_없는_숫자_더하기.py) |  |
 | [Lv1. 약수의 개수와 덧셈](https://programmers.co.kr/learn/courses/30/lessons/77884) | [py](programmers/Lv1/Lv1_약수의_개수와_덧셈.py) |  |
 | [Lv1. 최소직사각형](https://programmers.co.kr/learn/courses/30/lessons/86491) | [py](programmers/Lv1/Lv1_최소직사각형.py) |  |
