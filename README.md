@@ -82,7 +82,7 @@ Lv1
 | :-------------: |:-------------: | :-------------:|
 | [Lv1. 가운데 글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903?language=python3) | [py](programmers/Lv1/Lv1_가운데_글자_가져오기.py)| 
 | [Lv1. 같은 숫자는 싫어](https://programmers.co.kr/learn/courses/30/lessons/12906) | [py](programmers/Lv1/Lv1_같은_숫자는_싫어.py)| [js](programmers/Lv1/Lv1_같은_숫자는_싫어.js)|
-| [Lv1. 크레인 인형뽑기 게임](https://programmers.co.kr/learn/courses/30/lessons/64061?language=python3) | [py](programmers/Lv1/Lv1_크레인_인형뽑기_게임.py)| 
+| [Lv1. 크레인 인형뽑기 게임](https://programmers.co.kr/learn/courses/30/lessons/64061?language=python3) | [py](programmers/Lv1/Lv1_크레인_인형뽑기_게임.py)| [js](programmers/Lv1/Lv1_크레인_인형뽑기_게임.js)|
 | [Lv1. 나누어 떨어지는 숫자 배열](https://programmers.co.kr/learn/courses/30/lessons/12910) | [py](programmers/Lv1/Lv1_나누어_떨어지는_숫자_배열.py)| 
 | [Lv1. 문자열 내 p와 y의 개수](https://programmers.co.kr/learn/courses/30/lessons/12916) | [py](programmers/Lv1/Lv1_문자열_내_p와_y의_개수.py)| 
 | [Lv1. 문자열 다루기 기본](https://programmers.co.kr/learn/courses/30/lessons/12918) | [py](programmers/Lv1/Lv1_문자열_다루기_기본.py)| 
