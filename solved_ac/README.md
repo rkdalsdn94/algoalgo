@@ -174,6 +174,7 @@
 | [AC - 5430](https://www.acmicpc.net/problem/5430) | [py](Gold_5/AC_5430.py) |
 | [로봇 청소기 - 14503](https://www.acmicpc.net/problem/14503) | [py](Gold_5/로봇_청소기_14503.py) |
 | [리모컨 - 1107](https://www.acmicpc.net/problem/1107) | [py](Gold_5/리모컨_1107.py) |
+| [최단경로 - 1753](https://www.acmicpc.net/problem/1753) | [py](Gold_5/최단경로_1753.py) |
 
 ## Gold 4
 | 문제 | 코드 (python) | 코드 (javascript)|
