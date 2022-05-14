@@ -37,6 +37,7 @@
 | [나머지 - 3052](https://www.acmicpc.net/problem/3052) | [py](bronze_2/나머지_3052.py) |
 | [하얀 칸 - 1100](https://www.acmicpc.net/problem/1100) | [py](bronze_2/하얀_칸_1100.py) |
 | [알파벳 찾기 - 10809](https://www.acmicpc.net/problem/10809) | [py](bronze_2/알파벳_찾기_10809.py) |
+| [상수 - 2908](https://www.acmicpc.net/problem/2908) | [py](bronze_2/상수_2908.py) |
 
 ## Bronze 1
 | 문제 | 코드 (python) | 코드 (javascript)|
