@@ -38,6 +38,7 @@
 | [하얀 칸 - 1100](https://www.acmicpc.net/problem/1100) | [py](bronze_2/하얀_칸_1100.py) |
 | [알파벳 찾기 - 10809](https://www.acmicpc.net/problem/10809) | [py](bronze_2/알파벳_찾기_10809.py) |
 | [상수 - 2908](https://www.acmicpc.net/problem/2908) | [py](bronze_2/상수_2908.py) |
+| [문자열 반복 - 2675](https://www.acmicpc.net/problem/2675) | [py](bronze_2/문자열_반복_2675.py) |
 
 ## Bronze 1
 | 문제 | 코드 (python) | 코드 (javascript)|
