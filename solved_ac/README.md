@@ -168,6 +168,7 @@
 | [A -> B - 16953](https://www.acmicpc.net/problem/16953) | [py](Silver_1/A->B_16953.py) |
 | [스티커 - 9465](https://www.acmicpc.net/problem/9465) | [py](Silver_1/스티커_9465.py) |
 | [케빈 베이컨의 6단계 법칙 - 1389](https://www.acmicpc.net/problem/1389) | [py](Silver_1/케빈_베이컨의_6단계_법칙_1389.py) |
+| [절댓값 힙 - 11286](https://www.acmicpc.net/problem/11286) | [py](Silver_1/절댓값_힙_11286.py) |
 
 
 ## Gold 5
