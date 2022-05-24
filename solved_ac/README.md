@@ -58,6 +58,7 @@
 | [완전제곱수 - 1977](https://www.acmicpc.net/problem/1977) | [py](bronze_1/완전제곱수_1977.py) |
 | [달팽이는 올라가고 싶다 - 2869](https://www.acmicpc.net/problem/2869) | [py](bronze_1/달팽이는_올라가고_싶다_2869.py) |
 | [팰린드롬수 - 1259](https://www.acmicpc.net/problem/1259) | [py](bronze_1/팰린드롬수_1259.py) |
+| [부녀회장이 될테야 - 2775](https://www.acmicpc.net/problem/2775) | [py](bronze_1/부녀회장이_될테야_2775.py) |
 
 ## Silver 5
 | 문제 | 코드 (python) | 코드 (javascript)|
