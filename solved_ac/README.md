@@ -19,6 +19,11 @@
 | [8진수 2진수 - 1212](https://www.acmicpc.net/problem/1212) | [py](bronze_4/8진수_2진수_1212.py) |
 | [TV 크기 - 1212](https://www.acmicpc.net/problem/1297) | [py](bronze_4/TV_크기_1297.py) |
 
+## Bronze 3
+| 문제 | 코드 (python) | 코드 (javascript)|
+| :-------------: |:-------------: | :-------------:|
+| [직각삼각형 - 4153](https://www.acmicpc.net/problem/4153) | [py](bronze_3/직각삼각형_4153.py) |
+
 ## Bronze 2
 | 문제 | 코드 (python) | 코드 (javascript)|
 | :-------------: |:-------------: | :-------------:|
