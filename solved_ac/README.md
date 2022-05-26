@@ -23,6 +23,7 @@
 | 문제 | 코드 (python) | 코드 (javascript)|
 | :-------------: |:-------------: | :-------------:|
 | [직각삼각형 - 4153](https://www.acmicpc.net/problem/4153) | [py](bronze_3/직각삼각형_4153.py) |
+| [ACM 호텔 - 10250](https://www.acmicpc.net/problem/10250) | [py](bronze_3/ACM_호텔_10250.py) |
 
 ## Bronze 2
 | 문제 | 코드 (python) | 코드 (javascript)|
