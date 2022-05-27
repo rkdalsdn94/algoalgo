@@ -47,6 +47,7 @@
 | [문자열 반복 - 2675](https://www.acmicpc.net/problem/2675) | [py](bronze_2/문자열_반복_2675.py) |
 | [분해합 - 2231](https://www.acmicpc.net/problem/2231) | [py](bronze_2/분해합_2231.py) |
 | [벌집 - 2292](https://www.acmicpc.net/problem/2292) | [py](bronze_2/벌집_2292.py) |
+| [Hashing - 15829](https://www.acmicpc.net/problem/15829) | [py](bronze_2/Hashing_15829.py) |
 
 ## Bronze 1
 | 문제 | 코드 (python) | 코드 (javascript)|
