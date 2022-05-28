@@ -93,6 +93,7 @@
 | [영화감독 숌 - 1436](https://www.acmicpc.net/problem/1436) | [py](Silver_5/영화감독_숌_1436.py) |
 | [아시아 정보올림피아드 - 2535](https://www.acmicpc.net/problem/2535) | [py](Silver_5/아시아_정보올림피아드_2535.py) |
 | [생일 - 5635](https://www.acmicpc.net/problem/5635) | [py](Silver_5/생일_5635.py) |
+| [좌표 정렬하기 2 - 11651](https://www.acmicpc.net/problem/11651) | [py](Silver_5/좌표_정렬하기_2_11651.py) |
 
 ## Silver 4
 | 문제 | 코드 (python) | 코드 (javascript)|
