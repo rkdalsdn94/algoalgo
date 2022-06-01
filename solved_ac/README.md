@@ -198,6 +198,7 @@
 | [최단경로 - 1753](https://www.acmicpc.net/problem/1753) | [py](Gold_5/최단경로_1753.py) |
 | [DSLR - 9019](https://www.acmicpc.net/problem/9019) | [py](Gold_5/DSLR_9019.py) |
 | [뱀과 사다리 게임 - 16928](https://www.acmicpc.net/problem/16928) | [py](Gold_5/뱀과_사다리_게임_16928.py) |
+| [테트로미노 - 14500](https://www.acmicpc.net/problem/14500) | [py](Gold_5/테트로미노_14500.py) |
 
 ## Gold 4
 | 문제 | 코드 (python) | 코드 (javascript)|
