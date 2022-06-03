@@ -115,6 +115,7 @@
 | [소수 찾기 - 1978](https://www.acmicpc.net/problem/1978) | [py](Silver_4/소수_찾기_1978.py) |
 | [병든 나이트 - 1783](https://www.acmicpc.net/problem/1783) | [py](Silver_4/병든_나이트_1783.py) |
 | [요세푸스 문제 0 - 11866](https://www.acmicpc.net/problem/11866) | [py](Silver_4/요세푸스_문제_0_11866.py) |
+| [Four Squares - 17626](https://www.acmicpc.net/problem/17626) | [py](Silver_4/Four_Squares_17626.py) |
 
 ## Silver 3
 | 문제 | 코드 (python) | 코드 (javascript)|
