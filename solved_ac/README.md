@@ -9,6 +9,7 @@
 | [16진수 - 1550](https://www.acmicpc.net/problem/1550) | [py](bronze_5/16진수_1550.py) |
 | [긴자리 계산 - 2338](https://www.acmicpc.net/problem/2338) | [py](bronze_5/긴자리_계산_2338.py) |
 | [검증수 - 2475](https://www.acmicpc.net/problem/2475) | [py](bronze_5/검증수_2475.py) |
+| [파티가 끝나고 난 뒤 - 2845](https://www.acmicpc.net/problem/2845) | [py](bronze_5/파티가_끝나고_난_뒤_2845.py) |
 
 ## Bronze 4
 | 문제 | 코드 (python) | 코드 (javascript)|
