@@ -192,6 +192,7 @@ Lv3
 | [Lv3. 네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162) | [py](programmers/Lv3/Lv3_네트워크.py)|
 | [Lv3. 이중우선순위큐](https://programmers.co.kr/learn/courses/30/lessons/42628) | [py](programmers/Lv3/Lv3_이중우선순위큐.py)|
 | [Lv3. 입국심사](https://programmers.co.kr/learn/courses/30/lessons/43238) | [py](programmers/Lv3/Lv3_입국심사.py)|
+| [Lv3. 정수 삼각형](https://programmers.co.kr/learn/courses/30/lessons/43105) | [py](programmers/Lv3/Lv3_정수삼각형.py)|
 
 
 
