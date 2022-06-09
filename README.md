@@ -194,6 +194,7 @@ Lv3
 | [Lv3. 입국심사](https://programmers.co.kr/learn/courses/30/lessons/43238) | [py](programmers/Lv3/Lv3_입국심사.py)|
 | [Lv3. 정수 삼각형](https://programmers.co.kr/learn/courses/30/lessons/43105) | [py](programmers/Lv3/Lv3_정수삼각형.py)|
 | [Lv3. 디스크 컨트롤러](https://programmers.co.kr/learn/courses/30/lessons/42627) | [py](programmers/Lv3/Lv3_디스크_컨트롤러.py)|
+| [Lv3. N으로 표현](https://programmers.co.kr/learn/courses/30/lessons/42895) | [py](programmers/Lv3/Lv3_N으로_표현.py)|
 
 
 
