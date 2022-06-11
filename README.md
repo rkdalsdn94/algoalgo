@@ -183,6 +183,7 @@ Lv1
 | [Lv2 주차 요금 계산](https://programmers.co.kr/learn/courses/30/lessons/92341) | [py](programmers/Lv2/Lv2_주차_요금_계산.py) |
 | [Lv2 순위 검색](https://programmers.co.kr/learn/courses/30/lessons/72412) | [py](programmers/Lv2/Lv2_순위_검색.py) |
 | [Lv2 예상 대진표](https://programmers.co.kr/learn/courses/30/lessons/12985) | [py](programmers/Lv2/Lv2_예상_대진표.py) |
+| [Lv2 2 x n 타일링](https://programmers.co.kr/learn/courses/30/lessons/12900) | [py](programmers/Lv2/Lv2_2_x_n_타일링.py) |
 
 #
 Lv3 
