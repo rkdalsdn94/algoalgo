@@ -69,6 +69,7 @@
 | [팰린드롬수 - 1259](https://www.acmicpc.net/problem/1259) | [py](bronze_1/팰린드롬수_1259.py) |
 | [부녀회장이 될테야 - 2775](https://www.acmicpc.net/problem/2775) | [py](bronze_1/부녀회장이_될테야_2775.py) |
 | [이항 계수 1 - 11050](https://www.acmicpc.net/problem/11050) | [py](bronze_1/이항_계수_1_11050.py) |
+| [오르막길 - 2846](https://www.acmicpc.net/problem/2846) | [py](bronze_1/오르막길_2846.py) |
 
 ## Silver 5
 | 문제 | 코드 (python) | 코드 (javascript)|
