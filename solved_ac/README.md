@@ -50,6 +50,7 @@
 | [분해합 - 2231](https://www.acmicpc.net/problem/2231) | [py](bronze_2/분해합_2231.py) |
 | [벌집 - 2292](https://www.acmicpc.net/problem/2292) | [py](bronze_2/벌집_2292.py) |
 | [Hashing - 15829](https://www.acmicpc.net/problem/15829) | [py](bronze_2/Hashing_15829.py) |
+| [방 배ㅇ - 13300](https://www.acmicpc.net/problem/13300) | [py](bronze_2/방_배정_13300.py) |
 
 ## Bronze 1
 | 문제 | 코드 (python) | 코드 (javascript)|
