@@ -52,6 +52,7 @@
 | [Hashing - 15829](https://www.acmicpc.net/problem/15829) | [py](bronze_2/Hashing_15829.py) |
 | [방 배정 - 13300](https://www.acmicpc.net/problem/13300) | [py](bronze_2/방_배정_13300.py) |
 | [분산처리 - 1009](https://www.acmicpc.net/problem/1009) | [py](bronze_2/분산처리_1009.py) |
+| [KMP는 왜 KMP일까 - 2902](https://www.acmicpc.net/problem/2902) | [py](bronze_2/KMP는_왜_KMP일까_2902.py) |
 
 ## Bronze 1
 | 문제 | 코드 (python) | 코드 (javascript)|
