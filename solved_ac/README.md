@@ -150,6 +150,7 @@
 | [2×n 타일링 - 11726](https://www.acmicpc.net/problem/11726) | [py](Silver_3/2×n_타일링_11726.py) |
 | [구간 합 구하기 4 - 11659](https://www.acmicpc.net/problem/11659) | [py](Silver_3/구간_합_구하기_11659.py) |
 | [패션왕 신해빈 - 9375](https://www.acmicpc.net/problem/9375) | [py](Silver_3/패션왕_신해빈_9375.py) |
+| [팰린드롬 만들기 - 1213](https://www.acmicpc.net/problem/1213) | [py](Silver_3/팰린드롬_만들기_1213.py) |
 
 ## Silver 2
 | 문제 | 코드 (python) | 코드 (javascript)|
