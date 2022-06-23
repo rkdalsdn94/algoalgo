@@ -104,6 +104,7 @@
 | [생일 - 5635](https://www.acmicpc.net/problem/5635) | [py](Silver_5/생일_5635.py) |
 | [좌표 정렬하기 2 - 11651](https://www.acmicpc.net/problem/11651) | [py](Silver_5/좌표_정렬하기_2_11651.py) |
 | [기상캐스터 - 10709](https://www.acmicpc.net/problem/10709) | [py](Silver_5/기상캐스터_10709.py) |
+| [올림픽 - 8979](https://www.acmicpc.net/problem/8979) | [py](Silver_5/올림픽_8979.py) |
 
 ## Silver 4
 | 문제 | 코드 (python) | 코드 (javascript)|
