@@ -107,6 +107,7 @@
 | [좌표 정렬하기 2 - 11651](https://www.acmicpc.net/problem/11651) | [py](Silver_5/좌표_정렬하기_2_11651.py) |
 | [기상캐스터 - 10709](https://www.acmicpc.net/problem/10709) | [py](Silver_5/기상캐스터_10709.py) |
 | [올림픽 - 8979](https://www.acmicpc.net/problem/8979) | [py](Silver_5/올림픽_8979.py) |
+| [국회의원 선거 - 1417](https://www.acmicpc.net/problem/1417) | [py](Silver_5/국회의원_선거_1417.py) |
 
 ## Silver 4
 | 문제 | 코드 (python) | 코드 (javascript)|
