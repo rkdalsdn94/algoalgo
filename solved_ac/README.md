@@ -56,6 +56,7 @@
 | [분산처리 - 1009](https://www.acmicpc.net/problem/1009) | [py](bronze_2/분산처리_1009.py) |
 | [KMP는 왜 KMP일까 - 2902](https://www.acmicpc.net/problem/2902) | [py](bronze_2/KMP는_왜_KMP일까_2902.py) |
 | [다이얼 - 5622](https://www.acmicpc.net/problem/5622) | [py](bronze_2/다이얼_5622.py) |
+| [대회 자리 - 5176](https://www.acmicpc.net/problem/5176) | [py](bronze_2/대회_자리_5176.py) |
 
 ## Bronze 1
 | 문제 | 코드 (python) | 코드 (javascript)|
