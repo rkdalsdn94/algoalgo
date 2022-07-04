@@ -110,6 +110,7 @@
 | [올림픽 - 8979](https://www.acmicpc.net/problem/8979) | [py](Silver_5/올림픽_8979.py) |
 | [국회의원 선거 - 1417](https://www.acmicpc.net/problem/1417) | [py](Silver_5/국회의원_선거_1417.py) |
 | [스테판 쿼리 - 14654](https://www.acmicpc.net/problem/14654) | [py](Silver_5/스테판_쿼리_14654.py) |
+| [캠핑 - 4796](https://www.acmicpc.net/problem/4796) | [py](Silver_5/캠핑_4796.py) |
 
 ## Silver 4
 | 문제 | 코드 (python) | 코드 (javascript)|
