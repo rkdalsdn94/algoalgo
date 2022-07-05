@@ -162,6 +162,7 @@
 | [패션왕 신해빈 - 9375](https://www.acmicpc.net/problem/9375) | [py](Silver_3/패션왕_신해빈_9375.py) |
 | [팰린드롬 만들기 - 1213](https://www.acmicpc.net/problem/1213) | [py](Silver_3/팰린드롬_만들기_1213.py) |
 | [Java vs C++ - 3613](https://www.acmicpc.net/problem/3613) | [py](Silver_3/Java_vs_Cpp_3613.py) |
+| [참외밭 - 2477](https://www.acmicpc.net/problem/2477) | [py](Silver_3/참외밭_2477.py) |
 
 ## Silver 2
 | 문제 | 코드 (python) | 코드 (javascript)|
