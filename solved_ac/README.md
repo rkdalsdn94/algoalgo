@@ -209,6 +209,7 @@
 | [케빈 베이컨의 6단계 법칙 - 1389](https://www.acmicpc.net/problem/1389) | [py](Silver_1/케빈_베이컨의_6단계_법칙_1389.py) |
 | [절댓값 힙 - 11286](https://www.acmicpc.net/problem/11286) | [py](Silver_1/절댓값_힙_11286.py) |
 | [IOIOI - 5525](https://www.acmicpc.net/problem/5525) | [py](Silver_1/IOIOI_5525.py) |
+| [카잉 달력 - 6064](https://www.acmicpc.net/problem/6064) | [py](Silver_1/카잉_달력_6064.py) |
 
 
 ## Gold 5
