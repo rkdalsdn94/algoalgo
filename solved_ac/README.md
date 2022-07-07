@@ -210,6 +210,7 @@
 | [절댓값 힙 - 11286](https://www.acmicpc.net/problem/11286) | [py](Silver_1/절댓값_힙_11286.py) |
 | [IOIOI - 5525](https://www.acmicpc.net/problem/5525) | [py](Silver_1/IOIOI_5525.py) |
 | [카잉 달력 - 6064](https://www.acmicpc.net/problem/6064) | [py](Silver_1/카잉_달력_6064.py) |
+| [경로 찾기 - 11403](https://www.acmicpc.net/problem/11403) | [py](Silver_1/경로_찾기_11403.py) |
 
 
 ## Gold 5
