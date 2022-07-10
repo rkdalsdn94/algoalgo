@@ -57,6 +57,7 @@
 | [KMP는 왜 KMP일까 - 2902](https://www.acmicpc.net/problem/2902) | [py](bronze_2/KMP는_왜_KMP일까_2902.py) |
 | [다이얼 - 5622](https://www.acmicpc.net/problem/5622) | [py](bronze_2/다이얼_5622.py) |
 | [대회 자리 - 5176](https://www.acmicpc.net/problem/5176) | [py](bronze_2/대회_자리_5176.py) |
+| [트럭 주차 - 2979](https://www.acmicpc.net/problem/2979) | [py](bronze_2/트럭_주차_2979.py) |
 
 ## Bronze 1
 | 문제 | 코드 (python) | 코드 (javascript)|
