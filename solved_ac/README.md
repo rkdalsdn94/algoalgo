@@ -28,6 +28,7 @@
 | [ACM 호텔 - 10250](https://www.acmicpc.net/problem/10250) | [py](bronze_3/ACM_호텔_10250.py) |
 | [윷놀이 - 2490](https://www.acmicpc.net/problem/2490) | [py](bronze_3/윷놀이_2490.py) |
 | [저작권 - 2914](https://www.acmicpc.net/problem/2914) | [py](bronze_3/저작권_2914.py) |
+| [지능형 기차 - 2455](https://www.acmicpc.net/problem/2455) | [py](bronze_3/지능형_기차_2455.py) |
 
 ## Bronze 2
 | 문제 | 코드 (python) | 코드 (javascript)|
