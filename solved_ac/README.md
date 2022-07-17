@@ -172,6 +172,7 @@
 | [Java vs C++ - 3613](https://www.acmicpc.net/problem/3613) | [py](Silver_3/Java_vs_Cpp_3613.py) |
 | [참외밭 - 2477](https://www.acmicpc.net/problem/2477) | [py](Silver_3/참외밭_2477.py) |
 | [2*n 타일링 2 - 11727](https://www.acmicpc.net/problem/11727) | [py](Silver_3/2*n_타일링_2_11727.py) |
+| [이전 순열 - 10973](https://www.acmicpc.net/problem/10973) | [py](Silver_3/이전_순열_10973.py) |
 
 ## Silver 2
 | 문제 | 코드 (python) | 코드 (javascript)|
