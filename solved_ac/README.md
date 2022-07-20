@@ -82,6 +82,7 @@
 | [오르막길 - 2846](https://www.acmicpc.net/problem/2846) | [py](bronze_1/오르막길_2846.py) |
 | [단어 뒤집기 - 9093](https://www.acmicpc.net/problem/9093) | [py](bronze_1/단어_뒤집기_9093.py) |
 | [Yangjojang of The Year - 11557](https://www.acmicpc.net/problem/11557) | [py](bronze_1/Yangjojang_of_The_Year_11557.py) |
+| [가장 큰 금민수 - 1526](https://www.acmicpc.net/problem/1526) | [py](bronze_1/가장_큰_금민수_1526.py) |
 
 ## Silver 5
 | 문제 | 코드 (python) | 코드 (javascript)|
