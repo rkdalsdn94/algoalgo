@@ -224,7 +224,7 @@
 | [IOIOI - 5525](https://www.acmicpc.net/problem/5525) | [py](Silver_1/IOIOI_5525.py) |
 | [카잉 달력 - 6064](https://www.acmicpc.net/problem/6064) | [py](Silver_1/카잉_달력_6064.py) |
 | [경로 찾기 - 11403](https://www.acmicpc.net/problem/11403) | [py](Silver_1/경로_찾기_11403.py) |
-
+| [카드 합체 놀이 - 15903](https://www.acmicpc.net/problem/15903) | [py](Silver_1/카드_합체_놀이_15903.py) |
 
 ## Gold 5
 | 문제 | 코드 (python) | 코드 (javascript)|
