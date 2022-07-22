@@ -60,6 +60,7 @@
 | [대회 자리 - 5176](https://www.acmicpc.net/problem/5176) | [py](bronze_2/대회_자리_5176.py) |
 | [트럭 주차 - 2979](https://www.acmicpc.net/problem/2979) | [py](bronze_2/트럭_주차_2979.py) |
 | [피시방 알바 - 1453](https://www.acmicpc.net/problem/1453) | [py](bronze_2/피시방_알바_1453.py) |
+| [행복 - 15969](https://www.acmicpc.net/problem/15969) | [py](bronze_2/행복_15969.py) |
 
 ## Bronze 1
 | 문제 | 코드 (python) | 코드 (javascript)|
