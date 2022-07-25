@@ -122,6 +122,7 @@
 | [Base Conversion - 11576](https://www.acmicpc.net/problem/11576) | [py](Silver_5/Base_Conversion_11576.py) |
 | [점프왕 쩰리 (Small) - 16173](https://www.acmicpc.net/problem/16173) | [py](Silver_5/점프왕_쩰리_16173.py) |
 | [DNA - 1969](https://www.acmicpc.net/problem/1969) | [py](Silver_5/DNA_1969.py) |
+| [성적 통계 - 5800](https://www.acmicpc.net/problem/5800) | [py](Silver_5/성적_통계_5800.py) |
 
 ## Silver 4
 | 문제 | 코드 (python) | 코드 (javascript)|
