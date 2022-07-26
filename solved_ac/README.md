@@ -229,6 +229,7 @@
 | [카잉 달력 - 6064](https://www.acmicpc.net/problem/6064) | [py](Silver_1/카잉_달력_6064.py) |
 | [경로 찾기 - 11403](https://www.acmicpc.net/problem/11403) | [py](Silver_1/경로_찾기_11403.py) |
 | [카드 합체 놀이 - 15903](https://www.acmicpc.net/problem/15903) | [py](Silver_1/카드_합체_놀이_15903.py) |
+| [오르막 수 - 11057](https://www.acmicpc.net/problem/11057) | [py](Silver_1/오르막_수_11057.py) |
 
 ## Gold 5
 | 문제 | 코드 (python) | 코드 (javascript)|
