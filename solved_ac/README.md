@@ -123,6 +123,7 @@
 | [점프왕 쩰리 (Small) - 16173](https://www.acmicpc.net/problem/16173) | [py](Silver_5/점프왕_쩰리_16173.py) |
 | [DNA - 1969](https://www.acmicpc.net/problem/1969) | [py](Silver_5/DNA_1969.py) |
 | [성적 통계 - 5800](https://www.acmicpc.net/problem/5800) | [py](Silver_5/성적_통계_5800.py) |
+| [비밀번호 발음하기 - 4659](https://www.acmicpc.net/problem/4659) | [py](Silver_5/비밀번호_발음하기_4659.py) |
 
 ## Silver 4
 | 문제 | 코드 (python) | 코드 (javascript)|
