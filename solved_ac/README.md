@@ -206,6 +206,7 @@
 | [종이의 개수 - 1780](https://www.acmicpc.net/problem/1780) | [py](Silver_2/종이의_개수_1780.py) |
 | [좌표 압축 - 18870](https://www.acmicpc.net/problem/18870) | [py](Silver_2/좌표_압축_18870.py) |
 | [마인크래프트 - 18111](https://www.acmicpc.net/problem/18111) | [py](Silver_2/마인크래프트_18111.py) |
+| [싸이버개강총회 - 19583](https://www.acmicpc.net/problem/19583) | [py](Silver_2/싸이버개강총회_19583.py) |
 
 ## Silver 1
 | 문제 | 코드 (python) | 코드 (javascript)|
