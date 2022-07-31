@@ -183,6 +183,7 @@
 | [2*n 타일링 2 - 11727](https://www.acmicpc.net/problem/11727) | [py](Silver_3/2*n_타일링_2_11727.py) |
 | [이전 순열 - 10973](https://www.acmicpc.net/problem/10973) | [py](Silver_3/이전_순열_10973.py) |
 | [수강신청 - 13414](https://www.acmicpc.net/problem/13414) | [py](Silver_3/수강신청_13414.py) |
+| [죽음의 게임 - 17204](https://www.acmicpc.net/problem/17204) | [py](Silver_3/죽음의_게임_17204.py) |
 
 ## Silver 2
 | 문제 | 코드 (python) | 코드 (javascript)|
