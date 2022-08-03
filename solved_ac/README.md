@@ -61,6 +61,7 @@
 | [트럭 주차 - 2979](https://www.acmicpc.net/problem/2979) | [py](bronze_2/트럭_주차_2979.py) |
 | [피시방 알바 - 1453](https://www.acmicpc.net/problem/1453) | [py](bronze_2/피시방_알바_1453.py) |
 | [행복 - 15969](https://www.acmicpc.net/problem/15969) | [py](bronze_2/행복_15969.py) |
+| [그대로 출력하기 - 11719](https://www.acmicpc.net/problem/11719) | [py](bronze_2/그대로_출력하기_11719.py) |
 
 ## Bronze 1
 | 문제 | 코드 (python) | 코드 (javascript)|
