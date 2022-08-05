@@ -87,6 +87,7 @@
 | [Yangjojang of The Year - 11557](https://www.acmicpc.net/problem/11557) | [py](bronze_1/Yangjojang_of_The_Year_11557.py) |
 | [가장 큰 금민수 - 1526](https://www.acmicpc.net/problem/1526) | [py](bronze_1/가장_큰_금민수_1526.py) |
 | [ROT13 - 11655](https://www.acmicpc.net/problem/11655) | [py](bronze_1/ROT13_11655.py) |
+| [피보나치 수 2 - 2748](https://www.acmicpc.net/problem/2748) | [py](bronze_1/피보나치_수_2_2748.py) |
 
 ## Silver 5
 | 문제 | 코드 (python) | 코드 (javascript)|
