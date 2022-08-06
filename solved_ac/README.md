@@ -213,6 +213,7 @@
 | [좌표 압축 - 18870](https://www.acmicpc.net/problem/18870) | [py](Silver_2/좌표_압축_18870.py) |
 | [마인크래프트 - 18111](https://www.acmicpc.net/problem/18111) | [py](Silver_2/마인크래프트_18111.py) |
 | [싸이버개강총회 - 19583](https://www.acmicpc.net/problem/19583) | [py](Silver_2/싸이버개강총회_19583.py) |
+| [로또 - 6603](https://www.acmicpc.net/problem/6603) | [py](Silver_2/로또_6603.py) |
 
 ## Silver 1
 | 문제 | 코드 (python) | 코드 (javascript)|
