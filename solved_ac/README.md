@@ -214,6 +214,7 @@
 | [마인크래프트 - 18111](https://www.acmicpc.net/problem/18111) | [py](Silver_2/마인크래프트_18111.py) |
 | [싸이버개강총회 - 19583](https://www.acmicpc.net/problem/19583) | [py](Silver_2/싸이버개강총회_19583.py) |
 | [로또 - 6603](https://www.acmicpc.net/problem/6603) | [py](Silver_2/로또_6603.py) |
+| [팰린드롬 만들기 - 1254](https://www.acmicpc.net/problem/1254) | [py](Silver_2/팰린드롬_만들기_1254.py) |
 
 ## Silver 1
 | 문제 | 코드 (python) | 코드 (javascript)|
