@@ -215,6 +215,7 @@
 | [싸이버개강총회 - 19583](https://www.acmicpc.net/problem/19583) | [py](Silver_2/싸이버개강총회_19583.py) |
 | [로또 - 6603](https://www.acmicpc.net/problem/6603) | [py](Silver_2/로또_6603.py) |
 | [팰린드롬 만들기 - 1254](https://www.acmicpc.net/problem/1254) | [py](Silver_2/팰린드롬_만들기_1254.py) |
+| [이동하기 - 11048](https://www.acmicpc.net/problem/11048) | [py](Silver_2/이동하기_11048.py) |
 
 ## Silver 1
 | 문제 | 코드 (python) | 코드 (javascript)|
