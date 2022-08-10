@@ -259,6 +259,7 @@
 | [테트로미노 - 14500](https://www.acmicpc.net/problem/14500) | [py](Gold_5/테트로미노_14500.py) |
 | [회문 - 17609](https://www.acmicpc.net/problem/17609) | [py](Gold_5/회문_17609.py) |
 | [A와 B - 12904](https://www.acmicpc.net/problem/12904) | [py](Gold_5/A와_B_12904.py) |
+| [배 - 1092](https://www.acmicpc.net/problem/1092) | [py](Gold_5/배_1092.py) |
 
 ## Gold 4
 | 문제 | 코드 (python) | 코드 (javascript)|
