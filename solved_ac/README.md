@@ -160,6 +160,7 @@
 | [에라토스테네스의 체 - 2960](https://www.acmicpc.net/problem/2960) | [py](Silver_4/에라토스테네스의_체_2960.py) |
 | [수들의 합 2 - 2003](https://www.acmicpc.net/problem/2003) | [py](Silver_4/수들의_합_2_2003.py) |
 | [암기왕 - 2776](https://www.acmicpc.net/problem/2776) | [py](Silver_4/암기왕_2776.py) |
+| [토너먼트 - 1057](https://www.acmicpc.net/problem/1057) | [py](Silver_4/토너먼트_1057.py) |
 
 ## Silver 3
 | 문제 | 코드 (python) | 코드 (javascript)|
