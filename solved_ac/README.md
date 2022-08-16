@@ -134,6 +134,7 @@
 | [비밀번호 발음하기 - 4659](https://www.acmicpc.net/problem/4659) | [py](Silver_5/비밀번호_발음하기_4659.py) |
 | [오늘도 졌다 - 14582](https://www.acmicpc.net/problem/14582) | [py](Silver_5/오늘도_졌다_14582.py) |
 | [투명 - 1531](https://www.acmicpc.net/problem/1531) | [py](Silver_5/투명_1531.py) |
+| [기념품 - 12873](https://www.acmicpc.net/problem/12873) | [py](Silver_5/기념품_12873.py) |
 
 ## Silver 4
 | 문제 | 코드 (python) | 코드 (javascript)|
