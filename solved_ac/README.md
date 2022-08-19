@@ -280,6 +280,7 @@
 | [탈출 - 3055](https://www.acmicpc.net/problem/3055) | [py](Gold_4/탈출_3055.py) |
 | [이중 우선순위 큐 - 7662](https://www.acmicpc.net/problem/7662) | [py](Gold_4/이중_우선순위_큐_7662.py) |
 | [최소 스패닝 트리 - 1197](https://www.acmicpc.net/problem/1197) | [py](Gold_4/최소_스패닝_트리_1197.py) |
+| [벽 부수고 이동하기 - 2206](https://www.acmicpc.net/problem/2206) | [py](Gold_4/벽_부수고_이동하기_2206.py) |
 
 ## Gold 3
 | 문제 | 코드 (python) | 코드 (javascript)|
