@@ -31,6 +31,7 @@
 | [저작권 - 2914](https://www.acmicpc.net/problem/2914) | [py](bronze_3/저작권_2914.py) |
 | [지능형 기차 - 2455](https://www.acmicpc.net/problem/2455) | [py](bronze_3/지능형_기차_2455.py) |
 | [별 찍기 12 - 2522](https://www.acmicpc.net/problem/2522) | [py](bronze_3/별_찍기_12_2522.py) |
+| [핸드폰 요금 - 1267](https://www.acmicpc.net/problem/1267) | [py](bronze_3/핸드폰_요금_1267.py) |
 
 ## Bronze 2
 | 문제 | 코드 (python) | 코드 (javascript)|
