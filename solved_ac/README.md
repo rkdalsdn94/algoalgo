@@ -94,6 +94,7 @@
 | [나무 조각 - 2947](https://www.acmicpc.net/problem/2947) | [py](bronze_1/나무_조각_2947.py) |
 | [박스 - 9455](https://www.acmicpc.net/problem/9455) | [py](bronze_1/박스_9455.py) |
 | [Doubles - 4641](https://www.acmicpc.net/problem/4641) | [py](bronze_1/Doubles_4641.py) |
+| [사탕 박사 고창영 - 2508](https://www.acmicpc.net/problem/2508) | [py](bronze_1/사탕_박사_고창영_2508.py) |
 
 ## Silver 5
 | 문제 | 코드 (python) | 코드 (javascript)|
