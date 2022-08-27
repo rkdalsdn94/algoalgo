@@ -202,6 +202,7 @@
 | [수강신청 - 13414](https://www.acmicpc.net/problem/13414) | [py](Silver_3/수강신청_13414.py) |
 | [죽음의 게임 - 17204](https://www.acmicpc.net/problem/17204) | [py](Silver_3/죽음의_게임_17204.py) |
 | [등수 매기기 - 2012](https://www.acmicpc.net/problem/2012) | [py](Silver_3/등수_매기기_2012.py) |
+| [이친수 - 2193](https://www.acmicpc.net/problem/2193) | [py](Silver_3/이친수_2193.py) |
 
 ## Silver 2
 | 문제 | 코드 (python) | 코드 (javascript)|
