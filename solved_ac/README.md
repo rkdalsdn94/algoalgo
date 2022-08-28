@@ -232,6 +232,7 @@
 | [팰린드롬 만들기 - 1254](https://www.acmicpc.net/problem/1254) | [py](Silver_2/팰린드롬_만들기_1254.py) |
 | [이동하기 - 11048](https://www.acmicpc.net/problem/11048) | [py](Silver_2/이동하기_11048.py) |
 | [오목 - 2615](https://www.acmicpc.net/problem/2615) | [py](Silver_2/오목_2615.py) |
+| [상자넣기 - 1965](https://www.acmicpc.net/problem/1965) | [py](Silver_2/상자넣기_1965.py) |
 
 ## Silver 1
 | 문제 | 코드 (python) | 코드 (javascript)|
