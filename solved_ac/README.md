@@ -143,6 +143,7 @@
 | [카드1 - 2161](https://www.acmicpc.net/problem/2161) | [py](Silver_5/카드1_2161.py) |
 | [돌 게임 - 9655](https://www.acmicpc.net/problem/9655) | [py](Silver_5/돌_게임_9655.py) |
 | [라디오 - 3135](https://www.acmicpc.net/problem/3135) | [py](Silver_5/라디오_3135.py) |
+| [막대기 - 1094](https://www.acmicpc.net/problem/1094) | [py](Silver_5/막대기_1094.py) |
 
 ## Silver 4
 | 문제 | 코드 (python) | 코드 (javascript)|
