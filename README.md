@@ -127,6 +127,7 @@ Lv1
 | [Lv1. 부족한 금액 계산하기](https://programmers.co.kr/learn/courses/30/lessons/82612) | [py](programmers/Lv1/Lv1_부족한_금액_계산하기.py) |  |
 | [Lv1. 신고 결과 받기](https://programmers.co.kr/learn/courses/30/lessons/92334) | [py](programmers/Lv1/Lv1_신고_결과_받기.py) |  |
 | [Lv1. 체육복](https://programmers.co.kr/learn/courses/30/lessons/42862) | [py](programmers/Lv1/Lv1_체육복.py) |  |
+| [Lv1. 성격 유형 검사하기](https://programmers.co.kr/learn/courses/30/lessons/118666) | [py](programmers/Lv1/Lv1_성격_유형_검사하기.py) |  |
 #
  Lv2 
 | 문제 | 코드 (python) | 코드 (javascript)|
