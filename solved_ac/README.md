@@ -68,6 +68,7 @@
 | [행복 - 15969](https://www.acmicpc.net/problem/15969) | [py](bronze_2/행복_15969.py) |
 | [그대로 출력하기 - 11719](https://www.acmicpc.net/problem/11719) | [py](bronze_2/그대로_출력하기_11719.py) |
 | [2차원 배열의 합 - 2167](https://www.acmicpc.net/problem/2167) | [py](bronze_2/2차원_배열의_합_2167.py) |
+| [뒤집힌 덧셈 - 1357](https://www.acmicpc.net/problem/1357) | [py](bronze_2/뒤집힌_덧셈_1357.py) |
 
 ## Bronze 1
 | 문제 | 코드 (python) | 코드 (javascript)|
