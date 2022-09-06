@@ -34,6 +34,7 @@
 | [핸드폰 요금 - 1267](https://www.acmicpc.net/problem/1267) | [py](bronze_3/핸드폰_요금_1267.py) |
 | [홀수 - 2576](https://www.acmicpc.net/problem/2576) | [py](bronze_3/홀수_2576.py) |
 | [지능형 기차 2 - 2460](https://www.acmicpc.net/problem/2460) | [py](bronze_3/지능형_기차_2_2460.py) |
+| [점수계산 - 2506](https://www.acmicpc.net/problem/2506) | [py](bronze_3/점수계산_2506.py) |
 
 ## Bronze 2
 | 문제 | 코드 (python) | 코드 (javascript)|
