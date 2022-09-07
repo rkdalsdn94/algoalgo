@@ -177,6 +177,7 @@
 | [토너먼트 - 1057](https://www.acmicpc.net/problem/1057) | [py](Silver_4/토너먼트_1057.py) |
 | [큐 2 - 18258](https://www.acmicpc.net/problem/18258) | [py](Silver_4/큐_2_18258.py) |
 | [수열 정렬 - 1015](https://www.acmicpc.net/problem/1015) | [py](Silver_4/수열_정렬_1015.py) |
+| [국영수 - 10825](https://www.acmicpc.net/problem/10825) | [py](Silver_4/국영수_10825.py) |
 
 ## Silver 3
 | 문제 | 코드 (python) | 코드 (javascript)|
