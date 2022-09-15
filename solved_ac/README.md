@@ -215,6 +215,7 @@
 | [등수 매기기 - 2012](https://www.acmicpc.net/problem/2012) | [py](Silver_3/등수_매기기_2012.py) |
 | [이친수 - 2193](https://www.acmicpc.net/problem/2193) | [py](Silver_3/이친수_2193.py) |
 | [문자열 집합 - 14425](https://www.acmicpc.net/problem/14425) | [py](Silver_3/문자열_집합_14425.py) |
+| [카드 - 11652](https://www.acmicpc.net/problem/11652) | [py](Silver_3/카드_11652.py) |
 
 ## Silver 2
 | 문제 | 코드 (python) | 코드 (javascript)|
