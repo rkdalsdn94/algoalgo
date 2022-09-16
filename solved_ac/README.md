@@ -248,6 +248,7 @@
 | [상자넣기 - 1965](https://www.acmicpc.net/problem/1965) | [py](Silver_2/상자넣기_1965.py) |
 | [크로스워드 - 1706](https://www.acmicpc.net/problem/1706) | [py](Silver_2/크로스워드_1706.py) |
 | [트리의 부모 찾기 - 11725](https://www.acmicpc.net/problem/11725) | [py](Silver_2/트리의_부모_찾기_11725.py) |
+| [N번째 큰 수 - 2075](https://www.acmicpc.net/problem/2075) | [py](Silver_2/N번째_큰_수_2075.py) |
 
 ## Silver 1
 | 문제 | 코드 (python) | 코드 (javascript)|
