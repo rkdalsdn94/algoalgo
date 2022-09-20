@@ -148,6 +148,7 @@
 | [막대기 - 1094](https://www.acmicpc.net/problem/1094) | [py](Silver_5/막대기_1094.py) |
 | [돌 게임 2 - 9656](https://www.acmicpc.net/problem/9656) | [py](Silver_5/돌_게임_2_9656.py) |
 | [거스름돈 - 14916](https://www.acmicpc.net/problem/14916) | [py](Silver_5/거스름돈_14916.py) |
+| [중복 빼고 정렬하기 - 10867](https://www.acmicpc.net/problem/10867) | [py](Silver_5/중복_빼고_정렬하기_10867.py) |
 
 ## Silver 4
 | 문제 | 코드 (python) | 코드 (javascript)|
