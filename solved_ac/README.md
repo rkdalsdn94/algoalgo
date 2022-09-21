@@ -220,6 +220,7 @@
 | [문자열 집합 - 14425](https://www.acmicpc.net/problem/14425) | [py](Silver_3/문자열_집합_14425.py) |
 | [카드 - 11652](https://www.acmicpc.net/problem/11652) | [py](Silver_3/카드_11652.py) |
 | [두 수의 합 - 3273](https://www.acmicpc.net/problem/3273) | [py](Silver_3/두_수의_합_3273.py) |
+| [먹을 것인가 먹힐 것인가 - 7795](https://www.acmicpc.net/problem/7795) | [py](Silver_3/먹을_것인가_먹힐_것인가_7795.py) |
 
 ## Silver 2
 | 문제 | 코드 (python) | 코드 (javascript)|
