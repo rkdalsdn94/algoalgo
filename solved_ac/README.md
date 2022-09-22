@@ -300,6 +300,7 @@
 | [A와 B - 12904](https://www.acmicpc.net/problem/12904) | [py](Gold_5/A와_B_12904.py) |
 | [배 - 1092](https://www.acmicpc.net/problem/1092) | [py](Gold_5/배_1092.py) |
 | [암호 만들기 - 1759](https://www.acmicpc.net/problem/1759) | [py](Gold_5/암호_만들기_1759.py) |
+| [보물섬 - 2589](https://www.acmicpc.net/problem/2589) | [py](Gold_5/보물섬_2589.py) |
 
 ## Gold 4
 | 문제 | 코드 (python) | 코드 (javascript)|
