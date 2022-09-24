@@ -302,6 +302,7 @@
 | [배 - 1092](https://www.acmicpc.net/problem/1092) | [py](Gold_5/배_1092.py) |
 | [암호 만들기 - 1759](https://www.acmicpc.net/problem/1759) | [py](Gold_5/암호_만들기_1759.py) |
 | [보물섬 - 2589](https://www.acmicpc.net/problem/2589) | [py](Gold_5/보물섬_2589.py) |
+| [두 용액 - 2470](https://www.acmicpc.net/problem/2470) | [py](Gold_5/두_용액_2470.py) |
 
 ## Gold 4
 | 문제 | 코드 (python) | 코드 (javascript)|
