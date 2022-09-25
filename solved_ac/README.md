@@ -185,6 +185,7 @@
 | [접미사 배열 - 11656](https://www.acmicpc.net/problem/11656) | [py](Silver_4/접미사_배열_11656.py) |
 | [캠프가는 영식 - 1590](https://www.acmicpc.net/problem/1590) | [py](Silver_4/캠프가는_영식_1590.py) |
 | [주몽 - 1940](https://www.acmicpc.net/problem/1940) | [py](Silver_4/주몽_1940.py) |
+| [알바생 강호 - 1758](https://www.acmicpc.net/problem/1758) | [py](Silver_4/알바생_강호_1758.py) |
 
 ## Silver 3
 | 문제 | 코드 (python) | 코드 (javascript)|
