@@ -285,6 +285,7 @@
 | [쉬운 계단 수 - 10844](https://www.acmicpc.net/problem/10844) | [py](Silver_1/쉬운_계단_수_10844.py) |
 | [나이트의 이동 - 7562](https://www.acmicpc.net/problem/7562) | [py](Silver_1/나이트의_이동_7562.py) |
 | [트럭 - 13335](https://www.acmicpc.net/problem/13335) | [py](Silver_1/트럭_13335.py) |
+| [점프 - 1890](https://www.acmicpc.net/problem/1890) | [py](Silver_1/점프_1890.py) |
 
 ## Gold 5
 | 문제 | 코드 (python) | 코드 (javascript)|
