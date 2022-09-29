@@ -150,6 +150,7 @@
 | [거스름돈 - 14916](https://www.acmicpc.net/problem/14916) | [py](Silver_5/거스름돈_14916.py) |
 | [중복 빼고 정렬하기 - 10867](https://www.acmicpc.net/problem/10867) | [py](Silver_5/중복_빼고_정렬하기_10867.py) |
 | [이장님 초대 - 9237](https://www.acmicpc.net/problem/9237) | [py](Silver_5/이장님_초대_9237.py) |
+| [단어 나누기 - 1251](https://www.acmicpc.net/problem/1251) | [py](Silver_5/단어_나누기_1251.py) |
 
 ## Silver 4
 | 문제 | 코드 (python) | 코드 (javascript)|
