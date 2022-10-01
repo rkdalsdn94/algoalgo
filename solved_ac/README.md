@@ -151,6 +151,7 @@
 | [중복 빼고 정렬하기 - 10867](https://www.acmicpc.net/problem/10867) | [py](Silver_5/중복_빼고_정렬하기_10867.py) |
 | [이장님 초대 - 9237](https://www.acmicpc.net/problem/9237) | [py](Silver_5/이장님_초대_9237.py) |
 | [단어 나누기 - 1251](https://www.acmicpc.net/problem/1251) | [py](Silver_5/단어_나누기_1251.py) |
+| [BABBA - 9625](https://www.acmicpc.net/problem/9625) | [py](Silver_5/BABBA_9625.py) |
 
 ## Silver 4
 | 문제 | 코드 (python) | 코드 (javascript)|
