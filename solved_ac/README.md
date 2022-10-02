@@ -188,6 +188,7 @@
 | [캠프가는 영식 - 1590](https://www.acmicpc.net/problem/1590) | [py](Silver_4/캠프가는_영식_1590.py) |
 | [주몽 - 1940](https://www.acmicpc.net/problem/1940) | [py](Silver_4/주몽_1940.py) |
 | [알바생 강호 - 1758](https://www.acmicpc.net/problem/1758) | [py](Silver_4/알바생_강호_1758.py) |
+| [수들의 합 5 - 2018](https://www.acmicpc.net/problem/2018) | [py](Silver_4/수들의_합_5_2018.py) |
 
 ## Silver 3
 | 문제 | 코드 (python) | 코드 (javascript)|
