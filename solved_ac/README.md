@@ -153,6 +153,7 @@
 | [이장님 초대 - 9237](https://www.acmicpc.net/problem/9237) | [py](Silver_5/이장님_초대_9237.py) |
 | [단어 나누기 - 1251](https://www.acmicpc.net/problem/1251) | [py](Silver_5/단어_나누기_1251.py) |
 | [BABBA - 9625](https://www.acmicpc.net/problem/9625) | [py](Silver_5/BABBA_9625.py) |
+| [UCPC는 무엇의 약자일까 - 15904](https://www.acmicpc.net/problem/15904) | [py](Silver_5/UCPC는_무엇의_약자일까_15904.py) |
 
 ## Silver 4
 | 문제 | 코드 (python) | 코드 (javascript)|
