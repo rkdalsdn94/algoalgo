@@ -35,6 +35,7 @@
 | [홀수 - 2576](https://www.acmicpc.net/problem/2576) | [py](bronze_3/홀수_2576.py) |
 | [지능형 기차 2 - 2460](https://www.acmicpc.net/problem/2460) | [py](bronze_3/지능형_기차_2_2460.py) |
 | [점수계산 - 2506](https://www.acmicpc.net/problem/2506) | [py](bronze_3/점수계산_2506.py) |
+| [우유 축제 - 14720](https://www.acmicpc.net/problem/14720) | [py](bronze_3/우유_축제_14720.py) |
 
 ## Bronze 2
 | 문제 | 코드 (python) | 코드 (javascript)|
