@@ -196,6 +196,7 @@
 | [온라인 판매 - 1246](https://www.acmicpc.net/problem/1246) | [py](Silver_4/온라인_판매_1246.py) |
 | [대칭 차집합 - 1269](https://www.acmicpc.net/problem/1269) | [py](Silver_4/대칭_차집합_1269.py) |
 | [오셀로 재배치 - 13413](https://www.acmicpc.net/problem/13413) | [py](Silver_4/오셀로_재배치_13413.py) |
+| [소가 길을 건너간 이유 3 - 14469](https://www.acmicpc.net/problem/14469) | [py](Silver_4/소가_길을_건너간_이유_3_14469.py) |
 
 ## Silver 3
 | 문제 | 코드 (python) | 코드 (javascript)|
