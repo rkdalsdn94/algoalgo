@@ -21,6 +21,7 @@
 | [8진수 2진수 - 1212](https://www.acmicpc.net/problem/1212) | [py](bronze_4/8진수_2진수_1212.py) |
 | [TV 크기 - 1212](https://www.acmicpc.net/problem/1297) | [py](bronze_4/TV_크기_1297.py) |
 | [R2 - 3046](https://www.acmicpc.net/problem/3046) | [py](bronze_4/R2_3046.py) |
+| [10부제 - 10797](https://www.acmicpc.net/problem/10797) | [py](bronze_4/10부제_10797.py) |
 
 ## Bronze 3
 | 문제 | 코드 (python) | 코드 (javascript)|
