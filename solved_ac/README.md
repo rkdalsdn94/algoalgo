@@ -73,6 +73,7 @@
 | [2차원 배열의 합 - 2167](https://www.acmicpc.net/problem/2167) | [py](bronze_2/2차원_배열의_합_2167.py) |
 | [뒤집힌 덧셈 - 1357](https://www.acmicpc.net/problem/1357) | [py](bronze_2/뒤집힌_덧셈_1357.py) |
 | [피로도 - 22864](https://www.acmicpc.net/problem/22864) | [py](bronze_2/피로도_22864.py) |
+| [만취한 상범 - 6359](https://www.acmicpc.net/problem/6359) | [py](bronze_2/만취한_상범_6359.py) |
 
 ## Bronze 1
 | 문제 | 코드 (python) | 코드 (javascript)|
