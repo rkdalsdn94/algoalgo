@@ -238,6 +238,7 @@
 | [두 수의 합 - 3273](https://www.acmicpc.net/problem/3273) | [py](Silver_3/두_수의_합_3273.py) |
 | [먹을 것인가 먹힐 것인가 - 7795](https://www.acmicpc.net/problem/7795) | [py](Silver_3/먹을_것인가_먹힐_것인가_7795.py) |
 | [서로 다른 부분 문자열의 개수 - 11478](https://www.acmicpc.net/problem/11478) | [py](Silver_3/서로_다른_부분_문자열의_개수_11478.py) |
+| [블로그2 - 20365](https://www.acmicpc.net/problem/20365) | [py](Silver_3/블로그2_20365.py) |
 
 ## Silver 2
 | 문제 | 코드 (python) | 코드 (javascript)|
