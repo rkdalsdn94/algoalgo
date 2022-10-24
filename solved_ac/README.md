@@ -75,6 +75,7 @@
 | [피로도 - 22864](https://www.acmicpc.net/problem/22864) | [py](bronze_2/피로도_22864.py) |
 | [만취한 상범 - 6359](https://www.acmicpc.net/problem/6359) | [py](bronze_2/만취한_상범_6359.py) |
 | [수 이어 쓰기 3 - 2154](https://www.acmicpc.net/problem/2154) | [py](bronze_2/수_이어_쓰기_3_2154.py) |
+| [이상한 곱셈 - 1225](https://www.acmicpc.net/problem/1225) | [py](bronze_2/이상한_곱셈_1225.py) |
 
 ## Bronze 1
 | 문제 | 코드 (python) | 코드 (javascript)|
