@@ -347,6 +347,7 @@
 | [벽 부수고 이동하기 - 2206](https://www.acmicpc.net/problem/2206) | [py](Gold_4/벽_부수고_이동하기_2206.py) |
 | [단어 수학 - 1339](https://www.acmicpc.net/problem/1339) | [py](Gold_4/단어_수학_1339.py) |
 | [집합의 표현 - 1717](https://www.acmicpc.net/problem/1717) | [py](Gold_4/집합의_표현_1717.py) |
+| [전화번호 목록 - 5052](https://www.acmicpc.net/problem/5052) | [py](Gold_4/전화번호_목록_5052.py) |
 
 ## Gold 3
 | 문제 | 코드 (python) | 코드 (javascript)|
