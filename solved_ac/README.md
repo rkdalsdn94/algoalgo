@@ -205,6 +205,7 @@
 | [오셀로 재배치 - 13413](https://www.acmicpc.net/problem/13413) | [py](Silver_4/오셀로_재배치_13413.py) |
 | [소가 길을 건너간 이유 3 - 14469](https://www.acmicpc.net/problem/14469) | [py](Silver_4/소가_길을_건너간_이유_3_14469.py) |
 | [카드 놓기 - 5568](https://www.acmicpc.net/problem/5568) | [py](Silver_4/카드_놓기_5568.py) |
+| [Byte Coin - 17521](https://www.acmicpc.net/problem/17521) | [py](Silver_4/Byte_Coin_17521.py) |
 
 ## Silver 3
 | 문제 | 코드 (python) | 코드 (javascript)|
