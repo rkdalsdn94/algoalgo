@@ -164,6 +164,7 @@
 | [제곱근 - 13706](https://www.acmicpc.net/problem/13706) | [py](Silver_5/제곱근_13706.py) |
 | [줄 세우기 - 11536](https://www.acmicpc.net/problem/11536) | [py](Silver_5/줄_세우기_11536.py) |
 | [스네이크버드 - 16435](https://www.acmicpc.net/problem/16435) | [py](Silver_5/스네이크버드_16435.py) |
+| [타일 장식물 - 13301](https://www.acmicpc.net/problem/13301) | [py](Silver_5/타일_장식물_13301.py) |
 
 ## Silver 4
 | 문제 | 코드 (python) | 코드 (javascript)|
