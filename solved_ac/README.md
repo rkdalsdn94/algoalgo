@@ -109,6 +109,7 @@
 | [Doubles - 4641](https://www.acmicpc.net/problem/4641) | [py](bronze_1/Doubles_4641.py) |
 | [사탕 박사 고창영 - 2508](https://www.acmicpc.net/problem/2508) | [py](bronze_1/사탕_박사_고창영_2508.py) |
 | [컵홀더 - 2810](https://www.acmicpc.net/problem/2810) | [py](bronze_1/컵홀더_2810.py) |
+| [N번째 큰 수 - 2693](https://www.acmicpc.net/problem/2693) | [py](bronze_1/N번째_큰_수_2693.py) |
 
 ## Silver 5
 | 문제 | 코드 (python) | 코드 (javascript)|
