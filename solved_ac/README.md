@@ -252,6 +252,7 @@
 | [서로 다른 부분 문자열의 개수 - 11478](https://www.acmicpc.net/problem/11478) | [py](Silver_3/서로_다른_부분_문자열의_개수_11478.py) |
 | [블로그2 - 20365](https://www.acmicpc.net/problem/20365) | [py](Silver_3/블로그2_20365.py) |
 | [수열 - 2559](https://www.acmicpc.net/problem/2559) | [py](Silver_3/수열_2559.py) |
+| [물 주기 - 23351](https://www.acmicpc.net/problem/23351) | [py](Silver_3/물_주기_23351.py) |
 
 ## Silver 2
 | 문제 | 코드 (python) | 코드 (javascript)|
