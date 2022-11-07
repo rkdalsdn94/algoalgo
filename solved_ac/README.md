@@ -169,6 +169,7 @@
 | [스네이크버드 - 16435](https://www.acmicpc.net/problem/16435) | [py](Silver_5/스네이크버드_16435.py) |
 | [타일 장식물 - 13301](https://www.acmicpc.net/problem/13301) | [py](Silver_5/타일_장식물_13301.py) |
 | [최대 상승 - 25644](https://www.acmicpc.net/problem/25644) | [py](Silver_5/최대_상승_25644.py) |
+| [줄세우기 - 10431](https://www.acmicpc.net/problem/10431) | [py](Silver_5/줄세우기_10431.py) |
 
 ## Silver 4
 | 문제 | 코드 (python) | 코드 (javascript)|
