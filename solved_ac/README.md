@@ -292,6 +292,7 @@
 | [1,2,3 더하기 3 - 15988](https://www.acmicpc.net/problem/15988) | [py](Silver_2/1,2,3_더하기_3_15988.py) |
 | [안녕 - 1535](https://www.acmicpc.net/problem/1535) | [py](Silver_2/안녕_1535.py) |
 | [용돈 관리 - 6236](https://www.acmicpc.net/problem/6236) | [py](Silver_2/용돈_관리_6236.py) |
+| [과자 나눠주기 - 16401](https://www.acmicpc.net/problem/16401) | [py](Silver_2/과자_나눠주기_16401.py) |
 
 ## Silver 1
 | 문제 | 코드 (python) | 코드 (javascript)|
