@@ -294,6 +294,7 @@
 | [안녕 - 1535](https://www.acmicpc.net/problem/1535) | [py](Silver_2/안녕_1535.py) |
 | [용돈 관리 - 6236](https://www.acmicpc.net/problem/6236) | [py](Silver_2/용돈_관리_6236.py) |
 | [과자 나눠주기 - 16401](https://www.acmicpc.net/problem/16401) | [py](Silver_2/과자_나눠주기_16401.py) |
+| [부분수열의 합 - 1182](https://www.acmicpc.net/problem/1182) | [py](Silver_2/부분수열의_합_1182.py) |
 
 ## Silver 1
 | 문제 | 코드 (python) | 코드 (javascript)|
