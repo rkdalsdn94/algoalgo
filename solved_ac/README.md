@@ -295,6 +295,7 @@
 | [용돈 관리 - 6236](https://www.acmicpc.net/problem/6236) | [py](Silver_2/용돈_관리_6236.py) |
 | [과자 나눠주기 - 16401](https://www.acmicpc.net/problem/16401) | [py](Silver_2/과자_나눠주기_16401.py) |
 | [부분수열의 합 - 1182](https://www.acmicpc.net/problem/1182) | [py](Silver_2/부분수열의_합_1182.py) |
+| [오목 - 2072](https://www.acmicpc.net/problem/2072) | [py](Silver_2/오목_2072.py) |
 
 ## Silver 1
 | 문제 | 코드 (python) | 코드 (javascript)|
