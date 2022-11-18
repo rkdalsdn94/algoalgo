@@ -215,6 +215,7 @@
 | [카드 놓기 - 5568](https://www.acmicpc.net/problem/5568) | [py](Silver_4/카드_놓기_5568.py) |
 | [Byte Coin - 17521](https://www.acmicpc.net/problem/17521) | [py](Silver_4/Byte_Coin_17521.py) |
 | [30번 - 13116](https://www.acmicpc.net/problem/13116) | [py](Silver_4/30번_13116.py) |
+| [바닥 장식 - 1388](https://www.acmicpc.net/problem/1388) | [py](Silver_4/바닥_장식_1388.py) |
 
 ## Silver 3
 | 문제 | 코드 (python) | 코드 (javascript)|
