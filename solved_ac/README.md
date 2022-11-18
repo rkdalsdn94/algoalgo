@@ -330,6 +330,7 @@
 | [음식물 피하기 - 1743](https://www.acmicpc.net/problem/1743) | [py](Silver_1/음식물_피하기_1743.py) |
 | [시간 관리 - 1263](https://www.acmicpc.net/problem/1263) | [py](Silver_1/시간_관리_1263.py) |
 | [귀여운 라이언 - 15565](https://www.acmicpc.net/problem/15565) | [py](Silver_1/귀여운_라이언_15565.py) |
+| [완전 이진 트리 - 9934](https://www.acmicpc.net/problem/9934) | [py](Silver_1/완전_이진_트리_9934.py) |
 
 ## Gold 5
 | 문제 | 코드 (python) | 코드 (javascript)|
