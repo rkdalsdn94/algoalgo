@@ -171,6 +171,7 @@
 | [최대 상승 - 25644](https://www.acmicpc.net/problem/25644) | [py](Silver_5/최대_상승_25644.py) |
 | [줄세우기 - 10431](https://www.acmicpc.net/problem/10431) | [py](Silver_5/줄세우기_10431.py) |
 | [사탕 - 11256](https://www.acmicpc.net/problem/11256) | [py](Silver_5/사탕_11256.py) |
+| [카우버거 - 15720](https://www.acmicpc.net/problem/15720) | [py](Silver_5/카우버거_15720.py) |
 
 ## Silver 4
 | 문제 | 코드 (python) | 코드 (javascript)|
