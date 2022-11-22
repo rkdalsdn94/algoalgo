@@ -260,6 +260,7 @@
 | [수열 - 2559](https://www.acmicpc.net/problem/2559) | [py](Silver_3/수열_2559.py) |
 | [물 주기 - 23351](https://www.acmicpc.net/problem/23351) | [py](Silver_3/물_주기_23351.py) |
 | [게임 - 1072](https://www.acmicpc.net/problem/1072) | [py](Silver_3/게임_1072.py) |
+| [놀라운 문자열 - 1972](https://www.acmicpc.net/problem/1972) | [py](Silver_3/놀라운_문자열_1972.py) |
 
 ## Silver 2
 | 문제 | 코드 (python) | 코드 (javascript)|
