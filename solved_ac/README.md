@@ -221,6 +221,7 @@
 | [사이클 단어 - 1544](https://www.acmicpc.net/problem/1544) | [py](Silver_4/사이클_단어_1544.py) |
 | [Maximum Subarray - 10211](https://www.acmicpc.net/problem/10211) | [py](Silver_4/Maximum_Subarray_10211.py) |
 | [당근 키우기 - 20363](https://www.acmicpc.net/problem/20363) | [py](Silver_4/당근_키우기_20363.py) |
+| [피보나치 비스무리한 수열 - 14495](https://www.acmicpc.net/problem/14495) | [py](Silver_4/피보나치_비스무리한_수열_14495.py) |
 
 ## Silver 3
 | 문제 | 코드 (python) | 코드 (javascript)|
