@@ -266,6 +266,7 @@
 | [게임 - 1072](https://www.acmicpc.net/problem/1072) | [py](Silver_3/게임_1072.py) |
 | [놀라운 문자열 - 1972](https://www.acmicpc.net/problem/1972) | [py](Silver_3/놀라운_문자열_1972.py) |
 | [1 빼기 - 25709](https://www.acmicpc.net/problem/25709) | [py](Silver_3/1_빼기_25709.py) |
+| [에너지 드링크 - 20115](https://www.acmicpc.net/problem/20115) | [py](Silver_3/에너지_드링크_20115.py) |
 
 ## Silver 2
 | 문제 | 코드 (python) | 코드 (javascript)|
