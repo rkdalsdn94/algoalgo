@@ -173,6 +173,7 @@
 | [사탕 - 11256](https://www.acmicpc.net/problem/11256) | [py](Silver_5/사탕_11256.py) |
 | [카우버거 - 15720](https://www.acmicpc.net/problem/15720) | [py](Silver_5/카우버거_15720.py) |
 | [키 큰 사람 - 11292](https://www.acmicpc.net/problem/11292) | [py](Silver_5/키_큰_사람_11292.py) |
+| [짐 챙기는 숌 - 1817](https://www.acmicpc.net/problem/1817) | [py](Silver_5/짐_챙기는_숌_1817.py) |
 
 ## Silver 4
 | 문제 | 코드 (python) | 코드 (javascript)|
