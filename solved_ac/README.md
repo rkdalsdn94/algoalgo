@@ -370,6 +370,7 @@
 | [두 용액 - 2470](https://www.acmicpc.net/problem/2470) | [py](Gold_5/두_용액_2470.py) |
 | [강의실 배정 - 11000](https://www.acmicpc.net/problem/11000) | [py](Gold_5/강의실_배정_11000.py) |
 | [4와 7 - 2877](https://www.acmicpc.net/problem/2877) | [py](Gold_5/4와_7_2877.py) |
+| [최소비용 구하기 - 1916](https://www.acmicpc.net/problem/1916) | [py](Gold_5/최소비용_구하기_1916.py) |
 
 ## Gold 4
 | 문제 | 코드 (python) | 코드 (javascript)|
