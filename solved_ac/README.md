@@ -225,6 +225,7 @@
 | [피보나치 비스무리한 수열 - 14495](https://www.acmicpc.net/problem/14495) | [py](Silver_4/피보나치_비스무리한_수열_14495.py) |
 | [좋은 구간 - 1059](https://www.acmicpc.net/problem/1059) | [py](Silver_4/좋은_구간_1059.py) |
 | [2+1 세일 - 11508](https://www.acmicpc.net/problem/11508) | [py](Silver_4/2+1_세일_11508.py) |
+| [정수 제곱근 - 2417](https://www.acmicpc.net/problem/2417) | [py](Silver_4/정수_제곱근_2417.py) |
 
 ## Silver 3
 | 문제 | 코드 (python) | 코드 (javascript)|
