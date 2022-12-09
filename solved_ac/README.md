@@ -349,6 +349,7 @@
 | [완전 이진 트리 - 9934](https://www.acmicpc.net/problem/9934) | [py](Silver_1/완전_이진_트리_9934.py) |
 | [동물원 - 1309](https://www.acmicpc.net/problem/1309) | [py](Silver_1/동물원_1309.py) |
 | [주지수 - 15724](https://www.acmicpc.net/problem/15724) | [py](Silver_1/주지수_15724.py) |
+| [추월 - 2002](https://www.acmicpc.net/problem/2002) | [py](Silver_1/추월_2002.py) |
 
 ## Gold 5
 | 문제 | 코드 (python) | 코드 (javascript)|
