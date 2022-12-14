@@ -316,6 +316,7 @@
 | [오목 - 2072](https://www.acmicpc.net/problem/2072) | [py](Silver_2/오목_2072.py) |
 | [결혼식 - 5567](https://www.acmicpc.net/problem/5567) | [py](Silver_2/결혼식_5567.py) |
 | [가장 긴 감소하는 부분 수열 - 11722](https://www.acmicpc.net/problem/11722) | [py](Silver_2/가장_긴_감소하는_부분_수열_11722.py) |
+| [최대 페이지 수 - 16493](https://www.acmicpc.net/problem/16493) | [py](Silver_2/최대_페이지_수_16493.py) |
 
 ## Silver 1
 | 문제 | 코드 (python) | 코드 (javascript)|
