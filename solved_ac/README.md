@@ -176,6 +176,7 @@
 | [카우버거 - 15720](https://www.acmicpc.net/problem/15720) | [py](Silver_5/카우버거_15720.py) |
 | [키 큰 사람 - 11292](https://www.acmicpc.net/problem/11292) | [py](Silver_5/키_큰_사람_11292.py) |
 | [짐 챙기는 숌 - 1817](https://www.acmicpc.net/problem/1817) | [py](Silver_5/짐_챙기는_숌_1817.py) |
+| [코스튬 파티 - 6159](https://www.acmicpc.net/problem/6159) | [py](Silver_5/코스튬_파티_6159.py) |
 
 ## Silver 4
 | 문제 | 코드 (python) | 코드 (javascript)|
