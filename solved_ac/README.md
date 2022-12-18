@@ -278,6 +278,7 @@
 | [에너지 드링크 - 20115](https://www.acmicpc.net/problem/20115) | [py](Silver_3/에너지_드링크_20115.py) |
 | [최고의 피자 - 5545](https://www.acmicpc.net/problem/5545) | [py](Silver_3/최고의_피자_5545.py) |
 | [카드 문자열 - 13417](https://www.acmicpc.net/problem/13417) | [py](Silver_3/카드_문자열_13417.py) |
+| [햄버거 분배 - 19941](https://www.acmicpc.net/problem/19941) | [py](Silver_3/햄버거_분배_19941.py) |
 
 ## Silver 2
 | 문제 | 코드 (python) | 코드 (javascript)|
