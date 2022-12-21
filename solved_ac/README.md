@@ -231,6 +231,7 @@
 | [2+1 세일 - 11508](https://www.acmicpc.net/problem/11508) | [py](Silver_4/2+1_세일_11508.py) |
 | [정수 제곱근 - 2417](https://www.acmicpc.net/problem/2417) | [py](Silver_4/정수_제곱근_2417.py) |
 | [세 개의 소수 문제 - 11502](https://www.acmicpc.net/problem/11502) | [py](Silver_4/세_개의_소수_문제_11502.py) |
+| [올바른 배열 - 1337](https://www.acmicpc.net/problem/1337) | [py](Silver_4/올바른_배열_1337.py) |
 
 ## Silver 3
 | 문제 | 코드 (python) | 코드 (javascript)|
