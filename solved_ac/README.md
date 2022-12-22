@@ -384,6 +384,7 @@
 | [최소비용 구하기 - 1916](https://www.acmicpc.net/problem/1916) | [py](Gold_5/최소비용_구하기_1916.py) |
 | [평범한 배낭 - 12865](https://www.acmicpc.net/problem/12865) | [py](Gold_5/평범한_배낭_12865.py) |
 | [LCS - 9251](https://www.acmicpc.net/problem/9251) | [py](Gold_5/LCS_9251.py) |
+| [벼락치기 - 14728](https://www.acmicpc.net/problem/14728) | [py](Gold_5/벼락치기_14728.py) |
 
 ## Gold 4
 | 문제 | 코드 (python) | 코드 (javascript)|
