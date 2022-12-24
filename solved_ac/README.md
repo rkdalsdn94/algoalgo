@@ -404,6 +404,7 @@
 | [전화번호 목록 - 5052](https://www.acmicpc.net/problem/5052) | [py](Gold_4/전화번호_목록_5052.py) |
 | [수 묶기 - 1744](https://www.acmicpc.net/problem/1744) | [py](Gold_4/수_묶기_1744.py) |
 | [사탕 가게 - 4781](https://www.acmicpc.net/problem/4781) | [py](Gold_4/사탕_가게_4781.py) |
+| [좋다 - 1253](https://www.acmicpc.net/problem/1253) | [py](Gold_4/좋다_1253.py) |
 
 ## Gold 3
 | 문제 | 코드 (python) | 코드 (javascript)|
