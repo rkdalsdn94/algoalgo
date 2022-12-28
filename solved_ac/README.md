@@ -180,6 +180,7 @@
 | [키 큰 사람 - 11292](https://www.acmicpc.net/problem/11292) | [py](Silver_5/키_큰_사람_11292.py) |
 | [짐 챙기는 숌 - 1817](https://www.acmicpc.net/problem/1817) | [py](Silver_5/짐_챙기는_숌_1817.py) |
 | [코스튬 파티 - 6159](https://www.acmicpc.net/problem/6159) | [py](Silver_5/코스튬_파티_6159.py) |
+| [회사에 있는 사람 - 7785](https://www.acmicpc.net/problem/7785) | [py](Silver_5/회사에_있는_사람_7785.py) |
 
 ## Silver 4
 | 문제 | 코드 (python) | 코드 (javascript)|
