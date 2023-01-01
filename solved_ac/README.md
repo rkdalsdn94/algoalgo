@@ -182,6 +182,7 @@
 | [코스튬 파티 - 6159](https://www.acmicpc.net/problem/6159) | [py](Silver_5/코스튬_파티_6159.py) |
 | [회사에 있는 사람 - 7785](https://www.acmicpc.net/problem/7785) | [py](Silver_5/회사에_있는_사람_7785.py) |
 | [점수 계산 - 2822](https://www.acmicpc.net/problem/2822) | [py](Silver_5/점수_계산_2822.py) |
+| [숫자 빈도수 - 14912](https://www.acmicpc.net/problem/14912) | [py](Silver_5/숫자_빈도수_14912.py) |
 
 ## Silver 4
 | 문제 | 코드 (python) | 코드 (javascript)|
