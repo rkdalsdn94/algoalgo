@@ -239,6 +239,7 @@
 | [올바른 배열 - 1337](https://www.acmicpc.net/problem/1337) | [py](Silver_4/올바른_배열_1337.py) |
 | [김식당 - 14612](https://www.acmicpc.net/problem/14612) | [py](Silver_4/김식당_14612.py) |
 | [크림 파스타 - 25214](https://www.acmicpc.net/problem/25214) | [py](Silver_4/크림_파스타_25214.py) |
+| [좋은 단어 - 3986](https://www.acmicpc.net/problem/3986) | [py](Silver_4/좋은_단어_3986.py) |
 
 ## Silver 3
 | 문제 | 코드 (python) | 코드 (javascript)|
