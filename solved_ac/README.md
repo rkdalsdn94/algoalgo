@@ -290,6 +290,7 @@
 | [카드 문자열 - 13417](https://www.acmicpc.net/problem/13417) | [py](Silver_3/카드_문자열_13417.py) |
 | [햄버거 분배 - 19941](https://www.acmicpc.net/problem/19941) | [py](Silver_3/햄버거_분배_19941.py) |
 | [크리스마스 선물 - 14235](https://www.acmicpc.net/problem/14235) | [py](Silver_3/크리스마스_선물_14235.py) |
+| [돌 게임 3 - 9657](https://www.acmicpc.net/problem/9657) | [py](Silver_3/돌_게임_3_9657.py) |
 
 ## Silver 2
 | 문제 | 코드 (python) | 코드 (javascript)|
