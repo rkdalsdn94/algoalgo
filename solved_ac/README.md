@@ -82,7 +82,8 @@
 | [수 이어 쓰기 3 - 2154](https://www.acmicpc.net/problem/2154) | [py](bronze_2/수_이어_쓰기_3_2154.py) |
 | [이상한 곱셈 - 1225](https://www.acmicpc.net/problem/1225) | [py](bronze_2/이상한_곱셈_1225.py) |
 | [ZOAC2 - 18238](https://www.acmicpc.net/problem/18238) | [py](bronze_2/ZOAC2_18238.py) |
-| [숫자_놀이 - 2145](https://www.acmicpc.net/problem/2145) | [py](bronze_2/숫자_놀이_2145.py) |
+| [숫자 놀이 - 2145](https://www.acmicpc.net/problem/2145) | [py](bronze_2/숫자_놀이_2145.py) |
+| [화성 수학 - 5355](https://www.acmicpc.net/problem/5355) | [py](bronze_2/화성_수학_5355.py) |
 
 ## Bronze 1
 | 문제 | 코드 (python) | 코드 (javascript)|
