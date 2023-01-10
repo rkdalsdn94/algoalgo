@@ -242,6 +242,7 @@
 | [크림 파스타 - 25214](https://www.acmicpc.net/problem/25214) | [py](Silver_4/크림_파스타_25214.py) |
 | [좋은 단어 - 3986](https://www.acmicpc.net/problem/3986) | [py](Silver_4/좋은_단어_3986.py) |
 | [피보나치 수 7 - 15624](https://www.acmicpc.net/problem/15624) | [py](Silver_4/피보나치_수_7_15624.py) |
+| [곰곰이와 학식 - 26070](https://www.acmicpc.net/problem/26070) | [py](Silver_4/곰곰이와_학식_26070.py) |
 
 ## Silver 3
 | 문제 | 코드 (python) | 코드 (javascript)|
