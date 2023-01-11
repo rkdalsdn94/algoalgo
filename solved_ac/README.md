@@ -374,6 +374,7 @@
 | [동물원 - 1309](https://www.acmicpc.net/problem/1309) | [py](Silver_1/동물원_1309.py) |
 | [주지수 - 15724](https://www.acmicpc.net/problem/15724) | [py](Silver_1/주지수_15724.py) |
 | [추월 - 2002](https://www.acmicpc.net/problem/2002) | [py](Silver_1/추월_2002.py) |
+| [봄버맨 - 16918](https://www.acmicpc.net/problem/16918) | [py](Silver_1/봄버맨_16918.py) |
 
 ## Gold 5
 | 문제 | 코드 (python) | 코드 (javascript)|
