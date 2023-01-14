@@ -85,6 +85,7 @@
 | [숫자 놀이 - 2145](https://www.acmicpc.net/problem/2145) | [py](bronze_2/숫자_놀이_2145.py) |
 | [화성 수학 - 5355](https://www.acmicpc.net/problem/5355) | [py](bronze_2/화성_수학_5355.py) |
 | [ABC - 3047](https://www.acmicpc.net/problem/3047) | [py](bronze_2/ABC_3047.py) |
+| [그릇 - 7567](https://www.acmicpc.net/problem/7567) | [py](bronze_2/그릇_7567.py) |
 
 ## Bronze 1
 | 문제 | 코드 (python) | 코드 (javascript)|
