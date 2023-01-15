@@ -118,6 +118,7 @@
 | [컵홀더 - 2810](https://www.acmicpc.net/problem/2810) | [py](bronze_1/컵홀더_2810.py) |
 | [N번째 큰 수 - 2693](https://www.acmicpc.net/problem/2693) | [py](bronze_1/N번째_큰_수_2693.py) |
 | [제자리 - 25400](https://www.acmicpc.net/problem/25400) | [py](bronze_1/제자리_25400.py) |
+| [선택 정렬 1 - 23881](https://www.acmicpc.net/problem/23881) | [py](bronze_1/선택_정렬_1_23881.py) |
 
 ## Silver 5
 | 문제 | 코드 (python) | 코드 (javascript)|
