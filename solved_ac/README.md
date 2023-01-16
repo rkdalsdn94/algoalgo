@@ -341,6 +341,7 @@
 | [가장 큰 증가 부분 수열 - 11055](https://www.acmicpc.net/problem/11055) | [py](Silver_2/가장_큰_증가_부분_수열_11055.py) |
 | [침투 - 13565](https://www.acmicpc.net/problem/13565) | [py](Silver_2/침투_13565.py) |
 | [크로스워드 퍼즐 쳐다보기 - 3005](https://www.acmicpc.net/problem/3005) | [py](Silver_2/크로스워드_퍼즐_쳐다보기_3005.py) |
+| [스타트와 링크 - 14889](https://www.acmicpc.net/problem/14889) | [py](Silver_2/스타트와_링크_14889.py) |
 
 ## Silver 1
 | 문제 | 코드 (python) | 코드 (javascript)|
