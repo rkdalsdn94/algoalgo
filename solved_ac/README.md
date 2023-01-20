@@ -189,6 +189,7 @@
 | [점수 계산 - 2822](https://www.acmicpc.net/problem/2822) | [py](Silver_5/점수_계산_2822.py) |
 | [숫자 빈도수 - 14912](https://www.acmicpc.net/problem/14912) | [py](Silver_5/숫자_빈도수_14912.py) |
 | [부분 문자열 - 6550](https://www.acmicpc.net/problem/6550) | [py](Silver_5/부분_문자열_6550.py) |
+| [CD - 4158](https://www.acmicpc.net/problem/4158) | [py](Silver_5/CD_4158.py) |
 
 ## Silver 4
 | 문제 | 코드 (python) | 코드 (javascript)|
