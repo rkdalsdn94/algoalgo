@@ -302,6 +302,7 @@
 | [크리스마스 선물 - 14235](https://www.acmicpc.net/problem/14235) | [py](Silver_3/크리스마스_선물_14235.py) |
 | [돌 게임 3 - 9657](https://www.acmicpc.net/problem/9657) | [py](Silver_3/돌_게임_3_9657.py) |
 | [다음 순열 - 10972](https://www.acmicpc.net/problem/10972) | [py](Silver_3/다음_순열_10972.py) |
+| [모든 순열 - 10974](https://www.acmicpc.net/problem/10974) | [py](Silver_3/모든_순열_10974.py) |
 
 ## Silver 2
 | 문제 | 코드 (python) | 코드 (javascript)|
