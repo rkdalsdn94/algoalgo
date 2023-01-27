@@ -42,6 +42,7 @@
 | [세 수 - 10817](https://www.acmicpc.net/problem/10817) | [py](bronze_3/세_수_10817.py) |
 | [캥거루 세마리2 - 11034](https://www.acmicpc.net/problem/11034) | [py](bronze_3/캥거루_세마리2_11034.py) |
 | [공 - 1547](https://www.acmicpc.net/problem/1547) | [py](bronze_3/공_1547.py) |
+| [17배 - 5893](https://www.acmicpc.net/problem/5893) | [py](bronze_3/17배_5893.py) |
 
 ## Bronze 2
 | 문제 | 코드 (python) | 코드 (javascript)|
