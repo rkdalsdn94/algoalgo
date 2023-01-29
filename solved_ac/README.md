@@ -440,6 +440,7 @@
 | [좋다 - 1253](https://www.acmicpc.net/problem/1253) | [py](Gold_4/좋다_1253.py) |
 | [타일 채우기 - 2133](https://www.acmicpc.net/problem/2133) | [py](Gold_4/타일_채우기_2133.py) |
 | [부분합 - 1806](https://www.acmicpc.net/problem/1806) | [py](Gold_4/부분합_1806.py) |
+| [특정한 최단 경로 - 1504](https://www.acmicpc.net/problem/1504) | [py](Gold_4/특정한_최단_경로_1504.py) |
 
 ## Gold 3
 | 문제 | 코드 (python) | 코드 (javascript)|
