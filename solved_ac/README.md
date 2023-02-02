@@ -308,6 +308,7 @@
 | [다음 순열 - 10972](https://www.acmicpc.net/problem/10972) | [py](Silver_3/다음_순열_10972.py) |
 | [모든 순열 - 10974](https://www.acmicpc.net/problem/10974) | [py](Silver_3/모든_순열_10974.py) |
 | [평행 우주 - 17451](https://www.acmicpc.net/problem/17451) | [py](Silver_3/평행_우주_17451.py) |
+| [삼각형 만들기 - 1448](https://www.acmicpc.net/problem/1448) | [py](Silver_3/삼각형_만들기_1448.py) |
 
 ## Silver 2
 | 문제 | 코드 (python) | 코드 (javascript)|
