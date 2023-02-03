@@ -122,6 +122,7 @@
 | [제자리 - 25400](https://www.acmicpc.net/problem/25400) | [py](bronze_1/제자리_25400.py) |
 | [선택 정렬 1 - 23881](https://www.acmicpc.net/problem/23881) | [py](bronze_1/선택_정렬_1_23881.py) |
 | [적어도 대부분의 배수 - 1145](https://www.acmicpc.net/problem/1145) | [py](bronze_1/적어도_대부분의_배수_1145.py) |
+| [소인수분해 - 11653](https://www.acmicpc.net/problem/11653) | [py](bronze_1/소인수분해_11653.py) |
 
 ## Silver 5
 | 문제 | 코드 (python) | 코드 (javascript)|
