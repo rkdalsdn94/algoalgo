@@ -89,6 +89,7 @@
 | [그릇 - 7567](https://www.acmicpc.net/problem/7567) | [py](bronze_2/그릇_7567.py) |
 | [대표값2 - 2587](https://www.acmicpc.net/problem/2587) | [py](bronze_2/대표값2_2587.py) |
 | [번호표 교환 - 11949](https://www.acmicpc.net/problem/11949) | [py](bronze_2/번호표_교환_11949.py) |
+| [노래 악보 - 1392](https://www.acmicpc.net/problem/1392) | [py](bronze_2/노래_악보_1392.py) |
 
 ## Bronze 1
 | 문제 | 코드 (python) | 코드 (javascript)|
