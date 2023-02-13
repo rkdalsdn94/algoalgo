@@ -470,6 +470,7 @@
 | [보석 도둑 - 1202](https://www.acmicpc.net/problem/1202) | [py](Gold_2/보석_도둑_1202.py) |
 | [문제집 - 1766](https://www.acmicpc.net/problem/1766) | [py](Gold_2/문제집_1766.py) |
 | [게임 - 1103](https://www.acmicpc.net/problem/1103) | [py](Gold_2/게임_1103.py) |
+| [후위 표기식 - 1918](https://www.acmicpc.net/problem/1918) | [py](Gold_2/후위_표기식_1918.py) |
 
 ## Gold 1
 | 문제 | 코드 (python) | 코드 (javascript)|
