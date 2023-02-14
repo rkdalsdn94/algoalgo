@@ -316,6 +316,7 @@
 | [모든 순열 - 10974](https://www.acmicpc.net/problem/10974) | [py](Silver_3/모든_순열_10974.py) |
 | [평행 우주 - 17451](https://www.acmicpc.net/problem/17451) | [py](Silver_3/평행_우주_17451.py) |
 | [삼각형 만들기 - 1448](https://www.acmicpc.net/problem/1448) | [py](Silver_3/삼각형_만들기_1448.py) |
+| [음유시인 영재 - 19948](https://www.acmicpc.net/problem/19948) | [py](Silver_3/음유시인_영재_19948.py) |
 
 ## Silver 2
 | 문제 | 코드 (python) | 코드 (javascript)|
