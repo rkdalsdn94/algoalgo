@@ -365,6 +365,7 @@
 | [스타트와 링크 - 14889](https://www.acmicpc.net/problem/14889) | [py](Silver_2/스타트와_링크_14889.py) |
 | [병사 배치하기 - 18353](https://www.acmicpc.net/problem/18353) | [py](Silver_2/병사_배치하기_18353.py) |
 | [점프 점프 - 11060](https://www.acmicpc.net/problem/11060) | [py](Silver_2/점프_점프_11060.py) |
+| [민균이의 계략 - 11568](https://www.acmicpc.net/problem/11568) | [py](Silver_2/민균이의_계략_11568.py) |
 
 ## Silver 1
 | 문제 | 코드 (python) | 코드 (javascript)|
