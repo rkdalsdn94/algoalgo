@@ -198,6 +198,7 @@
 | [부분 문자열 - 6550](https://www.acmicpc.net/problem/6550) | [py](Silver_5/부분_문자열_6550.py) |
 | [CD - 4158](https://www.acmicpc.net/problem/4158) | [py](Silver_5/CD_4158.py) |
 | [두라무리 휴지 - 25178](https://www.acmicpc.net/problem/25178) | [py](Silver_5/두라무리_휴지_25178.py) |
+| [진짜 메시지 - 9324](https://www.acmicpc.net/problem/9324) | [py](Silver_5/진짜_메시지_9324.py) |
 
 ## Silver 4
 | 문제 | 코드 (python) | 코드 (javascript)|
