@@ -199,6 +199,7 @@
 | [CD - 4158](https://www.acmicpc.net/problem/4158) | [py](Silver_5/CD_4158.py) |
 | [두라무리 휴지 - 25178](https://www.acmicpc.net/problem/25178) | [py](Silver_5/두라무리_휴지_25178.py) |
 | [진짜 메시지 - 9324](https://www.acmicpc.net/problem/9324) | [py](Silver_5/진짜_메시지_9324.py) |
+| [파스칼의 삼각형 - 16395](https://www.acmicpc.net/problem/16395) | [py](Silver_5/파스칼의_삼각형_16395.py) |
 
 ## Silver 4
 | 문제 | 코드 (python) | 코드 (javascript)|
