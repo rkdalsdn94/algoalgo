@@ -441,6 +441,7 @@
 | [동전 1 - 2293](https://www.acmicpc.net/problem/2293) | [py](Gold_5/동전_1_2293.py) |
 | [노드사이의 거리 - 1240](https://www.acmicpc.net/problem/1240) | [py](Gold_5/노드사이의_거리_1240.py) |
 | [숨바꼭질 3 - 13549](https://www.acmicpc.net/problem/13549) | [py](Gold_5/숨바꼭질_3_13549.py) |
+| [내려가기 - 2096](https://www.acmicpc.net/problem/2096) | [py](Gold_5/내려가기_2096.py) |
 
 ## Gold 4
 | 문제 | 코드 (python) | 코드 (javascript)|
