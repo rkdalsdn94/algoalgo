@@ -323,6 +323,7 @@
 | [삼각형 만들기 - 1448](https://www.acmicpc.net/problem/1448) | [py](Silver_3/삼각형_만들기_1448.py) |
 | [음유시인 영재 - 19948](https://www.acmicpc.net/problem/19948) | [py](Silver_3/음유시인_영재_19948.py) |
 | [다이나믹이 뭐예요 - 14494](https://www.acmicpc.net/problem/14494) | [py](Silver_3/다이나믹이_뭐예요_14494.py) |
+| [순열 사이클 - 10451](https://www.acmicpc.net/problem/10451) | [py](Silver_3/순열_사이클_10451.py) |
 
 ## Silver 2
 | 문제 | 코드 (python) | 코드 (javascript)|
