@@ -412,6 +412,7 @@
 | [추월 - 2002](https://www.acmicpc.net/problem/2002) | [py](Silver_1/추월_2002.py) |
 | [봄버맨 - 16918](https://www.acmicpc.net/problem/16918) | [py](Silver_1/봄버맨_16918.py) |
 | [기타리스트 - 1495](https://www.acmicpc.net/problem/1495) | [py](Silver_1/기타리스트_1495.py) |
+| [연산자 끼워넣기 - 14888](https://www.acmicpc.net/problem/14888) | [py](Silver_1/연산자_끼워넣기_14888.py) |
 
 ## Gold 5
 | 문제 | 코드 (python) | 코드 (javascript)|
