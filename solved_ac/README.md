@@ -477,6 +477,7 @@
 | [궁금한 민호 - 1507](https://www.acmicpc.net/problem/1507) | [py](Gold_3/궁금한_민호_1507.py) |
 | [교환 - 1039](https://www.acmicpc.net/problem/1039) | [py](Gold_3/교환_1039.py) |
 | [과제 - 13904](https://www.acmicpc.net/problem/13904) | [py](Gold_3/과제_13904.py) |
+| [두 배열의 합 - 2143](https://www.acmicpc.net/problem/2143) | [py](Gold_3/두_배열의_합_2143.py) |
 
 ## Gold 2
 | 문제 | 코드 (python) | 코드 (javascript)|
