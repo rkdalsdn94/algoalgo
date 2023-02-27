@@ -267,6 +267,7 @@
 | [가희와 3단 고음 - 16162](https://www.acmicpc.net/problem/16162) | [py](Silver_4/가희와_3단_고음_16162.py) |
 | [박 터뜨리기 - 19939](https://www.acmicpc.net/problem/19939) | [py](Silver_4/박_터뜨리기_19939.py) |
 | [양팔저울 - 25943](https://www.acmicpc.net/problem/25943) | [py](Silver_4/양팔저울_25943.py) |
+| [수 찾기 - 1920](https://www.acmicpc.net/problem/1920) | [py](Silver_4/수_찾기_1920.py) |
 
 ## Silver 3
 | 문제 | 코드 (python) | 코드 (javascript)|
