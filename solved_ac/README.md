@@ -127,6 +127,7 @@
 | [적어도 대부분의 배수 - 1145](https://www.acmicpc.net/problem/1145) | [py](bronze_1/적어도_대부분의_배수_1145.py) |
 | [소인수분해 - 11653](https://www.acmicpc.net/problem/11653) | [py](bronze_1/소인수분해_11653.py) |
 | [일곱 난쟁이 - 2309](https://www.acmicpc.net/problem/2309) | [py](bronze_1/일곱_난쟁이_2309.py) |
+| [임시 반장 정하기 - 1268](https://www.acmicpc.net/problem/1268) | [py](bronze_1/임시_반장_정하기_1268.py) |
 
 ## Silver 5
 | 문제 | 코드 (python) | 코드 (javascript)|
