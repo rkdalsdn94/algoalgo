@@ -23,6 +23,7 @@
 | [R2 - 3046](https://www.acmicpc.net/problem/3046) | [py](bronze_4/R2_3046.py) |
 | [10부제 - 10797](https://www.acmicpc.net/problem/10797) | [py](bronze_4/10부제_10797.py) |
 | [뉴비의 기준은 뭘까 - 19944](https://www.acmicpc.net/problem/19944) | [py](bronze_4/뉴비의_기준은_뭘까_19944.py) |
+| [자동완성 - 24883](https://www.acmicpc.net/problem/24883) | [py](bronze_4/자동완성_24883.py) |
 
 ## Bronze 3
 | 문제 | 코드 (python) | 코드 (javascript)|
