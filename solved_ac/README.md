@@ -47,6 +47,7 @@
 | [열 개씩 끊어 출력하기 - 11721](https://www.acmicpc.net/problem/11721) | [py](bronze_3/열_개씩_끊어_출력하기_11721.py) |
 | [쿠폰 - 10179](https://www.acmicpc.net/problem/10179) | [py](bronze_3/쿠폰_10179.py) |
 | [별 찍기 5 - 2442](https://www.acmicpc.net/problem/2442) | [py](bronze_3/별_찍기_5_2442.py) |
+| [대회_or_인턴 - 2875](https://www.acmicpc.net/problem/2875) | [py](bronze_3/대회_or_인턴_2875.py) |
 
 ## Bronze 2
 | 문제 | 코드 (python) | 코드 (javascript)|
