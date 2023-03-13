@@ -481,6 +481,7 @@
 | [부분합 - 1806](https://www.acmicpc.net/problem/1806) | [py](Gold_4/부분합_1806.py) |
 | [특정한 최단 경로 - 1504](https://www.acmicpc.net/problem/1504) | [py](Gold_4/특정한_최단_경로_1504.py) |
 | [카드 섞기 - 1091](https://www.acmicpc.net/problem/1091) | [py](Gold_4/카드_섞기_1091.py) |
+| [치즈 - 2636](https://www.acmicpc.net/problem/2636) | [py](Gold_4/치즈_2636.py) |
 
 ## Gold 3
 | 문제 | 코드 (python) | 코드 (javascript)|
