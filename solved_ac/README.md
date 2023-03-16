@@ -338,6 +338,7 @@
 | [순열 사이클 - 10451](https://www.acmicpc.net/problem/10451) | [py](Silver_3/순열_사이클_10451.py) |
 | [IF문 좀 대신 써줘 - 19637](https://www.acmicpc.net/problem/19637) | [py](Silver_3/IF문_좀_대신_써줘_19637.py) |
 | [카드게임 - 2621](https://www.acmicpc.net/problem/2621) | [py](Silver_3/카드게임_2621.py) |
+| [모두의 마블 - 12845](https://www.acmicpc.net/problem/12845) | [py](Silver_3/모두의_마블_12845.py) |
 
 ## Silver 2
 | 문제 | 코드 (python) | 코드 (javascript)|
