@@ -51,6 +51,7 @@
 | [별 찍기 5 - 2442](https://www.acmicpc.net/problem/2442) | [py](bronze_3/별_찍기_5_2442.py) |
 | [대회_or_인턴 - 2875](https://www.acmicpc.net/problem/2875) | [py](bronze_3/대회_or_인턴_2875.py) |
 | [영수증 - 5565](https://www.acmicpc.net/problem/5565) | [py](bronze_3/영수증_5565.py) |
+| [신기한 수 - 17618](https://www.acmicpc.net/problem/17618) | [py](bronze_3/신기한_수_17618.py) |
 
 ## Bronze 2
 | 문제 | 코드 (python) | 코드 (javascript)|
