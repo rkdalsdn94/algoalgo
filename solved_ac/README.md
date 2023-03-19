@@ -212,6 +212,7 @@
 | [진짜 메시지 - 9324](https://www.acmicpc.net/problem/9324) | [py](Silver_5/진짜_메시지_9324.py) |
 | [파스칼의 삼각형 - 16395](https://www.acmicpc.net/problem/16395) | [py](Silver_5/파스칼의_삼각형_16395.py) |
 | [이름 궁합 - 15312](https://www.acmicpc.net/problem/15312) | [py](Silver_5/이름_궁합_15312.py) |
+| [숫자 게임 - 2303](https://www.acmicpc.net/problem/2303) | [py](Silver_5/숫자_게임_2303.py) |
 
 ## Silver 4
 | 문제 | 코드 (python) | 코드 (javascript)|
