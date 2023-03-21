@@ -433,6 +433,7 @@
 | [컴백홈 - 1189](https://www.acmicpc.net/problem/1189) | [py](Silver_1/컴백홈_1189.py) |
 | [골드바흐의 추축 - 6588](https://www.acmicpc.net/problem/6588) | [py](Silver_1/골드바흐의_추축_6588.py) |
 | [배열 돌리기 3 - 16935](https://www.acmicpc.net/problem/16935) | [py](Silver_1/배열_돌리기_3_16935.py) |
+| [구간 합 구하기 5 - 11660](https://www.acmicpc.net/problem/11660) | [py](Silver_1/구간_합_구하기_5_11660.py) |
 
 ## Gold 5
 | 문제 | 코드 (python) | 코드 (javascript)|
