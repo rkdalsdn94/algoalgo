@@ -54,6 +54,7 @@
 | [신기한 수 - 17618](https://www.acmicpc.net/problem/17618) | [py](bronze_3/신기한_수_17618.py) |
 | [IBM 빼기 1 - 6321](https://www.acmicpc.net/problem/6321) | [py](bronze_3/IBM_빼기_1_6321.py) |
 | [공 넣기 - 10810](https://www.acmicpc.net/problem/10810) | [py](bronze_3/공_넣기_10810.py) |
+| [이진수 - 3460](https://www.acmicpc.net/problem/3460) | [py](bronze_3/이진수_3460.py) |
 
 ## Bronze 2
 | 문제 | 코드 (python) | 코드 (javascript)|
