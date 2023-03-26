@@ -141,6 +141,7 @@
 | [일곱 난쟁이 - 2309](https://www.acmicpc.net/problem/2309) | [py](bronze_1/일곱_난쟁이_2309.py) |
 | [임시 반장 정하기 - 1268](https://www.acmicpc.net/problem/1268) | [py](bronze_1/임시_반장_정하기_1268.py) |
 | [약수들의 합 - 9506](https://www.acmicpc.net/problem/9506) | [py](bronze_1/약수들의_합_9506.py) |
+| [유니크 - 5533](https://www.acmicpc.net/problem/5533) | [py](bronze_1/유니크_5533.py) |
 
 ## Silver 5
 | 문제 | 코드 (python) | 코드 (javascript)|
