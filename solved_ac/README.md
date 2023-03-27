@@ -103,6 +103,7 @@
 | [번호표 교환 - 11949](https://www.acmicpc.net/problem/11949) | [py](bronze_2/번호표_교환_11949.py) |
 | [노래 악보 - 1392](https://www.acmicpc.net/problem/1392) | [py](bronze_2/노래_악보_1392.py) |
 | [팰린드롬인지 확인하기 - 10988](https://www.acmicpc.net/problem/10988) | [py](bronze_2/팰린드롬인지_확인하기_10988.py) |
+| [문자열 분석 - 10820](https://www.acmicpc.net/problem/10820) | [py](bronze_2/문자열_분석_10820.py) |
 
 ## Bronze 1
 | 문제 | 코드 (python) | 코드 (javascript)|
