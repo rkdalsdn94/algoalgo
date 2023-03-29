@@ -105,6 +105,7 @@
 | [팰린드롬인지 확인하기 - 10988](https://www.acmicpc.net/problem/10988) | [py](bronze_2/팰린드롬인지_확인하기_10988.py) |
 | [문자열 분석 - 10820](https://www.acmicpc.net/problem/10820) | [py](bronze_2/문자열_분석_10820.py) |
 | [공 바꾸기 - 10813](https://www.acmicpc.net/problem/10813) | [py](bronze_2/공_바꾸기_10813.py) |
+| [막대기 - 17608](https://www.acmicpc.net/problem/17608) | [py](bronze_2/막대기_17608.py) |
 
 ## Bronze 1
 | 문제 | 코드 (python) | 코드 (javascript)|
