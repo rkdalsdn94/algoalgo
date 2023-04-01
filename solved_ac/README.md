@@ -397,6 +397,7 @@
 | [병사 배치하기 - 18353](https://www.acmicpc.net/problem/18353) | [py](Silver_2/병사_배치하기_18353.py) |
 | [점프 점프 - 11060](https://www.acmicpc.net/problem/11060) | [py](Silver_2/점프_점프_11060.py) |
 | [민균이의 계략 - 11568](https://www.acmicpc.net/problem/11568) | [py](Silver_2/민균이의_계략_11568.py) |
+| [숫자판 점프 - 2210](https://www.acmicpc.net/problem/2210) | [py](Silver_2/숫자판_점프_2210.py) |
 
 ## Silver 1
 | 문제 | 코드 (python) | 코드 (javascript)|
