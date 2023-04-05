@@ -400,6 +400,7 @@
 | [민균이의 계략 - 11568](https://www.acmicpc.net/problem/11568) | [py](Silver_2/민균이의_계략_11568.py) |
 | [숫자판 점프 - 2210](https://www.acmicpc.net/problem/2210) | [py](Silver_2/숫자판_점프_2210.py) |
 | [양 한마리 양 두마리 - 11123](https://www.acmicpc.net/problem/11123) | [py](Silver_2/양_한마리_양_두마리_11123.py) |
+| [지구 온난화 - 5212](https://www.acmicpc.net/problem/5212) | [py](Silver_2/지구_온난화_5212.py) |
 
 ## Silver 1
 | 문제 | 코드 (python) | 코드 (javascript)|
