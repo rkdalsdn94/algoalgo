@@ -107,6 +107,7 @@
 | [문자열 분석 - 10820](https://www.acmicpc.net/problem/10820) | [py](bronze_2/문자열_분석_10820.py) |
 | [공 바꾸기 - 10813](https://www.acmicpc.net/problem/10813) | [py](bronze_2/공_바꾸기_10813.py) |
 | [막대기 - 17608](https://www.acmicpc.net/problem/17608) | [py](bronze_2/막대기_17608.py) |
+| [감정이입 - 14623](https://www.acmicpc.net/problem/14623) | [py](bronze_2/감정이입_14623.py) |
 
 ## Bronze 1
 | 문제 | 코드 (python) | 코드 (javascript)|
