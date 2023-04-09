@@ -291,6 +291,7 @@
 | [박 터뜨리기 - 19939](https://www.acmicpc.net/problem/19939) | [py](Silver_4/박_터뜨리기_19939.py) |
 | [양팔저울 - 25943](https://www.acmicpc.net/problem/25943) | [py](Silver_4/양팔저울_25943.py) |
 | [수 찾기 - 1920](https://www.acmicpc.net/problem/1920) | [py](Silver_4/수_찾기_1920.py) |
+| [Sort 마스터 배지훈의 후계자 - 20551](https://www.acmicpc.net/problem/20551) | [py](Silver_4/Sort_마스터_배지훈의_후계자_20551.py) |
 
 ## Silver 3
 | 문제 | 코드 (python) | 코드 (javascript)|
