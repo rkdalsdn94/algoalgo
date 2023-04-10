@@ -108,6 +108,7 @@
 | [공 바꾸기 - 10813](https://www.acmicpc.net/problem/10813) | [py](bronze_2/공_바꾸기_10813.py) |
 | [막대기 - 17608](https://www.acmicpc.net/problem/17608) | [py](bronze_2/막대기_17608.py) |
 | [감정이입 - 14623](https://www.acmicpc.net/problem/14623) | [py](bronze_2/감정이입_14623.py) |
+| [부재중 전화 - 1333](https://www.acmicpc.net/problem/1333) | [py](bronze_2/부재중_전화_1333.py) |
 
 ## Bronze 1
 | 문제 | 코드 (python) | 코드 (javascript)|
