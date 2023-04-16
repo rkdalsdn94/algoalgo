@@ -112,6 +112,7 @@
 | [부재중 전화 - 1333](https://www.acmicpc.net/problem/1333) | [py](bronze_2/부재중_전화_1333.py) |
 | [펫 - 1362](https://www.acmicpc.net/problem/1362) | [py](bronze_2/펫_1362.py) |
 | [바구니 뒤집기 - 10811](https://www.acmicpc.net/problem/10811) | [py](bronze_2/바구니_뒤집기_10811.py) |
+| [영식이와 친구들 - 1592](https://www.acmicpc.net/problem/1592) | [py](bronze_2/영식이와_친구들_1592.py) |
 
 ## Bronze 1
 | 문제 | 코드 (python) | 코드 (javascript)|
