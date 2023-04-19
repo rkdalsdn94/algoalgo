@@ -535,6 +535,7 @@
 | [문제집 - 1766](https://www.acmicpc.net/problem/1766) | [py](Gold_2/문제집_1766.py) |
 | [게임 - 1103](https://www.acmicpc.net/problem/1103) | [py](Gold_2/게임_1103.py) |
 | [후위 표기식 - 1918](https://www.acmicpc.net/problem/1918) | [py](Gold_2/후위_표기식_1918.py) |
+| [가운데를 말해요 - 1655](https://www.acmicpc.net/problem/1655) | [py](Gold_2/가운데를_말해요_1655.py) |
 
 ## Gold 1
 | 문제 | 코드 (python) | 코드 (javascript)|
