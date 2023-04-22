@@ -460,6 +460,7 @@
 | [배열 돌리기 3 - 16935](https://www.acmicpc.net/problem/16935) | [py](Silver_1/배열_돌리기_3_16935.py) |
 | [구간 합 구하기 5 - 11660](https://www.acmicpc.net/problem/11660) | [py](Silver_1/구간_합_구하기_5_11660.py) |
 | [양치기 꿍 - 3187](https://www.acmicpc.net/problem/3187) | [py](Silver_1/양치기_꿍_3187.py) |
+| [촌수 계산 - 2644](https://www.acmicpc.net/problem/2644) | [py](Silver_1/촌수_계산_2644.py) |
 
 ## Gold 5
 | 문제 | 코드 (python) | 코드 (javascript)|
