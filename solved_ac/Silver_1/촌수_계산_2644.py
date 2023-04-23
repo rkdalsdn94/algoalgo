@@ -43,7 +43,7 @@ from collections import deque
 n = int(input())
 a, b = map(int, input().split())
 m = int(input())
-m_list = [ [] for _ in range(n + 1) ] # 3
+m_list = [ [] for _ in range(n + 1) ]
 ck = [0] * (n + 1)
 
 for _ in range(m):
@@ -70,3 +70,38 @@ def bfs(x, y):
     return -1
 
 print(bfs(a, b))
+
+# dfs 풀이
+'''
+bfs 코드에서 while 부분을 재귀로 돌리면 된다.
+종료 조건은 b와 같을 때 bfs에서 풀었듯이 -1을 한 상태로 출력하고, 프로그램을 종료 시킨다.
+dfs를 다 반복하고, 프로그램을 종료되지 않으면 친척 관계가 없는 것이므로 -1을 출력하면 된다.
+'''
+
+import sys; sys.setrecursionlimit(10**7)
+
+n = int(input())
+a, b = map(int, input().split())
+m = int(input())
+m_list = [ [] for _ in range(n + 1) ]
+ck = [0] * (n + 1)
+
+for _ in range(m):
+    x, y = map(int, input().split())
+    m_list[x].append(y)
+    m_list[y].append(x)
+
+def dfs(x, depth):
+    depth += 1
+    ck[x] = 1
+
+    if x == b:
+        print(depth - 1)
+        exit(0)
+
+    for i in m_list[x]:
+        if not ck[i]:
+            dfs(i, depth)
+
+dfs(a, 0)
+print(-1)
