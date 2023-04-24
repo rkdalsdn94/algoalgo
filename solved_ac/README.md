@@ -362,6 +362,7 @@
 | [모두의 마블 - 12845](https://www.acmicpc.net/problem/12845) | [py](Silver_3/모두의_마블_12845.py) |
 | [이상한 술집 - 13702](https://www.acmicpc.net/problem/13702) | [py](Silver_3/이상한_술집_13702.py) |
 | [피보나치 수의 확장 - 1788](https://www.acmicpc.net/problem/1788) | [py](Silver_3/피보나치_수의_확장_1788.py) |
+| [N과 M 2 - 15650](https://www.acmicpc.net/problem/15650) | [py](Silver_3/N과_M_2_15650.py) |
 
 ## Silver 2
 | 문제 | 코드 (python) | 코드 (javascript)|
