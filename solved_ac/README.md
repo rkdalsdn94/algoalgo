@@ -417,6 +417,7 @@
 | [양 한마리 양 두마리 - 11123](https://www.acmicpc.net/problem/11123) | [py](Silver_2/양_한마리_양_두마리_11123.py) |
 | [지구 온난화 - 5212](https://www.acmicpc.net/problem/5212) | [py](Silver_2/지구_온난화_5212.py) |
 | [로마 카톨릭 미사 - 9518](https://www.acmicpc.net/problem/9518) | [py](Silver_2/로마_카톨릭_미사_9518.py) |
+| [MVP 다이아몬드 Easy - 20413](https://www.acmicpc.net/problem/20413) | [py](Silver_2/MVP_다이아몬드_Easy_20413.py) |
 
 ## Silver 1
 | 문제 | 코드 (python) | 코드 (javascript)|
