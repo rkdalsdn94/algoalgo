@@ -155,6 +155,7 @@
 | [유니크 - 5533](https://www.acmicpc.net/problem/5533) | [py](bronze_1/유니크_5533.py) |
 | [팀 이름 정하기 - 1296](https://www.acmicpc.net/problem/1296) | [py](bronze_1/팀_이름_정하기_1296.py) |
 | [암호 - 1855](https://www.acmicpc.net/problem/1855) | [py](bronze_1/암호_1855.py) |
+| [세준세비 - 1524](https://www.acmicpc.net/problem/1524) | [py](bronze_1/세준세비_1524.py) |
 
 ## Silver 5
 | 문제 | 코드 (python) | 코드 (javascript)|
