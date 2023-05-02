@@ -57,6 +57,7 @@
 | [IBM 빼기 1 - 6321](https://www.acmicpc.net/problem/6321) | [py](bronze_3/IBM_빼기_1_6321.py) |
 | [공 넣기 - 10810](https://www.acmicpc.net/problem/10810) | [py](bronze_3/공_넣기_10810.py) |
 | [이진수 - 3460](https://www.acmicpc.net/problem/3460) | [py](bronze_3/이진수_3460.py) |
+| [모음의 개수 - 10987](https://www.acmicpc.net/problem/10987) | [py](bronze_3/모음의_개수_10987.py) |
 
 ## Bronze 2
 | 문제 | 코드 (python) | 코드 (javascript)|
