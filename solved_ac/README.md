@@ -306,6 +306,7 @@
 | [수 찾기 - 1920](https://www.acmicpc.net/problem/1920) | [py](Silver_4/수_찾기_1920.py) |
 | [Sort 마스터 배지훈의 후계자 - 20551](https://www.acmicpc.net/problem/20551) | [py](Silver_4/Sort_마스터_배지훈의_후계자_20551.py) |
 | [제 2회 IUPC는 잘 개최될 수 있을까 - 12788](https://www.acmicpc.net/problem/12788) | [py](Silver_4/제_2회_IUPC는_잘_개최될_수_있을까_12788.py) |
+| [비트 우정지수 - 12782](https://www.acmicpc.net/problem/12782) | [py](Silver_4/비트_우정지수_12782.py) |
 
 ## Silver 3
 | 문제 | 코드 (python) | 코드 (javascript)|
