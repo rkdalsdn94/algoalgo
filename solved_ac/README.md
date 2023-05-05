@@ -236,6 +236,7 @@
 | [최후의 승자는 누구 - 12760](https://www.acmicpc.net/problem/12760) | [py](Silver_5/최후의_승자는_누구_12760.py) |
 | [콰트로치즈피자 - 27964](https://www.acmicpc.net/problem/27964) | [py](Silver_5/콰트로치즈피자_27964.py) |
 | [김인천씨의 식료품가게 Large - 12034](https://www.acmicpc.net/problem/12034) | [py](Silver_5/김인천씨의_식료품가게_Large_12034.py) |
+| [가지 산사태 - 27940](https://www.acmicpc.net/problem/27940) | [py](Silver_5/가지_산사태_27940.py) |
 
 ## Silver 4
 | 문제 | 코드 (python) | 코드 (javascript)|
