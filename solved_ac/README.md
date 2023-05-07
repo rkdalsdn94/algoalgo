@@ -474,6 +474,7 @@
 | [촌수 계산 - 2644](https://www.acmicpc.net/problem/2644) | [py](Silver_1/촌수_계산_2644.py) |
 | [개구리 - 23797](https://www.acmicpc.net/problem/23797) | [py](Silver_1/개구리_23797.py) |
 | [안정적인 문자열 - 4889](https://www.acmicpc.net/problem/4889) | [py](Silver_1/안정적인_문자열_4889.py) |
+| [카드 구매하기 2 - 16194](https://www.acmicpc.net/problem/16194) | [py](Silver_1/카드_구매하기_2_16194.py) |
 
 ## Gold 5
 | 문제 | 코드 (python) | 코드 (javascript)|
