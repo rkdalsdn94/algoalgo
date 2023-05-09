@@ -426,6 +426,7 @@
 | [지구 온난화 - 5212](https://www.acmicpc.net/problem/5212) | [py](Silver_2/지구_온난화_5212.py) |
 | [로마 카톨릭 미사 - 9518](https://www.acmicpc.net/problem/9518) | [py](Silver_2/로마_카톨릭_미사_9518.py) |
 | [MVP 다이아몬드 Easy - 20413](https://www.acmicpc.net/problem/20413) | [py](Silver_2/MVP_다이아몬드_Easy_20413.py) |
+| [알고리즘 수업 너비 우선 탐색 1 - 24444](https://www.acmicpc.net/problem/24444) | [py](Silver_2/알고리즘_수업_너비_우선_탐색_1_24444.py) |
 
 ## Silver 1
 | 문제 | 코드 (python) | 코드 (javascript)|
