@@ -58,6 +58,7 @@
 | [공 넣기 - 10810](https://www.acmicpc.net/problem/10810) | [py](bronze_3/공_넣기_10810.py) |
 | [이진수 - 3460](https://www.acmicpc.net/problem/3460) | [py](bronze_3/이진수_3460.py) |
 | [모음의 개수 - 10987](https://www.acmicpc.net/problem/10987) | [py](bronze_3/모음의_개수_10987.py) |
+| [별 찍기 8 - 2445](https://www.acmicpc.net/problem/2445) | [py](bronze_3/별_찍기_8_2445.py) |
 
 ## Bronze 2
 | 문제 | 코드 (python) | 코드 (javascript)|
