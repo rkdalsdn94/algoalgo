@@ -159,6 +159,7 @@
 | [팀 이름 정하기 - 1296](https://www.acmicpc.net/problem/1296) | [py](bronze_1/팀_이름_정하기_1296.py) |
 | [암호 - 1855](https://www.acmicpc.net/problem/1855) | [py](bronze_1/암호_1855.py) |
 | [세준세비 - 1524](https://www.acmicpc.net/problem/1524) | [py](bronze_1/세준세비_1524.py) |
+| [희주의 수학시펌 - 8974](https://www.acmicpc.net/problem/8974) | [py](bronze_1/희주의_수학시펌_8974.py) |
 
 ## Silver 5
 | 문제 | 코드 (python) | 코드 (javascript)|
