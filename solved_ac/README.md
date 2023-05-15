@@ -513,6 +513,7 @@
 | [동전 2 - 2294](https://www.acmicpc.net/problem/2294) | [py](Gold_5/동전_2_2294.py) |
 | [별 찍기 10 - 2447](https://www.acmicpc.net/problem/2447) | [py](Gold_5/별_찍기_10_2447.py) |
 | [센서 - 2212](https://www.acmicpc.net/problem/2212) | [py](Gold_5/센서_2212.py) |
+| [선수과목_(Prerequisite) - 14567](https://www.acmicpc.net/problem/14567) | [py](Gold_5/선수과목_(Prerequisite)_14567.py) |
 
 ## Gold 4
 | 문제 | 코드 (python) | 코드 (javascript)|
