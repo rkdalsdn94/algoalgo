@@ -562,6 +562,7 @@
 | [후위 표기식 - 1918](https://www.acmicpc.net/problem/1918) | [py](Gold_2/후위_표기식_1918.py) |
 | [가운데를 말해요 - 1655](https://www.acmicpc.net/problem/1655) | [py](Gold_2/가운데를_말해요_1655.py) |
 | [중앙값 구하기 - 2696](https://www.acmicpc.net/problem/2696) | [py](Gold_2/중앙값_구하기_2696.py) |
+| [트리의 지름 - 1167](https://www.acmicpc.net/problem/1167) | [py](Gold_2/트리의_지름_1167.py) |
 
 ## Gold 1
 | 문제 | 코드 (python) | 코드 (javascript)|
