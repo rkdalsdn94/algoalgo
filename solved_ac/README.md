@@ -241,6 +241,7 @@
 | [김인천씨의 식료품가게 Large - 12034](https://www.acmicpc.net/problem/12034) | [py](Silver_5/김인천씨의_식료품가게_Large_12034.py) |
 | [가지 산사태 - 27940](https://www.acmicpc.net/problem/27940) | [py](Silver_5/가지_산사태_27940.py) |
 | [팰린드롬 - 8892](https://www.acmicpc.net/problem/8892) | [py](Silver_5/팰린드롬_8892.py) |
+| [색종이 - 2563](https://www.acmicpc.net/problem/2563) | [py](Silver_5/색종이_2563.py) |
 
 ## Silver 4
 | 문제 | 코드 (python) | 코드 (javascript)|
