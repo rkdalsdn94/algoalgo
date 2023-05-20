@@ -482,6 +482,7 @@
 | [안정적인 문자열 - 4889](https://www.acmicpc.net/problem/4889) | [py](Silver_1/안정적인_문자열_4889.py) |
 | [카드 구매하기 2 - 16194](https://www.acmicpc.net/problem/16194) | [py](Silver_1/카드_구매하기_2_16194.py) |
 | [떡 먹는 호랑이 - 2502](https://www.acmicpc.net/problem/2502) | [py](Silver_1/떡_먹는_호랑이_2502.py) |
+| [1로 만들기 2 - 12852](https://www.acmicpc.net/problem/12852) | [py](Silver_1/1로_만들기_2_12852.py) |
 
 ## Gold 5
 | 문제 | 코드 (python) | 코드 (javascript)|
