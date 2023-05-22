@@ -12,6 +12,7 @@
 | [파티가 끝나고 난 뒤 - 2845](https://www.acmicpc.net/problem/2845) | [py](bronze_5/파티가_끝나고_난_뒤_2845.py) |
 | [행렬 덧셈 - 2738](https://www.acmicpc.net/problem/2738) | [py](bronze_5/행렬_덧셈_2738.py) |
 | [영수증 - 25304](https://www.acmicpc.net/problem/25304) | [py](bronze_5/영수증_25304.py) |
+| [크냐? - 4101](https://www.acmicpc.net/problem/4101) | [py](bronze_5/크냐_4101.py) |
 
 ## Bronze 4
 | 문제 | 코드 (python) | 코드 (javascript)|
