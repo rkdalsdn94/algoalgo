@@ -577,3 +577,4 @@
 | [달이 차오른다 가자 - 1194](https://www.acmicpc.net/problem/1194) | [py](Gold_1/달이_차오른다_가자_1194.py) | <!-- 문제 파일 안에 적어둔 링크 참고 -->
 | [부분수열의 합 2 - 1208](https://www.acmicpc.net/problem/1208) | [py](Gold_1/부분수열의_합_2_1208.py) |
 | [구슬 탈출 2 - 13460](https://www.acmicpc.net/problem/13460) | [py](Gold_1/구슬_탈출_2_13460.py) |
+| [구간 합 구하기 - 2042](https://www.acmicpc.net/problem/2042) | [py](Gold_1/구간_합_구하기_2042.py) |
