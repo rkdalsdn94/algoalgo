@@ -119,6 +119,7 @@
 | [주사위 - 1233](https://www.acmicpc.net/problem/1233) | [py](bronze_2/주사위_1233.py) |
 | [나누기 - 1075](https://www.acmicpc.net/problem/1075) | [py](bronze_2/나누기_1075.py) |
 | [카이사르 암호 - 5598](https://www.acmicpc.net/problem/5598) | [py](bronze_2/카이사르_암호_5598.py) |
+| [카드 역배치 - 10804](https://www.acmicpc.net/problem/10804) | [py](bronze_2/카드_역배치_10804.py) |
 
 ## Bronze 1
 | 문제 | 코드 (python) | 코드 (javascript)|
