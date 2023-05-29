@@ -29,6 +29,7 @@
 | [심부름 가는 길 - 5554](https://www.acmicpc.net/problem/5554) | [py](bronze_4/심부름_가는_길_5554.py) |
 | [세수정렬 - 2752](https://www.acmicpc.net/problem/2752) | [py](bronze_4/세수정렬_2752.py) |
 | [한글 - 11282](https://www.acmicpc.net/problem/11282) | [py](bronze_4/한글_11282.py) |
+| [럭비 클럽 - 2083](https://www.acmicpc.net/problem/2083) | [py](bronze_4/럭비_클럽_2083.py) |
 
 ## Bronze 3
 | 문제 | 코드 (python) | 코드 (javascript)|
