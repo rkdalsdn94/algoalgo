@@ -585,3 +585,4 @@
 | [구슬 탈출 2 - 13460](https://www.acmicpc.net/problem/13460) | [py](Gold_1/구슬_탈출_2_13460.py) |
 | [구간 합 구하기 - 2042](https://www.acmicpc.net/problem/2042) | [py](Gold_1/구간_합_구하기_2042.py) |
 | [구간 곱 구하기 - 11505](https://www.acmicpc.net/problem/11505) | [py](Gold_1/구간_곱_구하기_11505.py) |
+| [최솟값 - 10868](https://www.acmicpc.net/problem/10868) | [py](Gold_1/최솟값_10868.py) |
