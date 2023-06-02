@@ -440,6 +440,7 @@
 | [MVP 다이아몬드 Easy - 20413](https://www.acmicpc.net/problem/20413) | [py](Silver_2/MVP_다이아몬드_Easy_20413.py) |
 | [알고리즘 수업 너비 우선 탐색 1 - 24444](https://www.acmicpc.net/problem/24444) | [py](Silver_2/알고리즘_수업_너비_우선_탐색_1_24444.py) |
 | [신나는 함수 실행 - 9184](https://www.acmicpc.net/problem/9184) | [py](Silver_2/신나는_함수_실행_9184.py) |
+| [외판원 순회 2 - 10971](https://www.acmicpc.net/problem/10971) | [py](Silver_2/외판원_순회_2_10971.py) |
 
 ## Silver 1
 | 문제 | 코드 (python) | 코드 (javascript)|
