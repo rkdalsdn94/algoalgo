@@ -30,6 +30,7 @@
 | [세수정렬 - 2752](https://www.acmicpc.net/problem/2752) | [py](bronze_4/세수정렬_2752.py) |
 | [한글 - 11282](https://www.acmicpc.net/problem/11282) | [py](bronze_4/한글_11282.py) |
 | [럭비 클럽 - 2083](https://www.acmicpc.net/problem/2083) | [py](bronze_4/럭비_클럽_2083.py) |
+| [전자레인지 - 14470](https://www.acmicpc.net/problem/14470) | [py](bronze_4/전자레인지_14470.py) |
 
 ## Bronze 3
 | 문제 | 코드 (python) | 코드 (javascript)|
