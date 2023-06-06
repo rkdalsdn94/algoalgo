@@ -252,6 +252,7 @@
 | [팰린드롬 - 8892](https://www.acmicpc.net/problem/8892) | [py](Silver_5/팰린드롬_8892.py) |
 | [색종이 - 2563](https://www.acmicpc.net/problem/2563) | [py](Silver_5/색종이_2563.py) |
 | [경매 - 2238](https://www.acmicpc.net/problem/2238) | [py](Silver_5/경매_2238.py) |
+| [출입 기록 - 27111](https://www.acmicpc.net/problem/27111) | [py](Silver_5/출입_기록_27111.py) |
 
 ## Silver 4
 | 문제 | 코드 (python) | 코드 (javascript)|
