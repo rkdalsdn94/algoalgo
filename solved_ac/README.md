@@ -253,6 +253,7 @@
 | [색종이 - 2563](https://www.acmicpc.net/problem/2563) | [py](Silver_5/색종이_2563.py) |
 | [경매 - 2238](https://www.acmicpc.net/problem/2238) | [py](Silver_5/경매_2238.py) |
 | [출입 기록 - 27111](https://www.acmicpc.net/problem/27111) | [py](Silver_5/출입_기록_27111.py) |
+| [카약과 강풍 - 2891](https://www.acmicpc.net/problem/2891) | [py](Silver_5/카약과_강풍_2891.py) |
 
 ## Silver 4
 | 문제 | 코드 (python) | 코드 (javascript)|
