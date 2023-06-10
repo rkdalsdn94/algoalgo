@@ -186,6 +186,7 @@ Lv1
 | [Lv2 예상 대진표](https://programmers.co.kr/learn/courses/30/lessons/12985) | [py](programmers/Lv2/Lv2_예상_대진표.py) |
 | [Lv2 2 x n 타일링](https://programmers.co.kr/learn/courses/30/lessons/12900) | [py](programmers/Lv2/Lv2_2_x_n_타일링.py) |
 | [Lv2 멀리 뛰기](https://programmers.co.kr/learn/courses/30/lessons/12914) | [py](programmers/Lv2/Lv2_멀리_뛰기.py) |
+| [Lv2 쿼드압축 후 개수 세기](https://programmers.co.kr/learn/courses/30/lessons/68936) | [py](programmers/Lv2/Lv2_쿼드압축_후_개수_세기.py) |
 
 #
 Lv3 
