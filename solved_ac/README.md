@@ -597,3 +597,4 @@
 | [구간 합 구하기 - 2042](https://www.acmicpc.net/problem/2042) | [py](Gold_1/구간_합_구하기_2042.py) |
 | [구간 곱 구하기 - 11505](https://www.acmicpc.net/problem/11505) | [py](Gold_1/구간_곱_구하기_11505.py) |
 | [최솟값 - 10868](https://www.acmicpc.net/problem/10868) | [py](Gold_1/최솟값_10868.py) |
+| [수들의 합 7 - 2268](https://www.acmicpc.net/problem/2268) | [py](Gold_1/수들의_합_7_2268.py) |
