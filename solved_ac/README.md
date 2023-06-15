@@ -575,6 +575,7 @@
 | [과제 - 13904](https://www.acmicpc.net/problem/13904) | [py](Gold_3/과제_13904.py) |
 | [두 배열의 합 - 2143](https://www.acmicpc.net/problem/2143) | [py](Gold_3/두_배열의_합_2143.py) |
 | [줄 세우기 - 2252](https://www.acmicpc.net/problem/2252) | [py](Gold_3/줄_세우기_2252.py) |
+| [아기 상어 - 16236](https://www.acmicpc.net/problem/16236) | [py](Gold_3/아기_상어_16236.py) |
 
 ## Gold 2
 | 문제 | 코드 (python) | 코드 (javascript)|
