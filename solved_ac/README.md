@@ -391,6 +391,7 @@
 | [이상한 술집 - 13702](https://www.acmicpc.net/problem/13702) | [py](Silver_3/이상한_술집_13702.py) |
 | [피보나치 수의 확장 - 1788](https://www.acmicpc.net/problem/1788) | [py](Silver_3/피보나치_수의_확장_1788.py) |
 | [N과 M 2 - 15650](https://www.acmicpc.net/problem/15650) | [py](Silver_3/N과_M_2_15650.py) |
+| [서강근육맨 - 20300](https://www.acmicpc.net/problem/20300) | [py](Silver_3/서강근육맨_20300.py) |
 
 ## Silver 2
 | 문제 | 코드 (python) | 코드 (javascript)|
