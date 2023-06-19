@@ -566,6 +566,7 @@
 | [녹색 옷 입은 애가 젤다지 - 4485](https://www.acmicpc.net/problem/4485) | [py](Gold_4/녹색_옷_입은_애가_젤다지_4485.py) |
 | [트리의 지름 - 1967](https://www.acmicpc.net/problem/1967) | [py](Gold_4/트리의_지름_1967.py) |
 | [플로이드 - 11404](https://www.acmicpc.net/problem/11404) | [py](Gold_4/플로이드_11404.py) |
+| [가장 긴 바이토닉 부분 수열 - 11054](https://www.acmicpc.net/problem/11054) | [py](Gold_4/가장_긴_바이토닉_부분_수열_11054.py) |
 
 ## Gold 3
 | 문제 | 코드 (python) | 코드 (javascript)|
