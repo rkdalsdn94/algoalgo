@@ -567,6 +567,7 @@
 | [트리의 지름 - 1967](https://www.acmicpc.net/problem/1967) | [py](Gold_4/트리의_지름_1967.py) |
 | [플로이드 - 11404](https://www.acmicpc.net/problem/11404) | [py](Gold_4/플로이드_11404.py) |
 | [가장 긴 바이토닉 부분 수열 - 11054](https://www.acmicpc.net/problem/11054) | [py](Gold_4/가장_긴_바이토닉_부분_수열_11054.py) |
+| [가장 긴 증가하는 부분 수열 4 - 14002](https://www.acmicpc.net/problem/14002) | [py](Gold_4/가장_긴_증가하는_부분_수열_4_14002.py) |
 
 ## Gold 3
 | 문제 | 코드 (python) | 코드 (javascript)|
