@@ -127,6 +127,7 @@
 | [바구니 순서 바꾸기 - 10812](https://www.acmicpc.net/problem/10812) | [py](bronze_2/바구니_순서_바꾸기_10812.py) |
 | [도비의 영어 공부 - 2386](https://www.acmicpc.net/problem/2386) | [py](bronze_2/도비의_영어_공부_2386.py) |
 | [재귀의 귀재 - 25501](https://www.acmicpc.net/problem/25501) | [py](bronze_2/재귀의_귀재_25501.py) |
+| [창영마을 - 3028](https://www.acmicpc.net/problem/3028) | [py](bronze_2/창영마을_3028.py) |
 
 ## Bronze 1
 | 문제 | 코드 (python) | 코드 (javascript)|
