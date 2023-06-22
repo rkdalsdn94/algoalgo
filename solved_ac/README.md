@@ -451,6 +451,7 @@
 | [신나는 함수 실행 - 9184](https://www.acmicpc.net/problem/9184) | [py](Silver_2/신나는_함수_실행_9184.py) |
 | [외판원 순회 2 - 10971](https://www.acmicpc.net/problem/10971) | [py](Silver_2/외판원_순회_2_10971.py) |
 | [특정 거리의 도시 찾기 - 18352](https://www.acmicpc.net/problem/18352) | [py](Silver_2/특정_거리의_도시_찾기_18352.py) |
+| [제곱의 합 - 1699](https://www.acmicpc.net/problem/1699) | [py](Silver_2/제곱의_합_1699.py) |
 
 ## Silver 1
 | 문제 | 코드 (python) | 코드 (javascript)|
