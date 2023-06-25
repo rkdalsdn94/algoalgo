@@ -173,6 +173,7 @@
 | [희주의 수학시험 - 8974](https://www.acmicpc.net/problem/8974) | [py](bronze_1/희주의_수학시험_8974.py) |
 | [벼락치기 - 23739](https://www.acmicpc.net/problem/23739) | [py](bronze_1/벼락치기_23739.py) |
 | [수열의 변화 - 1551](https://www.acmicpc.net/problem/1551) | [py](bronze_1/수열의_변화_1551.py) |
+| [롤 케이크 - 3985](https://www.acmicpc.net/problem/3985) | [py](bronze_1/롤_케이크_3985.py) |
 
 ## Silver 5
 | 문제 | 코드 (python) | 코드 (javascript)|
