@@ -510,6 +510,7 @@
 | [현수막 - 14716](https://www.acmicpc.net/problem/14716) | [py](Silver_1/현수막_14716.py) |
 | [쿼드트리 - 1992](https://www.acmicpc.net/problem/1992) | [py](Silver_1/쿼드트리_1992.py) |
 | [스타트링크 - 5014](https://www.acmicpc.net/problem/5014) | [py](Silver_1/스타트링크_5014.py) |
+| [최대공약수 - 1850](https://www.acmicpc.net/problem/1850) | [py](Silver_1/최대공약수_1850.py) |
 
 ## Gold 5
 | 문제 | 코드 (python) | 코드 (javascript)|
