@@ -129,6 +129,7 @@
 | [도비의 영어 공부 - 2386](https://www.acmicpc.net/problem/2386) | [py](bronze_2/도비의_영어_공부_2386.py) |
 | [재귀의 귀재 - 25501](https://www.acmicpc.net/problem/25501) | [py](bronze_2/재귀의_귀재_25501.py) |
 | [창영마을 - 3028](https://www.acmicpc.net/problem/3028) | [py](bronze_2/창영마을_3028.py) |
+| [지우개 - 21756](https://www.acmicpc.net/problem/21756) | [py](bronze_2/지우개_21756.py) |
 
 ## Bronze 1
 | 문제 | 코드 (python) | 코드 (javascript)|
