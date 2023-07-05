@@ -262,6 +262,7 @@
 | [출입 기록 - 27111](https://www.acmicpc.net/problem/27111) | [py](Silver_5/출입_기록_27111.py) |
 | [카약과 강풍 - 2891](https://www.acmicpc.net/problem/2891) | [py](Silver_5/카약과_강풍_2891.py) |
 | [날짜 계산 - 1476](https://www.acmicpc.net/problem/1476) | [py](Silver_5/날짜_계산_1476.py) |
+| [행렬 곱셈 - 2740](https://www.acmicpc.net/problem/2740) | [py](Silver_5/행렬_곱셈_2740.py) |
 
 ## Silver 4
 | 문제 | 코드 (python) | 코드 (javascript)|
