@@ -264,6 +264,7 @@
 | [날짜 계산 - 1476](https://www.acmicpc.net/problem/1476) | [py](Silver_5/날짜_계산_1476.py) |
 | [행렬 곱셈 - 2740](https://www.acmicpc.net/problem/2740) | [py](Silver_5/행렬_곱셈_2740.py) |
 | [너의 평점은 - 25206](https://www.acmicpc.net/problem/25206) | [py](Silver_5/너의_평점은_25206.py) |
+| [직사각형 네개의 합집합의 면적 구하기 - 2669](https://www.acmicpc.net/problem/2669) | [py](Silver_5/직사각형_네개의_합집합의_면적_구하기_2669.py) |
 
 ## Silver 4
 | 문제 | 코드 (python) | 코드 (javascript)|
