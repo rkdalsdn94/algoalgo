@@ -10,6 +10,10 @@
 참고한 링크는 여기이다. - https://velog.io/@hamfan524/백준-13549번-Python-파이썬-Dijkstra
 
 bfs 풀 듯이 풀었다. 뭔가 쉬운거 같으면서 복잡한 문제였다. 인덱스 범위를 잘 신경써야 된다.
+
+6월 28일날 재채점 됐는데 계속 99%에서 틀렸다. 어떻게 해결해야 할지 감이 잘 안와서 아래에 있는 질문 게시판의 반례를 참고했다.
+    - https://www.acmicpc.net/board/view/121219
+해결하는 방법은 간단하다. if 문의 순서를 기존의 위치에서 a - 1, a + 1 로 바꾸기만 하면 해결할 수 있다.
 '''
 
 from collections import deque
@@ -18,6 +22,7 @@ n, k = map(int, input().split())
 
 # 테스트
 # n, k = 5, 17 # 2
+# n, k = 4, 6 # 1
 
 res = [-1] * 100_002 # # -1로 설정하는 이유는 k가 n이랑 같거나, 2배이면 답이 0이된다. (바로 순간이동이 가능함.)
 ck = [0] * 100_002
@@ -35,14 +40,14 @@ while q:
         q.appendleft(a * 2)
         ck[a * 2] = 1
         res[a * 2] = res[a]
-    if a + 1 <= 100_001 and ck[a + 1] == 0:
-        q.append(a + 1)
-        ck[a + 1] = 1
-        res[a + 1] = res[a] + 1
     if a - 1 >= 0 and ck[a - 1] == 0:
         q.append(a - 1)
         ck[a - 1] = 1
         res[a - 1] = res[a] + 1
+    if a + 1 <= 100_001 and ck[a + 1] == 0:
+        q.append(a + 1)
+        ck[a + 1] = 1
+        res[a + 1] = res[a] + 1
 
 print(res[k])
 
