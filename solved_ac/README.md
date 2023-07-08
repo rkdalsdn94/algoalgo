@@ -337,6 +337,7 @@
 | [제 2회 IUPC는 잘 개최될 수 있을까 - 12788](https://www.acmicpc.net/problem/12788) | [py](Silver_4/제_2회_IUPC는_잘_개최될_수_있을까_12788.py) |
 | [비트 우정지수 - 12782](https://www.acmicpc.net/problem/12782) | [py](Silver_4/비트_우정지수_12782.py) |
 | [링 - 3036](https://www.acmicpc.net/problem/3036) | [py](Silver_4/링_3036.py) |
+| [색종이 2 - 2567](https://www.acmicpc.net/problem/2567) | [py](Silver_4/색종이_2_2567.py) |
 
 ## Silver 3
 | 문제 | 코드 (python) | 코드 (javascript)|
