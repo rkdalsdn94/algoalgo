@@ -338,6 +338,7 @@
 | [비트 우정지수 - 12782](https://www.acmicpc.net/problem/12782) | [py](Silver_4/비트_우정지수_12782.py) |
 | [링 - 3036](https://www.acmicpc.net/problem/3036) | [py](Silver_4/링_3036.py) |
 | [색종이 2 - 2567](https://www.acmicpc.net/problem/2567) | [py](Silver_4/색종이_2_2567.py) |
+| [soved.ac - 18110](https://www.acmicpc.net/problem/18110) | [py](Silver_4/soved.ac_18110.py) |
 
 ## Silver 3
 | 문제 | 코드 (python) | 코드 (javascript)|
