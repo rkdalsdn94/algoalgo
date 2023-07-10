@@ -554,8 +554,9 @@
 | [동전 2 - 2294](https://www.acmicpc.net/problem/2294) | [py](Gold_5/동전_2_2294.py) |
 | [별 찍기 10 - 2447](https://www.acmicpc.net/problem/2447) | [py](Gold_5/별_찍기_10_2447.py) |
 | [센서 - 2212](https://www.acmicpc.net/problem/2212) | [py](Gold_5/센서_2212.py) |
-| [선수과목_(Prerequisite) - 14567](https://www.acmicpc.net/problem/14567) | [py](Gold_5/선수과목_(Prerequisite)_14567.py) |
-| [맥주_마시면서_걸어가기 - 9205](https://www.acmicpc.net/problem/9205) | [py](Gold_5/맥주_마시면서_걸어가기_9205.py) |
+| [선수과목 (Prerequisite) - 14567](https://www.acmicpc.net/problem/14567) | [py](Gold_5/선수과목_(Prerequisite)_14567.py) |
+| [맥주 마시면서 걸어가기 - 9205](https://www.acmicpc.net/problem/9205) | [py](Gold_5/맥주_마시면서_걸어가기_9205.py) |
+| [치킨 배달 - 15686](https://www.acmicpc.net/problem/15686) | [py](Gold_5/치킨_배달_15686.py) |
 
 ## Gold 4
 | 문제 | 코드 (python) | 코드 (javascript)|
