@@ -404,6 +404,7 @@
 | [N과 M 2 - 15650](https://www.acmicpc.net/problem/15650) | [py](Silver_3/N과_M_2_15650.py) |
 | [서강근육맨 - 20300](https://www.acmicpc.net/problem/20300) | [py](Silver_3/서강근육맨_20300.py) |
 | [N과 M 3 - 15651](https://www.acmicpc.net/problem/15651) | [py](Silver_3/N과_M_3_15651.py) |
+| [N과 M 5 - 15654](https://www.acmicpc.net/problem/15654) | [py](Silver_3/N과_M_5_15654.py) |
 
 ## Silver 2
 | 문제 | 코드 (python) | 코드 (javascript)|
