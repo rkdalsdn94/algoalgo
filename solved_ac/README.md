@@ -65,6 +65,7 @@
 | [별 찍기 20 - 10995](https://www.acmicpc.net/problem/10995) | [py](bronze_3/별_찍기_20_10995.py) |
 | [주사위 - 9295](https://www.acmicpc.net/problem/9295) | [py](bronze_3/주사위_9295.py) |
 | [소음 - 2935](https://www.acmicpc.net/problem/2935) | [py](bronze_3/소음_2935.py) |
+| [별 찍기 6 - 2443](https://www.acmicpc.net/problem/2443) | [py](bronze_3/별_찍기_6_2443.py) |
 
 ## Bronze 2
 | 문제 | 코드 (python) | 코드 (javascript)|
