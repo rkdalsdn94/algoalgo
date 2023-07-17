@@ -524,6 +524,7 @@
 | [스타트링크 - 5014](https://www.acmicpc.net/problem/5014) | [py](Silver_1/스타트링크_5014.py) |
 | [최대공약수 - 1850](https://www.acmicpc.net/problem/1850) | [py](Silver_1/최대공약수_1850.py) |
 | [데스 나이트 - 16948](https://www.acmicpc.net/problem/16948) | [py](Silver_1/데스_나이트_16948.py) |
+| [기타 레슨 - 2343](https://www.acmicpc.net/problem/2343) | [py](Silver_1/기타_레슨_2343.py) |
 
 ## Gold 5
 | 문제 | 코드 (python) | 코드 (javascript)|
