@@ -34,25 +34,20 @@ for _ in range(t):
 
     for i in command:
         if i == "F":
-            x += dx[direction]
-            y += dy[direction]
+            x, y = x + dx[direction], y + dy[direction]
         elif i == "B":
-            x -= dx[direction]
-            y -= dy[direction]
-        elif i == "L":
-            if direction == 3:
+            x, y = x - dx[direction], y - dy[direction]
+        elif i == "L": # 거북이의 방향을 바꾸기 위해
+            if direction == 3: # 3 이면 현재 방향이 동쪽이므로 위 순서대로 봤을 때 다시 0(북쪽)을 보게 해야된다.
                 direction = 0
             else:
                 direction += 1
-        elif i == "R":
+        elif i == "R": # L의 반대라고 생각하면 된다.
             if direction == 0:
                 direction = 3
             else:
                 direction -= 1
+        min_x, max_x = min(x, min_x), max(x, max_x)
+        min_y, max_y = min(y, min_y), max(y, max_y)
 
-    min_x = min(min_x, x)
-    min_y = min(min_y, y)
-    max_x = max(max_x, x)
-    max_y = max(max_y, y)
-
-print(abs(max_x - min_x) * abs(max_y - min_y))
+    print(abs(max_x - min_x) * abs(max_y - min_y))
