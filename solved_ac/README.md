@@ -471,6 +471,7 @@
 | [외판원 순회 2 - 10971](https://www.acmicpc.net/problem/10971) | [py](Silver_2/외판원_순회_2_10971.py) |
 | [특정 거리의 도시 찾기 - 18352](https://www.acmicpc.net/problem/18352) | [py](Silver_2/특정_거리의_도시_찾기_18352.py) |
 | [제곱수의 합 - 1699](https://www.acmicpc.net/problem/1699) | [py](Silver_2/제곱수의_합_1699.py) |
+| [주차장 - 5464](https://www.acmicpc.net/problem/5464) | [py](Silver_2/주차장_5464.py) |
 
 ## Silver 1
 | 문제 | 코드 (python) | 코드 (javascript)|
