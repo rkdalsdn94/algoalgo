@@ -412,6 +412,7 @@
 | [N과 M 3 - 15651](https://www.acmicpc.net/problem/15651) | [py](Silver_3/N과_M_3_15651.py) |
 | [N과 M 5 - 15654](https://www.acmicpc.net/problem/15654) | [py](Silver_3/N과_M_5_15654.py) |
 | [거북이 - 8911](https://www.acmicpc.net/problem/8911) | [py](Silver_3/거북이_8911.py) |
+| [블로그 - 21921](https://www.acmicpc.net/problem/21921) | [py](Silver_3/블로그_21921.py) |
 
 ## Silver 2
 | 문제 | 코드 (python) | 코드 (javascript)|
