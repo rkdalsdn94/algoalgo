@@ -532,6 +532,7 @@
 | [최대공약수 - 1850](https://www.acmicpc.net/problem/1850) | [py](Silver_1/최대공약수_1850.py) |
 | [데스 나이트 - 16948](https://www.acmicpc.net/problem/16948) | [py](Silver_1/데스_나이트_16948.py) |
 | [기타 레슨 - 2343](https://www.acmicpc.net/problem/2343) | [py](Silver_1/기타_레슨_2343.py) |
+| [배열 돌리기 1 - 16926](https://www.acmicpc.net/problem/16926) | [py](Silver_1/배열_돌리기_1_16926.py) |
 
 ## Gold 5
 | 문제 | 코드 (python) | 코드 (javascript)|
