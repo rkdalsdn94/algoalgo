@@ -600,6 +600,7 @@
 | [플로이드 - 11404](https://www.acmicpc.net/problem/11404) | [py](Gold_4/플로이드_11404.py) |
 | [가장 긴 바이토닉 부분 수열 - 11054](https://www.acmicpc.net/problem/11054) | [py](Gold_4/가장_긴_바이토닉_부분_수열_11054.py) |
 | [가장 긴 증가하는 부분 수열 4 - 14002](https://www.acmicpc.net/problem/14002) | [py](Gold_4/가장_긴_증가하는_부분_수열_4_14002.py) |
+| [숨바꼭질 2 - 12851](https://www.acmicpc.net/problem/12851) | [py](Gold_4/숨바꼭질_2_12851.py) |
 
 ## Gold 3
 | 문제 | 코드 (python) | 코드 (javascript)|
