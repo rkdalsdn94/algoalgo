@@ -604,6 +604,7 @@
 | [가장 긴 증가하는 부분 수열 4 - 14002](https://www.acmicpc.net/problem/14002) | [py](Gold_4/가장_긴_증가하는_부분_수열_4_14002.py) |
 | [숨바꼭질 2 - 12851](https://www.acmicpc.net/problem/12851) | [py](Gold_4/숨바꼭질_2_12851.py) |
 | [빙산 - 2573](https://www.acmicpc.net/problem/2573) | [py](Gold_4/빙산_2573.py) |
+| [미로만들기 - 2665](https://www.acmicpc.net/problem/2665) | [py](Gold_4/미로만들기_2665.py) |
 
 ## Gold 3
 | 문제 | 코드 (python) | 코드 (javascript)|
