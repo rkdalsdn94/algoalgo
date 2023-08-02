@@ -272,6 +272,7 @@
 | [너의 평점은 - 25206](https://www.acmicpc.net/problem/25206) | [py](Silver_5/너의_평점은_25206.py) |
 | [직사각형 네개의 합집합의 면적 구하기 - 2669](https://www.acmicpc.net/problem/2669) | [py](Silver_5/직사각형_네개의_합집합의_면적_구하기_2669.py) |
 | [다각형의 대각선 - 3049](https://www.acmicpc.net/problem/3049) | [py](Silver_5/다각형의_대각선_3049.py) |
+| [마트료시카 합치기 - 25631](https://www.acmicpc.net/problem/25631) | [py](Silver_5/마트료시카_합치기_25631.py) |
 
 ## Silver 4
 | 문제 | 코드 (python) | 코드 (javascript)|
