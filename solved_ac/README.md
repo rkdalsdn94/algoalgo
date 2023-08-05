@@ -68,6 +68,7 @@
 | [소음 - 2935](https://www.acmicpc.net/problem/2935) | [py](bronze_3/소음_2935.py) |
 | [별 찍기 6 - 2443](https://www.acmicpc.net/problem/2443) | [py](bronze_3/별_찍기_6_2443.py) |
 | [최댓값 - 2566](https://www.acmicpc.net/problem/2566) | [py](bronze_3/최댓값_2566.py) |
+| [주사위 게임 - 2476](https://www.acmicpc.net/problem/2476) | [py](bronze_3/주사위_게임_2476.py) |
 
 ## Bronze 2
 | 문제 | 코드 (python) | 코드 (javascript)|
