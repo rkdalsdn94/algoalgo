@@ -187,6 +187,7 @@ Lv1
 | [Lv2 2 x n 타일링](https://programmers.co.kr/learn/courses/30/lessons/12900) | [py](programmers/Lv2/Lv2_2_x_n_타일링.py) |
 | [Lv2 멀리 뛰기](https://programmers.co.kr/learn/courses/30/lessons/12914) | [py](programmers/Lv2/Lv2_멀리_뛰기.py) |
 | [Lv2 쿼드압축 후 개수 세기](https://programmers.co.kr/learn/courses/30/lessons/68936) | [py](programmers/Lv2/Lv2_쿼드압축_후_개수_세기.py) |
+| [Lv2 무인도 여행](https://programmers.co.kr/learn/courses/30/lessons/154540) | [py](programmers/Lv2/Lv2_무인도_여행.py) |
 
 #
 Lv3 
