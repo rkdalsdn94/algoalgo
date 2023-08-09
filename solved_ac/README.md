@@ -275,6 +275,7 @@
 | [다각형의 대각선 - 3049](https://www.acmicpc.net/problem/3049) | [py](Silver_5/다각형의_대각선_3049.py) |
 | [마트료시카 합치기 - 25631](https://www.acmicpc.net/problem/25631) | [py](Silver_5/마트료시카_합치기_25631.py) |
 | [피보나치 수 4 - 10826](https://www.acmicpc.net/problem/10826) | [py](Silver_5/피보나치_수_4_10826.py) |
+| [욱제는 도박쟁이야!! - 14655](https://www.acmicpc.net/problem/14655) | [py](Silver_5/욱제는_도박쟁이야_14655.py) |
 
 ## Silver 4
 | 문제 | 코드 (python) | 코드 (javascript)|
