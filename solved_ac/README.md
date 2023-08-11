@@ -481,6 +481,7 @@
 | [제곱수의 합 - 1699](https://www.acmicpc.net/problem/1699) | [py](Silver_2/제곱수의_합_1699.py) |
 | [주차장 - 5464](https://www.acmicpc.net/problem/5464) | [py](Silver_2/주차장_5464.py) |
 | [차이를 최대로 - 10819](https://www.acmicpc.net/problem/10819) | [py](Silver_2/차이를_최대로_10819.py) |
+| [아기 상어 2 - 17086](https://www.acmicpc.net/problem/17086) | [py](Silver_2/아기_상어_2_17086.py) |
 
 ## Silver 1
 | 문제 | 코드 (python) | 코드 (javascript)|
