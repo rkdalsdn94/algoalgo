@@ -185,6 +185,7 @@
 | [롤 케이크 - 3985](https://www.acmicpc.net/problem/3985) | [py](bronze_1/롤_케이크_3985.py) |
 | [평균은 넘겠지 - 4344](https://www.acmicpc.net/problem/4344) | [py](bronze_1/평균은_넘겠지_4344.py) |
 | [최소공배수 - 1934](https://www.acmicpc.net/problem/1934) | [py](bronze_1/최소공배수_1934.py) |
+| [초콜릿 자르기 - 2163](https://www.acmicpc.net/problem/2163) | [py](bronze_1/초콜릿_자르기_2163.py) |
 
 ## Silver 5
 | 문제 | 코드 (python) | 코드 (javascript)|
