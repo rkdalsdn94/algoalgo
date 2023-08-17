@@ -354,6 +354,7 @@
 | [색종이 2 - 2567](https://www.acmicpc.net/problem/2567) | [py](Silver_4/색종이_2_2567.py) |
 | [soved.ac - 18110](https://www.acmicpc.net/problem/18110) | [py](Silver_4/soved.ac_18110.py) |
 | [어두운 굴다리 - 17266](https://www.acmicpc.net/problem/17266) | [py](Silver_4/어두운_굴다리_17266.py) |
+| [스택 2 - 28278](https://www.acmicpc.net/problem/28278) | [py](Silver_4/스택_2_28278.py) |
 
 ## Silver 3
 | 문제 | 코드 (python) | 코드 (javascript)|
