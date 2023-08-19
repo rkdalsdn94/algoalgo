@@ -137,6 +137,7 @@
 | [백설 공주와 일곱 난쟁이 - 3040](https://www.acmicpc.net/problem/3040) | [py](bronze_2/백설_공주와_일곱_난쟁이_3040.py) |
 | [암호 - 1718](https://www.acmicpc.net/problem/1718) | [py](bronze_2/암호_1718.py) |
 | [콘테스트 - 5576](https://www.acmicpc.net/problem/5576) | [py](bronze_2/콘테스트_5576.py) |
+| [가장 많은 글자 - 1371](https://www.acmicpc.net/problem/1371) | [py](bronze_2/가장_많은_글자_1371.py) |
 
 ## Bronze 1
 | 문제 | 코드 (python) | 코드 (javascript)|
