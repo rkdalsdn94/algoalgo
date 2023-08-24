@@ -187,6 +187,7 @@
 | [평균은 넘겠지 - 4344](https://www.acmicpc.net/problem/4344) | [py](bronze_1/평균은_넘겠지_4344.py) |
 | [최소공배수 - 1934](https://www.acmicpc.net/problem/1934) | [py](bronze_1/최소공배수_1934.py) |
 | [초콜릿 자르기 - 2163](https://www.acmicpc.net/problem/2163) | [py](bronze_1/초콜릿_자르기_2163.py) |
+| [소가 길을 건너는 이유 1 - 14467](https://www.acmicpc.net/problem/14467) | [py](bronze_1/소가_길을_건너는_이유_1_14467.py) |
 
 ## Silver 5
 | 문제 | 코드 (python) | 코드 (javascript)|
