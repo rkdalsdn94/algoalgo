@@ -431,6 +431,7 @@
 | [N과 M 4 - 15652](https://www.acmicpc.net/problem/15652) | [py](Silver_3/N과_M_4_15652.py) |
 | [분수 합 - 1735](https://www.acmicpc.net/problem/1735) | [py](Silver_3/분수_합_1735.py) |
 | [N과 M 8 - 15657](https://www.acmicpc.net/problem/15657) | [py](Silver_3/N과_M_8_15657.py) |
+| [풍선 터뜨리기 - 2346](https://www.acmicpc.net/problem/2346) | [py](Silver_3/풍선_터뜨리기_2346.py) |
 
 ## Silver 2
 | 문제 | 코드 (python) | 코드 (javascript)|
