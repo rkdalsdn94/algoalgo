@@ -69,6 +69,7 @@
 | [별 찍기 6 - 2443](https://www.acmicpc.net/problem/2443) | [py](bronze_3/별_찍기_6_2443.py) |
 | [최댓값 - 2566](https://www.acmicpc.net/problem/2566) | [py](bronze_3/최댓값_2566.py) |
 | [주사위 게임 - 2476](https://www.acmicpc.net/problem/2476) | [py](bronze_3/주사위_게임_2476.py) |
+| [플러그 - 2010](https://www.acmicpc.net/problem/2010) | [py](bronze_3/플러그_2010.py) |
 
 ## Bronze 2
 | 문제 | 코드 (python) | 코드 (javascript)|
