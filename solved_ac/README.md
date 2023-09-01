@@ -283,6 +283,7 @@
 | [피보나치 수 4 - 10826](https://www.acmicpc.net/problem/10826) | [py](Silver_5/피보나치_수_4_10826.py) |
 | [욱제는 도박쟁이야!! - 14655](https://www.acmicpc.net/problem/14655) | [py](Silver_5/욱제는_도박쟁이야_14655.py) |
 | [최소공배수 - 13241](https://www.acmicpc.net/problem/13241) | [py](Silver_5/최소공배수_13241.py) |
+| [미아 노트 - 20114](https://www.acmicpc.net/problem/20114) | [py](Silver_5/미아_노트_20114.py) |
 
 ## Silver 4
 | 문제 | 코드 (python) | 코드 (javascript)|
