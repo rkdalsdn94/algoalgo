@@ -193,6 +193,7 @@
 | [단어순서 뒤집기 - 12605](https://www.acmicpc.net/problem/12605) | [py](bronze_1/단어순서_뒤집기_12605.py) |
 | [딱지놀이 - 14696](https://www.acmicpc.net/problem/14696) | [py](bronze_1/딱지놀이_14696.py) |
 | [싸이클 - 2526](https://www.acmicpc.net/problem/2526) | [py](bronze_1/싸이클_2526.py) |
+| [피카츄 - 14405](https://www.acmicpc.net/problem/14405) | [py](bronze_1/피카츄_14405.py) |
 
 ## Silver 5
 | 문제 | 코드 (python) | 코드 (javascript)|
