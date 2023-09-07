@@ -366,6 +366,7 @@
 | [스택 2 - 28278](https://www.acmicpc.net/problem/28278) | [py](Silver_4/스택_2_28278.py) |
 | [떡국 - 20937](https://www.acmicpc.net/problem/20937) | [py](Silver_4/떡국_20937.py) |
 | [숫자세는 양 Small - 14381](https://www.acmicpc.net/problem/14381) | [py](Silver_4/숫자세는_양_Small_14381.py) |
+| [행운의 티켓 - 1639](https://www.acmicpc.net/problem/1639) | [py](Silver_4/행운의_티켓_1639.py) |
 
 ## Silver 3
 | 문제 | 코드 (python) | 코드 (javascript)|
