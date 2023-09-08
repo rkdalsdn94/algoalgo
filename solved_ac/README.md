@@ -70,6 +70,7 @@
 | [최댓값 - 2566](https://www.acmicpc.net/problem/2566) | [py](bronze_3/최댓값_2566.py) |
 | [주사위 게임 - 2476](https://www.acmicpc.net/problem/2476) | [py](bronze_3/주사위_게임_2476.py) |
 | [플러그 - 2010](https://www.acmicpc.net/problem/2010) | [py](bronze_3/플러그_2010.py) |
+| [FBI - 2857](https://www.acmicpc.net/problem/2857) | [py](bronze_3/FBI_2857.py) |
 
 ## Bronze 2
 | 문제 | 코드 (python) | 코드 (javascript)|
