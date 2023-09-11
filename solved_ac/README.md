@@ -197,6 +197,7 @@
 | [싸이클 - 2526](https://www.acmicpc.net/problem/2526) | [py](bronze_1/싸이클_2526.py) |
 | [피카츄 - 14405](https://www.acmicpc.net/problem/14405) | [py](bronze_1/피카츄_14405.py) |
 | [변수명 - 16205](https://www.acmicpc.net/problem/16205) | [py](bronze_1/변수명_16205.py) |
+| [민균이의 비밀번호 - 9933](https://www.acmicpc.net/problem/9933) | [py](bronze_1/민균이의_비밀번호_9933.py) |
 
 ## Silver 5
 | 문제 | 코드 (python) | 코드 (javascript)|
