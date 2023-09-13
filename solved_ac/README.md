@@ -72,6 +72,7 @@
 | [플러그 - 2010](https://www.acmicpc.net/problem/2010) | [py](bronze_3/플러그_2010.py) |
 | [FBI - 2857](https://www.acmicpc.net/problem/2857) | [py](bronze_3/FBI_2857.py) |
 | [나는 요리사다 - 2953](https://www.acmicpc.net/problem/2953) | [py](bronze_3/나는_요리사다_2953.py) |
+| [TGN - 5063](https://www.acmicpc.net/problem/5063) | [py](bronze_3/TGN_5063.py) |
 
 ## Bronze 2
 | 문제 | 코드 (python) | 코드 (javascript)|
