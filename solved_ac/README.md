@@ -201,6 +201,7 @@
 | [민균이의 비밀번호 - 9933](https://www.acmicpc.net/problem/9933) | [py](bronze_1/민균이의_비밀번호_9933.py) |
 | [그림 비교 - 2160](https://www.acmicpc.net/problem/2160) | [py](bronze_1/그림_비교_2160.py) |
 | [카드 바꿔치기 - 18766](https://www.acmicpc.net/problem/18766) | [py](bronze_1/카드_바꿔치기_18766.py) |
+| 도비의 난독증 테스트 - 2204](https://www.acmicpc.net/problem/2204) | [py](bronze_1/도비의_난독증_테스트_2204.py) |
 
 ## Silver 5
 | 문제 | 코드 (python) | 코드 (javascript)|
