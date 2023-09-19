@@ -451,6 +451,7 @@
 | [풍선 터뜨리기 - 2346](https://www.acmicpc.net/problem/2346) | [py](Silver_3/풍선_터뜨리기_2346.py) |
 | [합 구하기 - 11441](https://www.acmicpc.net/problem/11441) | [py](Silver_3/합_구하기_11441.py) |
 | [한국이 그리울 땐 서버에 접속하지 - 9996](https://www.acmicpc.net/problem/9996) | [py](Silver_3/한국이_그리울_땐_서버에_접속하지_9996.py) |
+| [영단어 암기는 괴로워 - 20920](https://www.acmicpc.net/problem/20920) | [py](Silver_3/영단어_암기는_괴로워_20920.py) |
 
 ## Silver 2
 | 문제 | 코드 (python) | 코드 (javascript)|
