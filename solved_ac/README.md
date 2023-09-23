@@ -204,6 +204,7 @@
 | [도비의 난독증 테스트 - 2204](https://www.acmicpc.net/problem/2204) | [py](bronze_1/도비의_난독증_테스트_2204.py) |
 | [행복한지 슬픈지 - 10769](https://www.acmicpc.net/problem/10769) | [py](bronze_1/행복한지_슬픈지_10769.py) |
 | [히든 넘버 - 8595](https://www.acmicpc.net/problem/8595) | [py](bronze_1/히든_넘버_8595.py) |
+| [사토르 마방진 - 20112](https://www.acmicpc.net/problem/20112) | [py](bronze_1/사토르_마방진_20112.py) |
 
 ## Silver 5
 | 문제 | 코드 (python) | 코드 (javascript)|
