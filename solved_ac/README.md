@@ -73,6 +73,7 @@
 | [FBI - 2857](https://www.acmicpc.net/problem/2857) | [py](bronze_3/FBI_2857.py) |
 | [나는 요리사다 - 2953](https://www.acmicpc.net/problem/2953) | [py](bronze_3/나는_요리사다_2953.py) |
 | [TGN - 5063](https://www.acmicpc.net/problem/5063) | [py](bronze_3/TGN_5063.py) |
+| [오븐 시계 - 2525](https://www.acmicpc.net/problem/2525) | [py](bronze_3/오븐_시계_2525.py) |
 
 ## Bronze 2
 | 문제 | 코드 (python) | 코드 (javascript)|
