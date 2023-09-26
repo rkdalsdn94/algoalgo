@@ -380,6 +380,7 @@
 | [숫자세는 양 Small - 14381](https://www.acmicpc.net/problem/14381) | [py](Silver_4/숫자세는_양_Small_14381.py) |
 | [행운의 티켓 - 1639](https://www.acmicpc.net/problem/1639) | [py](Silver_4/행운의_티켓_1639.py) |
 | [프로그래밍 대회 전용 부지 - 9414](https://www.acmicpc.net/problem/9414) | [py](Silver_4/프로그래밍_대회_전용_부지_9414.py) |
+| [가위 바위 보 - 8896](https://www.acmicpc.net/problem/8896) | [py](Silver_4/가위_바위_보_8896.py) |
 
 ## Silver 3
 | 문제 | 코드 (python) | 코드 (javascript)|
