@@ -143,6 +143,7 @@
 | [암호 - 1718](https://www.acmicpc.net/problem/1718) | [py](bronze_2/암호_1718.py) |
 | [콘테스트 - 5576](https://www.acmicpc.net/problem/5576) | [py](bronze_2/콘테스트_5576.py) |
 | [가장 많은 글자 - 1371](https://www.acmicpc.net/problem/1371) | [py](bronze_2/가장_많은_글자_1371.py) |
+| [대출 요청 - 16497](https://www.acmicpc.net/problem/16497) | [py](bronze_2/대출_요청_16497.py) |
 
 ## Bronze 1
 | 문제 | 코드 (python) | 코드 (javascript)|
