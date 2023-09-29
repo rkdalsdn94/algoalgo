@@ -302,6 +302,7 @@
 | [욱제는 도박쟁이야!! - 14655](https://www.acmicpc.net/problem/14655) | [py](Silver_5/욱제는_도박쟁이야_14655.py) |
 | [최소공배수 - 13241](https://www.acmicpc.net/problem/13241) | [py](Silver_5/최소공배수_13241.py) |
 | [미아 노트 - 20114](https://www.acmicpc.net/problem/20114) | [py](Silver_5/미아_노트_20114.py) |
+| [문제 재탕 - 22970](https://www.acmicpc.net/problem/22970) | [py](Silver_5/문제_재탕_22970.py) |
 
 ## Silver 4
 | 문제 | 코드 (python) | 코드 (javascript)|
