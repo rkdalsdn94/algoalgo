@@ -625,6 +625,7 @@
 | [맥주 마시면서 걸어가기 - 9205](https://www.acmicpc.net/problem/9205) | [py](Gold_5/맥주_마시면서_걸어가기_9205.py) |
 | [치킨 배달 - 15686](https://www.acmicpc.net/problem/15686) | [py](Gold_5/치킨_배달_15686.py) |
 | [인구 이동 - 16234](https://www.acmicpc.net/problem/16234) | [py](Gold_5/인구_이동_16234.py) |
+| [꿀 따기 - 21758](https://www.acmicpc.net/problem/21758) | [py](Gold_5/꿀_따기_21758.py) |
 
 ## Gold 4
 | 문제 | 코드 (python) | 코드 (javascript)|
