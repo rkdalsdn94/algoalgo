@@ -386,6 +386,7 @@
 | [가위 바위 보 - 8896](https://www.acmicpc.net/problem/8896) | [py](Silver_4/가위_바위_보_8896.py) |
 | [해커톤 - 16200](https://www.acmicpc.net/problem/16200) | [py](Silver_4/해커톤_16200.py) |
 | [Emacs - 18422](https://www.acmicpc.net/problem/18422) | [py](Silver_4/Emacs_18422.py) |
+| [Project Teams - 20044](https://www.acmicpc.net/problem/20044) | [py](Silver_4/Project_Teams_20044.py) |
 
 ## Silver 3
 | 문제 | 코드 (python) | 코드 (javascript)|
