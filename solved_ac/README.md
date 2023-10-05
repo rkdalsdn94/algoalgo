@@ -464,6 +464,7 @@
 | [한국이 그리울 땐 서버에 접속하지 - 9996](https://www.acmicpc.net/problem/9996) | [py](Silver_3/한국이_그리울_땐_서버에_접속하지_9996.py) |
 | [영단어 암기는 괴로워 - 20920](https://www.acmicpc.net/problem/20920) | [py](Silver_3/영단어_암기는_괴로워_20920.py) |
 | [절사평균 - 6986](https://www.acmicpc.net/problem/6986) | [py](Silver_3/절사평균_6986.py) |
+| [빈도 정렬 - 2910](https://www.acmicpc.net/problem/2910) | [py](Silver_3/빈도_정렬_2910.py) |
 
 ## Silver 2
 | 문제 | 코드 (python) | 코드 (javascript)|
