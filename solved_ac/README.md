@@ -210,6 +210,7 @@
 | [히든 넘버 - 8595](https://www.acmicpc.net/problem/8595) | [py](bronze_1/히든_넘버_8595.py) |
 | [사토르 마방진 - 20112](https://www.acmicpc.net/problem/20112) | [py](bronze_1/사토르_마방진_20112.py) |
 | [크로스워드 만들기 - 2804](https://www.acmicpc.net/problem/2804) | [py](bronze_1/크로스워드_만들기_2804.py) |
+| [무알콜 칵테일 - 2896](https://www.acmicpc.net/problem/2896) | [py](bronze_1/무알콜_칵테일_2896.py) |
 
 ## Silver 5
 | 문제 | 코드 (python) | 코드 (javascript)|
