@@ -534,6 +534,7 @@
 | [점프 점프 - 14248](https://www.acmicpc.net/problem/14248) | [py](Silver_2/점프_점프_14248.py) |
 | [아카라카 - 23304](https://www.acmicpc.net/problem/23304) | [py](Silver_2/아카라카_23304.py) |
 | [알고리즘 수업 너비 우선 탐색 2 - 24445](https://www.acmicpc.net/problem/24445) | [py](Silver_2/알고리즘_수업_너비_우선_탐색_2_24445.py) |
+| [헌내기는 친구가 필요해 - 21736](https://www.acmicpc.net/problem/21736) | [py](Silver_2/헌내기는_친구가_필요해_21736.py) |
 
 ## Silver 1
 | 문제 | 코드 (python) | 코드 (javascript)|
