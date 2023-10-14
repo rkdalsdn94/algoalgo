@@ -538,6 +538,7 @@
 | [알고리즘 수업 너비 우선 탐색 2 - 24445](https://www.acmicpc.net/problem/24445) | [py](Silver_2/알고리즘_수업_너비_우선_탐색_2_24445.py) |
 | [헌내기는 친구가 필요해 - 21736](https://www.acmicpc.net/problem/21736) | [py](Silver_2/헌내기는_친구가_필요해_21736.py) |
 | [비슷한 단어 - 1411](https://www.acmicpc.net/problem/1411) | [py](Silver_2/비슷한_단어_1411.py) |
+| [도영이가 만든 맛있는 음식 - 2961](https://www.acmicpc.net/problem/2961) | [py](Silver_2/도영이가_만든_맛있는_음식_2961.py) |
 
 ## Silver 1
 | 문제 | 코드 (python) | 코드 (javascript)|
