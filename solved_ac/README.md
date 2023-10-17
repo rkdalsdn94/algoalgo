@@ -473,6 +473,7 @@
 | [영단어 암기는 괴로워 - 20920](https://www.acmicpc.net/problem/20920) | [py](Silver_3/영단어_암기는_괴로워_20920.py) |
 | [절사평균 - 6986](https://www.acmicpc.net/problem/6986) | [py](Silver_3/절사평균_6986.py) |
 | [빈도 정렬 - 2910](https://www.acmicpc.net/problem/2910) | [py](Silver_3/빈도_정렬_2910.py) |
+| [고양이 카페 - 28353](https://www.acmicpc.net/problem/28353) | [py](Silver_3/고양이_카페_28353.py) |
 
 ## Silver 2
 | 문제 | 코드 (python) | 코드 (javascript)|
