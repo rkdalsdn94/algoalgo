@@ -689,6 +689,7 @@
 | [아기 상어 - 16236](https://www.acmicpc.net/problem/16236) | [py](Gold_3/아기_상어_16236.py) |
 | [ACM Craft - 1005](https://www.acmicpc.net/problem/1005) | [py](Gold_3/ACM_Craft_1005.py) |
 | [순회강연 - 2109](https://www.acmicpc.net/problem/2109) | [py](Gold_3/순회강연_2109.py) |
+| [소수의 연속합 - 1644](https://www.acmicpc.net/problem/1644) | [py](Gold_3/소수의_연속합_1644.py) |
 
 ## Gold 2
 | 문제 | 코드 (python) | 코드 (javascript)|
