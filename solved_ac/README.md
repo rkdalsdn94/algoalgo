@@ -602,6 +602,7 @@
 | [기타 레슨 - 2343](https://www.acmicpc.net/problem/2343) | [py](Silver_1/기타_레슨_2343.py) |
 | [배열 돌리기 1 - 16926](https://www.acmicpc.net/problem/16926) | [py](Silver_1/배열_돌리기_1_16926.py) |
 | [팔 - 1105](https://www.acmicpc.net/problem/1105) | [py](Silver_1/팔_1105.py) |
+| [현대모비스 소프트웨어 아카데미 - 26091](https://www.acmicpc.net/problem/26091) | [py](Silver_1/현대모비스_소프트웨어_아카데미_26091.py) |
 
 ## Gold 5
 | 문제 | 코드 (python) | 코드 (javascript)|
