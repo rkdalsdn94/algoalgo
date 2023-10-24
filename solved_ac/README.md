@@ -76,6 +76,7 @@
 | [오븐 시계 - 2525](https://www.acmicpc.net/problem/2525) | [py](bronze_3/오븐_시계_2525.py) |
 | [최장 스트릭 - 29752](https://www.acmicpc.net/problem/29752) | [py](bronze_3/최장_스트릭_29752.py) |
 | [별 찍기 13 - 2523](https://www.acmicpc.net/problem/2523) | [py](bronze_3/별_찍기_13_2523.py) |
+| [첨탑 밀어서 부수기 - 28014](https://www.acmicpc.net/problem/28014) | [py](bronze_3/첨탑_밀어서_부수기_28014.py) |
 
 ## Bronze 2
 | 문제 | 코드 (python) | 코드 (javascript)|
