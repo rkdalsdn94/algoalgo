@@ -478,6 +478,7 @@
 | [절사평균 - 6986](https://www.acmicpc.net/problem/6986) | [py](Silver_3/절사평균_6986.py) |
 | [빈도 정렬 - 2910](https://www.acmicpc.net/problem/2910) | [py](Silver_3/빈도_정렬_2910.py) |
 | [고양이 카페 - 28353](https://www.acmicpc.net/problem/28353) | [py](Silver_3/고양이_카페_28353.py) |
+| [Yonsei TOTO - 12018](https://www.acmicpc.net/problem/12018) | [py](Silver_3/Yonsei_TOTO_12018.py) |
 
 ## Silver 2
 | 문제 | 코드 (python) | 코드 (javascript)|
