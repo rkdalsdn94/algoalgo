@@ -314,6 +314,7 @@
 | [문제 재탕 - 22970](https://www.acmicpc.net/problem/22970) | [py](Silver_5/문제_재탕_22970.py) |
 | [매직스퀘어 - 15739](https://www.acmicpc.net/problem/15739) | [py](Silver_5/매직스퀘어_15739.py) |
 | [귀찮음 - 16208](https://www.acmicpc.net/problem/16208) | [py](Silver_5/귀찮음_16208.py) |
+| [호텔 방 번호 - 5671](https://www.acmicpc.net/problem/5671) | [py](Silver_5/호텔_방_번호_5671.py) |
 
 ## Silver 4
 | 문제 | 코드 (python) | 코드 (javascript)|
