@@ -77,6 +77,7 @@
 | [최장 스트릭 - 29752](https://www.acmicpc.net/problem/29752) | [py](bronze_3/최장_스트릭_29752.py) |
 | [별 찍기 13 - 2523](https://www.acmicpc.net/problem/2523) | [py](bronze_3/별_찍기_13_2523.py) |
 | [첨탑 밀어서 부수기 - 28014](https://www.acmicpc.net/problem/28014) | [py](bronze_3/첨탑_밀어서_부수기_28014.py) |
+| [일우는 야바위꾼 - 20361](https://www.acmicpc.net/problem/20361) | [py](bronze_3/일우는_야바위꾼_20361.py) |
 
 ## Bronze 2
 | 문제 | 코드 (python) | 코드 (javascript)|
