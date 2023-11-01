@@ -1,5 +1,7 @@
 # 프로그래미스 - Lv1 - 12세 이하인 여자 환자 목록 출력하기
 /**
+  문제 출처 : https://school.programmers.co.kr/learn/courses/30/lessons/132201
+
   아래 두 풀이 모두 정답처리 된다.
 
   COALESCE, IFNULL 차이는 다음과 같다.
