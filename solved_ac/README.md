@@ -686,6 +686,7 @@
 | [미로만들기 - 2665](https://www.acmicpc.net/problem/2665) | [py](Gold_4/미로만들기_2665.py) |
 | [문자열 폭발 - 9935](https://www.acmicpc.net/problem/9935) | [py](Gold_4/문자열_폭발_9935.py) |
 | [숨바꼭질 4 - 13913](https://www.acmicpc.net/problem/13913) | [py](Gold_4/숨바꼭질_4_13913.py) |
+| [오큰수 - 17298](https://www.acmicpc.net/problem/17298) | [py](Gold_4/오큰수_17298.py) | [js](Gold_4/오큰수_17298.js) |
 
 ## Gold 3
 | 문제 | 코드 (python) | 코드 (javascript)|
