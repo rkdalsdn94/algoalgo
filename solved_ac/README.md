@@ -219,6 +219,7 @@
 | [비밀편지 - 2596](https://www.acmicpc.net/problem/2596) | [py](bronze_1/비밀편지_2596.py) |
 | [이상한 암호코드 - 18129](https://www.acmicpc.net/problem/18129) | [py](bronze_1/이상한_암호코드_18129.py) |
 | [핸드폰 번호 궁합 - 17202](https://www.acmicpc.net/problem/17202) | [py](bronze_1/핸드폰_번호_궁합_17202.py) |
+| [열 순서 - 16495](https://www.acmicpc.net/problem/16495) | [py](bronze_1/열_순서_16495.py) |
 
 ## Silver 5
 | 문제 | 코드 (python) | 코드 (javascript)|
@@ -720,7 +721,7 @@
 | :-------------: |:-------------: | :-------------:|
 | [제곱 ㄴㄴ 수 - 1016](https://www.acmicpc.net/problem/1016) | [py](Gold_1/제곱_ㄴㄴ_수_1016.py) |
 | [책 페이지 - 1019](https://www.acmicpc.net/problem/1019) | [py](Gold_1/책_페이지_1019.py) |
-| [달이 차오른다 가자 - 1194](https://www.acmicpc.net/problem/1194) | [py](Gold_1/달이_차오른다_가자_1194.py) | <!-- 문제 파일 안에 적어둔 링크 참고 -->
+| [달이 차오른다 가자 - 1194](https://www.acmicpc.net/problem/1194) | [py](Gold_1/달이_차오른다_가자_1194.py) |
 | [부분수열의 합 2 - 1208](https://www.acmicpc.net/problem/1208) | [py](Gold_1/부분수열의_합_2_1208.py) |
 | [구슬 탈출 2 - 13460](https://www.acmicpc.net/problem/13460) | [py](Gold_1/구슬_탈출_2_13460.py) |
 | [구간 합 구하기 - 2042](https://www.acmicpc.net/problem/2042) | [py](Gold_1/구간_합_구하기_2042.py) |
