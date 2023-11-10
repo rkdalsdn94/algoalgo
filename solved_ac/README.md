@@ -553,6 +553,7 @@
 | [헌내기는 친구가 필요해 - 21736](https://www.acmicpc.net/problem/21736) | [py](Silver_2/헌내기는_친구가_필요해_21736.py) |
 | [비슷한 단어 - 1411](https://www.acmicpc.net/problem/1411) | [py](Silver_2/비슷한_단어_1411.py) |
 | [도영이가 만든 맛있는 음식 - 2961](https://www.acmicpc.net/problem/2961) | [py](Silver_2/도영이가_만든_맛있는_음식_2961.py) |
+| [N과 M 9 - 15663](https://www.acmicpc.net/problem/15663) | [py](Silver_2/N과_M_9_15663.py) |
 
 ## Silver 1
 | 문제 | 코드 (python) | 코드 (javascript)|
