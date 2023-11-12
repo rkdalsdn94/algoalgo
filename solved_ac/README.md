@@ -616,6 +616,7 @@
 | [팔 - 1105](https://www.acmicpc.net/problem/1105) | [py](Silver_1/팔_1105.py) |
 | [현대모비스 소프트웨어 아카데미 - 26091](https://www.acmicpc.net/problem/26091) | [py](Silver_1/현대모비스_소프트웨어_아카데미_26091.py) |
 | [가장 가까운 세 사람의 심리적 거리 - 20529](https://www.acmicpc.net/problem/20529) | [py](Silver_1/가장_가까운_세_사람의_심리적_거리_20529.py) |
+| [돌다리 - 12761](https://www.acmicpc.net/problem/12761) | [py](Silver_1/돌다리_12761.py) |
 
 ## Gold 5
 | 문제 | 코드 (python) | 코드 (javascript)|
