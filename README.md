@@ -1,7 +1,7 @@
 # algoalgo
 * 알고리즘 연습
 * solved.ac 사이트를 이용한 난이도별 풀어보기 [README 이동](solved_ac/README.md)
-* 프로그래머스 사이트에서 SQL 풀어보기 [README 이동]()
+* 프로그래머스 사이트에서 SQL 풀어보기 [README 이동](programmers_sql/README.md)
 
 ## 백준 
 | 문제 | 코드 (python) | 코드 (javascript)|
@@ -74,10 +74,11 @@
 | [괄호 - 9012](https://www.acmicpc.net/problem/9012) | [py](baekjoon/괄호_9012.py)| 
 | [수영장 만들기 - 1113](https://www.acmicpc.net/problem/1113) | [py](baekjoon/수영장_만들기_1113.py)| 
 | [게임 - 1072](https://www.acmicpc.net/problem/1072) | [py](baekjoon/게임_1072.py)| 
-| [정수 N개의 합 - 15596](https://www.acmicpc.net/problem/15596) | [py](baekjoon/정수_N개의_합_15596.py)| 
+| [정수 N개의 합 - 15596](https://www.acmicpc.net/problem/15596) | [py](baekjoon/정수_N개의_합_15596.py)|
+
 ## 프로그래머스
-#
-Lv1
+
+### Lv1
 
 | 문제 | 코드 (python) | 코드 (javascript)|
 | :-------------: |:-------------: | :-------------:|
@@ -130,8 +131,8 @@ Lv1
 | [Lv1. 체육복](https://programmers.co.kr/learn/courses/30/lessons/42862) | [py](programmers/Lv1/Lv1_체육복.py) |  |
 | [Lv1. 성격 유형 검사하기](https://programmers.co.kr/learn/courses/30/lessons/118666) | [py](programmers/Lv1/Lv1_성격_유형_검사하기.py) |  |
 | [Lv1.달리기 경주](https://programmers.co.kr/learn/courses/30/lessons/178871) | [py](programmers/Lv1/Lv1_달리기_경주.py) |  |
-#
- Lv2 
+
+### Lv2 
 | 문제 | 코드 (python) | 코드 (javascript)|
 | :-------------: |:-------------: | :-------------:|
 | [Lv2. 기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586) | [py](programmers/Lv2/Lv2_기능개발.py)| 
@@ -191,8 +192,7 @@ Lv1
 | [Lv2 쿼드압축 후 개수 세기](https://programmers.co.kr/learn/courses/30/lessons/68936) | [py](programmers/Lv2/Lv2_쿼드압축_후_개수_세기.py) |
 | [Lv2 무인도 여행](https://programmers.co.kr/learn/courses/30/lessons/154540) | [py](programmers/Lv2/Lv2_무인도_여행.py) |
 
-#
-Lv3 
+### Lv3 
 | 문제 | 코드 (python) | 코드 (javascript)|
 | :-------------: |:-------------: | :-------------:|
 | [Lv3. 베스트앨범](https://programmers.co.kr/learn/courses/30/lessons/17680) | [py](programmers/Lv3/Lv3_베스트앨범.py)|
@@ -207,7 +207,7 @@ Lv3
 
 
 ## 프로그래머스 스킬 체크
-# 레벨 2
+### 레벨 2
 | 문제 | 코드 (python) | 코드 (javascript)|
 | :-------------: |:-------------: | :-------------:|
 | [문제 1](https://programmers.co.kr/skill_checks) | [py](programmers/스킬_체크/스킬_체크_테스트_Lv2/문제_1.py)|
