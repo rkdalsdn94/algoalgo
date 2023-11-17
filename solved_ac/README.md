@@ -221,6 +221,7 @@
 | [핸드폰 번호 궁합 - 17202](https://www.acmicpc.net/problem/17202) | [py](bronze_1/핸드폰_번호_궁합_17202.py) |
 | [열 순서 - 16495](https://www.acmicpc.net/problem/16495) | [py](bronze_1/열_순서_16495.py) |
 | [반올림 - 4539](https://www.acmicpc.net/problem/4539) | [py](bronze_1/반올림_4539.py) |
+| [달팽이2 - 1952](https://www.acmicpc.net/problem/1952) | [py](bronze_1/달팽이2_1952.py) |
 
 ## Silver 5
 | 문제 | 코드 (python) | 코드 (javascript)|
