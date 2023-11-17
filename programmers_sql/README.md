@@ -15,3 +15,4 @@
 | 문제 | 코드 (MySQL) |
 | :-------------: |:-------------: |
 | [재구매가 일어난 상품과 회원 리스트 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131536) | [MySQL](programmers/Lv2/재구매가_일어난_상품과_회원_리스트_구하기.sql) |
+| [조건에 부합하는 중고거래 상태 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/164672) | [MySQL](programmers/Lv2/조건에_부합하는_중고거래_상태_조회하기.sql) |
