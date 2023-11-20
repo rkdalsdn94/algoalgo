@@ -664,6 +664,7 @@
 | [꿀 따기 - 21758](https://www.acmicpc.net/problem/21758) | [py](Gold_5/꿀_따기_21758.py) |
 | [4연산 - 14395](https://www.acmicpc.net/problem/14395) | [py](Gold_5/4연산_14395.py) | [js](Gold_5/4연산_14395.js) |
 | [용액 - 2467](https://www.acmicpc.net/problem/2467) | [py](Gold_5/용액_2467.py) |
+| [다각형의 면적 - 2166](https://www.acmicpc.net/problem/2166) | [py](Gold_5/다각형의_면적_2166.py) |
 
 ## Gold 4
 | 문제 | 코드 (python) | 코드 (javascript)|
