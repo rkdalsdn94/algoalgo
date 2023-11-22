@@ -561,6 +561,7 @@
 | [도영이가 만든 맛있는 음식 - 2961](https://www.acmicpc.net/problem/2961) | [py](Silver_2/도영이가_만든_맛있는_음식_2961.py) |
 | [N과 M 9 - 15663](https://www.acmicpc.net/problem/15663) | [py](Silver_2/N과_M_9_15663.py) |
 | [빠른 숫자 탐색 - 25416](https://www.acmicpc.net/problem/25416) | [py](Silver_2/빠른_숫자_탐색_25416.py) |
+| [타일링 - 1739](https://www.acmicpc.net/problem/1739) | [py](Silver_2/타일링_1739.py) |
 
 ## Silver 1
 | 문제 | 코드 (python) | 코드 (javascript)|
