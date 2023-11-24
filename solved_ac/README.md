@@ -151,6 +151,7 @@
 | [대출 요청 - 16497](https://www.acmicpc.net/problem/16497) | [py](bronze_2/대출_요청_16497.py) |
 | [좋은놈 나쁜놈 - 4447](https://www.acmicpc.net/problem/4447) | [py](bronze_2/좋은놈_나쁜놈_4447.py) |
 | [대표값 - 2592](https://www.acmicpc.net/problem/2592) | [py](bronze_2/대표값_2592.py) |
+| [줄 세우기 - 2605](https://www.acmicpc.net/problem/2605) | [py](bronze_2/줄_세우기_2605.py) |
 
 ## Bronze 1
 | 문제 | 코드 (python) | 코드 (javascript)|
