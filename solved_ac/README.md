@@ -324,6 +324,7 @@
 | [호텔 방 번호 - 5671](https://www.acmicpc.net/problem/5671) | [py](Silver_5/호텔_방_번호_5671.py) |
 | [알록달록 앵무새 - 28445](https://www.acmicpc.net/problem/28445) | [py](Silver_5/알록달록_앵무새_28445.py) |
 | [투자의 귀재 배주형 - 19947](https://www.acmicpc.net/problem/19947) | [py](Silver_5/투자의_귀재_배주형_19947.py) |
+| [수 정렬하기 4 - 11931](https://www.acmicpc.net/problem/11931) | [py](Silver_5/수_정렬하기_4_11931.py) |
 
 ## Silver 4
 | 문제 | 코드 (python) | 코드 (javascript)|
