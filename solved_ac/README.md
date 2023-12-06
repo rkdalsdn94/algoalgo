@@ -677,6 +677,7 @@
 | [4연산 - 14395](https://www.acmicpc.net/problem/14395) | [py](Gold_5/4연산_14395.py) | [js](Gold_5/4연산_14395.js) |
 | [용액 - 2467](https://www.acmicpc.net/problem/2467) | [py](Gold_5/용액_2467.py) |
 | [다각형의 면적 - 2166](https://www.acmicpc.net/problem/2166) | [py](Gold_5/다각형의_면적_2166.py) |
+| [이진 검색 트리 - 5639](https://www.acmicpc.net/problem/5639) | [py](Gold_5/이진_검색_트리_5639.py) |
 
 ## Gold 4
 | 문제 | 코드 (python) | 코드 (javascript)|
