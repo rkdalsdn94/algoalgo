@@ -227,6 +227,7 @@
 | [이번학기 평점은 몇점 - 2755](https://www.acmicpc.net/problem/2755) | [py](bronze_1/이번학기_평점은_몇점_2755.py) |
 | [나는 학급회장이다 - 2456](https://www.acmicpc.net/problem/2456) | [py](bronze_1/나는_학급회장이다_2456.py) |
 | [6174 - 9047](https://www.acmicpc.net/problem/9047) | [py](bronze_1/6174_9047.py) |
+| [암호 키 - 1816](https://www.acmicpc.net/problem/1816) | [py](bronze_1/암호_키_1816.py) |
 
 ## Silver 5
 | 문제 | 코드 (python) | 코드 (javascript)|
