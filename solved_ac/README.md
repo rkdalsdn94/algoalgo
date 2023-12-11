@@ -502,6 +502,7 @@
 | [피보나치 - 9711](https://www.acmicpc.net/problem/9711) | [py](Silver_3/피보나치_9711.py) |
 | [피보나치는 지겨웡 - 17175](https://www.acmicpc.net/problem/17175) | [py](Silver_3/피보나치는_지겨웡_17175.py) |
 | [카드 놓기 - 18115](https://www.acmicpc.net/problem/18115) | [py](Silver_3/카드_놓기_18115.py) |
+| [후위 표기식2 - 1935](https://www.acmicpc.net/problem/1935) | [py](Silver_3/후위_표기식2_1935.py) |
 
 ## Silver 2
 | 문제 | 코드 (python) | 코드 (javascript)|
