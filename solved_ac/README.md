@@ -688,6 +688,7 @@
 | [용액 - 2467](https://www.acmicpc.net/problem/2467) | [py](Gold_5/용액_2467.py) |
 | [다각형의 면적 - 2166](https://www.acmicpc.net/problem/2166) | [py](Gold_5/다각형의_면적_2166.py) |
 | [이진 검색 트리 - 5639](https://www.acmicpc.net/problem/5639) | [py](Gold_5/이진_검색_트리_5639.py) |
+| [탑 - 2493](https://www.acmicpc.net/problem/2493) | [py](Gold_5/탑_2493.py) |
 
 ## Gold 4
 | 문제 | 코드 (python) | 코드 (javascript)|
