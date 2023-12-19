@@ -419,6 +419,7 @@
 | [배부른 마라토너 - 10546](https://www.acmicpc.net/problem/10546) | [py](Silver_4/배부른_마라토너_10546.py) |
 | [배수 스위치 - 12927](https://www.acmicpc.net/problem/12927) | [py](Silver_4/배수_스위치_12927.py) |
 | [Generations of Tribbles - 9507](https://www.acmicpc.net/problem/9507) | [py](Silver_4/Generations_of_Tribbles_9507.py) |
+| [수 고르기 - 20186](https://www.acmicpc.net/problem/20186) | [py](Silver_4/수_고르기_20186.py) |
 
 ## Silver 3
 | 문제 | 코드 (python) | 코드 (javascript)|
