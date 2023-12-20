@@ -153,6 +153,7 @@
 | [대표값 - 2592](https://www.acmicpc.net/problem/2592) | [py](bronze_2/대표값_2592.py) |
 | [줄 세우기 - 2605](https://www.acmicpc.net/problem/2605) | [py](bronze_2/줄_세우기_2605.py) |
 | [수학은 비대면강의입니다 - 19532](https://www.acmicpc.net/problem/19532) | [py](bronze_2/수학은_비대면강의입니다_19532.py) |
+| [거꾸로 구구단 - 13410](https://www.acmicpc.net/problem/13410) | [py](bronze_2/거꾸로_구구단_13410.py) |
 
 ## Bronze 1
 | 문제 | 코드 (python) | 코드 (javascript)|
