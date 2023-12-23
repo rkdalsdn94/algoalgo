@@ -649,6 +649,7 @@
 | [소수&팰린드롬 - 1747](https://www.acmicpc.net/problem/1747) | [py](Silver_1/소수&팰린드롬_1747.py) |
 | [부분수열의 합 - 14225](https://www.acmicpc.net/problem/14225) | [py](Silver_1/부분수열의_합_14225.py) |
 | [하노이 탑 - 1914](https://www.acmicpc.net/problem/1914) | [py](Silver_1/하노이_탑_1914.py) |
+| [숨바꼭질 - 6118](https://www.acmicpc.net/problem/6118) | [py](Silver_1/숨바꼭질_6118.py) |
 
 ## Gold 5
 | 문제 | 코드 (python) | 코드 (javascript)|
