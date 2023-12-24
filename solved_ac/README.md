@@ -231,6 +231,7 @@
 | [암호 키 - 1816](https://www.acmicpc.net/problem/1816) | [py](bronze_1/암호_키_1816.py) |
 | [Pen Pineapple Apple Pen - 15881](https://www.acmicpc.net/problem/15881) | [py](bronze_1/Pen_Pineapple_Apple_Pen_15881.py) |
 | [나머지와 몫이 같은 수 - 1834](https://www.acmicpc.net/problem/1834) | [py](bronze_1/나머지와_몫이_같은_수_1834.py) |
+| [데칼코마니 - 23841](https://www.acmicpc.net/problem/23841) | [py](bronze_1/데칼코마니_23841.py) |
 
 ## Silver 5
 | 문제 | 코드 (python) | 코드 (javascript)|
