@@ -584,6 +584,7 @@
 | [빠른 숫자 탐색 - 25416](https://www.acmicpc.net/problem/25416) | [py](Silver_2/빠른_숫자_탐색_25416.py) |
 | [타일링 - 1739](https://www.acmicpc.net/problem/1739) | [py](Silver_2/타일링_1739.py) |
 | [N과 M 10 - 15664](https://www.acmicpc.net/problem/15664) | [py](Silver_2/N과_M_10_15664.py) |
+| [우리집엔 도서관이 있어 - 2872](https://www.acmicpc.net/problem/2872) | [py](Silver_2/우리집엔_도서관이_있어_2872.py) |
 
 ## Silver 1
 | 문제 | 코드 (python) | 코드 (javascript)|
