@@ -336,6 +336,7 @@
 | [욕심쟁이 돼지 - 3060](https://www.acmicpc.net/problem/3060) | [py](Silver_5/욕심쟁이_돼지_3060.py) |
 | [반지 - 5555](https://www.acmicpc.net/problem/5555) | [py](Silver_5/반지_5555.py) |
 | [여우 사인 - 14709](https://www.acmicpc.net/problem/14709) | [py](Silver_5/여우_사인_14709.py) |
+| [귀걸이 - 1380](https://www.acmicpc.net/problem/1380) | [py](Silver_5/귀걸이_1380.py) |
 
 ## Silver 4
 | 문제 | 코드 (python) | 코드 (javascript)|
