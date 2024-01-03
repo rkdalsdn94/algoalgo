@@ -514,6 +514,7 @@
 | [후위 표기식2 - 1935](https://www.acmicpc.net/problem/1935) | [py](Silver_3/후위_표기식2_1935.py) |
 | [N과 M 7 - 15656](https://www.acmicpc.net/problem/15656) | [py](Silver_3/N과_M_7_15656.py) |
 | [도키도키 간식드리미 - 12789](https://www.acmicpc.net/problem/12789) | [py](Silver_3/도키도키_간식드리미_12789.py) |
+| [걸그룹 마스터 준석이 - 16165](https://www.acmicpc.net/problem/16165) | [py](Silver_3/걸그룹_마스터_준석이_16165.py) |
 
 ## Silver 2
 | 문제 | 코드 (python) | 코드 (javascript)|
