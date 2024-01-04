@@ -233,6 +233,7 @@
 | [나머지와 몫이 같은 수 - 1834](https://www.acmicpc.net/problem/1834) | [py](bronze_1/나머지와_몫이_같은_수_1834.py) |
 | [데칼코마니 - 23841](https://www.acmicpc.net/problem/23841) | [py](bronze_1/데칼코마니_23841.py) |
 | [준살 프로그래밍 대회 - 7513](https://www.acmicpc.net/problem/7513) | [py](bronze_1/준살_프로그래밍_대회_7513.py) |
+| [이 구역의 승자는 누구야 - 20154](https://www.acmicpc.net/problem/20154) | [py](bronze_1/이_구역의_승자는_누구야_20154.py) |
 
 ## Silver 5
 | 문제 | 코드 (python) | 코드 (javascript)|
