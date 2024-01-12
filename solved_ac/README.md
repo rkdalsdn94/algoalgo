@@ -79,6 +79,7 @@
 | [첨탑 밀어서 부수기 - 28014](https://www.acmicpc.net/problem/28014) | [py](bronze_3/첨탑_밀어서_부수기_28014.py) |
 | [일우는 야바위꾼 - 20361](https://www.acmicpc.net/problem/20361) | [py](bronze_3/일우는_야바위꾼_20361.py) |
 | [약수 구하기 - 2501](https://www.acmicpc.net/problem/2501) | [py](bronze_3/약수_구하기_2501.py) | [js](bronze_3/약수_구하기_2501.js) |
+| [수학적 호기심 - 9094](https://www.acmicpc.net/problem/9094) | [py](bronze_3/수학적_호기심_9094.py) |
 
 ## Bronze 2
 | 문제 | 코드 (python) | 코드 (javascript)|
