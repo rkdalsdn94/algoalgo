@@ -238,6 +238,7 @@
 | [이 구역의 승자는 누구야 - 20154](https://www.acmicpc.net/problem/20154) | [py](bronze_1/이_구역의_승자는_누구야_20154.py) |
 | [2진수 뒤집기 - 11179](https://www.acmicpc.net/problem/11179) | [py](bronze_1/2진수_뒤집기_11179.py) |
 | [택시 거리 - 17247](https://www.acmicpc.net/problem/17247) | [py](bronze_1/택시_거리_17247.py) |
+| [APC는 왜 서브태스크 대회가 되었을까 - 17224](https://www.acmicpc.net/problem/17224) | [py](bronze_1/APC는_왜_서브태스크_대회가_되었을까_17224.py) |
 
 ## Silver 5
 | 문제 | 코드 (python) | 코드 (javascript)|
