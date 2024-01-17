@@ -671,6 +671,7 @@
 | [하노이 탑 - 1914](https://www.acmicpc.net/problem/1914) | [py](Silver_1/하노이_탑_1914.py) |
 | [숨바꼭질 - 6118](https://www.acmicpc.net/problem/6118) | [py](Silver_1/숨바꼭질_6118.py) |
 | [행운의 문자열 - 1342](https://www.acmicpc.net/problem/1342) | [py](Silver_1/행운의_문자열_1342.py) |
+| [줄어들지 않아 - 2688](https://www.acmicpc.net/problem/2688) | [py](Silver_1/줄어들지_않아_2688.py) |
 
 ## Gold 5
 | 문제 | 코드 (python) | 코드 (javascript)|
