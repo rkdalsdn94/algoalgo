@@ -603,6 +603,7 @@
 | [N과 M 11 - 15665](https://www.acmicpc.net/problem/15665) | [py](Silver_2/N과_M_11_15665.py) |
 | [창고 다각형 - 2304](https://www.acmicpc.net/problem/2304) | [py](Silver_2/창고_다각형_2304.py) |
 | [그대 그머가 되어 - 14496](https://www.acmicpc.net/problem/14496) | [py](Silver_2/그대_그머가_되어_14496.py) |
+| [K번째 소수 - 15965](https://www.acmicpc.net/problem/15965) | [py](Silver_2/K번째_소수_15965.py) |
 
 ## Silver 1
 | 문제 | 코드 (python) | 코드 (javascript)|
