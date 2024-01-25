@@ -349,6 +349,7 @@
 | [종이자르기 - 2628](https://www.acmicpc.net/problem/2628) | [py](Silver_5/종이자르기_2628.py) |
 | [품질검사 - 5600](https://www.acmicpc.net/problem/5600) | [py](Silver_5/품질검사_5600.py) |
 | [수 정렬하기 5 - 15688](https://www.acmicpc.net/problem/15688) | [py](Silver_5/수_정렬하기_5_15688.py) |
+| [피자 Small - 14606](https://www.acmicpc.net/problem/14606) | [py](Silver_5/피자_Small_14606.py) |
 
 ## Silver 4
 | 문제 | 코드 (python) | 코드 (javascript)|
