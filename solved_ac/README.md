@@ -157,6 +157,7 @@
 | [거꾸로 구구단 - 13410](https://www.acmicpc.net/problem/13410) | [py](bronze_2/거꾸로_구구단_13410.py) |
 | [커트라인 - 25305](https://www.acmicpc.net/problem/25305) | [py](bronze_2/커트라인_25305.py) |
 | [애너그램 만들기 - 1919](https://www.acmicpc.net/problem/1919) | [py](bronze_2/애너그램_만들기_1919.py) |
+| [숫자 - 10093](https://www.acmicpc.net/problem/10093) | [py](bronze_2/숫자_10093.py) |
 
 ## Bronze 1
 | 문제 | 코드 (python) | 코드 (javascript)|
