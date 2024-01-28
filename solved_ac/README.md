@@ -243,6 +243,7 @@
 | [APC는 왜 서브태스크 대회가 되었을까 - 17224](https://www.acmicpc.net/problem/17224) | [py](bronze_1/APC는_왜_서브태스크_대회가_되었을까_17224.py) |
 | [준석이의 수학 숙제 - 17206](https://www.acmicpc.net/problem/17206) | [py](bronze_1/준석이의_수학_숙제_17206.py) |
 | [몬스터 트럭 - 2897](https://www.acmicpc.net/problem/2897) | [py](bronze_1/몬스터_트럭_2897.py) |
+| [콘서트 - 16466](https://www.acmicpc.net/problem/16466) | [py](bronze_1/콘서트_16466.py) |
 
 ## Silver 5
 | 문제 | 코드 (python) | 코드 (javascript)|
