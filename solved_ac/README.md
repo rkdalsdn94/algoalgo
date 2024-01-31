@@ -684,6 +684,7 @@
 | [행운의 문자열 - 1342](https://www.acmicpc.net/problem/1342) | [py](Silver_1/행운의_문자열_1342.py) |
 | [줄어들지 않아 - 2688](https://www.acmicpc.net/problem/2688) | [py](Silver_1/줄어들지_않아_2688.py) |
 | [소수 사이 수열 - 3896](https://www.acmicpc.net/problem/3896) | [py](Silver_1/소수_사이_수열_3896.py) |
+| [극장 좌석 - 2302](https://www.acmicpc.net/problem/2302) | [py](Silver_1/극장_좌석_2302.py) |
 
 ## Gold 5
 | 문제 | 코드 (python) | 코드 (javascript)|
