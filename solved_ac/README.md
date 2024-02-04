@@ -246,6 +246,7 @@
 | [몬스터 트럭 - 2897](https://www.acmicpc.net/problem/2897) | [py](bronze_1/몬스터_트럭_2897.py) |
 | [콘서트 - 16466](https://www.acmicpc.net/problem/16466) | [py](bronze_1/콘서트_16466.py) |
 | [Send me the money - 15786](https://www.acmicpc.net/problem/15786) | [py](bronze_1/Send_me_the_money_15786.py) |
+| [점프 점프 - 18512](https://www.acmicpc.net/problem/18512) | [py](bronze_1/점프_점프_18512.py) |
 
 ## Silver 5
 | 문제 | 코드 (python) | 코드 (javascript)|
