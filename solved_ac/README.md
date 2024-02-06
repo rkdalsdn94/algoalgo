@@ -689,6 +689,7 @@
 | [소수 사이 수열 - 3896](https://www.acmicpc.net/problem/3896) | [py](Silver_1/소수_사이_수열_3896.py) |
 | [극장 좌석 - 2302](https://www.acmicpc.net/problem/2302) | [py](Silver_1/극장_좌석_2302.py) |
 | [볼 모으기 - 17615](https://www.acmicpc.net/problem/17615) | [py](Silver_1/볼_모으기_17615.py) |
+| [회전 초밥 - 2531](https://www.acmicpc.net/problem/2531) | [py](Silver_1/회전_초밥_2531.py) |
 
 ## Gold 5
 | 문제 | 코드 (python) | 코드 (javascript)|
