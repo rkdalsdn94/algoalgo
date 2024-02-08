@@ -448,6 +448,7 @@
 | [피하자 - 25379](https://www.acmicpc.net/problem/25379) | [py](Silver_4/피하자_25379.py) |
 | [가로수 - 2485](https://www.acmicpc.net/problem/2485) | [py](Silver_4/가로수_2485.py) |
 | [소가 길을 건너는 이유2 - 14468](https://www.acmicpc.net/problem/14468) | [py](Silver_4/소가_길을_건너는_이유2_14468.py) |
+| [붙임성 좋은 총총이 - 26069](https://www.acmicpc.net/problem/26069) | [py](Silver_4/붙임성_좋은_총총이_26069.py) |
 
 ## Silver 3
 | 문제 | 코드 (python) | 코드 (javascript)|
