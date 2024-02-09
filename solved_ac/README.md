@@ -159,6 +159,7 @@
 | [애너그램 만들기 - 1919](https://www.acmicpc.net/problem/1919) | [py](bronze_2/애너그램_만들기_1919.py) |
 | [숫자 - 10093](https://www.acmicpc.net/problem/10093) | [py](bronze_2/숫자_10093.py) |
 | [알고리즘의 수행 시간 6 - 24267](https://www.acmicpc.net/problem/24267) | [py](bronze_2/알고리즘의_수행_시간_6_24267.py) |
+| [줄 세우기 - 1681](https://www.acmicpc.net/problem/1681) | [py](bronze_2/줄_세우기_1681.py) |
 
 ## Bronze 1
 | 문제 | 코드 (python) | 코드 (javascript)|
