@@ -806,6 +806,7 @@
 | [중앙값 구하기 - 2696](https://www.acmicpc.net/problem/2696) | [py](Gold_2/중앙값_구하기_2696.py) |
 | [트리의 지름 - 1167](https://www.acmicpc.net/problem/1167) | [py](Gold_2/트리의_지름_1167.py) |
 | [피보나치 수 3 - 2749](https://www.acmicpc.net/problem/2749) | [py](Gold_2/피보나치_수_3_2749.py) |
+| [컵라면 - 1781](https://www.acmicpc.net/problem/1781) | [py](Gold_2/컵라면_1781.py) |
 
 ## Gold 1
 | 문제 | 코드 (python) | 코드 (javascript)|
