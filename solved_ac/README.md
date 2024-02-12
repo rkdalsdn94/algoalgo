@@ -694,6 +694,7 @@
 | [극장 좌석 - 2302](https://www.acmicpc.net/problem/2302) | [py](Silver_1/극장_좌석_2302.py) |
 | [볼 모으기 - 17615](https://www.acmicpc.net/problem/17615) | [py](Silver_1/볼_모으기_17615.py) |
 | [회전 초밥 - 2531](https://www.acmicpc.net/problem/2531) | [py](Silver_1/회전_초밥_2531.py) |
+| [외계인의 기타 연주 - 2841](https://www.acmicpc.net/problem/2841) | [py](Silver_1/외계인의_기타_연주_2841.py) |
 
 ## Gold 5
 | 문제 | 코드 (python) | 코드 (javascript)|
