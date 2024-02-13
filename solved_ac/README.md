@@ -778,6 +778,7 @@
 | [가장 큰 정사각형 - 1915](https://www.acmicpc.net/problem/1915) | [py](Gold_4/가장_큰_정사각형_1915.py) |
 | [이분 그래프 - 1707](https://www.acmicpc.net/problem/1707) | [py](Gold_4/이분_그래프_1707.py) |
 | [소수 경로 - 1963](https://www.acmicpc.net/problem/1963) | [py](Gold_4/소수_경로_1963.py) |
+| [미세먼지 안녕 - 17144](https://www.acmicpc.net/problem/17144) | [py](Gold_4/미세먼지_안녕_17144.py) |
 
 ## Gold 3
 | 문제 | 코드 (python) | 코드 (javascript)|
