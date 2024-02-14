@@ -542,6 +542,7 @@
 | [걸그룹 마스터 준석이 - 16165](https://www.acmicpc.net/problem/16165) | [py](Silver_3/걸그룹_마스터_준석이_16165.py) |
 | [대표 자연수 - 2548](https://www.acmicpc.net/problem/2548) | [py](Silver_3/대표_자연수_2548.py) |
 | [정수 a를 k로 만들기 - 25418](https://www.acmicpc.net/problem/25418) | [py](Silver_3/정수_a를_k로_만들기_25418.py) |
+| [이건 꼭 풀어야 해 - 17390](https://www.acmicpc.net/problem/17390) | [py](Silver_3/이건_꼭_풀어야_해_17390.py) |
 
 ## Silver 2
 | 문제 | 코드 (python) | 코드 (javascript)|
