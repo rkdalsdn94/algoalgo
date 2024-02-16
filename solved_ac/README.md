@@ -250,6 +250,7 @@
 | [점프 점프 - 18512](https://www.acmicpc.net/problem/18512) | [py](bronze_1/점프_점프_18512.py) |
 | [비밀 이메일 - 2999](https://www.acmicpc.net/problem/2999) | [py](bronze_1/비밀_이메일_2999.py) |
 | [반올림 - 2033](https://www.acmicpc.net/problem/2033) | [py](bronze_1/반올림_2033.py) |
+| [피타고라스 기댓값 - 11070](https://www.acmicpc.net/problem/11070) | [py](bronze_1/피타고라스_기댓값_11070.py) |
 
 ## Silver 5
 | 문제 | 코드 (python) | 코드 (javascript)|
