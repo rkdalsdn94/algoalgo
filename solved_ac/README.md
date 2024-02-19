@@ -546,6 +546,7 @@
 | [대표 자연수 - 2548](https://www.acmicpc.net/problem/2548) | [py](Silver_3/대표_자연수_2548.py) |
 | [정수 a를 k로 만들기 - 25418](https://www.acmicpc.net/problem/25418) | [py](Silver_3/정수_a를_k로_만들기_25418.py) |
 | [이건 꼭 풀어야 해 - 17390](https://www.acmicpc.net/problem/17390) | [py](Silver_3/이건_꼭_풀어야_해_17390.py) |
+| [크면서 작은 수 - 2992](https://www.acmicpc.net/problem/2992) | [py](Silver_3/크면서_작은_수_2992.py) |
 
 ## Silver 2
 | 문제 | 코드 (python) | 코드 (javascript)|
