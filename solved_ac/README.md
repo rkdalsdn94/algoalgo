@@ -626,6 +626,7 @@
 | [그대 그머가 되어 - 14496](https://www.acmicpc.net/problem/14496) | [py](Silver_2/그대_그머가_되어_14496.py) |
 | [K번째 소수 - 15965](https://www.acmicpc.net/problem/15965) | [py](Silver_2/K번째_소수_15965.py) |
 | [소가 길을 건너간 이유 5 - 14465](https://www.acmicpc.net/problem/14465) | [py](Silver_2/소가_길을_건너간_이유_5_14465.py) |
+| [풍선 공장 - 15810](https://www.acmicpc.net/problem/15810) | [py](Silver_2/풍선_공장_15810.py) |
 
 ## Silver 1
 | 문제 | 코드 (python) | 코드 (javascript)|
