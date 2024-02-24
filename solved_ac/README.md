@@ -456,6 +456,7 @@
 | [소가 길을 건너는 이유2 - 14468](https://www.acmicpc.net/problem/14468) | [py](Silver_4/소가_길을_건너는_이유2_14468.py) |
 | [붙임성 좋은 총총이 - 26069](https://www.acmicpc.net/problem/26069) | [py](Silver_4/붙임성_좋은_총총이_26069.py) |
 | [최대 GCD - 9417](https://www.acmicpc.net/problem/9417) | [py](Silver_4/최대_GCD_9417.py) |
+| [인사성 밝은 곰곰이 - 25192](https://www.acmicpc.net/problem/25192) | [py](Silver_4/인사성_밝은_곰곰이_25192.py) |
 
 ## Silver 3
 | 문제 | 코드 (python) | 코드 (javascript)|
