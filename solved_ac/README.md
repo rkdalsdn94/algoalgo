@@ -630,6 +630,7 @@
 | [K번째 소수 - 15965](https://www.acmicpc.net/problem/15965) | [py](Silver_2/K번째_소수_15965.py) |
 | [소가 길을 건너간 이유 5 - 14465](https://www.acmicpc.net/problem/14465) | [py](Silver_2/소가_길을_건너간_이유_5_14465.py) |
 | [풍선 공장 - 15810](https://www.acmicpc.net/problem/15810) | [py](Silver_2/풍선_공장_15810.py) |
+| [알고리즘 수업 깊이 우선 탐색 1 - 24479](https://www.acmicpc.net/problem/24479) | [py](Silver_2/알고리즘_수업_깊이_우선_탐색_1_24479.py) |
 
 ## Silver 1
 | 문제 | 코드 (python) | 코드 (javascript)|
