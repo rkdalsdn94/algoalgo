@@ -551,6 +551,7 @@
 | [정수 a를 k로 만들기 - 25418](https://www.acmicpc.net/problem/25418) | [py](Silver_3/정수_a를_k로_만들기_25418.py) |
 | [이건 꼭 풀어야 해 - 17390](https://www.acmicpc.net/problem/17390) | [py](Silver_3/이건_꼭_풀어야_해_17390.py) |
 | [크면서 작은 수 - 2992](https://www.acmicpc.net/problem/2992) | [py](Silver_3/크면서_작은_수_2992.py) |
+| [iSharp - 3568](https://www.acmicpc.net/problem/3568) | [py](Silver_3/iSharp_3568.py) |
 
 ## Silver 2
 | 문제 | 코드 (python) | 코드 (javascript)|
