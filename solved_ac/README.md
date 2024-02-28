@@ -160,6 +160,7 @@
 | [숫자 - 10093](https://www.acmicpc.net/problem/10093) | [py](bronze_2/숫자_10093.py) |
 | [알고리즘의 수행 시간 6 - 24267](https://www.acmicpc.net/problem/24267) | [py](bronze_2/알고리즘의_수행_시간_6_24267.py) |
 | [줄 세우기 - 1681](https://www.acmicpc.net/problem/1681) | [py](bronze_2/줄_세우기_1681.py) |
+| [24 - 1408](https://www.acmicpc.net/problem/1408) | [py](bronze_2/24_1408.py) |
 
 ## Bronze 1
 | 문제 | 코드 (python) | 코드 (javascript)|
