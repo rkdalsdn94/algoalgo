@@ -254,6 +254,7 @@
 | [피타고라스 기댓값 - 11070](https://www.acmicpc.net/problem/11070) | [py](bronze_1/피타고라스_기댓값_11070.py) |
 | [아스키 아트 - 17072](https://www.acmicpc.net/problem/17072) | [py](bronze_1/아스키_아트_17072.py) |
 | [고양이는 많을수록 좋다 - 27961](https://www.acmicpc.net/problem/27961) | [py](bronze_1/고양이는_많을수록_좋다_27961.py) |
+| [이진수 덧셈- 2729](https://www.acmicpc.net/problem/2729) | [py](bronze_1/이진수_덧셈_2729.py) |
 
 ## Silver 5
 | 문제 | 코드 (python) | 코드 (javascript)|
