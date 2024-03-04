@@ -556,6 +556,7 @@
 | [크면서 작은 수 - 2992](https://www.acmicpc.net/problem/2992) | [py](Silver_3/크면서_작은_수_2992.py) |
 | [iSharp - 3568](https://www.acmicpc.net/problem/3568) | [py](Silver_3/iSharp_3568.py) |
 | [파일 정리 - 20291](https://www.acmicpc.net/problem/20291) | [py](Silver_3/파일_정리_20291.py) |
+| [근손실 - 18429](https://www.acmicpc.net/problem/18429) | [py](Silver_3/근손실_18429.py) |
 
 ## Silver 2
 | 문제 | 코드 (python) | 코드 (javascript)|
