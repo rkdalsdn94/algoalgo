@@ -367,6 +367,7 @@
 | [피자 Small - 14606](https://www.acmicpc.net/problem/14606) | [py](Silver_5/피자_Small_14606.py) |
 | [LCM - 5347](https://www.acmicpc.net/problem/5347) | [py](Silver_5/LCM_5347.py) |
 | [Q 인덱스 - 13333](https://www.acmicpc.net/problem/13333) | [py](Silver_5/Q_인덱스_13333.py) |
+| [백대열 - 14490](https://www.acmicpc.net/problem/14490) | [py](Silver_5/백대열_14490.py) |
 
 ## Silver 4
 | 문제 | 코드 (python) | 코드 (javascript)|
