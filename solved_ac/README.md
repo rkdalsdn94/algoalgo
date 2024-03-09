@@ -257,6 +257,7 @@
 | [이진수 덧셈 - 2729](https://www.acmicpc.net/problem/2729) | [py](bronze_1/이진수_덧셈_2729.py) |
 | [너의 핸들은 - 15819](https://www.acmicpc.net/problem/15819) | [py](bronze_1/너의_핸들은_15819.py) |
 | [반복 - 19564](https://www.acmicpc.net/problem/19564) | [py](bronze_1/반복_19564.py) |
+| [Go Latin - 16360](https://www.acmicpc.net/problem/16360) | [py](bronze_1/Go_Latin_16360.py) |
 
 ## Silver 5
 | 문제 | 코드 (python) | 코드 (javascript)|
