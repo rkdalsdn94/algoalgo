@@ -645,6 +645,7 @@
 | [풍선 공장 - 15810](https://www.acmicpc.net/problem/15810) | [py](Silver_2/풍선_공장_15810.py) |
 | [알고리즘 수업 깊이 우선 탐색 1 - 24479](https://www.acmicpc.net/problem/24479) | [py](Silver_2/알고리즘_수업_깊이_우선_탐색_1_24479.py) |
 | [랭킹전 대기열 - 20006](https://www.acmicpc.net/problem/20006) | [py](Silver_2/랭킹전_대기열_20006.py) |
+| [숨바꼭질 6 - 17087](https://www.acmicpc.net/problem/17087) | [py](Silver_2/숨바꼭질_6_17087.py) |
 
 ## Silver 1
 | 문제 | 코드 (python) | 코드 (javascript)|
