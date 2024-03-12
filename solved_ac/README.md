@@ -823,6 +823,7 @@
 | [소수의 연속합 - 1644](https://www.acmicpc.net/problem/1644) | [py](Gold_3/소수의_연속합_1644.py) |
 | [괄호 추가하기 - 16637](https://www.acmicpc.net/problem/16637) | [py](Gold_3/괄호_추가하기_16637.py) |
 | [파일 합치기 - 11066](https://www.acmicpc.net/problem/11066) | [py](Gold_3/파일_합치기_11066.py) |
+| [행렬 곱셈 순서 - 11049](https://www.acmicpc.net/problem/11049) | [py](Gold_3/행렬_곱셈_순서_11049.py) |
 
 ## Gold 2
 | 문제 | 코드 (python) | 코드 (javascript)|
