@@ -258,6 +258,7 @@
 | [너의 핸들은 - 15819](https://www.acmicpc.net/problem/15819) | [py](bronze_1/너의_핸들은_15819.py) |
 | [반복 - 19564](https://www.acmicpc.net/problem/19564) | [py](bronze_1/반복_19564.py) |
 | [Go Latin - 16360](https://www.acmicpc.net/problem/16360) | [py](bronze_1/Go_Latin_16360.py) |
+| [기상청 인턴 신현수 - 2435](https://www.acmicpc.net/problem/2435) | [py](bronze_1/기상청_인턴_신현수_2435.py) |
 
 ## Silver 5
 | 문제 | 코드 (python) | 코드 (javascript)|
