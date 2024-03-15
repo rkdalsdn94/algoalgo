@@ -467,6 +467,7 @@
 | [인사성 밝은 곰곰이 - 25192](https://www.acmicpc.net/problem/25192) | [py](Silver_4/인사성_밝은_곰곰이_25192.py) |
 | [치킨치킨치킨 - 16439](https://www.acmicpc.net/problem/16439) | [py](Silver_4/치킨치킨치킨_16439.py) |
 | [자리배정 - 10157](https://www.acmicpc.net/problem/10157) | [py](Silver_4/자리배정_10157.py) |
+| [덱 2 - 28279](https://www.acmicpc.net/problem/28279) | [py](Silver_4/덱_2_28279.py) |
 
 ## Silver 3
 | 문제 | 코드 (python) | 코드 (javascript)|
