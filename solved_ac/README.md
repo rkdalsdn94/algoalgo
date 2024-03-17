@@ -161,6 +161,7 @@
 | [알고리즘의 수행 시간 6 - 24267](https://www.acmicpc.net/problem/24267) | [py](bronze_2/알고리즘의_수행_시간_6_24267.py) |
 | [줄 세우기 - 1681](https://www.acmicpc.net/problem/1681) | [py](bronze_2/줄_세우기_1681.py) |
 | [24 - 1408](https://www.acmicpc.net/problem/1408) | [py](bronze_2/24_1408.py) |
+| [커맨드 - 17838](https://www.acmicpc.net/problem/17838) | [py](bronze_2/커맨드_17838.py) |
 
 ## Bronze 1
 | 문제 | 코드 (python) | 코드 (javascript)|
