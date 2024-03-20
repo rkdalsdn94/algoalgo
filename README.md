@@ -192,6 +192,7 @@
 | [Lv2 쿼드압축 후 개수 세기](https://programmers.co.kr/learn/courses/30/lessons/68936) | [py](programmers/Lv2/Lv2_쿼드압축_후_개수_세기.py) |
 | [Lv2 무인도 여행](https://programmers.co.kr/learn/courses/30/lessons/154540) | [py](programmers/Lv2/Lv2_무인도_여행.py) |
 | [Lv2 PCCP 기출문제 2번 석유 시추](https://school.programmers.co.kr/learn/courses/30/lessons/250136) | [py](programmers/Lv2/PCCP_기출문제_2번_석유_시추.py) |
+| [Lv2 PCCP 기출문제 3번 아날로그 시계](https://school.programmers.co.kr/learn/courses/30/lessons/250135) | [py](programmers/Lv2/PCCP_기출문제_3번_아날로그_시계.py) |
 
 ### Lv3 
 | 문제 | 코드 (python) | 코드 (javascript)|
