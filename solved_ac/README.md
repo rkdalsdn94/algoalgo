@@ -569,6 +569,7 @@
 | [근손실 - 18429](https://www.acmicpc.net/problem/18429) | [py](Silver_3/근손실_18429.py) |
 | [queuestack - 24511](https://www.acmicpc.net/problem/24511) | [py](Silver_3/queuestack_24511.py) |
 | [내 선물을 받아줘 2 - 15886](https://www.acmicpc.net/problem/15886) | [py](Silver_3/내_선물을_받아줘_2_15886.py) |
+| [타노스 - 20310](https://www.acmicpc.net/problem/20310) | [py](Silver_3/타노스_20310.py) |
 
 ## Silver 2
 | 문제 | 코드 (python) | 코드 (javascript)|
