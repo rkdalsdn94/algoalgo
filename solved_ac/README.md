@@ -657,6 +657,7 @@
 | [로봇 - 13901](https://www.acmicpc.net/problem/13901) | [py](Silver_2/로봇_13901.py) |
 | [돌 게임 4 - 9658](https://www.acmicpc.net/problem/9658) | [py](Silver_2/돌_게임_4_9658.py) |
 | [아이들과 선물 상자 - 23757](https://www.acmicpc.net/problem/23757) | [py](Silver_2/아이들과_선물_상자_23757.py) |
+| [사다리 - 3061](https://www.acmicpc.net/problem/3061) | [py](Silver_2/사다리_3061.py) |
 
 ## Silver 1
 | 문제 | 코드 (python) | 코드 (javascript)|
