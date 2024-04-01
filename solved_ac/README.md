@@ -262,6 +262,7 @@
 | [기상청 인턴 신현수 - 2435](https://www.acmicpc.net/problem/2435) | [py](bronze_1/기상청_인턴_신현수_2435.py) |
 | [동전 게임 - 2684](https://www.acmicpc.net/problem/2684) | [py](bronze_1/동전_게임_2684.py) |
 | [바둑돌 게임 - 25592](https://www.acmicpc.net/problem/25592) | [py](bronze_1/바둑돌_게임_25592.py) |
+| [피보나치 수 1 - 24416](https://www.acmicpc.net/problem/24416) | [py](bronze_1/피보나치_수_1_24416.py) |
 
 ## Silver 5
 | 문제 | 코드 (python) | 코드 (javascript)|
