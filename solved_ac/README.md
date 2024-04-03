@@ -660,6 +660,7 @@
 | [돌 게임 4 - 9658](https://www.acmicpc.net/problem/9658) | [py](Silver_2/돌_게임_4_9658.py) |
 | [아이들과 선물 상자 - 23757](https://www.acmicpc.net/problem/23757) | [py](Silver_2/아이들과_선물_상자_23757.py) |
 | [사다리 - 3061](https://www.acmicpc.net/problem/3061) | [py](Silver_2/사다리_3061.py) |
+| [퍼거슨과 사과 - 2942](https://www.acmicpc.net/problem/2942) | [py](Silver_2/퍼거슨과_사과_2942.py) |
 
 ## Silver 1
 | 문제 | 코드 (python) | 코드 (javascript)|
