@@ -263,6 +263,7 @@
 | [동전 게임 - 2684](https://www.acmicpc.net/problem/2684) | [py](bronze_1/동전_게임_2684.py) |
 | [바둑돌 게임 - 25592](https://www.acmicpc.net/problem/25592) | [py](bronze_1/바둑돌_게임_25592.py) |
 | [피보나치 수 1 - 24416](https://www.acmicpc.net/problem/24416) | [py](bronze_1/피보나치_수_1_24416.py) |
+| [문자열 탑 쌓기 - 25643](https://www.acmicpc.net/problem/25643) | [py](bronze_1/문자열_탑_쌓기_25643.py) |
 
 ## Silver 5
 | 문제 | 코드 (python) | 코드 (javascript)|
