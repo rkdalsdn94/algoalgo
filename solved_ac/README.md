@@ -577,6 +577,7 @@
 | [내 선물을 받아줘 2 - 15886](https://www.acmicpc.net/problem/15886) | [py](Silver_3/내_선물을_받아줘_2_15886.py) |
 | [타노스 - 20310](https://www.acmicpc.net/problem/20310) | [py](Silver_3/타노스_20310.py) |
 | [과제는 끝나지 않아! - 17952](https://www.acmicpc.net/problem/17952) | [py](Silver_3/과제는_끝나지_않아_17952.py) |
+| [꿀 아르바이트 - 12847](https://www.acmicpc.net/problem/12847) | [py](Silver_3/꿀_아르바이트_12847.py) |
 
 ## Silver 2
 | 문제 | 코드 (python) | 코드 (javascript)|
