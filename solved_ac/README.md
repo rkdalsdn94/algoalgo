@@ -267,6 +267,7 @@
 | [피보나치 수 1 - 24416](https://www.acmicpc.net/problem/24416) | [py](bronze_1/피보나치_수_1_24416.py) |
 | [문자열 탑 쌓기 - 25643](https://www.acmicpc.net/problem/25643) | [py](bronze_1/문자열_탑_쌓기_25643.py) |
 | [유레카 이론 - 10448](https://www.acmicpc.net/problem/10448) | [py](bronze_1/유레카_이론_10448.py) |
+| [수면 패턴 - 19843](https://www.acmicpc.net/problem/19843) | [py](bronze_1/수면_패턴_19843.py) |
 
 ## Silver 5
 | 문제 | 코드 (python) | 코드 (javascript)|
