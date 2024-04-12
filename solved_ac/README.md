@@ -580,6 +580,7 @@
 | [타노스 - 20310](https://www.acmicpc.net/problem/20310) | [py](Silver_3/타노스_20310.py) |
 | [과제는 끝나지 않아! - 17952](https://www.acmicpc.net/problem/17952) | [py](Silver_3/과제는_끝나지_않아_17952.py) |
 | [꿀 아르바이트 - 12847](https://www.acmicpc.net/problem/12847) | [py](Silver_3/꿀_아르바이트_12847.py) |
+| [한동이는 공부가 하기 싫어! - 3182](https://www.acmicpc.net/problem/3182) | [py](Silver_3/한동이는_공부가_하기_싫어_3182.py) |
 
 ## Silver 2
 | 문제 | 코드 (python) | 코드 (javascript)|
