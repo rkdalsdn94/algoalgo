@@ -164,6 +164,7 @@
 | [커맨드 - 17838](https://www.acmicpc.net/problem/17838) | [py](bronze_2/커맨드_17838.py) |
 | [좋은 자동차 번호판 - 1871](https://www.acmicpc.net/problem/1871) | [py](bronze_2/좋은_자동차_번호판_1871.py) |
 | [소수 단어 - 2153](https://www.acmicpc.net/problem/2153) | [py](bronze_2/소수_단어_2153.py) |
+| [야바위 대장 - 15814](https://www.acmicpc.net/problem/15814) | [py](bronze_2/야바위_대장_15814.py) |
 
 ## Bronze 1
 | 문제 | 코드 (python) | 코드 (javascript)|
