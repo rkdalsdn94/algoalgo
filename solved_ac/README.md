@@ -481,6 +481,7 @@
 | [치킨치킨치킨 - 16439](https://www.acmicpc.net/problem/16439) | [py](Silver_4/치킨치킨치킨_16439.py) |
 | [자리배정 - 10157](https://www.acmicpc.net/problem/10157) | [py](Silver_4/자리배정_10157.py) |
 | [덱 2 - 28279](https://www.acmicpc.net/problem/28279) | [py](Silver_4/덱_2_28279.py) |
+| [철벽 보안 알고리즘 - 9322](https://www.acmicpc.net/problem/9322) | [py](Silver_4/철벽_보안_알고리즘_9322.py) |
 
 ## Silver 3
 | 문제 | 코드 (python) | 코드 (javascript)|
