@@ -673,6 +673,7 @@
 | [아이들과 선물 상자 - 23757](https://www.acmicpc.net/problem/23757) | [py](Silver_2/아이들과_선물_상자_23757.py) |
 | [사다리 - 3061](https://www.acmicpc.net/problem/3061) | [py](Silver_2/사다리_3061.py) |
 | [퍼거슨과 사과 - 2942](https://www.acmicpc.net/problem/2942) | [py](Silver_2/퍼거슨과_사과_2942.py) |
+| [오리 - 12933](https://www.acmicpc.net/problem/12933) | [py](Silver_2/오리_12933.py) |
 
 ## Silver 1
 | 문제 | 코드 (python) | 코드 (javascript)|
