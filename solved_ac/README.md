@@ -678,6 +678,7 @@
 | [퍼거슨과 사과 - 2942](https://www.acmicpc.net/problem/2942) | [py](Silver_2/퍼거슨과_사과_2942.py) |
 | [오리 - 12933](https://www.acmicpc.net/problem/12933) | [py](Silver_2/오리_12933.py) |
 | [앵무새 - 14713](https://www.acmicpc.net/problem/14713) | [py](Silver_2/앵무새_14713.py) |
+| [Young한 에너지는 부족하다 - 23561](https://www.acmicpc.net/problem/23561) | [py](Silver_2/Young한_에너지는_부족하다_23561.py) |
 
 ## Silver 1
 | 문제 | 코드 (python) | 코드 (javascript)|
