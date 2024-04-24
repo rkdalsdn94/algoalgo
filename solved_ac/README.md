@@ -386,6 +386,7 @@
 | [정열적인 정렬 - 16212](https://www.acmicpc.net/problem/16212) | [py](Silver_5/정열적인_정렬_16212.py) |
 | [장신구 명장 임스 - 25496](https://www.acmicpc.net/problem/25496) | [py](Silver_5/장신구_명장_임스_25496.py) |
 | [임스와 함께하는 미니게임 - 25757](https://www.acmicpc.net/problem/25757) | [py](Silver_5/임스와_함께하는_미니게임_25757.py) |
+| [칠무해 - 14729](https://www.acmicpc.net/problem/14729) | [py](Silver_5/칠무해_14729.py) |
 
 ## Silver 4
 | 문제 | 코드 (python) | 코드 (javascript)|
