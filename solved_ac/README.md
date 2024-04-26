@@ -271,6 +271,7 @@
 | [유레카 이론 - 10448](https://www.acmicpc.net/problem/10448) | [py](bronze_1/유레카_이론_10448.py) |
 | [수면 패턴 - 19843](https://www.acmicpc.net/problem/19843) | [py](bronze_1/수면_패턴_19843.py) |
 | [머신 코드 - 2929](https://www.acmicpc.net/problem/2929) | [py](bronze_1/머신_코드_2929.py) |
+| [멀티버스 I - 18868](https://www.acmicpc.net/problem/18868) | [py](bronze_1/멀티버스_I_18868.py) |
 
 ## Silver 5
 | 문제 | 코드 (python) | 코드 (javascript)|
