@@ -590,6 +590,7 @@
 | [꿀 아르바이트 - 12847](https://www.acmicpc.net/problem/12847) | [py](Silver_3/꿀_아르바이트_12847.py) |
 | [한동이는 공부가 하기 싫어! - 3182](https://www.acmicpc.net/problem/3182) | [py](Silver_3/한동이는_공부가_하기_싫어_3182.py) |
 | [여우는 어떻게 울지? - 9536](https://www.acmicpc.net/problem/9536) | [py](Silver_3/여우는_어떻게_울지_9536.py) |
+| [숫자 야구 - 2503](https://www.acmicpc.net/problem/2503) | [py](Silver_3/숫자_야구_2503.py) |
 
 ## Silver 2
 | 문제 | 코드 (python) | 코드 (javascript)|
