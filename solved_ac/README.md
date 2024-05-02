@@ -391,6 +391,7 @@
 | [임스와 함께하는 미니게임 - 25757](https://www.acmicpc.net/problem/25757) | [py](Silver_5/임스와_함께하는_미니게임_25757.py) |
 | [칠무해 - 14729](https://www.acmicpc.net/problem/14729) | [py](Silver_5/칠무해_14729.py) |
 | [기적의 매매법 - 20546](https://www.acmicpc.net/problem/20546) | [py](Silver_5/기적의_매매법_20546.py) |
+| [Race Results - 5939](https://www.acmicpc.net/problem/5939) | [py](Silver_5/Race_Results_5939.py) |
 
 ## Silver 4
 | 문제 | 코드 (python) | 코드 (javascript)|
