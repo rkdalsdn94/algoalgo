@@ -491,6 +491,7 @@
 | [덱 2 - 28279](https://www.acmicpc.net/problem/28279) | [py](Silver_4/덱_2_28279.py) |
 | [철벽 보안 알고리즘 - 9322](https://www.acmicpc.net/problem/9322) | [py](Silver_4/철벽_보안_알고리즘_9322.py) |
 | [수강변경 - 23305](https://www.acmicpc.net/problem/23305) | [py](Silver_4/수강변경_23305.py) |
+| [동일한 단어 그룹화하기 - 16499](https://www.acmicpc.net/problem/16499) | [py](Silver_4/동일한_단어_그룹화하기_16499.py) |
 
 ## Silver 3
 | 문제 | 코드 (python) | 코드 (javascript)|
