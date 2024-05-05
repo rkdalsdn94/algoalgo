@@ -689,6 +689,7 @@
 | [앵무새 - 14713](https://www.acmicpc.net/problem/14713) | [py](Silver_2/앵무새_14713.py) |
 | [Young한 에너지는 부족하다 - 23561](https://www.acmicpc.net/problem/23561) | [py](Silver_2/Young한_에너지는_부족하다_23561.py) |
 | [연산자 끼워넣기 2 - 15658](https://www.acmicpc.net/problem/15658) | [py](Silver_2/연산자_끼워넣기_2_15658.py) |
+| [황소 다마고치 - 23323](https://www.acmicpc.net/problem/23323) | [py](Silver_2/황소_다마고치_23323.py) |
 
 ## Silver 1
 | 문제 | 코드 (python) | 코드 (javascript)|
