@@ -890,6 +890,7 @@
 | [트리의 지름 - 1167](https://www.acmicpc.net/problem/1167) | [py](Gold_2/트리의_지름_1167.py) |
 | [피보나치 수 3 - 2749](https://www.acmicpc.net/problem/2749) | [py](Gold_2/피보나치_수_3_2749.py) |
 | [컵라면 - 1781](https://www.acmicpc.net/problem/1781) | [py](Gold_2/컵라면_1781.py) |
+| [가장 긴 증가하는 부분 수열 2 - 12015](https://www.acmicpc.net/problem/12015) | [py](Gold_2/가장_긴_증가하는_부분_수열_2_12015.py) |
 
 ## Gold 1
 | 문제 | 코드 (python) | 코드 (javascript)|
