@@ -205,6 +205,7 @@
 | [Lv3. 디스크 컨트롤러](https://programmers.co.kr/learn/courses/30/lessons/42627) | [py](programmers/Lv3/Lv3_디스크_컨트롤러.py)|
 | [Lv3. N으로 표현](https://programmers.co.kr/learn/courses/30/lessons/42895) | [py](programmers/Lv3/Lv3_N으로_표현.py)|
 | [Lv3. 파괴되지 않은 건물](https://programmers.co.kr/learn/courses/30/lessons/92344) | [py](programmers/Lv3/Lv3_파괴되지_않은_건물.py)|
+| [Lv3. 단어 변환](https://programmers.co.kr/learn/courses/30/lessons/92344) | [py](programmers/Lv3/Lv3_단어_변환.py)|
 
 
 
