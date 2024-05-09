@@ -3,6 +3,8 @@
 그래프, bfs, dfs 문제
 
 bfs로 풀었다.
+refactor: 처음 코드에는 예제 1을 통과하지 못 한다. (근데 왜 통과했지..?)
+예제 1을 통과할 수 있도록 코드를 수정하고 다시 제출했다.
 
 풀이 과정
  1. target이 words에 없으면 0을 반환한다.
@@ -19,18 +21,17 @@ bfs로 풀었다.
 from collections import deque
 
 def solution(begin, target, words):
-    answer = 0
     ck = [0] * len(words)
-    stack = deque([begin])
+    stack = deque([[begin, 0]])
 
     if target not in words:
         return 0
 
     while stack:
-        word = stack.popleft()
+        word, cnt = stack.popleft() # 이 문제에선 pop을 하던 popleft를 하던 상관 없다.
 
         if word == target:
-            return answer
+            return cnt
 
         for i in range(len(words)):
             if ck[i] == 0:
@@ -42,11 +43,9 @@ def solution(begin, target, words):
 
                 if temp == 1:
                     ck[i] = 1
-                    stack.append(words[i])
+                    stack.append([words[i], cnt + 1])
 
-        answer += 1
-
-    return answer
+    return 0
 
 print(solution("hit", "cog", ["hot", "dot", "dog", "lot", "log", "cog"])) # 4
 print(solution("hit", "cog", ["hot", "dot", "dog", "lot", "log"])) # 0
