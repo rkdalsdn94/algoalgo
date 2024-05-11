@@ -206,6 +206,7 @@
 | [Lv3. N으로 표현](https://programmers.co.kr/learn/courses/30/lessons/42895) | [py](programmers/Lv3/Lv3_N으로_표현.py)|
 | [Lv3. 파괴되지 않은 건물](https://programmers.co.kr/learn/courses/30/lessons/92344) | [py](programmers/Lv3/Lv3_파괴되지_않은_건물.py)|
 | [Lv3. 단어 변환](https://programmers.co.kr/learn/courses/30/lessons/92344) | [py](programmers/Lv3/Lv3_단어_변환.py)|
+| [Lv3. 자물쇠와 열쇠](https://programmers.co.kr/learn/courses/30/lessons/60059) | [py](programmers/Lv3/Lv3_자물쇠와_열쇠.py)|
 
 
 
