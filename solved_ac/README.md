@@ -394,6 +394,7 @@
 | [칠무해 - 14729](https://www.acmicpc.net/problem/14729) | [py](Silver_5/칠무해_14729.py) |
 | [기적의 매매법 - 20546](https://www.acmicpc.net/problem/20546) | [py](Silver_5/기적의_매매법_20546.py) |
 | [Race Results - 5939](https://www.acmicpc.net/problem/5939) | [py](Silver_5/Race_Results_5939.py) |
+| [인기 투표 - 11637](https://www.acmicpc.net/problem/11637) | [py](Silver_5/인기_투표_11637.py) |
 
 ## Silver 4
 | 문제 | 코드 (python) | 코드 (javascript)|
