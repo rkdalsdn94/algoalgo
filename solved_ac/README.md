@@ -276,6 +276,7 @@
 | [전화 요금 - 3226](https://www.acmicpc.net/problem/3226) | [py](bronze_1/전화_요금_3226.py) |
 | [당신은 운명을 믿나요? - 27930](https://www.acmicpc.net/problem/27930) | [py](bronze_1/당신은_운명을_믿나요_27930.py) |
 | [더하기 2 - 10823](https://www.acmicpc.net/problem/10823) | [py](bronze_1/더하기_2_10823.py) |
+| [패스트 푸드 상금 - 9329](https://www.acmicpc.net/problem/9329) | [py](bronze_1/패스트_푸드_상금_9329.py) |
 
 ## Silver 5
 | 문제 | 코드 (python) | 코드 (javascript)|
