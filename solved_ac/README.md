@@ -278,6 +278,7 @@
 | [더하기 2 - 10823](https://www.acmicpc.net/problem/10823) | [py](bronze_1/더하기_2_10823.py) |
 | [패스트 푸드 상금 - 9329](https://www.acmicpc.net/problem/9329) | [py](bronze_1/패스트_푸드_상금_9329.py) |
 | [창영이와 버스 - 22113](https://www.acmicpc.net/problem/22113) | [py](bronze_1/창영이와_버스_22113.py) |
+| [준오는 조류혐오야 - 14647](https://www.acmicpc.net/problem/14647) | [py](bronze_1/준오는_조류혐오야_14647.py) |
 
 ## Silver 5
 | 문제 | 코드 (python) | 코드 (javascript)|
