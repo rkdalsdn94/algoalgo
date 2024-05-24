@@ -777,7 +777,7 @@
 | [단어 맞추기 - 9081](https://www.acmicpc.net/problem/9081) | [py](Silver_1/단어_맞추기_9081.py) |
 | [접두사 찾기 - 14426](https://www.acmicpc.net/problem/14426) | [py](Silver_1/접두사_찾기_14426.py) |
 | [인간 컴퓨터 상호작용 - 16139](https://www.acmicpc.net/problem/16139) | [py](Silver_1/인간_컴퓨터_상호작용_16139.py) |
-| [에너지 모으기 - 16198](https://www.acmicpc.net/problem/16198) | [py](Silver_1/에너지_모으기_16198.py) |
+| [히오스 프로게이머 - 16564](https://www.acmicpc.net/problem/16564) | [py](Silver_1/히오스_프로게이머_16564.py) |
 
 ## Gold 5
 | 문제 | 코드 (python) | 코드 (javascript)|
