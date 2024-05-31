@@ -870,6 +870,7 @@
 | [팰린드롬? - 10942](https://www.acmicpc.net/problem/10942) | [py](Gold_4/팰린드롬_10942.py) |
 | [스도쿠 - 2580](https://www.acmicpc.net/problem/2580) | [py](Gold_4/스도쿠_2580.py) |
 | [네트워크 연결 - 1922](https://www.acmicpc.net/problem/1922) | [py](Gold_4/네트워크_연결_1922.py) |
+| [도시 분할 계획 - 1647](https://www.acmicpc.net/problem/1647) | [py](Gold_4/도시_분할_계획_1647.py) |
 
 ## Gold 3
 | 문제 | 코드 (python) | 코드 (javascript)|
