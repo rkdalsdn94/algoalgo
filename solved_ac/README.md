@@ -400,6 +400,7 @@
 | [Race Results - 5939](https://www.acmicpc.net/problem/5939) | [py](Silver_5/Race_Results_5939.py) |
 | [인기 투표 - 11637](https://www.acmicpc.net/problem/11637) | [py](Silver_5/인기_투표_11637.py) |
 | [회문인 수 - 11068](https://www.acmicpc.net/problem/11068) | [py](Silver_5/회문인_수_11068.py) |
+| [끝말잇기 - 28432](https://www.acmicpc.net/problem/28432) | [py](Silver_5/끝말잇기_28432.py) |
 
 ## Silver 4
 | 문제 | 코드 (python) | 코드 (javascript)|
