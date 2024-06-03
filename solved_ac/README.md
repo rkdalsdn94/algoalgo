@@ -873,6 +873,7 @@
 | [스도쿠 - 2580](https://www.acmicpc.net/problem/2580) | [py](Gold_4/스도쿠_2580.py) |
 | [네트워크 연결 - 1922](https://www.acmicpc.net/problem/1922) | [py](Gold_4/네트워크_연결_1922.py) |
 | [도시 분할 계획 - 1647](https://www.acmicpc.net/problem/1647) | [py](Gold_4/도시_분할_계획_1647.py) |
+| [도서관 - 1461](https://www.acmicpc.net/problem/1461) | [py](Gold_4/도서관_1461.py) |
 
 ## Gold 3
 | 문제 | 코드 (python) | 코드 (javascript)|
