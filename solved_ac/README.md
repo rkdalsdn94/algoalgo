@@ -895,6 +895,7 @@
 | [행렬 곱셈 순서 - 11049](https://www.acmicpc.net/problem/11049) | [py](Gold_3/행렬_곱셈_순서_11049.py) |
 | [경사로 - 14890](https://www.acmicpc.net/problem/14890) | [py](Gold_3/경사로_14890.py) |
 | [별자리 만들기 - 4386](https://www.acmicpc.net/problem/4386) | [py](Gold_3/별자리_만들기_4386.py) |
+| [모양 만들기 - 16932](https://www.acmicpc.net/problem/16932) | [py](Gold_3/모양_만들기_16932.py) |
 
 ## Gold 2
 | 문제 | 코드 (python) | 코드 (javascript)|
