@@ -212,6 +212,7 @@
 | [Lv3. 합승 택시 요금](https://programmers.co.kr/learn/courses/30/lessons/72413) | [py](programmers/Lv3/Lv3_합승_택시_요금.py)|
 | [Lv3. 섬 연결하기](https://programmers.co.kr/learn/courses/30/lessons/42861) | [py](programmers/Lv3/Lv3_섬_연결하기.py)|
 | [Lv3. 단속카메라](https://programmers.co.kr/learn/courses/30/lessons/42884) | [py](programmers/Lv3/Lv3_단속카메라.py)|
+| [Lv3. 산 모양 타일링](https://programmers.co.kr/learn/courses/30/lessons/258705) | [py](programmers/Lv3/Lv3_산_모양_타일링.py)|
 
 ### LV4
 |                                  문제                                   |            코드 (python)            | 코드 (javascript) |
