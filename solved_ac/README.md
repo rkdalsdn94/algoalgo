@@ -703,6 +703,7 @@
 | [황소 다마고치 - 23323](https://www.acmicpc.net/problem/23323) | [py](Silver_2/황소_다마고치_23323.py) |
 | [파닭파닭 - 14627](https://www.acmicpc.net/problem/14627) | [py](Silver_2/파닭파닭_14627.py) |
 | [알고리즘 수업 너비 우선 탐색 3 - 24446](https://www.acmicpc.net/problem/24446) | [py](Silver_2/알고리즘_수업_너비_우선_탐색_3_24446.py) |
+| [꽃길 - 14620](https://www.acmicpc.net/problem/14620) | [py](Silver_2/꽃길_14620.py) |
 
 ## Silver 1
 | 문제 | 코드 (python) | 코드 (javascript)|
