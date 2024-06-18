@@ -167,6 +167,7 @@
 | [야바위 대장 - 15814](https://www.acmicpc.net/problem/15814) | [py](bronze_2/야바위_대장_15814.py) |
 | [오타맨 고창영 - 2711](https://www.acmicpc.net/problem/2711) | [py](bronze_2/오타맨_고창영_2711.py) |
 | [Aromatic Numbers - 6769](https://www.acmicpc.net/problem/6769) | [py](bronze_2/Aromatic_Numbers_6769.py) |
+| [Mad Scientist - 4580](https://www.acmicpc.net/problem/4580) | [py](bronze_2/Mad_Scientist_4580.py) |
 
 ## Bronze 1
 | 문제 | 코드 (python) | 코드 (javascript)|
