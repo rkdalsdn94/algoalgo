@@ -214,6 +214,7 @@
 | [Lv3. 단속카메라](https://programmers.co.kr/learn/courses/30/lessons/42884) | [py](programmers/Lv3/Lv3_단속카메라.py)|
 | [Lv3. 산 모양 타일링](https://programmers.co.kr/learn/courses/30/lessons/258705) | [py](programmers/Lv3/Lv3_산_모양_타일링.py)|
 | [Lv3. 기지국 설치](https://programmers.co.kr/learn/courses/30/lessons/12979) | [py](programmers/Lv3/Lv3_기지국_설치.py)|
+| [Lv3. 등굣길](https://programmers.co.kr/learn/courses/30/lessons/42898) | [py](programmers/Lv3/Lv3_등굣길.py)|
 
 ### LV4
 |                                  문제                                   |            코드 (python)            | 코드 (javascript) |
