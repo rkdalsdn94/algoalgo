@@ -507,6 +507,7 @@
 | [동일한 단어 그룹화하기 - 16499](https://www.acmicpc.net/problem/16499) | [py](Silver_4/동일한_단어_그룹화하기_16499.py) |
 | [블라인드 - 2799](https://www.acmicpc.net/problem/2799) | [py](Silver_4/블라인드_2799.py) |
 | [Eenie Meenie Miney Moe - 14783](https://www.acmicpc.net/problem/14783) | [py](Silver_4/Eenie_Meenie_Miney_Moe_14783.py) |
+| [볼질 - 11916](https://www.acmicpc.net/problem/11916) | [py](Silver_4/볼질_11916.py) |
 
 ## Silver 3
 | 문제 | 코드 (python) | 코드 (javascript)|
