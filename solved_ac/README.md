@@ -282,6 +282,7 @@
 | [창영이와 버스 - 22113](https://www.acmicpc.net/problem/22113) | [py](bronze_1/창영이와_버스_22113.py) |
 | [준오는 조류혐오야 - 14647](https://www.acmicpc.net/problem/14647) | [py](bronze_1/준오는_조류혐오야_14647.py) |
 | [선로에 마네킹이야 - 15920](https://www.acmicpc.net/problem/15920) | [py](bronze_1/선로에_마네킹이야_15920.py) |
+| [우유가 넘어지면 - 17363](https://www.acmicpc.net/problem/17363) | [py](bronze_1/우유가_넘어지면_17363.py) |
 
 ## Silver 5
 | 문제 | 코드 (python) | 코드 (javascript)|
