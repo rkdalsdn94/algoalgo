@@ -510,6 +510,7 @@
 | [Eenie Meenie Miney Moe - 14783](https://www.acmicpc.net/problem/14783) | [py](Silver_4/Eenie_Meenie_Miney_Moe_14783.py) |
 | [볼질 - 11916](https://www.acmicpc.net/problem/11916) | [py](Silver_4/볼질_11916.py) |
 | [알고리즘 수업 깊이 우선 탐색 4 - 24482](https://www.acmicpc.net/problem/24482) | [py](Silver_4/알고리즘_수업_깊이_우선_탐색_4_24482.py) |
+| [알고리즘 수업 피보나치 수 2 - 24417](https://www.acmicpc.net/problem/24417) | [py](Silver_4/알고리즘_수업_피보나치_수_2_24417.py) |
 
 ## Silver 3
 | 문제 | 코드 (python) | 코드 (javascript)|
