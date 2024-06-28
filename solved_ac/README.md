@@ -511,6 +511,7 @@
 | [볼질 - 11916](https://www.acmicpc.net/problem/11916) | [py](Silver_4/볼질_11916.py) |
 | [알고리즘 수업 깊이 우선 탐색 4 - 24482](https://www.acmicpc.net/problem/24482) | [py](Silver_4/알고리즘_수업_깊이_우선_탐색_4_24482.py) |
 | [알고리즘 수업 피보나치 수 2 - 24417](https://www.acmicpc.net/problem/24417) | [py](Silver_4/알고리즘_수업_피보나치_수_2_24417.py) |
+| [The Game of Death - 11558](https://www.acmicpc.net/problem/11558) | [py](Silver_4/The_Game_of_Death_11558.py) |
 
 ## Silver 3
 | 문제 | 코드 (python) | 코드 (javascript)|
