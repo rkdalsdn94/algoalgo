@@ -619,6 +619,7 @@
 | [여우는 어떻게 울지? - 9536](https://www.acmicpc.net/problem/9536) | [py](Silver_3/여우는_어떻게_울지_9536.py) |
 | [숫자 야구 - 2503](https://www.acmicpc.net/problem/2503) | [py](Silver_3/숫자_야구_2503.py) |
 | [izbori - 3161](https://www.acmicpc.net/problem/3161) | [py](Silver_3/izbori_3161.py) |
+| [돌 게임 5 - 9659](https://www.acmicpc.net/problem/9659) | [py](Silver_3/돌_게임_5_9659.py) |
 
 ## Silver 2
 | 문제 | 코드 (python) | 코드 (javascript)|
