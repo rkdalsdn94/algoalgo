@@ -721,6 +721,7 @@
 | [생태학 - 4358](https://www.acmicpc.net/problem/4358) | [py](Silver_2/생태학_4358.py) |
 | [알고리즘 수업 깊이 우선 탐색 3 - 24481](https://www.acmicpc.net/problem/24481) | [py](Silver_2/알고리즘_수업_깊이_우선_탐색_3_24481.py) |
 | [영역 색칠 - 28015](https://www.acmicpc.net/problem/28015) | [py](Silver_2/영역_색칠_28015.py) |
+| [또 전자레인지야 - 24390](https://www.acmicpc.net/problem/24390) | [py](Silver_2/또_전자레인지야_24390.py) |
 
 ## Silver 1
 | 문제 | 코드 (python) | 코드 (javascript)|
