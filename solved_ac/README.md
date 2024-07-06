@@ -622,6 +622,7 @@
 | [숫자 야구 - 2503](https://www.acmicpc.net/problem/2503) | [py](Silver_3/숫자_야구_2503.py) |
 | [izbori - 3161](https://www.acmicpc.net/problem/3161) | [py](Silver_3/izbori_3161.py) |
 | [돌 게임 5 - 9659](https://www.acmicpc.net/problem/9659) | [py](Silver_3/돌_게임_5_9659.py) |
+| [원상 복구 small - 22858](https://www.acmicpc.net/problem/22858) | [py](Silver_3/원상_복구_small_22858.py) |
 
 ## Silver 2
 | 문제 | 코드 (python) | 코드 (javascript)|
