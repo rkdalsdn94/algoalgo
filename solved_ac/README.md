@@ -407,6 +407,7 @@
 | [비밀 편지 - 5426](https://www.acmicpc.net/problem/5426) | [py](Silver_5/비밀_편지_5426.py) |
 | [Toy Shopping - 6032](https://www.acmicpc.net/problem/6032) | [py](Silver_5/Toy_Shopping_6032.py) |
 | [Sorting (Large) - 12281](https://www.acmicpc.net/problem/12281) | [py](Silver_5/Sorting_(Large)_12281.py) |
+| [피터팬 프레임 - 3054](https://www.acmicpc.net/problem/3054) | [py](Silver_5/피터팬_프레임_3054.py) |
 
 ## Silver 4
 | 문제 | 코드 (python) | 코드 (javascript)|
