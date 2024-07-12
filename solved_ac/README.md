@@ -926,6 +926,7 @@
 | [별자리 만들기 - 4386](https://www.acmicpc.net/problem/4386) | [py](Gold_3/별자리_만들기_4386.py) |
 | [모양 만들기 - 16932](https://www.acmicpc.net/problem/16932) | [py](Gold_3/모양_만들기_16932.py) |
 | [DFS 스페셜 저지 - 16964](https://www.acmicpc.net/problem/16964) | [py](Gold_3/DFS_스페셜_저지_16964.py) |
+| [웜홀 - 1865](https://www.acmicpc.net/problem/1865) | [py](Gold_3/웜홀_1865.py) |
 
 ## Gold 2
 | 문제 | 코드 (python) | 코드 (javascript)|
