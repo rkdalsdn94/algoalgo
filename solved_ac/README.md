@@ -809,6 +809,7 @@
 | [인간 컴퓨터 상호작용 - 16139](https://www.acmicpc.net/problem/16139) | [py](Silver_1/인간_컴퓨터_상호작용_16139.py) |
 | [히오스 프로게이머 - 16564](https://www.acmicpc.net/problem/16564) | [py](Silver_1/히오스_프로게이머_16564.py) |
 | [자릿수 - 28293](https://www.acmicpc.net/problem/28293) | [py](Silver_1/자릿수_28293.py) |
+| [겹치는 건 싫어 - 20922](https://www.acmicpc.net/problem/20922) | [py](Silver_1/겹치는_건_싫어_20922.py) |
 
 ## Gold 5
 | 문제 | 코드 (python) | 코드 (javascript)|
