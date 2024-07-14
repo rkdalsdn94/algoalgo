@@ -283,6 +283,7 @@
 | [준오는 조류혐오야 - 14647](https://www.acmicpc.net/problem/14647) | [py](bronze_1/준오는_조류혐오야_14647.py) |
 | [선로에 마네킹이야 - 15920](https://www.acmicpc.net/problem/15920) | [py](bronze_1/선로에_마네킹이야_15920.py) |
 | [우유가 넘어지면 - 17363](https://www.acmicpc.net/problem/17363) | [py](bronze_1/우유가_넘어지면_17363.py) |
+| [두부 게임 Tofu Game - 14564](https://www.acmicpc.net/problem/14564) | [py](bronze_1/두부_게임_Tofu_Game_14564.py) |
 
 ## Silver 5
 | 문제 | 코드 (python) | 코드 (javascript)|
