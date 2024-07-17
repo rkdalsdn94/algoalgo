@@ -630,6 +630,7 @@
 | [괄호 끼워넣기 - 11899](https://www.acmicpc.net/problem/11899) | [py](Silver_3/괄호_끼워넣기_11899.py) |
 | [진우의 달 여행 Small - 17484](https://www.acmicpc.net/problem/17484) | [py](Silver_3/진우의_달_여행_Small_17484.py) |
 | [염색체 - 9342](https://www.acmicpc.net/problem/9342) | [py](Silver_3/염색체_9342.py) |
+| [눈 치우기 - 26215](https://www.acmicpc.net/problem/26215) | [py](Silver_3/눈_치우기_26215.py) |
 
 ## Silver 2
 | 문제 | 코드 (python) | 코드 (javascript)|
