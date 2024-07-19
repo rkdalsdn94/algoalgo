@@ -285,6 +285,7 @@
 | [우유가 넘어지면 - 17363](https://www.acmicpc.net/problem/17363) | [py](bronze_1/우유가_넘어지면_17363.py) |
 | [두부 게임 Tofu Game - 14564](https://www.acmicpc.net/problem/14564) | [py](bronze_1/두부_게임_Tofu_Game_14564.py) |
 | [단어 게임 - 9946](https://www.acmicpc.net/problem/9946) | [py](bronze_1/단어_게임_9946.py) |
+| [유니대전 퀴즈쇼 - 20362](https://www.acmicpc.net/problem/20362) | [py](bronze_1/유니대전_퀴즈쇼_20362.py) |
 
 ## Silver 5
 | 문제 | 코드 (python) | 코드 (javascript)|
