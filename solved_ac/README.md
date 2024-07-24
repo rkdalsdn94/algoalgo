@@ -413,6 +413,7 @@
 | [Sorting (Large) - 12281](https://www.acmicpc.net/problem/12281) | [py](Silver_5/Sorting_(Large)_12281.py) |
 | [피터팬 프레임 - 3054](https://www.acmicpc.net/problem/3054) | [py](Silver_5/피터팬_프레임_3054.py) |
 | [역원소 정렬 - 5648](https://www.acmicpc.net/problem/5648) | [py](Silver_5/역원소_정렬_5648.py) |
+| [And the Winner Is Ourselves - 17509](https://www.acmicpc.net/problem/17509) | [py](Silver_5/And_the_Winner_Is_Ourselves_17509.py) |
 
 ## Silver 4
 | 문제 | 코드 (python) | 코드 (javascript)|
