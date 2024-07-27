@@ -871,6 +871,7 @@
 | [무한 수열 - 1351](https://www.acmicpc.net/problem/1351) | [py](Gold_5/무한_수열_1351.py) |
 | [연속합 2 - 13398](https://www.acmicpc.net/problem/13398) | [py](Gold_5/연속합_2_13398.py) |
 | [숫자고르기 - 2668](https://www.acmicpc.net/problem/2668) | [py](Gold_5/숫자고르기_2668.py) |
+| [신을 모시는 사당 - 27210](https://www.acmicpc.net/problem/27210) | [py](Gold_5/신을_모시는_사당_27210.py) |
 
 ## Gold 4
 | 문제 | 코드 (python) | 코드 (javascript)|
