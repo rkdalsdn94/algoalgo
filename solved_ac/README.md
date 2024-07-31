@@ -529,6 +529,7 @@
 | [우당탕탕 영화예매 - 29700](https://www.acmicpc.net/problem/29700) | [py](Silver_4/우당탕탕_영화예매_29700.py) |
 | [Q - 4540](https://www.acmicpc.net/problem/4540) | [py](Silver_4/Q_4540.py) |
 | [화살표 그리기 - 15970](https://www.acmicpc.net/problem/15970) | [py](Silver_4/화살표_그리기_15970.py) |
+| [네모네모 시력검사 - 18242](https://www.acmicpc.net/problem/18242) | [py](Silver_4/네모네모_시력검사_18242.py) |
 
 ## Silver 3
 | 문제 | 코드 (python) | 코드 (javascript)|
