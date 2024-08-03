@@ -976,3 +976,4 @@
 | [최솟값 - 10868](https://www.acmicpc.net/problem/10868) | [py](Gold_1/최솟값_10868.py) |
 | [수들의 합 7 - 2268](https://www.acmicpc.net/problem/2268) | [py](Gold_1/수들의_합_7_2268.py) |
 | [커피숍2 - 1275](https://www.acmicpc.net/problem/1275) | [py](Gold_1/커피숍2_1275.py) |
+| [트리의 순회 - 2263](https://www.acmicpc.net/problem/2263) | [py](Gold_1/트리의_순회_2263.py) |
