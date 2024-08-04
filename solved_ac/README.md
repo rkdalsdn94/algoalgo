@@ -748,6 +748,7 @@
 | [또 전자레인지야 - 24390](https://www.acmicpc.net/problem/24390) | [py](Silver_2/또_전자레인지야_24390.py) |
 | [친구 - 1058](https://www.acmicpc.net/problem/1058) | [py](Silver_2/친구_1058.py) |
 | [컨벤 데드가 하고싶어요 - 28450](https://www.acmicpc.net/problem/28450) | [py](Silver_2/컨벤_데드가_하고싶어요_28450.py) |
+| [DNA 비밀번호 - 12891](https://www.acmicpc.net/problem/12891) | [py](Silver_2/DNA_비밀번호_12891.py) |
 
 ## Silver 1
 | 문제 | 코드 (python) | 코드 (javascript)|
