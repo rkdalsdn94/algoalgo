@@ -649,6 +649,7 @@
 | [Knight Hop - 6798](https://www.acmicpc.net/problem/6798) | [py](Silver_3/Knight_Hop_6798.py) |
 | [알고리즘 수업 병합 정렬 1 - 24060](https://www.acmicpc.net/problem/24060) | [py](Silver_3/알고리즘_수업_병합_정렬_1_24060.py) |
 | [배열 복원하기 - 16967](https://www.acmicpc.net/problem/16967) | [py](Silver_3/배열_복원하기_16967.py) |
+| [게으른 백곰 - 10025](https://www.acmicpc.net/problem/10025) | [py](Silver_3/게으른_백곰_10025.py) |
 
 ## Silver 2
 | 문제 | 코드 (python) | 코드 (javascript)|
