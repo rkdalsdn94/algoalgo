@@ -651,6 +651,7 @@
 | [배열 복원하기 - 16967](https://www.acmicpc.net/problem/16967) | [py](Silver_3/배열_복원하기_16967.py) |
 | [게으른 백곰 - 10025](https://www.acmicpc.net/problem/10025) | [py](Silver_3/게으른_백곰_10025.py) |
 | [달나라 토끼를 위한 구매대금 지불 도우미 - 17212](https://www.acmicpc.net/problem/17212) | [py](Silver_3/달나라_토끼를_위한_구매대금_지불_도우미_17212.py) |
+| [현대모비스 입사 프로젝트 - 27922](https://www.acmicpc.net/problem/27922) | [py](Silver_3/현대모비스_입사_프로젝트_27922.py) |
 
 ## Silver 2
 | 문제 | 코드 (python) | 코드 (javascript)|
