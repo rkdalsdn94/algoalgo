@@ -654,6 +654,7 @@
 | [달나라 토끼를 위한 구매대금 지불 도우미 - 17212](https://www.acmicpc.net/problem/17212) | [py](Silver_3/달나라_토끼를_위한_구매대금_지불_도우미_17212.py) |
 | [현대모비스 입사 프로젝트 - 27922](https://www.acmicpc.net/problem/27922) | [py](Silver_3/현대모비스_입사_프로젝트_27922.py) |
 | [캠프파이어 - 3018](https://www.acmicpc.net/problem/3018) | [py](Silver_3/캠프파이어_3018.py) |
+| [토크나이저 - 27649](https://www.acmicpc.net/problem/27649) | [py](Silver_3/토크나이저_27649.py) |
 
 ## Silver 2
 | 문제 | 코드 (python) | 코드 (javascript)|
