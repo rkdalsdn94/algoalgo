@@ -420,6 +420,7 @@
 | [창문 닫기 - 13909](https://www.acmicpc.net/problem/13909) | [py](Silver_5/창문_닫기_13909.py) |
 | [복분의 달인 - 11008](https://www.acmicpc.net/problem/11008) | [py](Silver_5/복분의_달인_11008.py) |
 | [암호 해독기 - 17176](https://www.acmicpc.net/problem/17176) | [py](Silver_5/암호_해독기_17176.py) |
+| [Jumbled Communication - 11675](https://www.acmicpc.net/problem/11675) | [py](Silver_5/Jumbled_Communication_11675.py) |
 
 ## Silver 4
 | 문제 | 코드 (python) | 코드 (javascript)|
