@@ -761,6 +761,7 @@
 | [친구 - 1058](https://www.acmicpc.net/problem/1058) | [py](Silver_2/친구_1058.py) |
 | [컨벤 데드가 하고싶어요 - 28450](https://www.acmicpc.net/problem/28450) | [py](Silver_2/컨벤_데드가_하고싶어요_28450.py) |
 | [DNA 비밀번호 - 12891](https://www.acmicpc.net/problem/12891) | [py](Silver_2/DNA_비밀번호_12891.py) |
+| [Angry Cows Bronze - 11977](https://www.acmicpc.net/problem/11977) | [py](Silver_2/Angry_Cows_Bronze_11977.py) |
 
 ## Silver 1
 | 문제 | 코드 (python) | 코드 (javascript)|
@@ -843,6 +844,7 @@
 | [자릿수 - 28293](https://www.acmicpc.net/problem/28293) | [py](Silver_1/자릿수_28293.py) |
 | [겹치는 건 싫어 - 20922](https://www.acmicpc.net/problem/20922) | [py](Silver_1/겹치는_건_싫어_20922.py) |
 | [본대 산책 - 12849](https://www.acmicpc.net/problem/12849) | [py](Silver_1/본대_산책_12849.py) |
+| [비밀번호 - 2780](https://www.acmicpc.net/problem/2780) | [py](Silver_1/비밀번호_2780.py) |
 
 ## Gold 5
 | 문제 | 코드 (python) | 코드 (javascript)|
