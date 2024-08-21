@@ -845,6 +845,7 @@
 | [겹치는 건 싫어 - 20922](https://www.acmicpc.net/problem/20922) | [py](Silver_1/겹치는_건_싫어_20922.py) |
 | [본대 산책 - 12849](https://www.acmicpc.net/problem/12849) | [py](Silver_1/본대_산책_12849.py) |
 | [비밀번호 - 2780](https://www.acmicpc.net/problem/2780) | [py](Silver_1/비밀번호_2780.py) |
+| [URLs - 6324](https://www.acmicpc.net/problem/6324) | [py](Silver_1/URLs_6324.py) |
 
 ## Gold 5
 | 문제 | 코드 (python) | 코드 (javascript)|
