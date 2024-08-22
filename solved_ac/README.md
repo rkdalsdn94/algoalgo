@@ -538,6 +538,7 @@
 | [볼링공 찾아주기 - 28446](https://www.acmicpc.net/problem/28446) | [py](Silver_4/볼링공_찾아주기_28446.py) |
 | [필터 - 1895](https://www.acmicpc.net/problem/1895) | [py](Silver_4/필터_1895.py) |
 | [수도꼭지 - 30803](https://www.acmicpc.net/problem/30803) | [py](Silver_4/수도꼭지_30803.py) |
+| [카드셋트 - 11507](https://www.acmicpc.net/problem/11507) | [py](Silver_4/카드셋트_11507.py) |
 
 ## Silver 3
 | 문제 | 코드 (python) | 코드 (javascript)|
