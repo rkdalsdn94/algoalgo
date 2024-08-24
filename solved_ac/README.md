@@ -659,6 +659,7 @@
 | [현대모비스 입사 프로젝트 - 27922](https://www.acmicpc.net/problem/27922) | [py](Silver_3/현대모비스_입사_프로젝트_27922.py) |
 | [캠프파이어 - 3018](https://www.acmicpc.net/problem/3018) | [py](Silver_3/캠프파이어_3018.py) |
 | [토크나이저 - 27649](https://www.acmicpc.net/problem/27649) | [py](Silver_3/토크나이저_27649.py) |
+| [비숍 - 1560](https://www.acmicpc.net/problem/1560) | [py](Silver_3/비숍_1560.py) |
 
 ## Silver 2
 | 문제 | 코드 (python) | 코드 (javascript)|
