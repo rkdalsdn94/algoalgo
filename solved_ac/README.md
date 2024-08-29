@@ -661,6 +661,7 @@
 | [토크나이저 - 27649](https://www.acmicpc.net/problem/27649) | [py](Silver_3/토크나이저_27649.py) |
 | [비숍 - 1560](https://www.acmicpc.net/problem/1560) | [py](Silver_3/비숍_1560.py) |
 | [교수가 된 현우 - 3474](https://www.acmicpc.net/problem/3474) | [py](Silver_3/교수가_된_현우_3474.py) |
+| [초콜릿과 ㄱ나이트 게임_Sweet - 31459](https://www.acmicpc.net/problem/31459) | [py](Silver_3/초콜릿과_ㄱ나이트_게임_Sweet_31459.py) |
 
 ## Silver 2
 | 문제 | 코드 (python) | 코드 (javascript)|
