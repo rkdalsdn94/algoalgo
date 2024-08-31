@@ -853,6 +853,7 @@
 | [본대 산책 - 12849](https://www.acmicpc.net/problem/12849) | [py](Silver_1/본대_산책_12849.py) |
 | [비밀번호 - 2780](https://www.acmicpc.net/problem/2780) | [py](Silver_1/비밀번호_2780.py) |
 | [URLs - 6324](https://www.acmicpc.net/problem/6324) | [py](Silver_1/URLs_6324.py) |
+| [경비원 - 2564](https://www.acmicpc.net/problem/2564) | [py](Silver_1/경비원_2564.py) |
 
 ## Gold 5
 | 문제 | 코드 (python) | 코드 (javascript)|
