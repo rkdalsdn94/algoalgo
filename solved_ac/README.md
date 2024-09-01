@@ -423,6 +423,7 @@
 | [암호 해독기 - 17176](https://www.acmicpc.net/problem/17176) | [py](Silver_5/암호_해독기_17176.py) |
 | [Jumbled Communication - 11675](https://www.acmicpc.net/problem/11675) | [py](Silver_5/Jumbled_Communication_11675.py) |
 | [행복한 전화 통화 - 3863](https://www.acmicpc.net/problem/3863) | [py](Silver_5/행복한_전화_통화_3863.py) |
+| [D Day - 1308](https://www.acmicpc.net/problem/1308) | [py](Silver_5/D_Day_1308.py) |
 
 ## Silver 4
 | 문제 | 코드 (python) | 코드 (javascript)|
