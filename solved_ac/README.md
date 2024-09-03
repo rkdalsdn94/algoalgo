@@ -771,6 +771,7 @@
 | [DNA 비밀번호 - 12891](https://www.acmicpc.net/problem/12891) | [py](Silver_2/DNA_비밀번호_12891.py) |
 | [Angry Cows Bronze - 11977](https://www.acmicpc.net/problem/11977) | [py](Silver_2/Angry_Cows_Bronze_11977.py) |
 | [다음 다양한 단어 - 16923](https://www.acmicpc.net/problem/16923) | [py](Silver_2/다음_다양한_단어_16923.py) |
+| [패턴 - 17300](https://www.acmicpc.net/problem/17300) | [py](Silver_2/패턴_17300.py) |
 
 ## Silver 1
 | 문제 | 코드 (python) | 코드 (javascript)|
