@@ -913,6 +913,7 @@
 | [신을 모시는 사당 - 27210](https://www.acmicpc.net/problem/27210) | [py](Gold_5/신을_모시는_사당_27210.py) |
 | [빗물 - 14719](https://www.acmicpc.net/problem/14719) | [py](Gold_5/빗물_14719.py) |
 | [공약수 - 2436](https://www.acmicpc.net/problem/2436) | [py](Gold_5/공약수_2436.py) |
+| [대회 개최 - 12915](https://www.acmicpc.net/problem/12915) | [py](Gold_5/대회_개최_12915.py) |
 
 ## Gold 4
 | 문제 | 코드 (python) | 코드 (javascript)|
