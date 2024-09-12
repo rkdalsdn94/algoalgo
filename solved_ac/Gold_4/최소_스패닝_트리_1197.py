@@ -1,5 +1,9 @@
+# 백준 - 골드4 - 최소 스패닝 트리 - 1197 - 그래프, 최소 스패닝 트리, 크루스칼 문제
 '''
 그래프, 최소 스패닝 트리, 크루스칼 문제
+
+2024.09.06 재채점 결과 런타임 에러(RecursionError)가 발생
+  - 재귀 깊이(sys.setrecursionlimit) 설정해서 해결
 
 최소 신장 트리 문제이다. 최소 신장 트리에 관한 사전 지식이 있으면 쉽게 풀 수 있다.
 최소 신장 트리를 구하는 알고리즘으로 대표적인 2가지가 있는데, 그 중 하나인 크루스칼 알고리즘을 이용해서 풀었다.
@@ -16,6 +20,7 @@ Union-Find 알고리즘을 좀 더 효율적으로 사용하기 위해
 '''
 
 import sys; input = sys.stdin.readline
+sys.setrecursionlimit(10 ** 6)
 
 v, e = map(int, input().split())
 vertices = [ i for i in range(v + 1) ]
