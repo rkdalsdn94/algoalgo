@@ -669,6 +669,7 @@
 | [교수가 된 현우 - 3474](https://www.acmicpc.net/problem/3474) | [py](Silver_3/교수가_된_현우_3474.py) |
 | [초콜릿과 ㄱ나이트 게임_Sweet - 31459](https://www.acmicpc.net/problem/31459) | [py](Silver_3/초콜릿과_ㄱ나이트_게임_Sweet_31459.py) |
 | [달팽이 - 1913](https://www.acmicpc.net/problem/1913) | [py](Silver_3/달팽이_1913.py) |
+| [13일의 금요일 - 16463](https://www.acmicpc.net/problem/16463) | [py](Silver_3/13일의_금요일_16463.py) |
 
 ## Silver 2
 | 문제 | 코드 (python) | 코드 (javascript)|
