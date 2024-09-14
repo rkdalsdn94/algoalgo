@@ -169,6 +169,7 @@
 | [Aromatic Numbers - 6769](https://www.acmicpc.net/problem/6769) | [py](bronze_2/Aromatic_Numbers_6769.py) |
 | [Mad Scientist - 4580](https://www.acmicpc.net/problem/4580) | [py](bronze_2/Mad_Scientist_4580.py) |
 | [Bookings - 7598](https://www.acmicpc.net/problem/7598) | [py](bronze_2/Bookings_7598.py) |
+| [Cryptoquote - 2703](https://www.acmicpc.net/problem/2703) | [py](bronze_2/Cryptoquote_2703.py) |
 
 ## Bronze 1
 | 문제 | 코드 (python) | 코드 (javascript)|
