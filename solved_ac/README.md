@@ -917,6 +917,7 @@
 | [빗물 - 14719](https://www.acmicpc.net/problem/14719) | [py](Gold_5/빗물_14719.py) |
 | [공약수 - 2436](https://www.acmicpc.net/problem/2436) | [py](Gold_5/공약수_2436.py) |
 | [대회 개최 - 12915](https://www.acmicpc.net/problem/12915) | [py](Gold_5/대회_개최_12915.py) |
+| [도넛 행성 - 27211](https://www.acmicpc.net/problem/27211) | [py](Gold_5/도넛_행성_27211.py) |
 
 ## Gold 4
 | 문제 | 코드 (python) | 코드 (javascript)|
