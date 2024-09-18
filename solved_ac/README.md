@@ -427,6 +427,7 @@
 | [행복한 전화 통화 - 3863](https://www.acmicpc.net/problem/3863) | [py](Silver_5/행복한_전화_통화_3863.py) |
 | [D Day - 1308](https://www.acmicpc.net/problem/1308) | [py](Silver_5/D_Day_1308.py) |
 | [아무래도이문제는A번난이도인것같다 - 1402](https://www.acmicpc.net/problem/1402) | [py](Silver_5/아무래도이문제는A번난이도인것같다_1402.py) |
+| [Ancient Cipher - 7386](https://www.acmicpc.net/problem/7386) | [py](Silver_5/Ancient_Cipher_7386.py) |
 
 ## Silver 4
 | 문제 | 코드 (python) | 코드 (javascript)|
