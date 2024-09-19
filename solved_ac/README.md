@@ -549,6 +549,7 @@
 | [참가자 명단 - 23056](https://www.acmicpc.net/problem/23056) | [py](Silver_4/참가자_명단_23056.py) |
 | [Fishmongers - 17906](https://www.acmicpc.net/problem/17906) | [py](Silver_4/Fishmongers_17906.py) |
 | [Social Distancing II - 18881](https://www.acmicpc.net/problem/18881) | [py](Silver_4/Social_Distancing_II_18881.py) |
+| [3D Printing - 25089](https://www.acmicpc.net/problem/25089) | [py](Silver_4/3D_Printing_25089.py) |
 
 ## Silver 3
 | 문제 | 코드 (python) | 코드 (javascript)|
