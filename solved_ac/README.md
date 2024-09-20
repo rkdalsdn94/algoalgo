@@ -293,6 +293,7 @@
 | [가위 바위 보 - 2930](https://www.acmicpc.net/problem/2930) | [py](bronze_1/가위_바위_보_2930.py) |
 | [Frodo Sequence - 5346](https://www.acmicpc.net/problem/5346) | [py](bronze_1/Frodo_Sequence_5346.py) |
 | [여름나기 - 18130](https://www.acmicpc.net/problem/18130) | [py](bronze_1/여름나기_18130.py) |
+| [Historical TV Remote Control - 25871](https://www.acmicpc.net/problem/25871) | [py](bronze_1/Historical_TV_Remote_Control_25871.py) |
 
 ## Silver 5
 | 문제 | 코드 (python) | 코드 (javascript)|
