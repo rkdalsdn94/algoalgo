@@ -294,6 +294,7 @@
 | [Frodo Sequence - 5346](https://www.acmicpc.net/problem/5346) | [py](bronze_1/Frodo_Sequence_5346.py) |
 | [여름나기 - 18130](https://www.acmicpc.net/problem/18130) | [py](bronze_1/여름나기_18130.py) |
 | [Historical TV Remote Control - 25871](https://www.acmicpc.net/problem/25871) | [py](bronze_1/Historical_TV_Remote_Control_25871.py) |
+| [차량 번호판 1 - 16968](https://www.acmicpc.net/problem/16968) | [py](bronze_1/차량_번호판_1_16968.py) |
 
 ## Silver 5
 | 문제 | 코드 (python) | 코드 (javascript)|
