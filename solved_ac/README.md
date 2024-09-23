@@ -785,6 +785,7 @@
 | [패턴 - 17300](https://www.acmicpc.net/problem/17300) | [py](Silver_2/패턴_17300.py) |
 | [Hungry Cows - 6193](https://www.acmicpc.net/problem/6193) | [py](Silver_2/Hungry_Cows_6193.py) |
 | [알고리즘 수업 너비 우선 탐색 4 - 24447](https://www.acmicpc.net/problem/24447) | [py](Silver_2/알고리즘_수업_너비_우선_탐색_4_24447.py) |
+| [영일랜드 - 31871](https://www.acmicpc.net/problem/31871) | [py](Silver_2/영일랜드_31871.py) |
 
 ## Silver 1
 | 문제 | 코드 (python) | 코드 (javascript)|
