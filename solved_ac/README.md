@@ -786,6 +786,7 @@
 | [Hungry Cows - 6193](https://www.acmicpc.net/problem/6193) | [py](Silver_2/Hungry_Cows_6193.py) |
 | [알고리즘 수업 너비 우선 탐색 4 - 24447](https://www.acmicpc.net/problem/24447) | [py](Silver_2/알고리즘_수업_너비_우선_탐색_4_24447.py) |
 | [영일랜드 - 31871](https://www.acmicpc.net/problem/31871) | [py](Silver_2/영일랜드_31871.py) |
+| [집합 숫자 표기법 - 4848](https://www.acmicpc.net/problem/4848) | [py](Silver_2/집합_숫자_표기법_4848.py) |
 
 ## Silver 1
 | 문제 | 코드 (python) | 코드 (javascript)|
