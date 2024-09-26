@@ -170,6 +170,7 @@
 | [Mad Scientist - 4580](https://www.acmicpc.net/problem/4580) | [py](bronze_2/Mad_Scientist_4580.py) |
 | [Bookings - 7598](https://www.acmicpc.net/problem/7598) | [py](bronze_2/Bookings_7598.py) |
 | [Cryptoquote - 2703](https://www.acmicpc.net/problem/2703) | [py](bronze_2/Cryptoquote_2703.py) |
+| [Ragaman - 14043](https://www.acmicpc.net/problem/14043) | [py](bronze_2/Ragaman_14043.py) |
 
 ## Bronze 1
 | 문제 | 코드 (python) | 코드 (javascript)|
