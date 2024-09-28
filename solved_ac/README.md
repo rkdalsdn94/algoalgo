@@ -171,6 +171,7 @@
 | [Bookings - 7598](https://www.acmicpc.net/problem/7598) | [py](bronze_2/Bookings_7598.py) |
 | [Cryptoquote - 2703](https://www.acmicpc.net/problem/2703) | [py](bronze_2/Cryptoquote_2703.py) |
 | [Ragaman - 14043](https://www.acmicpc.net/problem/14043) | [py](bronze_2/Ragaman_14043.py) |
+| [A Game Called Mind - 25850](https://www.acmicpc.net/problem/25850) | [py](bronze_2/A_Game_Called_Mind_25850.py) |
 
 ## Bronze 1
 | 문제 | 코드 (python) | 코드 (javascript)|
