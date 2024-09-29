@@ -679,6 +679,7 @@
 | [달팽이 - 1913](https://www.acmicpc.net/problem/1913) | [py](Silver_3/달팽이_1913.py) |
 | [13일의 금요일 - 16463](https://www.acmicpc.net/problem/16463) | [py](Silver_3/13일의_금요일_16463.py) |
 | [Robot in a Maze - 9311](https://www.acmicpc.net/problem/9311) | [py](Silver_3/Robot_in_a_Maze_9311.py) |
+| [ZigZag - 15323](https://www.acmicpc.net/problem/15323) | [py](Silver_3/ZigZag_15323.py) |
 
 ## Silver 2
 | 문제 | 코드 (python) | 코드 (javascript)|
