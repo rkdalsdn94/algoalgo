@@ -298,6 +298,7 @@
 | [Historical TV Remote Control - 25871](https://www.acmicpc.net/problem/25871) | [py](bronze_1/Historical_TV_Remote_Control_25871.py) |
 | [차량 번호판 1 - 16968](https://www.acmicpc.net/problem/16968) | [py](bronze_1/차량_번호판_1_16968.py) |
 | [뚊 - 11383](https://www.acmicpc.net/problem/11383) | [py](bronze_1/뚊_11383.py) |
+| [Favorite Number - 10570](https://www.acmicpc.net/problem/10570) | [py](bronze_1/Favorite_Number_10570.py) |
 
 ## Silver 5
 | 문제 | 코드 (python) | 코드 (javascript)|
