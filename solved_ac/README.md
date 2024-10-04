@@ -299,6 +299,7 @@
 | [차량 번호판 1 - 16968](https://www.acmicpc.net/problem/16968) | [py](bronze_1/차량_번호판_1_16968.py) |
 | [뚊 - 11383](https://www.acmicpc.net/problem/11383) | [py](bronze_1/뚊_11383.py) |
 | [Favorite Number - 10570](https://www.acmicpc.net/problem/10570) | [py](bronze_1/Favorite_Number_10570.py) |
+| [Flipper - 17013](https://www.acmicpc.net/problem/17013) | [py](bronze_1/Flipper_17013.py) |
 
 ## Silver 5
 | 문제 | 코드 (python) | 코드 (javascript)|
