@@ -684,6 +684,7 @@
 | [13일의 금요일 - 16463](https://www.acmicpc.net/problem/16463) | [py](Silver_3/13일의_금요일_16463.py) |
 | [Robot in a Maze - 9311](https://www.acmicpc.net/problem/9311) | [py](Silver_3/Robot_in_a_Maze_9311.py) |
 | [ZigZag - 15323](https://www.acmicpc.net/problem/15323) | [py](Silver_3/ZigZag_15323.py) |
+| [가희와 키워드 - 22233](https://www.acmicpc.net/problem/22233) | [py](Silver_3/가희와_키워드_22233.py) |
 
 ## Silver 2
 | 문제 | 코드 (python) | 코드 (javascript)|
