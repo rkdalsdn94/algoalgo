@@ -301,6 +301,7 @@
 | [Favorite Number - 10570](https://www.acmicpc.net/problem/10570) | [py](bronze_1/Favorite_Number_10570.py) |
 | [Flipper - 17013](https://www.acmicpc.net/problem/17013) | [py](bronze_1/Flipper_17013.py) |
 | [PlayStation이 아니에요 - 32132](https://www.acmicpc.net/problem/32132) | [py](bronze_1/PlayStation이_아니에요_32132.py) |
+| [FizzBuzz - 28702](https://www.acmicpc.net/problem/28702) | [py](bronze_1/FizzBuzz_28702.py) |
 
 ## Silver 5
 | 문제 | 코드 (python) | 코드 (javascript)|
