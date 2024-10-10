@@ -302,6 +302,7 @@
 | [Flipper - 17013](https://www.acmicpc.net/problem/17013) | [py](bronze_1/Flipper_17013.py) |
 | [PlayStation이 아니에요 - 32132](https://www.acmicpc.net/problem/32132) | [py](bronze_1/PlayStation이_아니에요_32132.py) |
 | [FizzBuzz - 28702](https://www.acmicpc.net/problem/28702) | [py](bronze_1/FizzBuzz_28702.py) |
+| [콘도 선정 - 2246](https://www.acmicpc.net/problem/2246) | [py](bronze_1/콘도_선정_2246.py) |
 
 ## Silver 5
 | 문제 | 코드 (python) | 코드 (javascript)|
