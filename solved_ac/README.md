@@ -172,6 +172,7 @@
 | [Cryptoquote - 2703](https://www.acmicpc.net/problem/2703) | [py](bronze_2/Cryptoquote_2703.py) |
 | [Ragaman - 14043](https://www.acmicpc.net/problem/14043) | [py](bronze_2/Ragaman_14043.py) |
 | [A Game Called Mind - 25850](https://www.acmicpc.net/problem/25850) | [py](bronze_2/A_Game_Called_Mind_25850.py) |
+| [유학 금지 - 2789](https://www.acmicpc.net/problem/2789) | [py](bronze_2/유학_금지_2789.py) |
 
 ## Bronze 1
 | 문제 | 코드 (python) | 코드 (javascript)|
