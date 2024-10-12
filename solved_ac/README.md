@@ -889,6 +889,7 @@
 | [경비원 - 2564](https://www.acmicpc.net/problem/2564) | [py](Silver_1/경비원_2564.py) |
 | [보석 상자 - 2792](https://www.acmicpc.net/problem/2792) | [py](Silver_1/보석_상자_2792.py) |
 | [BOJ 거리 - 12026](https://www.acmicpc.net/problem/12026) | [py](Silver_1/BOJ_거리_12026.py) |
+| [어두운 건 무서워 - 16507](https://www.acmicpc.net/problem/16507) | [py](Silver_1/어두운_건_무서워_16507.py) |
 
 ## Gold 5
 | 문제 | 코드 (python) | 코드 (javascript)|
