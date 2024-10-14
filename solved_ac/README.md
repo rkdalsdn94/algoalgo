@@ -563,6 +563,7 @@
 | [Fishmongers - 17906](https://www.acmicpc.net/problem/17906) | [py](Silver_4/Fishmongers_17906.py) |
 | [Social Distancing II - 18881](https://www.acmicpc.net/problem/18881) | [py](Silver_4/Social_Distancing_II_18881.py) |
 | [3D Printing - 25089](https://www.acmicpc.net/problem/25089) | [py](Silver_4/3D_Printing_25089.py) |
+| [한윤정이 이탈리아에 가서 아이스크림을 사먹는데 - 2422](https://www.acmicpc.net/problem/2422) | [py](Silver_4/한윤정이_이탈리아에_가서_아이스크림을_사먹는데_2422.py) |
 
 ## Silver 3
 | 문제 | 코드 (python) | 코드 (javascript)|
