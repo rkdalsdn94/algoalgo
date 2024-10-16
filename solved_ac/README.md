@@ -174,6 +174,7 @@
 | [A Game Called Mind - 25850](https://www.acmicpc.net/problem/25850) | [py](bronze_2/A_Game_Called_Mind_25850.py) |
 | [유학 금지 - 2789](https://www.acmicpc.net/problem/2789) | [py](bronze_2/유학_금지_2789.py) |
 | [첼시를 도와줘 - 11098](https://www.acmicpc.net/problem/11098) | [py](bronze_2/첼시를_도와줘_11098.py) |
+| [끝말잇기 - 20528](https://www.acmicpc.net/problem/20528) | [py](bronze_2/끝말잇기_20528.py) |
 
 ## Bronze 1
 | 문제 | 코드 (python) | 코드 (javascript)|
