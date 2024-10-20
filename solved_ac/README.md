@@ -809,6 +809,7 @@
 | [영일랜드 - 31871](https://www.acmicpc.net/problem/31871) | [py](Silver_2/영일랜드_31871.py) |
 | [집합 숫자 표기법 - 4848](https://www.acmicpc.net/problem/4848) | [py](Silver_2/집합_숫자_표기법_4848.py) |
 | [골드바흐 파티션 - 17103](https://www.acmicpc.net/problem/17103) | [py](Silver_2/골드바흐_파티션_17103.py) |
+| [F7 - 2790](https://www.acmicpc.net/problem/2790) | [py](Silver_2/F7_2790.py) |
 
 ## Silver 1
 | 문제 | 코드 (python) | 코드 (javascript)|
