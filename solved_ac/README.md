@@ -176,6 +176,7 @@
 | [첼시를 도와줘 - 11098](https://www.acmicpc.net/problem/11098) | [py](bronze_2/첼시를_도와줘_11098.py) |
 | [끝말잇기 - 20528](https://www.acmicpc.net/problem/20528) | [py](bronze_2/끝말잇기_20528.py) |
 | [럭키 스트레이트 - 18406](https://www.acmicpc.net/problem/18406) | [py](bronze_2/럭키_스트레이트_18406.py) |
+| [3000번 버스 - 9546](https://www.acmicpc.net/problem/9546) | [py](bronze_2/3000번_버스_9546.py) |
 
 ## Bronze 1
 | 문제 | 코드 (python) | 코드 (javascript)|
