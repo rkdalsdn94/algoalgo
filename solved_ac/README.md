@@ -573,6 +573,7 @@
 | [3D Printing - 25089](https://www.acmicpc.net/problem/25089) | [py](Silver_4/3D_Printing_25089.py) |
 | [한윤정이 이탈리아에 가서 아이스크림을 사먹는데 - 2422](https://www.acmicpc.net/problem/2422) | [py](Silver_4/한윤정이_이탈리아에_가서_아이스크림을_사먹는데_2422.py) |
 | [Router - 15828](https://www.acmicpc.net/problem/15828) | [py](Silver_4/Router_15828.py) |
+| [외계 침략자 윤이 - 26123](https://www.acmicpc.net/problem/26123) | [py](Silver_4/외계_침략자_윤이_26123.py) |
 
 ## Silver 3
 | 문제 | 코드 (python) | 코드 (javascript)|
