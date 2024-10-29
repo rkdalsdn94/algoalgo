@@ -905,6 +905,7 @@
 | [BOJ 거리 - 12026](https://www.acmicpc.net/problem/12026) | [py](Silver_1/BOJ_거리_12026.py) |
 | [어두운 건 무서워 - 16507](https://www.acmicpc.net/problem/16507) | [py](Silver_1/어두운_건_무서워_16507.py) |
 | [금공강 사수 - 27375](https://www.acmicpc.net/problem/27375) | [py](Silver_1/금공강_사수_27375.py) |
+| [문자열 교환 - 1522](https://www.acmicpc.net/problem/1522) | [py](Silver_1/문자열_교환_1522.py) |
 
 ## Gold 5
 | 문제 | 코드 (python) | 코드 (javascript)|
