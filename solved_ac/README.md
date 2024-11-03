@@ -314,6 +314,7 @@
 | [리그 - 5544](https://www.acmicpc.net/problem/5544) | [py](bronze_1/리그_5544.py) |
 | [이제는 더 이상 물러날 곳이 없다 - 30455](https://www.acmicpc.net/problem/30455) | [py](bronze_1/이제는_더_이상_물러날_곳이_없다_30455.py) |
 | [Text Roll - 9494](https://www.acmicpc.net/problem/9494) | [py](bronze_1/Text_Roll_9494.py) |
+| [다오의 경주 대회 - 31067](https://www.acmicpc.net/problem/31067) | [py](bronze_1/다오의_경주_대회_31067.py) |
 
 ## Silver 5
 | 문제 | 코드 (python) | 코드 (javascript)|
