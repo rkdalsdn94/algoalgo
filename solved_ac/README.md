@@ -578,6 +578,7 @@
 | [Router - 15828](https://www.acmicpc.net/problem/15828) | [py](Silver_4/Router_15828.py) |
 | [외계 침략자 윤이 - 26123](https://www.acmicpc.net/problem/26123) | [py](Silver_4/외계_침략자_윤이_26123.py) |
 | [GCD - 9770](https://www.acmicpc.net/problem/9770) | [py](Silver_4/GCD_9770.py) |
+| [쿠키의 신체 측정 - 20125](https://www.acmicpc.net/problem/20125) | [py](Silver_4/쿠키의_신체_측정_20125.py) |
 
 ## Silver 3
 | 문제 | 코드 (python) | 코드 (javascript)|
