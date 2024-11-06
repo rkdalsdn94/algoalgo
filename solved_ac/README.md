@@ -179,6 +179,7 @@
 | [3000번 버스 - 9546](https://www.acmicpc.net/problem/9546) | [py](bronze_2/3000번_버스_9546.py) |
 | [Affine Cipher - 11575](https://www.acmicpc.net/problem/11575) | [py](bronze_2/Affine_Cipher_11575.py) |
 | [진법 변환 - 2745](https://www.acmicpc.net/problem/2745) | [py](bronze_2/진법_변환_2745.py) |
+| [초콜릿 중독 주의 - 31458](https://www.acmicpc.net/problem/31458) | [py](bronze_2/초콜릿_중독_주의_31458.py) |
 
 ## Bronze 1
 | 문제 | 코드 (python) | 코드 (javascript)|
