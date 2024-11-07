@@ -453,6 +453,7 @@
 | [Ancient Cipher - 7386](https://www.acmicpc.net/problem/7386) | [py](Silver_5/Ancient_Cipher_7386.py) |
 | [지뢰찾기 - 4108](https://www.acmicpc.net/problem/4108) | [py](Silver_5/지뢰찾기_4108.py) |
 | [Bovine Ballroom Dancing - 27035](https://www.acmicpc.net/problem/27035) | [py](Silver_5/Bovine_Ballroom_Dancing_27035.py) |
+| [이름궁합 테스트 - 17269](https://www.acmicpc.net/problem/17269) | [py](Silver_5/이름궁합_테스트_17269.py) |
 
 ## Silver 4
 | 문제 | 코드 (python) | 코드 (javascript)|
