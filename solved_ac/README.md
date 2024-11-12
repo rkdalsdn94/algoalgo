@@ -318,6 +318,7 @@
 | [Text Roll - 9494](https://www.acmicpc.net/problem/9494) | [py](bronze_1/Text_Roll_9494.py) |
 | [다오의 경주 대회 - 31067](https://www.acmicpc.net/problem/31067) | [py](bronze_1/다오의_경주_대회_31067.py) |
 | [주디와 당근농장 - 16433](https://www.acmicpc.net/problem/16433) | [py](bronze_1/주디와_당근농장_16433.py) |
+| [접두사 배열 - 13322](https://www.acmicpc.net/problem/13322) | [py](bronze_1/접두사_배열_13322.py) |
 
 ## Silver 5
 | 문제 | 코드 (python) | 코드 (javascript)|
