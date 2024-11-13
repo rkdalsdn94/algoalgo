@@ -975,6 +975,7 @@
 | [와드 - 23747](https://www.acmicpc.net/problem/23747) | [py](Gold_5/와드_23747.py) |
 | [이 얼마나 끔찍하고 무시무시한 수식이니 - 23629](https://www.acmicpc.net/problem/23629) | [py](Gold_5/이_얼마나_끔찍하고_무시무시한_수식이니_23629.py) |
 | [춘배가 선물하는 특별한 하트 - 30408](https://www.acmicpc.net/problem/30408) | [py](Gold_5/춘배가_선물하는_특별한_하트_30408.py) |
+| [가로등 - 17430](https://www.acmicpc.net/problem/17430) | [py](Gold_5/가로등_17430.py) |
 
 ## Gold 4
 | 문제 | 코드 (python) | 코드 (javascript)|
