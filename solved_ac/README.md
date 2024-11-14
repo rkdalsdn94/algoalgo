@@ -919,6 +919,7 @@
 | [금공강 사수 - 27375](https://www.acmicpc.net/problem/27375) | [py](Silver_1/금공강_사수_27375.py) |
 | [문자열 교환 - 1522](https://www.acmicpc.net/problem/1522) | [py](Silver_1/문자열_교환_1522.py) |
 | [보드 점프 - 3372](https://www.acmicpc.net/problem/3372) | [py](Silver_1/보드_점프_3372.py) |
+| [죽음의 등굣길 - 31946](https://www.acmicpc.net/problem/31946) | [py](Silver_1/죽음의_등굣길_31946.py) |
 
 ## Gold 5
 | 문제 | 코드 (python) | 코드 (javascript)|
