@@ -1049,6 +1049,7 @@
 | [DFS 스페셜 저지 - 16964](https://www.acmicpc.net/problem/16964) | [py](Gold_3/DFS_스페셜_저지_16964.py) |
 | [웜홀 - 1865](https://www.acmicpc.net/problem/1865) | [py](Gold_3/웜홀_1865.py) |
 | [세 용액 - 2473](https://www.acmicpc.net/problem/2473) | [py](Gold_3/세_용액_2473.py) |
+| [감시 - 15683](https://www.acmicpc.net/problem/15683) | [py](Gold_3/감시_15683.py) |
 
 ## Gold 2
 | 문제 | 코드 (python) | 코드 (javascript)|
