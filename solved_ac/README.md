@@ -460,6 +460,7 @@
 | [이름궁합 테스트 - 17269](https://www.acmicpc.net/problem/17269) | [py](Silver_5/이름궁합_테스트_17269.py) |
 | [팬그램 - 10384](https://www.acmicpc.net/problem/10384) | [py](Silver_5/팬그램_10384.py) |
 | [지뢰 찾기 - 1996](https://www.acmicpc.net/problem/1996) | [py](Silver_5/지뢰_찾기_1996.py) |
+| [속도 위반 - 11971](https://www.acmicpc.net/problem/11971) | [py](Silver_5/속도_위반_11971.py) |
 
 ## Silver 4
 | 문제 | 코드 (python) | 코드 (javascript)|
