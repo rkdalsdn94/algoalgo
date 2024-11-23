@@ -320,6 +320,7 @@
 | [주디와 당근농장 - 16433](https://www.acmicpc.net/problem/16433) | [py](bronze_1/주디와_당근농장_16433.py) |
 | [접두사 배열 - 13322](https://www.acmicpc.net/problem/13322) | [py](bronze_1/접두사_배열_13322.py) |
 | [Encrypted SMS - 6260](https://www.acmicpc.net/problem/6260) | [py](bronze_1/Encrypted_SMS_6260.py) |
+| [N 퍼즐 - 3041](https://www.acmicpc.net/problem/3041) | [py](bronze_1/N_퍼즐_3041.py) |
 
 ## Silver 5
 | 문제 | 코드 (python) | 코드 (javascript)|
