@@ -1032,6 +1032,7 @@
 | [도시 분할 계획 - 1647](https://www.acmicpc.net/problem/1647) | [py](Gold_4/도시_분할_계획_1647.py) |
 | [도서관 - 1461](https://www.acmicpc.net/problem/1461) | [py](Gold_4/도서관_1461.py) |
 | [서강그라운드 - 14938](https://www.acmicpc.net/problem/14938) | [py](Gold_4/서강그라운드_14938.py) |
+| [RGB거리 2 - 17404](https://www.acmicpc.net/problem/17404) | [py](Gold_4/RGB거리_2_17404.py) |
 
 ## Gold 3
 | 문제 | 코드 (python) | 코드 (javascript)|
