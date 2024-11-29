@@ -464,6 +464,7 @@
 | [지뢰 찾기 - 1996](https://www.acmicpc.net/problem/1996) | [py](Silver_5/지뢰_찾기_1996.py) |
 | [속도 위반 - 11971](https://www.acmicpc.net/problem/11971) | [py](Silver_5/속도_위반_11971.py) |
 | [카약 - 2890](https://www.acmicpc.net/problem/2890) | [py](Silver_5/카약_2890.py) |
+| [과일노리 - 14493](https://www.acmicpc.net/problem/14493) | [py](Silver_5/과일노리_14493.py) |
 
 ## Silver 4
 | 문제 | 코드 (python) | 코드 (javascript)|
