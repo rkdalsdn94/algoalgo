@@ -929,6 +929,7 @@
 | [문자열 교환 - 1522](https://www.acmicpc.net/problem/1522) | [py](Silver_1/문자열_교환_1522.py) |
 | [보드 점프 - 3372](https://www.acmicpc.net/problem/3372) | [py](Silver_1/보드_점프_3372.py) |
 | [죽음의 등굣길 - 31946](https://www.acmicpc.net/problem/31946) | [py](Silver_1/죽음의_등굣길_31946.py) |
+| [현이의 로봇 청소기 - 30106](https://www.acmicpc.net/problem/30106) | [py](Silver_1/현이의_로봇_청소기_30106.py) |
 
 ## Gold 5
 | 문제 | 코드 (python) | 코드 (javascript)|
