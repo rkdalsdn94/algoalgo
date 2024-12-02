@@ -837,6 +837,7 @@
 | [F7 - 2790](https://www.acmicpc.net/problem/2790) | [py](Silver_2/F7_2790.py) |
 | [Bottleneck Travelling Salesman Problem (Small) - 24512](https://www.acmicpc.net/problem/24512) | [py](Silver_2/Bottleneck_Travelling_Salesman_Problem_Small_24512.py) |
 | [과일 탕후루 - 30804](https://www.acmicpc.net/problem/30804) | [py](Silver_2/과일_탕후루_30804.py) |
+| [미로 만들기 - 1347](https://www.acmicpc.net/problem/1347) | [py](Silver_2/미로_만들기_1347.py) |
 
 ## Silver 1
 | 문제 | 코드 (python) | 코드 (javascript)|
