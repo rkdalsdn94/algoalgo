@@ -594,6 +594,7 @@
 | [GCD - 9770](https://www.acmicpc.net/problem/9770) | [py](Silver_4/GCD_9770.py) |
 | [쿠키의 신체 측정 - 20125](https://www.acmicpc.net/problem/20125) | [py](Silver_4/쿠키의_신체_측정_20125.py) |
 | [카드 - 1835](https://www.acmicpc.net/problem/1835) | [py](Silver_4/카드_1835.py) |
+| [Maximum Word Frequency - 9612](https://www.acmicpc.net/problem/9612) | [py](Silver_4/Maximum_Word_Frequency_9612.py) |
 
 ## Silver 3
 | 문제 | 코드 (python) | 코드 (javascript)|
