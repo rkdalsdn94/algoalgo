@@ -725,6 +725,7 @@
 | [가희와 키워드 - 22233](https://www.acmicpc.net/problem/22233) | [py](Silver_3/가희와_키워드_22233.py) |
 | [교수님의 기말고사 - 20126](https://www.acmicpc.net/problem/20126) | [py](Silver_3/교수님의_기말고사_20126.py) |
 | [활자 - 1951](https://www.acmicpc.net/problem/1951) | [py](Silver_3/활자_1951.py) |
+| [Anagram - 25099](https://www.acmicpc.net/problem/25099) | [py](Silver_3/Anagram_25099.py) |
 
 ## Silver 2
 | 문제 | 코드 (python) | 코드 (javascript)|
