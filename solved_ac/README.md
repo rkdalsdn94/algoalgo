@@ -324,6 +324,7 @@
 | [N 퍼즐 - 3041](https://www.acmicpc.net/problem/3041) | [py](bronze_1/N_퍼즐_3041.py) |
 | [색종이 - 10163](https://www.acmicpc.net/problem/10163) | [py](bronze_1/색종이_10163.py) |
 | [알고리즘 수업 버블 정렬 1 - 23968](https://www.acmicpc.net/problem/23968) | [py](bronze_1/알고리즘_수업_버블_정렬_1_23968.py) |
+| [마라토너 - 9339](https://www.acmicpc.net/problem/9339) | [py](bronze_1/마라토너_9339.py) |
 
 ## Silver 5
 | 문제 | 코드 (python) | 코드 (javascript)|
