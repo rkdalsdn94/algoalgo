@@ -470,6 +470,7 @@
 | [과일노리 - 14493](https://www.acmicpc.net/problem/14493) | [py](Silver_5/과일노리_14493.py) |
 | [배찬우는 배열을 좋아해 - 25966](https://www.acmicpc.net/problem/25966) | [py](Silver_5/배찬우는_배열을_좋아해_25966.py) |
 | [브실이의 입시전략 - 29723](https://www.acmicpc.net/problem/29723) | [py](Silver_5/브실이의_입시전략_29723.py) |
+| [공포의 면담실 - 30088](https://www.acmicpc.net/problem/30088) | [py](Silver_5/공포의_면담실_30088.py) |
 
 ## Silver 4
 | 문제 | 코드 (python) | 코드 (javascript)|
