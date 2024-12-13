@@ -325,6 +325,7 @@
 | [색종이 - 10163](https://www.acmicpc.net/problem/10163) | [py](bronze_1/색종이_10163.py) |
 | [알고리즘 수업 버블 정렬 1 - 23968](https://www.acmicpc.net/problem/23968) | [py](bronze_1/알고리즘_수업_버블_정렬_1_23968.py) |
 | [마라토너 - 9339](https://www.acmicpc.net/problem/9339) | [py](bronze_1/마라토너_9339.py) |
+| [배고파 Easy - 28239](https://www.acmicpc.net/problem/28239) | [py](bronze_1/배고파_Easy_28239.py) |
 
 ## Silver 5
 | 문제 | 코드 (python) | 코드 (javascript)|
