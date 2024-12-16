@@ -182,6 +182,7 @@
 | [초콜릿 중독 주의 - 31458](https://www.acmicpc.net/problem/31458) | [py](bronze_2/초콜릿_중독_주의_31458.py) |
 | [팬그램 - 5704](https://www.acmicpc.net/problem/5704) | [py](bronze_2/팬그램_5704.py) |
 | [보물 지도 - 29332](https://www.acmicpc.net/problem/29332) | [py](bronze_2/보물_지도_29332.py) |
+| [Strfry - 11328](https://www.acmicpc.net/problem/11328) | [py](bronze_2/Strfry_11328.py) |
 
 ## Bronze 1
 | 문제 | 코드 (python) | 코드 (javascript)|
