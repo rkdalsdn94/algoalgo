@@ -329,6 +329,7 @@
 | [마라토너 - 9339](https://www.acmicpc.net/problem/9339) | [py](bronze_1/마라토너_9339.py) |
 | [배고파 Easy - 28239](https://www.acmicpc.net/problem/28239) | [py](bronze_1/배고파_Easy_28239.py) |
 | [Investing at the Market Small - 12539](https://www.acmicpc.net/problem/12539) | [py](bronze_1/Investing_at_the_Market_Small_12539.py) |
+| [Currency Exchange - 7361](https://www.acmicpc.net/problem/7361) | [py](bronze_1/Currency_Exchange_7361.py) |
 
 ## Silver 5
 | 문제 | 코드 (python) | 코드 (javascript)|
