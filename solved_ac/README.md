@@ -606,6 +606,7 @@
 | [카드 - 1835](https://www.acmicpc.net/problem/1835) | [py](Silver_4/카드_1835.py) |
 | [Maximum Word Frequency - 9612](https://www.acmicpc.net/problem/9612) | [py](Silver_4/Maximum_Word_Frequency_9612.py) |
 | [String Permutation - 14534](https://www.acmicpc.net/problem/14534) | [py](Silver_4/String_Permutation_14534.py) |
+| [Hexagonal Tiles - 5705](https://www.acmicpc.net/problem/5705) | [py](Silver_4/Hexagonal_Tiles_5705.py) |
 
 ## Silver 3
 | 문제 | 코드 (python) | 코드 (javascript)|
