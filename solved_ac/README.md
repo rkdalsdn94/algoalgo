@@ -855,6 +855,7 @@
 | [과일 탕후루 - 30804](https://www.acmicpc.net/problem/30804) | [py](Silver_2/과일_탕후루_30804.py) |
 | [미로 만들기 - 1347](https://www.acmicpc.net/problem/1347) | [py](Silver_2/미로_만들기_1347.py) |
 | [초콜릿 뺏어 먹기 - 23322](https://www.acmicpc.net/problem/23322) | [py](Silver_2/초콜릿_뺏어_먹기_23322.py) |
+| [Hoof Paper Scissors Silver - 14453](https://www.acmicpc.net/problem/14453) | [py](Silver_2/Hoof_Paper_Scissors_Silver_14453.py) |
 
 ## Silver 1
 | 문제 | 코드 (python) | 코드 (javascript)|
