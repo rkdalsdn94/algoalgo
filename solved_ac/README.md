@@ -949,6 +949,7 @@
 | [보드 점프 - 3372](https://www.acmicpc.net/problem/3372) | [py](Silver_1/보드_점프_3372.py) |
 | [죽음의 등굣길 - 31946](https://www.acmicpc.net/problem/31946) | [py](Silver_1/죽음의_등굣길_31946.py) |
 | [현이의 로봇 청소기 - 30106](https://www.acmicpc.net/problem/30106) | [py](Silver_1/현이의_로봇_청소기_30106.py) |
+| [Error Correction - 6586](https://www.acmicpc.net/problem/6586) | [py](Silver_1/Error_Correction_6586.py) |
 
 ## Gold 5
 | 문제 | 코드 (python) | 코드 (javascript)|
