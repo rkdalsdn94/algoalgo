@@ -1083,6 +1083,7 @@
 | [웜홀 - 1865](https://www.acmicpc.net/problem/1865) | [py](Gold_3/웜홀_1865.py) |
 | [세 용액 - 2473](https://www.acmicpc.net/problem/2473) | [py](Gold_3/세_용액_2473.py) |
 | [감시 - 15683](https://www.acmicpc.net/problem/15683) | [py](Gold_3/감시_15683.py) |
+| [나머지 합 - 10986](https://www.acmicpc.net/problem/10986) | [py](Gold_3/나머지_합_10986.py) |
 
 ## Gold 2
 | 문제 | 코드 (python) | 코드 (javascript)|
