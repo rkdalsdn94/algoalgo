@@ -950,6 +950,7 @@
 | [죽음의 등굣길 - 31946](https://www.acmicpc.net/problem/31946) | [py](Silver_1/죽음의_등굣길_31946.py) |
 | [현이의 로봇 청소기 - 30106](https://www.acmicpc.net/problem/30106) | [py](Silver_1/현이의_로봇_청소기_30106.py) |
 | [Error Correction - 6586](https://www.acmicpc.net/problem/6586) | [py](Silver_1/Error_Correction_6586.py) |
+| [n단 논법 - 15723](https://www.acmicpc.net/problem/15723) | [py](Silver_1/n단_논법_15723.py) |
 
 ## Gold 5
 | 문제 | 코드 (python) | 코드 (javascript)|
