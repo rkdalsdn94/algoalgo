@@ -737,7 +737,8 @@
 | [교수님의 기말고사 - 20126](https://www.acmicpc.net/problem/20126) | [py](Silver_3/교수님의_기말고사_20126.py) |
 | [활자 - 1951](https://www.acmicpc.net/problem/1951) | [py](Silver_3/활자_1951.py) |
 | [Anagram - 25099](https://www.acmicpc.net/problem/25099) | [py](Silver_3/Anagram_25099.py) |
-| 선분 위의 점 - 11663](https://www.acmicpc.net/problem/11663) | [py](Silver_3/선분_위의_점_11663.py) |
+| [선분 위의 점 - 11663](https://www.acmicpc.net/problem/11663) | [py](Silver_3/선분_위의_점_11663.py) |
+| [NBA 농구 - 2852](https://www.acmicpc.net/problem/2852) | [py](Silver_3/NBA_농구_2852.py) |
 
 ## Silver 2
 | 문제 | 코드 (python) | 코드 (javascript)|
