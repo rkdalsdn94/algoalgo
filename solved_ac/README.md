@@ -331,6 +331,7 @@
 | [Investing at the Market Small - 12539](https://www.acmicpc.net/problem/12539) | [py](bronze_1/Investing_at_the_Market_Small_12539.py) |
 | [Currency Exchange - 7361](https://www.acmicpc.net/problem/7361) | [py](bronze_1/Currency_Exchange_7361.py) |
 | [Countdown - 5122](https://www.acmicpc.net/problem/5122) | [py](bronze_1/Countdown_5122.py) |
+| [드랍 더 비트 - 32343](https://www.acmicpc.net/problem/32343) | [py](bronze_1/드랍_더_비트_32343.py) |
 
 ## Silver 5
 | 문제 | 코드 (python) | 코드 (javascript)|
