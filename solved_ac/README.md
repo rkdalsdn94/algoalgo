@@ -332,6 +332,7 @@
 | [Currency Exchange - 7361](https://www.acmicpc.net/problem/7361) | [py](bronze_1/Currency_Exchange_7361.py) |
 | [Countdown - 5122](https://www.acmicpc.net/problem/5122) | [py](bronze_1/Countdown_5122.py) |
 | [드랍 더 비트 - 32343](https://www.acmicpc.net/problem/32343) | [py](bronze_1/드랍_더_비트_32343.py) |
+| [2의 보수 - 24389](https://www.acmicpc.net/problem/24389) | [py](bronze_1/2의_보수_24389.py) |
 
 ## Silver 5
 | 문제 | 코드 (python) | 코드 (javascript)|
