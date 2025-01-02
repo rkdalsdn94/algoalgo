@@ -481,6 +481,7 @@
 | [공포의 면담실 - 30088](https://www.acmicpc.net/problem/30088) | [py](Silver_5/공포의_면담실_30088.py) |
 | [세 부분 - 2993](https://www.acmicpc.net/problem/2993) | [py](Silver_5/세_부분_2993.py) |
 | [소수 - 1312](https://www.acmicpc.net/problem/1312) | [py](Silver_5/소수_1312.py) |
+| [Counting Monuments - 20376](https://www.acmicpc.net/problem/20376) | [py](Silver_5/Counting_Monuments_20376.py) |
 
 ## Silver 4
 | 문제 | 코드 (python) | 코드 (javascript)|
