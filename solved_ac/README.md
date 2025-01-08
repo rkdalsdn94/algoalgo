@@ -747,6 +747,7 @@
 | [Anagram - 25099](https://www.acmicpc.net/problem/25099) | [py](Silver_3/Anagram_25099.py) |
 | [선분 위의 점 - 11663](https://www.acmicpc.net/problem/11663) | [py](Silver_3/선분_위의_점_11663.py) |
 | [NBA 농구 - 2852](https://www.acmicpc.net/problem/2852) | [py](Silver_3/NBA_농구_2852.py) |
+| [Unread Messages - 21149](https://www.acmicpc.net/problem/21149) | [py](Silver_3/Unread_Messages_21149.py) |
 
 ## Silver 2
 | 문제 | 코드 (python) | 코드 (javascript)|
