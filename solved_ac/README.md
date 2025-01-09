@@ -615,6 +615,7 @@
 | [String Permutation - 14534](https://www.acmicpc.net/problem/14534) | [py](Silver_4/String_Permutation_14534.py) |
 | [Hexagonal Tiles - 5705](https://www.acmicpc.net/problem/5705) | [py](Silver_4/Hexagonal_Tiles_5705.py) |
 | [Multi-key Sorting - 3340](https://www.acmicpc.net/problem/3340) | [py](Silver_4/Multi-key_Sorting_3340.py) |
+| [Missing Vowels - 30608](https://www.acmicpc.net/problem/30608) | [py](Silver_4/Missing_Vowels_30608.py) |
 
 ## Silver 3
 | 문제 | 코드 (python) | 코드 (javascript)|
