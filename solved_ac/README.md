@@ -80,6 +80,7 @@
 | [일우는 야바위꾼 - 20361](https://www.acmicpc.net/problem/20361) | [py](bronze_3/일우는_야바위꾼_20361.py) |
 | [약수 구하기 - 2501](https://www.acmicpc.net/problem/2501) | [py](bronze_3/약수_구하기_2501.py) | [js](bronze_3/약수_구하기_2501.js) |
 | [수학적 호기심 - 9094](https://www.acmicpc.net/problem/9094) | [py](bronze_3/수학적_호기심_9094.py) |
+| [Snacks within 300 Yen - 32046](https://www.acmicpc.net/problem/32046) | [py](bronze_3/Snacks_within_300_Yen_32046.py) |
 
 ## Bronze 2
 | 문제 | 코드 (python) | 코드 (javascript)|
