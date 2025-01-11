@@ -185,6 +185,7 @@
 | [보물 지도 - 29332](https://www.acmicpc.net/problem/29332) | [py](bronze_2/보물_지도_29332.py) |
 | [Strfry - 11328](https://www.acmicpc.net/problem/11328) | [py](bronze_2/Strfry_11328.py) |
 | [Run-Length Encoding Run - 16634](https://www.acmicpc.net/problem/16634) | [py](bronze_2/Run-Length_Encoding_Run_16634.py) |
+| [Equal Total Scores - 4968](https://www.acmicpc.net/problem/4968) | [py](bronze_2/Equal_Total_Scores_4968.py) |
 
 ## Bronze 1
 | 문제 | 코드 (python) | 코드 (javascript)|
