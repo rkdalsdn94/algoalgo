@@ -1078,6 +1078,7 @@
 | [RGB거리 2 - 17404](https://www.acmicpc.net/problem/17404) | [py](Gold_4/RGB거리_2_17404.py) |
 | [사전 순 최대 공통 부분 수열 - 30805](https://www.acmicpc.net/problem/30805) | [py](Gold_4/사전_순_최대_공통_부분_수열_30805.py) |
 | [Slurpys - 6493](https://www.acmicpc.net/problem/6493) | [py](Gold_4/Slurpys_6493.py) |
+| [인문예술탐사주간 - 23829](https://www.acmicpc.net/problem/23829) | [py](Gold_4/인문예술탐사주간_23829.py) |
 
 ## Gold 3
 | 문제 | 코드 (python) | 코드 (javascript)|
