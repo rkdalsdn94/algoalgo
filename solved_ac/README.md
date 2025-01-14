@@ -1028,6 +1028,7 @@
 | [개업 - 13910](https://www.acmicpc.net/problem/13910) | [py](Gold_5/개업_13910.py) |
 | [Cow Beauty Pageant - 5931](https://www.acmicpc.net/problem/5931) | [py](Gold_5/Cow_Beauty_Pageant_5931.py) |
 | [빚 - 10427](https://www.acmicpc.net/problem/10427) | [py](Gold_5/빚_10427.py) |
+| [전깃줄 - 2565](https://www.acmicpc.net/problem/2565) | [py](Gold_5/전깃줄_2565.py) |
 
 ## Gold 4
 | 문제 | 코드 (python) | 코드 (javascript)|
