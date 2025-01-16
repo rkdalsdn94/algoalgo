@@ -186,6 +186,7 @@
 | [Strfry - 11328](https://www.acmicpc.net/problem/11328) | [py](bronze_2/Strfry_11328.py) |
 | [Run-Length Encoding Run - 16634](https://www.acmicpc.net/problem/16634) | [py](bronze_2/Run-Length_Encoding_Run_16634.py) |
 | [Equal Total Scores - 4968](https://www.acmicpc.net/problem/4968) | [py](bronze_2/Equal_Total_Scores_4968.py) |
+| [집에선 안돼잉 - 29734](https://www.acmicpc.net/problem/29734) | [py](bronze_2/집에선_안돼잉_29734.py) |
 
 ## Bronze 1
 | 문제 | 코드 (python) | 코드 (javascript)|
