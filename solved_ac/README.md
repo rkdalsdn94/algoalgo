@@ -620,6 +620,7 @@
 | [Multi-key Sorting - 3340](https://www.acmicpc.net/problem/3340) | [py](Silver_4/Multi-key_Sorting_3340.py) |
 | [Missing Vowels - 30608](https://www.acmicpc.net/problem/30608) | [py](Silver_4/Missing_Vowels_30608.py) |
 | [Array of Discord - 21047](https://www.acmicpc.net/problem/21047) | [py](Silver_4/Array_of_Discord_21047.py) |
+| [페이지 세기 - 4821](https://www.acmicpc.net/problem/4821) | [py](Silver_4/페이지_세기_4821.py) |
 
 ## Silver 3
 | 문제 | 코드 (python) | 코드 (javascript)|
