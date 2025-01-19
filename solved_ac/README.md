@@ -874,6 +874,7 @@
 | [Hoof Paper Scissors Silver - 14453](https://www.acmicpc.net/problem/14453) | [py](Silver_2/Hoof_Paper_Scissors_Silver_14453.py) |
 | [Journey of A Knight - 7107](https://www.acmicpc.net/problem/7107) | [py](Silver_2/Journey_of_A_Knight_7107.py) |
 | [알고리즘 수업 깊이 우선 탐색 5 - 24483](https://www.acmicpc.net/problem/24483) | [py](Silver_2/알고리즘_수업_깊이_우선_탐색_5_24483.py) |
+| [마지막 팩토리얼 수 - 2553](https://www.acmicpc.net/problem/2553) | [py](Silver_2/마지막_팩토리얼_수_2553.py) |
 
 ## Silver 1
 | 문제 | 코드 (python) | 코드 (javascript)|
