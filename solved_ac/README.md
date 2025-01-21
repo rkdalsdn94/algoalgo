@@ -972,6 +972,7 @@
 | [n단 논법 - 15723](https://www.acmicpc.net/problem/15723) | [py](Silver_1/n단_논법_15723.py) |
 | [민겸 수 - 21314](https://www.acmicpc.net/problem/21314) | [py](Silver_1/민겸_수_21314.py) |
 | [Paint bucket - 15240](https://www.acmicpc.net/problem/15240) | [py](Silver_1/Paint_bucket_15240.py) |
+| [1, 2, 3 더하기 5 - 15990](https://www.acmicpc.net/problem/15990) | [py](Silver_1/1,2,3_더하기_5_15990.py) |
 
 ## Gold 5
 | 문제 | 코드 (python) | 코드 (javascript)|
