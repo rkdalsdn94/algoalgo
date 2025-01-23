@@ -1035,6 +1035,7 @@
 | [Cow Beauty Pageant - 5931](https://www.acmicpc.net/problem/5931) | [py](Gold_5/Cow_Beauty_Pageant_5931.py) |
 | [빚 - 10427](https://www.acmicpc.net/problem/10427) | [py](Gold_5/빚_10427.py) |
 | [전깃줄 - 2565](https://www.acmicpc.net/problem/2565) | [py](Gold_5/전깃줄_2565.py) |
+| [Lecture Halls Reservation - 8098](https://www.acmicpc.net/problem/8098) | [py](Gold_5/Lecture_Halls_Reservation_8098.py) |
 
 ## Gold 4
 | 문제 | 코드 (python) | 코드 (javascript)|
