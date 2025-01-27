@@ -1091,6 +1091,7 @@
 | [Slurpys - 6493](https://www.acmicpc.net/problem/6493) | [py](Gold_4/Slurpys_6493.py) |
 | [인문예술탐사주간 - 23829](https://www.acmicpc.net/problem/23829) | [py](Gold_4/인문예술탐사주간_23829.py) |
 | [학회원 - 3865](https://www.acmicpc.net/problem/3865) | [py](Gold_4/학회원_3865.py) |
+| [좋은 대회 - 14610](https://www.acmicpc.net/problem/14610) | [py](Gold_4/좋은_대회_14610.py) |
 
 ## Gold 3
 | 문제 | 코드 (python) | 코드 (javascript)|
