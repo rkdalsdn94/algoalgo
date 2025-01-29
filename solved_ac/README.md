@@ -187,6 +187,7 @@
 | [Run-Length Encoding Run - 16634](https://www.acmicpc.net/problem/16634) | [py](bronze_2/Run-Length_Encoding_Run_16634.py) |
 | [Equal Total Scores - 4968](https://www.acmicpc.net/problem/4968) | [py](bronze_2/Equal_Total_Scores_4968.py) |
 | [집에선 안돼잉 - 29734](https://www.acmicpc.net/problem/29734) | [py](bronze_2/집에선_안돼잉_29734.py) |
+| [2의 제곱수 계산하기 - 19946](https://www.acmicpc.net/problem/19946) | [py](bronze_2/2의_제곱수_계산하기_19946.py) |
 
 ## Bronze 1
 | 문제 | 코드 (python) | 코드 (javascript)|
