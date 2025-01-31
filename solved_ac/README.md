@@ -489,6 +489,7 @@
 | [소수 - 1312](https://www.acmicpc.net/problem/1312) | [py](Silver_5/소수_1312.py) |
 | [Counting Monuments - 20376](https://www.acmicpc.net/problem/20376) | [py](Silver_5/Counting_Monuments_20376.py) |
 | [Important Messages - 29934](https://www.acmicpc.net/problem/29934) | [py](Silver_5/Important_Messages_29934.py) |
+| [자동차 주차 - 30993](https://www.acmicpc.net/problem/30993) | [py](Silver_5/자동차_주차_30993.py) |
 
 ## Silver 4
 | 문제 | 코드 (python) | 코드 (javascript)|
