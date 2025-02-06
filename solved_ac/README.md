@@ -884,6 +884,7 @@
 | [마지막 팩토리얼 수 - 2553](https://www.acmicpc.net/problem/2553) | [py](Silver_2/마지막_팩토리얼_수_2553.py) |
 | [교수님 계산기가 고장났어요 - 22937](https://www.acmicpc.net/problem/22937) | [cpp](Silver_2/교수님_계산기가_고장났어요_22937.cpp) |
 | [Programiranje - 15355](https://www.acmicpc.net/problem/15355) | [py](Silver_2/Programiranje_15355.py) |
+| [키트 분배하기 - 24938](https://www.acmicpc.net/problem/24938) | [py](Silver_2/키트_분배하기_24938.py) |
 
 ## Silver 1
 | 문제 | 코드 (python) | 코드 (javascript)|
