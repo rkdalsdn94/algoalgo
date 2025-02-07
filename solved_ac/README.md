@@ -885,6 +885,7 @@
 | [교수님 계산기가 고장났어요 - 22937](https://www.acmicpc.net/problem/22937) | [cpp](Silver_2/교수님_계산기가_고장났어요_22937.cpp) |
 | [Programiranje - 15355](https://www.acmicpc.net/problem/15355) | [py](Silver_2/Programiranje_15355.py) |
 | [키트 분배하기 - 24938](https://www.acmicpc.net/problem/24938) | [py](Silver_2/키트_분배하기_24938.py) |
+| [On My Way Dorm - 27868](https://www.acmicpc.net/problem/27868) | [py](Silver_2/On_My_Way_Dorm_27868.py) |
 
 ## Silver 1
 | 문제 | 코드 (python) | 코드 (javascript)|
