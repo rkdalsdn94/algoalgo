@@ -887,6 +887,7 @@
 | [Programiranje - 15355](https://www.acmicpc.net/problem/15355) | [py](Silver_2/Programiranje_15355.py) |
 | [키트 분배하기 - 24938](https://www.acmicpc.net/problem/24938) | [py](Silver_2/키트_분배하기_24938.py) |
 | [On My Way Dorm - 27868](https://www.acmicpc.net/problem/27868) | [py](Silver_2/On_My_Way_Dorm_27868.py) |
+| [Choose your own path - 16021](https://www.acmicpc.net/problem/16021) | [py](Silver_2/Choose_your_own_path_16021.py) |
 
 ## Silver 1
 | 문제 | 코드 (python) | 코드 (javascript)|
