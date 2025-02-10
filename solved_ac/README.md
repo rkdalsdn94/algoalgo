@@ -1050,6 +1050,7 @@
 | [전깃줄 - 2565](https://www.acmicpc.net/problem/2565) | [py](Gold_5/전깃줄_2565.py) |
 | [Lecture Halls Reservation - 8098](https://www.acmicpc.net/problem/8098) | [py](Gold_5/Lecture_Halls_Reservation_8098.py) |
 | [행복 유치원 - 13164](https://www.acmicpc.net/problem/13164) | [py](Gold_5/행복_유치원_13164.py) |
+| [암호코드 - 2011](https://www.acmicpc.net/problem/2011) | [py](Gold_5/암호코드_2011.py) |
 
 ## Gold 4
 | 문제 | 코드 (python) | 코드 (javascript)|
