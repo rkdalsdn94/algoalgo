@@ -340,6 +340,7 @@
 | [2의 보수 - 24389](https://www.acmicpc.net/problem/24389) | [py](bronze_1/2의_보수_24389.py) |
 | [Average Speed - 4366](https://www.acmicpc.net/problem/4366) | [py](bronze_1/Average_Speed_4366.py) |
 | [전주 듣고 노래 맞히기 - 31562](https://www.acmicpc.net/problem/31562) | [py](bronze_1/전주_듣고_노래_맞히기_31562.py) |
+| [Bus Numbers - 20743](https://www.acmicpc.net/problem/20743) | [py](bronze_1/Bus_Numbers_20743.py) |
 
 ## Silver 5
 | 문제 | 코드 (python) | 코드 (javascript)|
