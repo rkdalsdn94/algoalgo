@@ -189,6 +189,7 @@
 | [집에선 안돼잉 - 29734](https://www.acmicpc.net/problem/29734) | [py](bronze_2/집에선_안돼잉_29734.py) |
 | [2의 제곱수 계산하기 - 19946](https://www.acmicpc.net/problem/19946) | [py](bronze_2/2의_제곱수_계산하기_19946.py) |
 | [Class Field Trip - 27386](https://www.acmicpc.net/problem/27386) | [py](bronze_2/Class_Field_Trip_27386.py) |
+| [Cooking Water - 17924](https://www.acmicpc.net/problem/17924) | [py](bronze_2/Cooking_Water_17924.py) |
 
 ## Bronze 1
 | 문제 | 코드 (python) | 코드 (javascript)|
