@@ -1055,6 +1055,7 @@
 | [행복 유치원 - 13164](https://www.acmicpc.net/problem/13164) | [py](Gold_5/행복_유치원_13164.py) |
 | [암호코드 - 2011](https://www.acmicpc.net/problem/2011) | [py](Gold_5/암호코드_2011.py) |
 | [세 친구 - 17089](https://www.acmicpc.net/problem/17089) | [py](Gold_5/세_친구_17089.py) |
+| [조 짜기 - 2229](https://www.acmicpc.net/problem/2229) | [py](Gold_5/조_짜기_2229.py) |
 
 ## Gold 4
 | 문제 | 코드 (python) | 코드 (javascript)|
