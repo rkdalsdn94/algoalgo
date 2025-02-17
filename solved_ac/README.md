@@ -1138,6 +1138,7 @@
 | [나머지 합 - 10986](https://www.acmicpc.net/problem/10986) | [py](Gold_3/나머지_합_10986.py) |
 | [소문난 칠공주 - 1941](https://www.acmicpc.net/problem/1941) | [py](Gold_3/소문난_칠공주_1941.py) |
 | [공주님의 정원 - 2457](https://www.acmicpc.net/problem/2457) | [py](Gold_3/공주님의_정원_2457.py) |
+| [치즈 - 2638](https://www.acmicpc.net/problem/2638) | [py](Gold_3/치즈_2638.py) |
 
 ## Gold 2
 | 문제 | 코드 (python) | 코드 (javascript)|
