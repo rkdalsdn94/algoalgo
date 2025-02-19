@@ -630,6 +630,7 @@
 | [Array of Discord - 21047](https://www.acmicpc.net/problem/21047) | [py](Silver_4/Array_of_Discord_21047.py) |
 | [페이지 세기 - 4821](https://www.acmicpc.net/problem/4821) | [py](Silver_4/페이지_세기_4821.py) |
 | [LVM - 9843](https://www.acmicpc.net/problem/9843) | [py](Silver_4/LVM_9843.py) |
+| [Bridge transport - 6754](https://www.acmicpc.net/problem/6754) | [py](Silver_4/Bridge_transport_6754.py) |
 
 ## Silver 3
 | 문제 | 코드 (python) | 코드 (javascript)|
