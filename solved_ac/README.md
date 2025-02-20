@@ -768,6 +768,7 @@
 | [Daisy Chains in the Field - 5938](https://www.acmicpc.net/problem/5938) | [py](Silver_3/Daisy_Chains_in_the_Field_5938.py) |
 | [세워라 반석 위에 - 21967](https://www.acmicpc.net/problem/21967) | [py](Silver_3/세워라_반석_위에_21967.py) |
 | [선물 - 1166](https://www.acmicpc.net/problem/1166) | [py](Silver_3/선물_1166.py) |
+| [강의실 - 31872](https://www.acmicpc.net/problem/31872) | [py](Silver_3/강의실_31872.py) |
 
 ## Silver 2
 | 문제 | 코드 (python) | 코드 (javascript)|
