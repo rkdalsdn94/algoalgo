@@ -631,6 +631,7 @@
 | [페이지 세기 - 4821](https://www.acmicpc.net/problem/4821) | [py](Silver_4/페이지_세기_4821.py) |
 | [LVM - 9843](https://www.acmicpc.net/problem/9843) | [py](Silver_4/LVM_9843.py) |
 | [Bridge transport - 6754](https://www.acmicpc.net/problem/6754) | [py](Silver_4/Bridge_transport_6754.py) |
+| [나이트 투어 - 1331](https://www.acmicpc.net/problem/1331) | [py](Silver_4/나이트_투어_1331.py) |
 
 ## Silver 3
 | 문제 | 코드 (python) | 코드 (javascript)|
