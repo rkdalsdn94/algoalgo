@@ -132,6 +132,7 @@
 | [Lv1. 성격 유형 검사하기](https://programmers.co.kr/learn/courses/30/lessons/118666) | [py](programmers/Lv1/Lv1_성격_유형_검사하기.py) |  |
 | [Lv1. 달리기 경주](https://programmers.co.kr/learn/courses/30/lessons/178871) | [py](programmers/Lv1/Lv1_달리기_경주.py) |  |
 | [Lv1. 동영상 재생기](https://programmers.co.kr/learn/courses/30/lessons/340213) | [py](programmers/Lv1/Lv1_동영상_재생기.py) |  |
+| [Lv1. 키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256) | [py](programmers/Lv1/Lv1_키패드_누르기.py) |  |
 
 ### Lv2 
 | 문제 | 코드 (python) | 코드 (javascript)|
