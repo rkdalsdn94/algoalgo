@@ -134,6 +134,7 @@
 | [Lv1. 동영상 재생기](https://programmers.co.kr/learn/courses/30/lessons/340213) | [py](programmers/Lv1/Lv1_동영상_재생기.py) |  |
 | [Lv1. 키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256) | [py](programmers/Lv1/Lv1_키패드_누르기.py) |  |
 | [Lv1. 택배 상자 꺼내기](https://programmers.co.kr/learn/courses/30/lessons/389478) | [py](programmers/Lv1/Lv1_택배_상자_꺼내기.py) |  |
+| [Lv1. 카드 뭉치](https://programmers.co.kr/learn/courses/30/lessons/159994) | [py](programmers/Lv1/Lv1_카드_뭉치.py) |  |
 
 ### Lv2 
 | 문제 | 코드 (python) | 코드 (javascript)|
