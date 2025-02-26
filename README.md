@@ -136,6 +136,7 @@
 | [Lv1. 택배 상자 꺼내기](https://programmers.co.kr/learn/courses/30/lessons/389478) | [py](programmers/Lv1/Lv1_택배_상자_꺼내기.py) |  |
 | [Lv1. 카드 뭉치](https://programmers.co.kr/learn/courses/30/lessons/159994) | [py](programmers/Lv1/Lv1_카드_뭉치.py) |  |
 | [Lv1. 크기가 작은 부분문자열](https://programmers.co.kr/learn/courses/30/lessons/147355) | [py](programmers/Lv1/Lv1_크기가_작은_부분문자열.py) |  |
+| [Lv1. 삼총사](https://programmers.co.kr/learn/courses/30/lessons/131705) | [py](programmers/Lv1/Lv1_삼총사.py) |  |
 
 ### Lv2 
 | 문제 | 코드 (python) | 코드 (javascript)|
