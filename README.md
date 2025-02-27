@@ -137,6 +137,7 @@
 | [Lv1. 카드 뭉치](https://programmers.co.kr/learn/courses/30/lessons/159994) | [py](programmers/Lv1/Lv1_카드_뭉치.py) |  |
 | [Lv1. 크기가 작은 부분문자열](https://programmers.co.kr/learn/courses/30/lessons/147355) | [py](programmers/Lv1/Lv1_크기가_작은_부분문자열.py) |  |
 | [Lv1. 삼총사](https://programmers.co.kr/learn/courses/30/lessons/131705) | [py](programmers/Lv1/Lv1_삼총사.py) |  |
+| [Lv1. 가장 가까운 같은 글자](https://programmers.co.kr/learn/courses/30/lessons/142086) | [py](programmers/Lv1/Lv1_가장_가까운_같은_글자.py) |  |
 
 ### Lv2 
 | 문제 | 코드 (python) | 코드 (javascript)|
