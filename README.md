@@ -139,6 +139,7 @@
 | [Lv1. 삼총사](https://programmers.co.kr/learn/courses/30/lessons/131705) | [py](programmers/Lv1/Lv1_삼총사.py) |  |
 | [Lv1. 가장 가까운 같은 글자](https://programmers.co.kr/learn/courses/30/lessons/142086) | [py](programmers/Lv1/Lv1_가장_가까운_같은_글자.py) |  |
 | [Lv1. 푸드 파이트 대회](https://programmers.co.kr/learn/courses/30/lessons/134240) | [py](programmers/Lv1/Lv1_푸드_파이트_대회.py) |  |
+| [Lv1. 콜라 문제](https://programmers.co.kr/learn/courses/30/lessons/132267) | [py](programmers/Lv1/Lv1_콜라_문제.py) |  |
 
 ### Lv2 
 | 문제 | 코드 (python) | 코드 (javascript)|
