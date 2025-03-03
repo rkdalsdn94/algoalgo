@@ -141,6 +141,7 @@
 | [Lv1. 푸드 파이트 대회](https://programmers.co.kr/learn/courses/30/lessons/134240) | [py](programmers/Lv1/Lv1_푸드_파이트_대회.py) |  |
 | [Lv1. 콜라 문제](https://programmers.co.kr/learn/courses/30/lessons/132267) | [py](programmers/Lv1/Lv1_콜라_문제.py) |  |
 | [Lv1. 명예의 전당 1](https://programmers.co.kr/learn/courses/30/lessons/138477) | [py](programmers/Lv1/Lv1_명예의_전당_1.py) |  |
+| [Lv1. 추억 점수](https://programmers.co.kr/learn/courses/30/lessons/176963) | [py](programmers/Lv1/Lv1_추억_점수.py) |  |
 
 ### Lv2 
 | 문제 | 코드 (python) | 코드 (javascript)|
