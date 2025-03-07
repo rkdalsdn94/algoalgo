@@ -144,6 +144,7 @@
 | [Lv1. 추억 점수](https://programmers.co.kr/learn/courses/30/lessons/176963) | [py](programmers/Lv1/Lv1_추억_점수.py) |  |
 | [Lv1. 기사단원의 무기](https://programmers.co.kr/learn/courses/30/lessons/136798) | [py](programmers/Lv1/Lv1_기사단원의_무기.py) |  |
 | [Lv1. 과일 장수](https://programmers.co.kr/learn/courses/30/lessons/135808) | [py](programmers/Lv1/Lv1_과일_장수.py) |  |
+| [Lv1. 덧칠하기](https://programmers.co.kr/learn/courses/30/lessons/161989) | [py](programmers/Lv1/Lv1_덧칠하기.py) |  |
 
 ### Lv2 
 | 문제 | 코드 (python) | 코드 (javascript)|
