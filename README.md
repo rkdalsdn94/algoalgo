@@ -146,6 +146,7 @@
 | [Lv1. 과일 장수](https://programmers.co.kr/learn/courses/30/lessons/135808) | [py](programmers/Lv1/Lv1_과일_장수.py) |  |
 | [Lv1. 덧칠하기](https://programmers.co.kr/learn/courses/30/lessons/161989) | [py](programmers/Lv1/Lv1_덧칠하기.py) |  |
 | [Lv1. 옹알이 2](https://programmers.co.kr/learn/courses/30/lessons/133499) | [py](programmers/Lv1/Lv1_옹알이_2.py) |  |
+| [Lv1. 지폐 접기](https://programmers.co.kr/learn/courses/30/lessons/340199) | [py](programmers/Lv1/Lv1_지폐_접기.py) |  |
 
 ### Lv2 
 | 문제 | 코드 (python) | 코드 (javascript)|
