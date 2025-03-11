@@ -149,6 +149,7 @@
 | [Lv1. 지폐 접기](https://programmers.co.kr/learn/courses/30/lessons/340199) | [py](programmers/Lv1/Lv1_지폐_접기.py) |  |
 | [Lv1. 문자열 나누기](https://programmers.co.kr/learn/courses/30/lessons/140108) | [py](programmers/Lv1/Lv1_문자열_나누기.py) |  |
 | [Lv1. 둘만의 암호](https://programmers.co.kr/learn/courses/30/lessons/155652) | [py](programmers/Lv1/Lv1_둘만의_암호.py) |  |
+| [Lv1. 대충 만든_자판](https://programmers.co.kr/learn/courses/30/lessons/160586) | [py](programmers/Lv1/Lv1_대충_만든_자판.py) |  |
 
 ### Lv2 
 | 문제 | 코드 (python) | 코드 (javascript)|
