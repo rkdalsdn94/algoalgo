@@ -152,6 +152,7 @@
 | [Lv1. 대충 만든_자판](https://programmers.co.kr/learn/courses/30/lessons/160586) | [py](programmers/Lv1/Lv1_대충_만든_자판.py) |  |
 | [Lv1. 같은 색으로 색칠하기](https://programmers.co.kr/learn/courses/30/lessons/250125) | [py](programmers/Lv1/Lv1_같은_색으로_색칠하기.py) |  |
 | [Lv1. 숫자 짝꿍](https://programmers.co.kr/learn/courses/30/lessons/131128) | [py](programmers/Lv1/Lv1_숫자_짝꿍.py) |  |
+| [Lv1. 햄버거 만들기](https://programmers.co.kr/learn/courses/30/lessons/133502) | [py](programmers/Lv1/Lv1_햄버거_만들기.py) |  |
 
 ### Lv2 
 | 문제 | 코드 (python) | 코드 (javascript)|
