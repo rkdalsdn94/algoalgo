@@ -218,6 +218,7 @@
 | [Lv2 도넛과 막대 그래프](https://school.programmers.co.kr/learn/courses/30/lessons/258711) | [py](programmers/Lv2/도넛과_막대_그래프.py) |
 | [Lv2 귤 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/138476) | [py](programmers/Lv2/귤_고르기.py) |
 | [Lv2 연속 부분 수열 합의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/131701) | [py](programmers/Lv2/연속_부분_수열_합의_개수.py) |
+| [Lv2 n^2 배열 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/87390) | [py](programmers/Lv2/n^2_배열_자르기.py) |
 
 ### Lv3 
 | 문제 | 코드 (python) | 코드 (javascript)|
