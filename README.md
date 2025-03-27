@@ -225,6 +225,7 @@
 | [Lv2 피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946) | [py](programmers/Lv2/피로도.py) |
 | [Lv2 N진수 게임](https://school.programmers.co.kr/learn/courses/30/lessons/17687) | [py](programmers/Lv2/N진수_게임.py) |
 | [Lv2 모음 사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512) | [py](programmers/Lv2/모음_사전.py) |
+| [Lv2 뒤에 있는 큰 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/154539) | [py](programmers/Lv2/뒤에_있는_큰_수_찾기.py) |
 
 ### Lv3 
 | 문제 | 코드 (python) | 코드 (javascript)|
