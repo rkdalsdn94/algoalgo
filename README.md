@@ -228,6 +228,7 @@
 | [Lv2 뒤에 있는 큰 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/154539) | [py](programmers/Lv2/뒤에_있는_큰_수_찾기.py) |
 | [Lv2 압축](https://school.programmers.co.kr/learn/courses/30/lessons/17684) | [py](programmers/Lv2/압축.py) |
 | [Lv2 파일명 정렬](https://school.programmers.co.kr/learn/courses/30/lessons/17686) | [py](programmers/Lv2/파일명_정렬.py) |
+| [Lv2 택배상자](https://school.programmers.co.kr/learn/courses/30/lessons/131704) | [py](programmers/Lv2/택배상자.py) |
 
 ### Lv3 
 | 문제 | 코드 (python) | 코드 (javascript)|
