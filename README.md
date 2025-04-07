@@ -155,6 +155,7 @@
 | [Lv1. 햄버거 만들기](https://programmers.co.kr/learn/courses/30/lessons/133502) | [py](programmers/Lv1/Lv1_햄버거_만들기.py) |  |
 | [Lv1. 데이터 분석](https://programmers.co.kr/learn/courses/30/lessons/250121) | [py](programmers/Lv1/Lv1_데이터_분석.py) |  |
 | [Lv1. 공원 산책](https://programmers.co.kr/learn/courses/30/lessons/172928) | [py](programmers/Lv1/Lv1_공원_산책.py) |  |
+| [Lv1. 바탕화면 정리](https://programmers.co.kr/learn/courses/30/lessons/161990) | [py](programmers/Lv1/Lv1_바탕화면_정리.py) |  |
 
 ### Lv2 
 | 문제 | 코드 (python) | 코드 (javascript)|
