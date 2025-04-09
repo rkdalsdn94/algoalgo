@@ -233,6 +233,7 @@
 | [Lv2 택배상자](https://school.programmers.co.kr/learn/courses/30/lessons/131704) | [py](programmers/Lv2/택배상자.py) |
 | [Lv2 숫자 변환하기](https://school.programmers.co.kr/learn/courses/30/lessons/154538) | [py](programmers/Lv2/숫자_변환하기.py) |
 | [Lv2 프렌즈4블록](https://school.programmers.co.kr/learn/courses/30/lessons/17679) | [py](programmers/Lv2/프렌즈4블록.py) |
+| [Lv2 두 큐 합 같게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667) | [py](programmers/Lv2/두_큐_합_같게_만들기.py) |
 
 ### Lv3 
 | 문제 | 코드 (python) | 코드 (javascript)|
