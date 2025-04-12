@@ -236,6 +236,7 @@
 | [Lv2 두 큐 합 같게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667) | [py](programmers/Lv2/두_큐_합_같게_만들기.py) |
 | [Lv2 연속된 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/178870) | [py](programmers/Lv2/연속된_부분_수열의_합.py) |
 | [Lv2 마법의 엘리베이터](https://school.programmers.co.kr/learn/courses/30/lessons/148653) | [py](programmers/Lv2/마법의_엘리베이터.py) |
+| [Lv2 시소 짝꿍](https://school.programmers.co.kr/learn/courses/30/lessons/152996) | [py](programmers/Lv2/시소_짝꿍.py) |
 
 ### Lv3 
 | 문제 | 코드 (python) | 코드 (javascript)|
