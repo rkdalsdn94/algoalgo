@@ -157,6 +157,7 @@
 | [Lv1. 공원 산책](https://programmers.co.kr/learn/courses/30/lessons/172928) | [py](programmers/Lv1/Lv1_공원_산책.py) |  |
 | [Lv1. 바탕화면 정리](https://programmers.co.kr/learn/courses/30/lessons/161990) | [py](programmers/Lv1/Lv1_바탕화면_정리.py) |  |
 | [Lv1. 개인정보 수집 유효기간](https://programmers.co.kr/learn/courses/30/lessons/150370) | [py](programmers/Lv1/Lv1_개인정보_수집_유효기간.py) |  |
+| [Lv1. 공원](https://programmers.co.kr/learn/courses/30/lessons/340198) | [py](programmers/Lv1/Lv1_공원.py) |  |
 
 ### Lv2 
 | 문제 | 코드 (python) | 코드 (javascript)|
