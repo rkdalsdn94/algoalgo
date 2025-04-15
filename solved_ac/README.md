@@ -346,6 +346,7 @@
 | [전주 듣고 노래 맞히기 - 31562](https://www.acmicpc.net/problem/31562) | [py](bronze_1/전주_듣고_노래_맞히기_31562.py) |
 | [Bus Numbers - 20743](https://www.acmicpc.net/problem/20743) | [py](bronze_1/Bus_Numbers_20743.py) |
 | [Aerospace & Mechanical Engineering - 5190](https://www.acmicpc.net/problem/5190) | [py](bronze_1/Aerospace_&_Mechanical_Engineering_5190.py) |
+| [디지털 티비 - 2816](https://www.acmicpc.net/problem/2816) | [py](bronze_1/디지털_티비_2816.py) |
 
 ## Silver 5
 | 문제 | 코드 (python) | 코드 (javascript)|
