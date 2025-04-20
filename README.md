@@ -160,6 +160,7 @@
 | [Lv1. 공원](https://programmers.co.kr/learn/courses/30/lessons/340198) | [py](programmers/Lv1/Lv1_공원.py) |  |
 | [Lv1. 유연근무제](https://programmers.co.kr/learn/courses/30/lessons/388351) | [py](programmers/Lv1/Lv1_유연근무제.py) |  |
 | [Lv1. 가장 많이 받은 선물](https://programmers.co.kr/learn/courses/30/lessons/258712) | [py](programmers/Lv1/Lv1_가장_많이_받은_선물.py) |  |
+| [Lv1. 붕대 감기](https://programmers.co.kr/learn/courses/30/lessons/250137) | [py](programmers/Lv1/Lv1_붕대_감기.py) |  |
 
 ### Lv2 
 | 문제 | 코드 (python) | 코드 (javascript)|
