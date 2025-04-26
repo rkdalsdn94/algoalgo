@@ -245,6 +245,7 @@
 | [Lv2 서버 증설 횟수](https://school.programmers.co.kr/learn/courses/30/lessons/389479) | [py](programmers/Lv2/서버_증설_횟수.py) |
 | [Lv2 테이블 해시 함수](https://school.programmers.co.kr/learn/courses/30/lessons/147354) | [py](programmers/Lv2/테이블_해시_함수.py) |
 | [Lv2 전력망을 둘로 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/86971) | [py](programmers/Lv2/전력망을_둘로_나누기.py) |
+| [Lv2 3 x n 타일링](https://school.programmers.co.kr/learn/courses/30/lessons/12902) | [py](programmers/Lv2/3_x_n_타일링.py) |
 
 ### Lv3 
 | 문제 | 코드 (python) | 코드 (javascript)|
