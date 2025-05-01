@@ -349,6 +349,7 @@
 | [Aerospace & Mechanical Engineering - 5190](https://www.acmicpc.net/problem/5190) | [py](bronze_1/Aerospace_&_Mechanical_Engineering_5190.py) |
 | [디지털 티비 - 2816](https://www.acmicpc.net/problem/2816) | [py](bronze_1/디지털_티비_2816.py) |
 | [Falling Apart - 15008](https://www.acmicpc.net/problem/15008) | [py](bronze_1/Falling_Apart_15008.py) |
+| [선택 정렬 2 - 23882](https://www.acmicpc.net/problem/23882) | [py](bronze_1/선택_정렬_2_23882.py) |
 
 ## Silver 5
 | 문제 | 코드 (python) | 코드 (javascript)|
