@@ -249,6 +249,7 @@
 | [Lv2 숫자 카드 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/135807) | [py](programmers/Lv2/숫자_카드_나누기.py) |
 | [Lv2 호텔 대실](https://school.programmers.co.kr/learn/courses/30/lessons/155651) | [py](programmers/Lv2/호텔_대실.py) |
 | [Lv2 미로 탈출](https://school.programmers.co.kr/learn/courses/30/lessons/159993) | [py](programmers/Lv2/미로_탈출.py) |
+| [Lv2 리코쳇 로봇](https://school.programmers.co.kr/learn/courses/30/lessons/169199) | [py](programmers/Lv2/리코쳇_로봇.py) |
 
 ### Lv3 
 | 문제 | 코드 (python) | 코드 (javascript)|
