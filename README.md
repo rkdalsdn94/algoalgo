@@ -250,6 +250,7 @@
 | [Lv2 호텔 대실](https://school.programmers.co.kr/learn/courses/30/lessons/155651) | [py](programmers/Lv2/호텔_대실.py) |
 | [Lv2 미로 탈출](https://school.programmers.co.kr/learn/courses/30/lessons/159993) | [py](programmers/Lv2/미로_탈출.py) |
 | [Lv2 리코쳇 로봇](https://school.programmers.co.kr/learn/courses/30/lessons/169199) | [py](programmers/Lv2/리코쳇_로봇.py) |
+| [Lv2 줄 서는 방법](https://school.programmers.co.kr/learn/courses/30/lessons/12936) | [py](programmers/Lv2/줄_서는_방법.py) |
 
 ### Lv3 
 | 문제 | 코드 (python) | 코드 (javascript)|
