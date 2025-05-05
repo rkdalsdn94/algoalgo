@@ -279,6 +279,7 @@
 |                                  문제                                   |            코드 (python)            | 코드 (javascript) |
 |:---------------------------------------------------------------------:|:---------------------------------:|:---------------:|
 | [Lv4. 징검다리](https://programmers.co.kr/learn/courses/30/lessons/43236) | [py](programmers/Lv4/Lv4_징검다리.py) |
+| [Lv4. 자동완성](https://programmers.co.kr/learn/courses/30/lessons/17685) | [py](programmers/Lv4/자동완성.py) |
 
 
 ## 프로그래머스 스킬 체크
