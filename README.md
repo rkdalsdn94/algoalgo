@@ -252,6 +252,7 @@
 | [Lv2 리코쳇 로봇](https://school.programmers.co.kr/learn/courses/30/lessons/169199) | [py](programmers/Lv2/리코쳇_로봇.py) |
 | [Lv2 줄 서는 방법](https://school.programmers.co.kr/learn/courses/30/lessons/12936) | [py](programmers/Lv2/줄_서는_방법.py) |
 | [Lv2 디펜스 게임](https://school.programmers.co.kr/learn/courses/30/lessons/142085) | [py](programmers/Lv2/디펜스_게임.py) |
+| [Lv2 하노이 탑](https://school.programmers.co.kr/learn/courses/30/lessons/12946) | [py](programmers/Lv2/하노이_탑.py) |
 
 ### Lv3 
 | 문제 | 코드 (python) | 코드 (javascript)|
