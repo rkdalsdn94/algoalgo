@@ -254,6 +254,7 @@
 | [Lv2 디펜스 게임](https://school.programmers.co.kr/learn/courses/30/lessons/142085) | [py](programmers/Lv2/디펜스_게임.py) |
 | [Lv2 하노이 탑](https://school.programmers.co.kr/learn/courses/30/lessons/12946) | [py](programmers/Lv2/하노이_탑.py) |
 | [Lv2 광물 캐기](https://school.programmers.co.kr/learn/courses/30/lessons/172927) | [py](programmers/Lv2/광물_캐기.py) |
+| [Lv2 후보키](https://school.programmers.co.kr/learn/courses/30/lessons/42890) | [py](programmers/Lv2/후보키.py) |
 
 ### Lv3 
 | 문제 | 코드 (python) | 코드 (javascript)|
