@@ -255,6 +255,7 @@
 | [Lv2 하노이 탑](https://school.programmers.co.kr/learn/courses/30/lessons/12946) | [py](programmers/Lv2/하노이_탑.py) |
 | [Lv2 광물 캐기](https://school.programmers.co.kr/learn/courses/30/lessons/172927) | [py](programmers/Lv2/광물_캐기.py) |
 | [Lv2 후보키](https://school.programmers.co.kr/learn/courses/30/lessons/42890) | [py](programmers/Lv2/후보키.py) |
+| [Lv2 지게차와 크레인](https://school.programmers.co.kr/learn/courses/30/lessons/388353) | [py](programmers/Lv2/지게차와_크레인.py) |
 
 ### Lv3 
 | 문제 | 코드 (python) | 코드 (javascript)|
