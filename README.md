@@ -280,6 +280,7 @@
 | [Lv3. 등굣길](https://programmers.co.kr/learn/courses/30/lessons/42898) | [py](programmers/Lv3/Lv3_등굣길.py)|
 | [Lv3. 여행경로](https://programmers.co.kr/learn/courses/30/lessons/43164) | [py](programmers/Lv3/Lv3_여행경로.py)|
 | [Lv3. 야근 지수](https://programmers.co.kr/learn/courses/30/lessons/12927) | [py](programmers/Lv3/Lv3_야근_지수.py)|
+| [Lv3. 숫자 게임](https://programmers.co.kr/learn/courses/30/lessons/12987) | [py](programmers/Lv3/숫자_게임.py)|
 
 ### LV4
 |                                  문제                                   |            코드 (python)            | 코드 (javascript) |
