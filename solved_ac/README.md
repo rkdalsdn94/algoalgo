@@ -351,6 +351,7 @@
 | [Falling Apart - 15008](https://www.acmicpc.net/problem/15008) | [py](bronze_1/Falling_Apart_15008.py) |
 | [선택 정렬 2 - 23882](https://www.acmicpc.net/problem/23882) | [py](bronze_1/선택_정렬_2_23882.py) |
 | [A Game with Marbles - 6508](https://www.acmicpc.net/problem/6508) | [py](bronze_1/A_Game_with_Marbles_6508.py) |
+| [GCD - 5344](https://www.acmicpc.net/problem/5344) | [py](bronze_1/GCD_5344.py) |
 
 ## Silver 5
 | 문제 | 코드 (python) | 코드 (javascript)|
