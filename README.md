@@ -282,6 +282,7 @@
 | [Lv3. 야근 지수](https://programmers.co.kr/learn/courses/30/lessons/12927) | [py](programmers/Lv3/Lv3_야근_지수.py)|
 | [Lv3. 숫자 게임](https://programmers.co.kr/learn/courses/30/lessons/12987) | [py](programmers/Lv3/숫자_게임.py)|
 | [Lv3. 최고의 집합](https://programmers.co.kr/learn/courses/30/lessons/12938) | [py](programmers/Lv3/최고의_집합.py)|
+| [Lv3. 보석 쇼핑](https://programmers.co.kr/learn/courses/30/lessons/67258) | [py](programmers/Lv3/보석_쇼핑.py)|
 
 ### LV4
 |                                  문제                                   |            코드 (python)            | 코드 (javascript) |
