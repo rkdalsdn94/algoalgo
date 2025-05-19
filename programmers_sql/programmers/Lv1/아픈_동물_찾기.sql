@@ -1,0 +1,8 @@
+# 프로그래머스 SQL - Lv1 - 아픈 동물 찾기 - 단순 SELCT 문제
+/**
+  단순 SELECT 문제
+ */
+
+SELECT ANIMAL_ID, NAME FROM ANIMAL_INS
+WHERE INTAKE_CONDITION = 'Sick'
+ORDER BY ANIMAL_ID;
