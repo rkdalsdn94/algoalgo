@@ -11,6 +11,7 @@
 | [조건에 부합하는 중고거래 댓글 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/164673) | [MySQL](programmers/Lv1/조건에_부합하는_중고거래_댓글_조회하기.sql) |
 | [상위 n개 레코드](https://school.programmers.co.kr/learn/courses/30/lessons/164673) | [MySQL](programmers/Lv1/상위_n개_레코드.sql) |
 | [아픈 동물 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/59036) | [MySQL](programmers/Lv1/아픈_동물_찾기.sql) |
+| [이름이 없는 동물의 아이디](https://school.programmers.co.kr/learn/courses/30/lessons/59039) | [MySQL](programmers/Lv1/이름이_없는_동물의_아이디.sql) |
 
 ### Lv2
 | 문제 | 코드 (MySQL) |
