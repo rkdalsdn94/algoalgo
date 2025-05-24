@@ -13,6 +13,7 @@
 | [아픈 동물 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/59036) | [MySQL](programmers/Lv1/아픈_동물_찾기.sql) |
 | [이름이 없는 동물의 아이디](https://school.programmers.co.kr/learn/courses/30/lessons/59039) | [MySQL](programmers/Lv1/이름이_없는_동물의_아이디.sql) |
 | [여러 기준으로 정렬하기](https://school.programmers.co.kr/learn/courses/30/lessons/59404) | [MySQL](programmers/Lv1/여러_기준으로_정렬하기.sql) |
+| [가장 비싼 상품_구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131697) | [MySQL](programmers/Lv1/가장_비싼_상품_구하기.sql) |
 
 ### Lv2
 | 문제 | 코드 (MySQL) |
