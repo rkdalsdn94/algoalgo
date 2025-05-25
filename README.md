@@ -283,6 +283,7 @@
 | [Lv3. 숫자 게임](https://programmers.co.kr/learn/courses/30/lessons/12987) | [py](programmers/Lv3/숫자_게임.py)|
 | [Lv3. 최고의 집합](https://programmers.co.kr/learn/courses/30/lessons/12938) | [py](programmers/Lv3/최고의_집합.py)|
 | [Lv3. 보석 쇼핑](https://programmers.co.kr/learn/courses/30/lessons/67258) | [py](programmers/Lv3/보석_쇼핑.py)|
+| [Lv3. 연속 펄스 부분 수열의합](https://programmers.co.kr/learn/courses/30/lessons/161988) | [py](programmers/Lv3/연속_펄스_부분_수열의_합.py)|
 
 ### LV4
 |                                  문제                                   |            코드 (python)            | 코드 (javascript) |
