@@ -194,6 +194,7 @@
 | [방 배정하기 - 14697](https://www.acmicpc.net/problem/14697) | [py](bronze_2/방_배정하기_14697.py) |
 | [Fitness - 15180](https://www.acmicpc.net/problem/15180) | [py](bronze_2/Fitness_15180.py) |
 | [Divide and Conquer - 5768](https://www.acmicpc.net/problem/5768) | [py](bronze_2/Divide_and_Conquer_5768.py) |
+| [Egg Drop - 11606](https://www.acmicpc.net/problem/11606) | [py](bronze_2/Egg_Drop_11606.py) |
 
 ## Bronze 1
 | 문제 | 코드 (python) | 코드 (javascript)|
