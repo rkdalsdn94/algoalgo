@@ -257,6 +257,7 @@
 | [Lv2 후보키](https://school.programmers.co.kr/learn/courses/30/lessons/42890) | [py](programmers/Lv2/후보키.py) |
 | [Lv2 지게차와 크레인](https://school.programmers.co.kr/learn/courses/30/lessons/388353) | [py](programmers/Lv2/지게차와_크레인.py) |
 | [Lv2 이모티콘 할인행사](https://school.programmers.co.kr/learn/courses/30/lessons/150368) | [py](programmers/Lv2/이모티콘_할인행사.py) |
+| [Lv2 방금그곡](https://school.programmers.co.kr/learn/courses/30/lessons/17683) | [py](programmers/Lv2/방금그곡.py) |
 
 ### Lv3 
 | 문제 | 코드 (python) | 코드 (javascript)|
