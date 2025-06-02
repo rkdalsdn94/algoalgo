@@ -645,6 +645,7 @@
 | [나이트 투어 - 1331](https://www.acmicpc.net/problem/1331) | [py](Silver_4/나이트_투어_1331.py) |
 | [간판 - 5534](https://www.acmicpc.net/problem/5534) | [py](Silver_4/간판_5534.py) |
 | [Moo Sick - 5930](https://www.acmicpc.net/problem/5930) | [py](Silver_4/Moo_Sick_5930.py) |
+| [Easy Quest - 15287](https://www.acmicpc.net/problem/15287) | [py](Silver_4/Easy_Quest_15287.py) |
 
 ## Silver 3
 | 문제 | 코드 (python) | 코드 (javascript)|
