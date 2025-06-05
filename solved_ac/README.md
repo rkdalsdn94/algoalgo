@@ -354,6 +354,7 @@
 | [A Game with Marbles - 6508](https://www.acmicpc.net/problem/6508) | [py](bronze_1/A_Game_with_Marbles_6508.py) |
 | [GCD - 5344](https://www.acmicpc.net/problem/5344) | [py](bronze_1/GCD_5344.py) |
 | [Odd Palindrome - 15104](https://www.acmicpc.net/problem/15104) | [py](bronze_1/Odd_Palindrome_15104.py) |
+| [세종이의 시간 여행 - 32332](https://www.acmicpc.net/problem/32332) | [py](bronze_1/세종이의_시간_여행_32332.py) |
 
 ## Silver 5
 | 문제 | 코드 (python) | 코드 (javascript)|
