@@ -286,6 +286,7 @@
 | [Lv3. 보석 쇼핑](https://programmers.co.kr/learn/courses/30/lessons/67258) | [py](programmers/Lv3/보석_쇼핑.py)|
 | [Lv3. 연속 펄스 부분 수열의합](https://programmers.co.kr/learn/courses/30/lessons/161988) | [py](programmers/Lv3/연속_펄스_부분_수열의_합.py)|
 | [Lv3. 인사고과](https://programmers.co.kr/learn/courses/30/lessons/152995) | [py](programmers/Lv3/인사고과.py)|
+| [Lv3. 경주로 건설](https://programmers.co.kr/learn/courses/30/lessons/67259) | [py](programmers/Lv3/경주로_건설.py)|
 
 ### LV4
 |                                  문제                                   |            코드 (python)            | 코드 (javascript) |
