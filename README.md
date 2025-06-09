@@ -102,7 +102,7 @@
 | [Lv1. 정수 내림차순으로 배치하기](https://programmers.co.kr/learn/courses/30/lessons/12933) | [py](programmers/Lv1/Lv1_정수_내림차순으로_배치하기.py)| 
 | [Lv1. 짝수와 홀수](https://programmers.co.kr/learn/courses/30/lessons/12937) | [py](programmers/Lv1/Lv1_짝수와_홀수.py)| 
 | [Lv1. x만큼 간격이 있는 n개의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12954) | [py](programmers/Lv1/Lv1_x만큼_간격이_있는_n개의_숫자.py)|
-| [Lv1. 신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410) | [py](programmers/Lv1/Lv1_신규_아이디_추천.py)|
+| [Lv1. 신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410) | [py](programmers/Lv1/신규_아이디_추천.py)|
 | [Lv1. 시저 암호](https://programmers.co.kr/learn/courses/30/lessons/12926) | [py](programmers/Lv1/Lv1_시저_암호.py)|
 | [Lv1. 약수의 합](https://programmers.co.kr/learn/courses/30/lessons/12928) | [py](programmers/Lv1/Lv1_약수의_합.py)|
 | [Lv1. 이상한 문자 만들기](https://programmers.co.kr/learn/courses/30/lessons/12930) | [py](programmers/Lv1/Lv1_이상한_문자_만들기.py)|
