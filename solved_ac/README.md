@@ -651,6 +651,7 @@
 | [Easy Quest - 15287](https://www.acmicpc.net/problem/15287) | [py](Silver_4/Easy_Quest_15287.py) |
 | [요요 시뮬레이션 - 19636](https://www.acmicpc.net/problem/19636) | [py](Silver_4/요요_시뮬레이션_19636.py) |
 | [유통기한 - 26083](https://www.acmicpc.net/problem/26083) | [py](Silver_4/유통기한_26083.py) |
+| [The Chosen Sub Matrix - 7800](https://www.acmicpc.net/problem/7800) | [py](Silver_4/The_Chosen_Sub_Matrix_7800.py) |
 
 ## Silver 3
 | 문제 | 코드 (python) | 코드 (javascript)|
