@@ -261,6 +261,7 @@
 | [Lv2 우박수열 정적분](https://school.programmers.co.kr/learn/courses/30/lessons/134239) | [py](programmers/Lv2/우박수열_정적분.py) |
 | [Lv2 조이스틱](https://school.programmers.co.kr/learn/courses/30/lessons/42860) | [py](programmers/Lv2/조이스틱.py) |
 | [Lv2 퍼즐 게임 챌린지](https://school.programmers.co.kr/learn/courses/30/lessons/340212) | [py](programmers/Lv2/퍼즐_게임_챌린지.py) |
+| [Lv2 점 찍기](https://school.programmers.co.kr/learn/courses/30/lessons/140107) | [py](programmers/Lv2/점_찍기.py) |
 
 ### Lv3 
 | 문제 | 코드 (python) | 코드 (javascript)|
