@@ -656,6 +656,7 @@
 | [유통기한 - 26083](https://www.acmicpc.net/problem/26083) | [py](Silver_4/유통기한_26083.py) |
 | [The Chosen Sub Matrix - 7800](https://www.acmicpc.net/problem/7800) | [py](Silver_4/The_Chosen_Sub_Matrix_7800.py) |
 | [Dining Cows - 6168](https://www.acmicpc.net/problem/6168) | [py](Silver_4/Dining_Cows_6168.py) |
+| [식당 메뉴 - 26043](https://www.acmicpc.net/problem/26043) | [py](Silver_4/식당_메뉴_26043.py) |
 
 ## Silver 3
 | 문제 | 코드 (python) | 코드 (javascript)|
