@@ -657,6 +657,7 @@
 | [The Chosen Sub Matrix - 7800](https://www.acmicpc.net/problem/7800) | [py](Silver_4/The_Chosen_Sub_Matrix_7800.py) |
 | [Dining Cows - 6168](https://www.acmicpc.net/problem/6168) | [py](Silver_4/Dining_Cows_6168.py) |
 | [식당 메뉴 - 26043](https://www.acmicpc.net/problem/26043) | [py](Silver_4/식당_메뉴_26043.py) |
+| [International meeting - 10882](https://www.acmicpc.net/problem/10882) | [py](Silver_4/International_meeting_10882.py) |
 
 ## Silver 3
 | 문제 | 코드 (python) | 코드 (javascript)|
