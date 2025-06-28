@@ -925,6 +925,7 @@
 | [On My Way Dorm - 27868](https://www.acmicpc.net/problem/27868) | [py](Silver_2/On_My_Way_Dorm_27868.py) |
 | [Choose your own path - 16021](https://www.acmicpc.net/problem/16021) | [py](Silver_2/Choose_your_own_path_16021.py) |
 | [특별한 기술력 - 31674](https://www.acmicpc.net/problem/31674) | [py](Silver_2/특별한_기술력_31674.py) |
+| [The Chivalrous Cow - 6004](https://www.acmicpc.net/problem/6004) | [py](Silver_2/The_Chivalrous_Cow_6004.py) |
 
 ## Silver 1
 | 문제 | 코드 (python) | 코드 (javascript)|
