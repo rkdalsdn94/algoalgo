@@ -1025,6 +1025,7 @@
 | [Paint bucket - 15240](https://www.acmicpc.net/problem/15240) | [py](Silver_1/Paint_bucket_15240.py) |
 | [1, 2, 3 더하기 5 - 15990](https://www.acmicpc.net/problem/15990) | [py](Silver_1/1,2,3_더하기_5_15990.py) |
 | [1, 2, 3 더하기 9 - 16195](https://www.acmicpc.net/problem/16195) | [py](Silver_1/1,2,3_더하기_9_16195.py) |
+| [Feeding Time - 6031](https://www.acmicpc.net/problem/6031) | [py](Silver_1/Feeding_Time_6031.py) |
 
 ## Gold 5
 | 문제 | 코드 (python) | 코드 (javascript)|
