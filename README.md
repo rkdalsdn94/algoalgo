@@ -263,6 +263,7 @@
 | [Lv2 퍼즐 게임 챌린지](https://school.programmers.co.kr/learn/courses/30/lessons/340212) | [py](programmers/Lv2/퍼즐_게임_챌린지.py) |
 | [Lv2 점 찍기](https://school.programmers.co.kr/learn/courses/30/lessons/140107) | [py](programmers/Lv2/점_찍기.py) |
 | [Lv2 과제 진행하기](https://school.programmers.co.kr/learn/courses/30/lessons/176962) | [py](programmers/Lv2/과제_진행하기.py) |
+| [Lv2 완전범죄](https://school.programmers.co.kr/learn/courses/30/lessons/389480) | [py](programmers/Lv2/완전범죄.py) |
 
 ### Lv3 
 | 문제 | 코드 (python) | 코드 (javascript)|
