@@ -25,3 +25,4 @@
 | [동명 동물 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/59041) | [MySQL](programmers/Lv2/동명_동물_수_찾기.sql) |
 | [가격이 제일 비싼 식품의 정보 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131115) | [MySQL](programmers/Lv2/가격이_제일_비싼_식품의_정보_출력하기.sql) |
 | [동물 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/59406) | [MySQL](programmers/Lv2/동물_수_구하기.sql) |
+| [이름에 el이 들어가는 동물 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/59047) | [MySQL](programmers/Lv2/이름에_el이_들어가는_동물_찾기.sql) |
