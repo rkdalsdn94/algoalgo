@@ -513,6 +513,7 @@
 | [팩토리얼 분해 - 2057](https://www.acmicpc.net/problem/2057) | [py](Silver_5/팩토리얼_분해_2057.py) |
 | [Rövarspråket - 10770](https://www.acmicpc.net/problem/10770) | [py](Silver_5/Rövarspråket_10770.py) |
 | [근무 지옥에 빠진 푸앙이 Large - 10770](https://www.acmicpc.net/problem/10770) | [py](Silver_5/근무_지옥에_빠진_푸앙이_Large_10770.py) |
+| [슥 빡 빡 슥 - 28470](https://www.acmicpc.net/problem/28470) | [py](Silver_5/슥_빡_빡_슥_28470.py) |
 
 ## Silver 4
 | 문제 | 코드 (python) | 코드 (javascript)|
