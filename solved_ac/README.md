@@ -662,6 +662,7 @@
 | [식당 메뉴 - 26043](https://www.acmicpc.net/problem/26043) | [py](Silver_4/식당_메뉴_26043.py) |
 | [International meeting - 10882](https://www.acmicpc.net/problem/10882) | [py](Silver_4/International_meeting_10882.py) |
 | [공 포장하기 - 12981](https://www.acmicpc.net/problem/12981) | [py](Silver_4/공_포장하기_12981.py) |
+| [효빈이의 과외 - 14680](https://www.acmicpc.net/problem/14680) | [py](Silver_4/효빈이의_과외_14680.py) |
 
 ## Silver 3
 | 문제 | 코드 (python) | 코드 (javascript)|
