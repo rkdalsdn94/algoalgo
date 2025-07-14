@@ -27,3 +27,4 @@
 | [동물 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/59406) | [MySQL](programmers/Lv2/동물_수_구하기.sql) |
 | [이름에 el이 들어가는 동물 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/59047) | [MySQL](programmers/Lv2/이름에_el이_들어가는_동물_찾기.sql) |
 | [중복 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/59408) | [MySQL](programmers/Lv2/중복_제거하기.sql) |
+| [NULL 처리하기](https://school.programmers.co.kr/learn/courses/30/lessons/59410) | [MySQL](programmers/Lv2/NULL_처리하기.sql) |
