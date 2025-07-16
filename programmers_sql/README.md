@@ -15,6 +15,7 @@
 | [여러 기준으로 정렬하기](https://school.programmers.co.kr/learn/courses/30/lessons/59404) | [MySQL](programmers/Lv1/여러_기준으로_정렬하기.sql) |
 | [가장 비싼 상품 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131697) | [MySQL](programmers/Lv1/가장_비싼_상품_구하기.sql) |
 | [조건에 맞는 회원수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131535) | [MySQL](programmers/Lv1/조건에_맞는_회원수_구하기.sql) |
+| [경기도에 위치한 식품창고 목록 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131114) | [MySQL](programmers/Lv1/경기도에_위치한_식품창고_목록_출력하기.sql) |
 
 ### Lv2
 | 문제 | 코드 (MySQL) |
