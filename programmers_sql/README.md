@@ -31,3 +31,4 @@
 | [중복 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/59408) | [MySQL](programmers/Lv2/중복_제거하기.sql) |
 | [NULL 처리하기](https://school.programmers.co.kr/learn/courses/30/lessons/59410) | [MySQL](programmers/Lv2/NULL_처리하기.sql) |
 | [DATETIME에서 DATE로 형 변환](https://school.programmers.co.kr/learn/courses/30/lessons/59414) | [MySQL](programmers/Lv2/DATETIME에서_DATE로_형_변환.sql) |
+| [카테고리 별 상품 개수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131529) | [MySQL](programmers/Lv2/카테고리_별_상품_개수_구하기.sql) |
