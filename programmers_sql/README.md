@@ -17,6 +17,7 @@
 | [조건에 맞는 회원수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131535) | [MySQL](programmers/Lv1/조건에_맞는_회원수_구하기.sql) |
 | [경기도에 위치한 식품창고 목록 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131114) | [MySQL](programmers/Lv1/경기도에_위치한_식품창고_목록_출력하기.sql) |
 | [강원도에 위치한 생산공장 목록 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131112) | [MySQL](programmers/Lv1/강원도에_위치한_생산공장_목록_출력하기.sql) |
+| [흉부외과 또는 일반외과 의사 목록 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/132203) | [MySQL](programmers/Lv1/흉부외과_또는_일반외과_의사_목록_출력하기.sql) |
 
 ### Lv2
 | 문제 | 코드 (MySQL) |
