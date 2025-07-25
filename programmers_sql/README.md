@@ -19,6 +19,7 @@
 | [강원도에 위치한 생산공장 목록 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131112) | [MySQL](programmers/Lv1/강원도에_위치한_생산공장_목록_출력하기.sql) |
 | [흉부외과 또는 일반외과 의사 목록 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/132203) | [MySQL](programmers/Lv1/흉부외과_또는_일반외과_의사_목록_출력하기.sql) |
 | [역순 정렬하기](https://school.programmers.co.kr/learn/courses/30/lessons/59035) | [MySQL](programmers/Lv1/역순_정렬하기.sql) |
+| [어린 동물 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/59037) | [MySQL](programmers/Lv1/어린_동물_찾기.sql) |
 
 ### Lv2
 | 문제 | 코드 (MySQL) |
