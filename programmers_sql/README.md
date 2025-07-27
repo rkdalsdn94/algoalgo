@@ -20,6 +20,7 @@
 | [흉부외과 또는 일반외과 의사 목록 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/132203) | [MySQL](programmers/Lv1/흉부외과_또는_일반외과_의사_목록_출력하기.sql) |
 | [역순 정렬하기](https://school.programmers.co.kr/learn/courses/30/lessons/59035) | [MySQL](programmers/Lv1/역순_정렬하기.sql) |
 | [어린 동물 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/59037) | [MySQL](programmers/Lv1/어린_동물_찾기.sql) |
+| [나이 정보가 없는 회원 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131528) | [MySQL](programmers/Lv1/나이_정보가_없는_회원_수_구하기.sql) |
 
 ### Lv2
 | 문제 | 코드 (MySQL) |
