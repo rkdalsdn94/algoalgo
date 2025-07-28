@@ -37,3 +37,4 @@
 | [DATETIME에서 DATE로 형 변환](https://school.programmers.co.kr/learn/courses/30/lessons/59414) | [MySQL](programmers/Lv2/DATETIME에서_DATE로_형_변환.sql) |
 | [카테고리 별 상품 개수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131529) | [MySQL](programmers/Lv2/카테고리_별_상품_개수_구하기.sql) |
 | [조건에 맞는 아이템들의 가격의 총합 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/273709) | [MySQL](programmers/Lv2/조건에_맞는_아이템들의_가격의_총합_구하기.sql) |
+| [중성화 여부 파악하기](https://school.programmers.co.kr/learn/courses/30/lessons/59409) | [MySQL](programmers/Lv2/중성화_여부_파악하기.sql) |
