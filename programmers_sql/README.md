@@ -40,3 +40,4 @@
 | [중성화 여부 파악하기](https://school.programmers.co.kr/learn/courses/30/lessons/59409) | [MySQL](programmers/Lv2/중성화_여부_파악하기.sql) |
 | [진료과별 총 예약 횟수 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/132202) | [MySQL](programmers/Lv2/진료과별_총_예약_횟수_출력하기.sql) |
 | [고양이와 개는 몇 마리 있을까](https://school.programmers.co.kr/learn/courses/30/lessons/59040) | [MySQL](programmers/Lv2/고양이와_개는_몇_마리_있을까.sql) |
+| [입양 시각 구하기 1](https://school.programmers.co.kr/learn/courses/30/lessons/59412) | [MySQL](programmers/Lv2/입양_시각_구하기_1.sql) |
