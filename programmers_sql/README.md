@@ -43,3 +43,4 @@
 | [고양이와 개는 몇 마리 있을까](https://school.programmers.co.kr/learn/courses/30/lessons/59040) | [MySQL](programmers/Lv2/고양이와_개는_몇_마리_있을까.sql) |
 | [입양 시각 구하기 1](https://school.programmers.co.kr/learn/courses/30/lessons/59412) | [MySQL](programmers/Lv2/입양_시각_구하기_1.sql) |
 | [조건에 맞는 도서와 저자 리스트 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/144854) | [MySQL](programmers/Lv2/조건에_맞는_도서와_저자_리스트_출력하기.sql) |
+| [연도 별 평균 미세먼지 농도 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/284530) | [MySQL](programmers/Lv2/연도_별_평균_미세먼지_농도_조회하기.sql) |
