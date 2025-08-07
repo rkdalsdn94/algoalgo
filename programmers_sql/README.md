@@ -22,6 +22,7 @@
 | [어린 동물 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/59037) | [MySQL](programmers/Lv1/어린_동물_찾기.sql) |
 | [나이 정보가 없는 회원 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131528) | [MySQL](programmers/Lv1/나이_정보가_없는_회원_수_구하기.sql) |
 | [잔챙이 잡은 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/293258) | [MySQL](programmers/Lv1/잔챙이_잡은_수_구하기.sql) |
+| [과일로 만든 아이스크림 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/133025) | [MySQL](programmers/Lv1/과일로_만든_아이스크림_고르기.sql) |
 
 ### Lv2
 | 문제 | 코드 (MySQL) |
