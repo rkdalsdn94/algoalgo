@@ -47,3 +47,4 @@
 | [조건에 맞는 도서와 저자 리스트 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/144854) | [MySQL](programmers/Lv2/조건에_맞는_도서와_저자_리스트_출력하기.sql) |
 | [연도 별 평균 미세먼지 농도 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/284530) | [MySQL](programmers/Lv2/연도_별_평균_미세먼지_농도_조회하기.sql) |
 | [가격대 별 상품 개수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131530) | [MySQL](programmers/Lv2/가격대_별_상품_개수_구하기.sql) |
+| [물고기 종류 별 잡은 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/293257) | [MySQL](programmers/Lv2/물고기_종류_별_잡은_수_구하기.sql) |
