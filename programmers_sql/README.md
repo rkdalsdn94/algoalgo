@@ -24,6 +24,7 @@
 | [잔챙이 잡은 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/293258) | [MySQL](programmers/Lv1/잔챙이_잡은_수_구하기.sql) |
 | [과일로 만든 아이스크림 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/133025) | [MySQL](programmers/Lv1/과일로_만든_아이스크림_고르기.sql) |
 | [평일 일일 대여 요금 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/151136) | [MySQL](programmers/Lv1/평일_일일_대여_요금_구하기.sql) |
+| [특정 옵션이 포함된 자동차 리스트 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/157343) | [MySQL](programmers/Lv1/특정_옵션이_포함된_자동차_리스트_구하기.sql) |
 
 ### Lv2
 | 문제 | 코드 (MySQL) |
