@@ -668,7 +668,8 @@
 | [효빈이의 과외 - 14680](https://www.acmicpc.net/problem/14680) | [py](Silver_4/효빈이의_과외_14680.py) |
 | [순서쌍의 곱의 합 - 13900](https://www.acmicpc.net/problem/13900) | [py](Silver_4/순서쌍의_곱의_합_13900.py) |
 | [공백왕 빈 칸 - 3518](https://www.acmicpc.net/problem/3518) | [py](Silver_4/공백왕_빈_칸_3518.py) |
-| [스위치와 램프 - 3518](https://www.acmicpc.net/problem/16960) | [py](Silver_4/스위치와_램프_3518.py) |
+| [스위치와 램프 - 16960](https://www.acmicpc.net/problem/16960) | [py](Silver_4/스위치와_램프_16960.py) |
+| [Pair Sum - 9728](https://www.acmicpc.net/problem/9728) | [py](Silver_4/Pair_Sum_9728.py) |
 
 ## Silver 3
 | 문제 | 코드 (python) | 코드 (javascript)|
