@@ -51,3 +51,4 @@
 | [가격대 별 상품 개수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131530) | [MySQL](programmers/Lv2/가격대_별_상품_개수_구하기.sql) |
 | [물고기 종류 별 잡은 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/293257) | [MySQL](programmers/Lv2/물고기_종류_별_잡은_수_구하기.sql) |
 | [월별 잡은 물고기 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/293260) | [MySQL](programmers/Lv2/월별_잡은_물고기_수_구하기.sql) |
+| [ROOT 아이템 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/273710) | [MySQL](programmers/Lv2/ROOT_아이템_구하기.sql) |
