@@ -28,6 +28,7 @@
 | [한 해에 잡은 물고기 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/298516) | [MySQL](programmers/Lv1/한_해에_잡은_물고기_수_구하기.sql) |
 | [Python 개발자 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/276013) | [MySQL](programmers/Lv1/Python_개발자_찾기.sql) |
 | [잡은 물고기 평균 길이 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/293259) | [MySQL](programmers/Lv1/잡은_물고기의_평균_길이_구하기.sql) |
+| [최댓값 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/59415) | [MySQL](programmers/Lv1/최댓값_구하기.sql) |
 
 ### Lv2
 | 문제 | 코드 (MySQL) |
