@@ -56,3 +56,4 @@
 | [월별 잡은 물고기 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/293260) | [MySQL](programmers/Lv2/월별_잡은_물고기_수_구하기.sql) |
 | [ROOT 아이템 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/273710) | [MySQL](programmers/Lv2/ROOT_아이템_구하기.sql) |
 | [루시와 엘라 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/59046) | [MySQL](programmers/Lv2/루시와_엘라_찾기.sql) |
+| [특정 물고기를 잡은 총 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/298518) | [MySQL](programmers/Lv2/특정_물고기를_잡은_총_수_구하기.sql) |
