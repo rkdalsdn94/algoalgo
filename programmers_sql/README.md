@@ -29,6 +29,7 @@
 | [Python 개발자 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/276013) | [MySQL](programmers/Lv1/Python_개발자_찾기.sql) |
 | [잡은 물고기 평균 길이 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/293259) | [MySQL](programmers/Lv1/잡은_물고기의_평균_길이_구하기.sql) |
 | [최댓값 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/59415) | [MySQL](programmers/Lv1/최댓값_구하기.sql) |
+| [자동차 대여 기록에서 장기/단기 대여 구분하기](https://school.programmers.co.kr/learn/courses/30/lessons/151138) | [MySQL](programmers/Lv1/자동차_대여_기록에서_장기/단기_대여_구분하기.sql) |
 
 ### Lv2
 | 문제 | 코드 (MySQL) |
