@@ -60,3 +60,4 @@
 | [특정 물고기를 잡은 총 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/298518) | [MySQL](programmers/Lv2/특정_물고기를_잡은_총_수_구하기.sql) |
 | [조건에 맞는 사원 정보 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/284527) | [MySQL](programmers/Lv2/조건에_맞는_사원_정보_조회하기.sql) |
 | [자동차 평균 대여 기간 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/157342) | [MySQL](programmers/Lv2/자동차_평균_대여_기간_구하기.sql) |
+| [노선별 평균 역 사이 거리 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/284531) | [MySQL](programmers/Lv2/노선별_평균_역_사이_거리_조회하기.sql) |
