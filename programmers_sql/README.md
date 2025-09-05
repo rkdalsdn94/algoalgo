@@ -64,3 +64,4 @@
 | [노선별 평균 역 사이 거리 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/284531) | [MySQL](programmers/Lv2/노선별_평균_역_사이_거리_조회하기.sql) |
 | [분기별 분화된 대장균의 개체 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/299308) | [MySQL](programmers/Lv2/분기별_분화된_대장균의_개체_수_구하기.sql) |
 | [업그레이드 된 아이템 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/273711) | [MySQL](programmers/Lv2/업그레이드_된_아이템_구하기.sql) |
+| [조건에 맞는 개발자 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/276034) | [MySQL](programmers/Lv2/조건에_맞는_개발자_찾기.sql) |
