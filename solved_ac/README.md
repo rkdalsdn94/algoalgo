@@ -518,6 +518,7 @@
 | [근무 지옥에 빠진 푸앙이 Large - 10770](https://www.acmicpc.net/problem/10770) | [py](Silver_5/근무_지옥에_빠진_푸앙이_Large_10770.py) |
 | [슥 빡 빡 슥 - 28470](https://www.acmicpc.net/problem/28470) | [py](Silver_5/슥_빡_빡_슥_28470.py) |
 | [Reverse - 26587](https://www.acmicpc.net/problem/26587) | [py](Silver_5/Reverse_26587.py) |
+| [평점 변환 - 31799](https://www.acmicpc.net/problem/31799) | [py](Silver_5/평점_변환_31799.py) |
 
 ## Silver 4
 | 문제 | 코드 (python) | 코드 (javascript)|
