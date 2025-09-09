@@ -265,6 +265,7 @@
 | [Lv2 과제 진행하기](https://school.programmers.co.kr/learn/courses/30/lessons/176962) | [py](programmers/Lv2/과제_진행하기.py) |
 | [Lv2 완전범죄](https://school.programmers.co.kr/learn/courses/30/lessons/389480) | [py](programmers/Lv2/완전범죄.py) |
 | [Lv2 비밀 코드 해독](https://school.programmers.co.kr/learn/courses/30/lessons/388352) | [py](programmers/Lv2/비밀_코드_해독.py) |
+| [Lv2 혼자서 하는 틱택토](https://school.programmers.co.kr/learn/courses/30/lessons/160585) | [py](programmers/Lv2/혼자서_하는_틱택토.py) |
 
 ### Lv3 
 | 문제 | 코드 (python) | 코드 (javascript)|
