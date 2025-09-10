@@ -198,6 +198,7 @@
 | [거울상 - 4583](https://www.acmicpc.net/problem/4583) | [py](bronze_2/거울상_4583.py) |
 | [Rock, Paper, Scissors - 4593](https://www.acmicpc.net/problem/4593) | [py](bronze_2/Rock_Paper_Scissors_4593.py) |
 | [서강의 역사를 찾아서 - 25177](https://www.acmicpc.net/problem/25177) | [py](bronze_2/서강의_역사를_찾아서.py) |
+| [자기복제수 - 2028](https://www.acmicpc.net/problem/2028) | [py](bronze_2/자기복제수.py) |
 
 ## Bronze 1
 | 문제 | 코드 (python) | 코드 (javascript)|
