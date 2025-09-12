@@ -200,6 +200,7 @@
 | [서강의 역사를 찾아서 - 25177](https://www.acmicpc.net/problem/25177) | [py](bronze_2/서강의_역사를_찾아서.py) |
 | [자기복제수 - 2028](https://www.acmicpc.net/problem/2028) | [py](bronze_2/자기복제수.py) |
 | [Peragrams - 11195](https://www.acmicpc.net/problem/11195) | [py](bronze_2/Peragrams.py) |
+| [Shorter Musical Notes](https://www.acmicpc.net/problem/6014) | [py](bronze_2/Shorter_Musical_Notes.py) |
 
 ## Bronze 1
 | 문제 | 코드 (python) | 코드 (javascript)|
