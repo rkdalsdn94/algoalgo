@@ -365,6 +365,7 @@
 | [Is the Name of This Problem - 4566](https://www.acmicpc.net/problem/4566) | [py](bronze_1/Is_the_Name_of_This_Problem_4566.py) |
 | [Router 1 - 13192](https://www.acmicpc.net/problem/13192) | [py](bronze_1/Router_1_13192.py) |
 | [소수가 아닌 수 3 - 31432](https://www.acmicpc.net/problem/31432) | [py](bronze_1/소수가_아닌_수_3_31432.py) |
+| [Simple Operations in Matrix - 21035](https://www.acmicpc.net/problem/21035) | [py](bronze_1/Simple_Operations_in_Matrix_21035.py) |
 
 ## Silver 5
 | 문제 | 코드 (python) | 코드 (javascript)|
