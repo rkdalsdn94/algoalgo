@@ -269,6 +269,7 @@
 | [Lv2 두 원 사이의 정수 쌍](https://school.programmers.co.kr/learn/courses/30/lessons/181187) | [py](programmers/Lv2/두_원_사이의_정수_쌍.py) |
 | [Lv2 N-Queen](https://school.programmers.co.kr/learn/courses/30/lessons/12952) | [py](programmers/Lv2/N-Queen.py) |
 | [Lv2 요격 시스템](https://school.programmers.co.kr/learn/courses/30/lessons/181188) | [py](programmers/Lv2/요격_시스템.py) |
+| [Lv2 숫자 블록](https://school.programmers.co.kr/learn/courses/30/lessons/12923) | [py](programmers/Lv2/숫자_블록.py) |
 
 ### Lv3 
 | 문제 | 코드 (python) | 코드 (javascript)|
