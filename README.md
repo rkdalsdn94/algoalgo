@@ -271,6 +271,7 @@
 | [Lv2 요격 시스템](https://school.programmers.co.kr/learn/courses/30/lessons/181188) | [py](programmers/Lv2/요격_시스템.py) |
 | [Lv2 숫자 블록](https://school.programmers.co.kr/learn/courses/30/lessons/12923) | [py](programmers/Lv2/숫자_블록.py) |
 | [Lv2 혼자 놀기의 달인](https://school.programmers.co.kr/learn/courses/30/lessons/131130) | [py](programmers/Lv2/혼자_놀기의_달인.py) |
+| [Lv2 양궁대회](https://school.programmers.co.kr/learn/courses/30/lessons/92342) | [py](programmers/Lv2/양궁대회.py) |
 
 ### Lv3 
 | 문제 | 코드 (python) | 코드 (javascript)|
