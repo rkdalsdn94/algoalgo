@@ -272,6 +272,7 @@
 | [Lv2 숫자 블록](https://school.programmers.co.kr/learn/courses/30/lessons/12923) | [py](programmers/Lv2/숫자_블록.py) |
 | [Lv2 혼자 놀기의 달인](https://school.programmers.co.kr/learn/courses/30/lessons/131130) | [py](programmers/Lv2/혼자_놀기의_달인.py) |
 | [Lv2 양궁대회](https://school.programmers.co.kr/learn/courses/30/lessons/92342) | [py](programmers/Lv2/양궁대회.py) |
+| [Lv2 택배 배달과 수거하기](https://school.programmers.co.kr/learn/courses/30/lessons/150369) | [py](programmers/Lv2/택배_배달과_수거하기.py) |
 
 ### Lv3 
 | 문제 | 코드 (python) | 코드 (javascript)|
