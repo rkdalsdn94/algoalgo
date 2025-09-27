@@ -202,6 +202,7 @@
 | [Peragrams - 11195](https://www.acmicpc.net/problem/11195) | [py](bronze_2/Peragrams.py) |
 | [Shorter Musical Notes](https://www.acmicpc.net/problem/6014) | [py](bronze_2/Shorter_Musical_Notes.py) |
 | [우리 집 밑에 편의점이 있는데](https://www.acmicpc.net/problem/20155) | [py](bronze_2/우리_집_밑에_편의점이_있는데.py) |
+| [시험 감독](https://www.acmicpc.net/problem/13458) | [py](bronze_2/시험_감독.py) |
 
 ## Bronze 1
 | 문제 | 코드 (python) | 코드 (javascript)|
