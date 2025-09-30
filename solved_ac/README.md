@@ -825,6 +825,7 @@
 | [Watching Mooloo - 27851](https://www.acmicpc.net/problem/27851) | [py](Silver_3/Watching_Mooloo_27851.py) |
 | [돌림판 Small - 12739](https://www.acmicpc.net/problem/12739) | [py](Silver_3/돌림판_Small_12739.py) |
 | [두 개의 배열 - 17124](https://www.acmicpc.net/problem/17124) | [py](Silver_3/두_개의_배열_17124.py) |
+| [HJS - 30046](https://www.acmicpc.net/problem/30046) | [py](Silver_3/HJS_30046.py) |
 
 ## Silver 2
 | 문제 | 코드 (python) | 코드 (javascript)|
