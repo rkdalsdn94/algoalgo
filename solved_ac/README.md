@@ -369,6 +369,7 @@
 | [소수가 아닌 수 3 - 31432](https://www.acmicpc.net/problem/31432) | [py](bronze_1/소수가_아닌_수_3_31432.py) |
 | [Simple Operations in Matrix - 21035](https://www.acmicpc.net/problem/21035) | [py](bronze_1/Simple_Operations_in_Matrix_21035.py) |
 | [골드 러시 - 10275](https://www.acmicpc.net/problem/10275) | [py](bronze_1/골드_러시_10275.py) |
+| [Game - 21623](https://www.acmicpc.net/problem/21623) | [py](bronze_1/Game_21623.py) |
 
 ## Silver 5
 | 문제 | 코드 (python) | 코드 (javascript)|
