@@ -2,22 +2,31 @@
 """
 완전 탐색, 많은 조건 분기
 
+시간 초과 해결
+
 [핵심 아이디어]
     H, J, S에 1~9 중 서로 다른 3개 숫자를 할당하는 경우의 수는 9P3 = 504가지
-    문자열이 최대 30만 길이이므로 정수 변환 불가 → 숫자 리스트로 변환 후 비교
-    파이썬 리스트 비교는 lexicographic order로 동작하여 숫자 대소 비교와 동일
+    P < Q를 만족하려면 처음 다른 문자가 나오는 위치에서 P[i] < Q[i]여야 함
+    → 제약 조건을 미리 수집한 후, 이를 만족하는 순열만 확인
 
 [풀이 과정]
-    1. permutations로 1~9 중 3개를 선택하는 모든 순열 생성 (504가지)
-    2. 각 순열에 대해:
-       - H, J, S에 숫자 할당
-       - P, Q, R을 숫자 리스트로 변환
-       - 리스트 비교로 p < q < r 확인 (lexicographic order)
-    3. 하나라도 조건 만족 시 "HJS! HJS! HJS!" 출력
-
+    1. P와 Q를 비교해 처음 다른 문자 위치의 제약 조건 수집 (c1 < c2)
+    2. Q와 R을 비교해 처음 다른 문자 위치의 제약 조건 수집 (c3 < c4)
+    3. 504개 순열 중 두 제약 조건을 모두 만족하는 것이 있는지 O(1) 확인
+    4. 하나라도 만족하면 "HJS! HJS! HJS!" 출력
 """
 
 from itertools import permutations
+
+def get_constraint(s1, s2):
+    """
+    s1 < s2를 만족하기 위한 제약 조건 반환
+    처음으로 다른 문자가 나오는 위치에서 s1[i] < s2[i]여야 함
+    """
+    for i in range(len(s1)):
+        if s1[i] != s2[i]:
+            return s1[i], s2[i]  # (c1, c2) → c1 < c2여야 함
+    return None  # 완전히 같은 경우 (조건 만족 불가)
 
 n = int(input())
 p = input().strip()
@@ -34,26 +43,29 @@ r = input().strip()
 # q = 'HHJHHJHJJS'
 # r = 'HHJSHJHJSJ' # Hmm...
 
-# H, J, S에 1~9 중 3개를 할당하는 모든 경우의 수 (9P3 = 504가지)
-found = False
-for perm in permutations(range(1, 10), 3):
-    h, j, s = perm
+# P < Q를 위한 제약 조건
+constraint_pq = get_constraint(p, q)
+# Q < R을 위한 제약 조건
+constraint_qr = get_constraint(q, r)
 
-    # 문자를 숫자로 매핑
-    mapping = {'H': h, 'J': j, 'S': s}
-
-    # P, Q, R을 숫자 리스트로 변환
-    p_num = [mapping[c] for c in p]
-    q_num = [mapping[c] for c in q]
-    r_num = [mapping[c] for c in r]
-
-    # 리스트 비교 (lexicographic order)로 p < q < r 확인
-    # [4,7,9] < [7,4,9]는 첫 번째 자리에서 4 < 7이므로 True
-    if p_num < q_num < r_num:
-        found = True
-        break
-
-if found:
-    print("HJS! HJS! HJS!")
-else:
+# 제약 조건이 없으면 (완전히 같으면) 조건 만족 불가
+if constraint_pq is None or constraint_qr is None:
     print("Hmm...")
+else:
+    found = False
+    c1, c2 = constraint_pq  # c1 < c2여야 함
+    c3, c4 = constraint_qr  # c3 < c4여야 함
+
+    # 504개 순열 중 두 제약 조건을 모두 만족하는 것 찾기
+    for perm in permutations(range(1, 10), 3):
+        mapping = {'H': perm[0], 'J': perm[1], 'S': perm[2]}
+
+        # 두 제약 조건을 모두 만족하는지 O(1) 확인
+        if mapping[c1] < mapping[c2] and mapping[c3] < mapping[c4]:
+            found = True
+            break
+
+    if found:
+        print("HJS! HJS! HJS!")
+    else:
+        print("Hmm...")
