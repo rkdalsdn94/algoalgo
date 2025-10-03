@@ -274,6 +274,7 @@
 | [Lv2 양궁대회](https://school.programmers.co.kr/learn/courses/30/lessons/92342) | [py](programmers/Lv2/양궁대회.py) |
 | [Lv2 택배 배달과 수거하기](https://school.programmers.co.kr/learn/courses/30/lessons/150369) | [py](programmers/Lv2/택배_배달과_수거하기.py) |
 | [Lv2 교점에 별 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/87377) | [py](programmers/Lv2/교점에_별_만들기.py) |
+| [Lv2 충돌위험 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/340211) | [py](programmers/Lv2/충돌위험_찾기.py) |
 
 ### Lv3 
 | 문제 | 코드 (python) | 코드 (javascript)|
