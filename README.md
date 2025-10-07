@@ -308,6 +308,7 @@
 | [Lv3. 아이템 줍기](https://programmers.co.kr/learn/courses/30/lessons/87694) | [py](programmers/Lv3/아이템_줍기.py)|
 | [Lv3. 불량 사용자](https://programmers.co.kr/learn/courses/30/lessons/64064) | [py](programmers/Lv3/불량_사용자.py)|
 | [Lv3. 가장 긴 팰린드롬](https://programmers.co.kr/learn/courses/30/lessons/12904) | [py](programmers/Lv3/가장_긴_팰린드롬.py)|
+| [Lv3. 셔틀버스](https://programmers.co.kr/learn/courses/30/lessons/17678) | [py](programmers/Lv3/셔틀버스.py)|
 
 ### LV4
 |                                  문제                                   |            코드 (python)            | 코드 (javascript) |
