@@ -67,3 +67,8 @@
 | [조건에 맞는 개발자 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/276034) | [MySQL](programmers/Lv2/조건에_맞는_개발자_찾기.sql) |
 | [연도별 대장균 크기의 편차 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/299310) | [MySQL](programmers/Lv2/연도별_대장균_크기의_편차_구하기.sql) |
 | [부모의 형질을 모두 가지는 대장균 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/301647) | [MySQL](programmers/Lv2/부모의_형질을_모두_가지는_대장균_찾기.sql) |
+
+### Lv3
+| 문제 | 코드 (MySQL) |
+| :-------------: |:-------------: |
+| [카테고리 별 도서 판매량 집계하기](https://school.programmers.co.kr/learn/courses/30/lessons/144855) | [MySQL](programmers/Lv3/카테고리_별_도서_판매량_집계하기.sql) |
