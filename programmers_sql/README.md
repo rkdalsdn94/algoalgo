@@ -74,3 +74,4 @@
 | [카테고리 별 도서 판매량 집계하기](https://school.programmers.co.kr/learn/courses/30/lessons/144855) | [MySQL](programmers/Lv3/카테고리_별_도서_판매량_집계하기.sql) |
 | [조건별로 분류하여 주문상태 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131113) | [MySQL](programmers/Lv3/조건별로_분류하여_주문상태_출력하기.sql) |
 | [오랜 기간 보호한 동물 1](https://school.programmers.co.kr/learn/courses/30/lessons/59044) | [MySQL](programmers/Lv3/오랜_기간_보호한_동물_1.sql) |
+| [대여 기록이 존재하는 자동차 리스트 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/157341) | [MySQL](programmers/Lv3/대여_기록이_존재하는_자동차_리스트_구하기.sql) |
