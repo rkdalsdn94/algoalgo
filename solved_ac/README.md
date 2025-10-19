@@ -372,6 +372,7 @@
 | [Game - 21623](https://www.acmicpc.net/problem/21623) | [py](bronze_1/Game_21623.py) |
 | [Magic Squares - 10177](https://www.acmicpc.net/problem/10177) | [py](bronze_1/Magic_Squares_10177.py) |
 | [Take Your Vitamins - 4749](https://www.acmicpc.net/problem/4749) | [py](bronze_1/Take_Your_Vitamins_4749.py) |
+| [Arbiter Login](https://www.acmicpc.net/problem/4749) | [py](bronze_1/Arbiter_Login.py) |
 
 ## Silver 5
 | 문제 | 코드 (python) | 코드 (javascript)|
