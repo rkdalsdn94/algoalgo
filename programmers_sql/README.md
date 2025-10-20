@@ -79,3 +79,4 @@
 | [오랜 기간 보호한 동물 2](https://school.programmers.co.kr/learn/courses/30/lessons/59411) | [MySQL](programmers/Lv3/오랜_기간_보호한_동물_2.sql) |
 | [즐겨찾기가 가장 많은 식당 정보 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131123) | [MySQL](programmers/Lv3/즐겨찾기가_가장_많은_식당_정보_출력하기.sql) |
 | [부서별 평균 연봉 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/131123) | [MySQL](programmers/Lv3/부서별_평균_연봉_조회하기.sql) |
+| [조건에 맞는 사용자 정보 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/164670) | [MySQL](programmers/Lv3/조건에_맞는_사용자_정보_조회하기.sql) |
