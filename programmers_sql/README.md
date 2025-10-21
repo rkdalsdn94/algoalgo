@@ -80,3 +80,4 @@
 | [즐겨찾기가 가장 많은 식당 정보 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131123) | [MySQL](programmers/Lv3/즐겨찾기가_가장_많은_식당_정보_출력하기.sql) |
 | [부서별 평균 연봉 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/131123) | [MySQL](programmers/Lv3/부서별_평균_연봉_조회하기.sql) |
 | [조건에 맞는 사용자 정보 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/164670) | [MySQL](programmers/Lv3/조건에_맞는_사용자_정보_조회하기.sql) |
+| [대장균의 크기에 따라 분류하기 1](https://school.programmers.co.kr/learn/courses/30/lessons/299307) | [MySQL](programmers/Lv3/대장균의_크기에_따라_분류하기_1.sql) |
