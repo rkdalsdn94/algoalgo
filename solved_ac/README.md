@@ -373,6 +373,7 @@
 | [Magic Squares - 10177](https://www.acmicpc.net/problem/10177) | [py](bronze_1/Magic_Squares_10177.py) |
 | [Take Your Vitamins - 4749](https://www.acmicpc.net/problem/4749) | [py](bronze_1/Take_Your_Vitamins_4749.py) |
 | [Arbiter Login](https://www.acmicpc.net/problem/4749) | [py](bronze_1/Arbiter_Login.py) |
+| [Best Chance](https://www.acmicpc.net/problem/31800) | [py](bronze_1/Best_Chance.py) |
 
 ## Silver 5
 | 문제 | 코드 (python) | 코드 (javascript)|
