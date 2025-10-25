@@ -375,6 +375,7 @@
 | [Arbiter Login](https://www.acmicpc.net/problem/4749) | [py](bronze_1/Arbiter_Login.py) |
 | [Best Chance](https://www.acmicpc.net/problem/31800) | [py](bronze_1/Best_Chance.py) |
 | [마술사 이민혁](https://www.acmicpc.net/problem/3023) | [py](bronze_1/마술사_이민혁.py) |
+| [Scrolling Sign](https://www.acmicpc.net/problem/4187) | [py](bronze_1/Scrolling_Sign.py) |
 
 ## Silver 5
 | 문제 | 코드 (python) | 코드 (javascript)|
