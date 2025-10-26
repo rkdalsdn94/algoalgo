@@ -82,3 +82,4 @@
 | [조건에 맞는 사용자 정보 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/164670) | [MySQL](programmers/Lv3/조건에_맞는_사용자_정보_조회하기.sql) |
 | [대장균의 크기에 따라 분류하기 1](https://school.programmers.co.kr/learn/courses/30/lessons/299307) | [MySQL](programmers/Lv3/대장균의_크기에_따라_분류하기_1.sql) |
 | [없어진 기록 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/59042) | [MySQL](programmers/Lv3/없어진_기록_찾기.sql) |
+| [자동차 대여 기록에서 대여중 대여가능여부 구분하기](https://school.programmers.co.kr/learn/courses/30/lessons/157340) | [MySQL](programmers/Lv3/자동차_대여_기록에서_대여중_대여가능여부_구분하기.sql) |
